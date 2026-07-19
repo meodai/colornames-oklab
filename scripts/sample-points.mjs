@@ -63,6 +63,8 @@ const tierOf = (c) => (inSrgb(c) ? 'srgb' : inP3(c) ? 'p3' : 'rec2020');
 
 const toP3 = converter('p3');
 const toRec2020 = converter('rec2020');
+// culori's formatCss emits full float precision; 4 decimals is plenty
+const roundCss = (s) => s.replace(/\d+\.\d+/g, (m) => String(+(+m).toFixed(4)));
 
 const enriched = points.map((p) => {
   const lch = oklch(p);
@@ -71,8 +73,8 @@ const enriched = points.map((p) => {
     tier === 'srgb'
       ? formatHex(p)
       : tier === 'p3'
-        ? formatCss(toP3(p))
-        : formatCss(toRec2020(p));
+        ? roundCss(formatCss(toP3(p)))
+        : roundCss(formatCss(toRec2020(p)));
   return {
     tier,
     css,

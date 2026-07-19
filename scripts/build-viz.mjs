@@ -86,10 +86,10 @@ const html = `<!doctype html>
   #scrolldown:hover { color: var(--ink); border-color: var(--muted); }
   #tip {
     position: fixed; z-index: 20; pointer-events: none; display: none;
-    background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
+    background: var(--panel); border: 1px solid var(--line);
     padding: .55rem .7rem .6rem; min-width: 200px; box-shadow: 0 8px 30px #0009;
   }
-  #tip .sw { width: 100%; height: 44px; border-radius: 6px; margin-bottom: .5rem; }
+  #tip .sw { width: 100%; height: 44px; margin-bottom: .5rem; }
   #tip .nm { font-weight: 600; }
   #tip .meta { color: var(--muted); font-size: .78rem; margin-top: .15rem; font-variant-numeric: tabular-nums; }
   #tip .tier { display: inline-block; font-size: .7rem; padding: .05rem .5rem; border-radius: 999px; margin-top: .35rem; border: 1px solid var(--line); color: var(--chip-ink); }
@@ -108,7 +108,7 @@ const html = `<!doctype html>
   .lede { font-size: 1.12rem; color: var(--ink); }
   code { font: .86em ui-monospace, 'SF Mono', Menlo, monospace; background: var(--code-bg); border: 1px solid var(--code-line); border-radius: 5px; padding: .1em .35em; }
   pre {
-    background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
+    background: var(--panel); border: 1px solid var(--line);
     padding: .9rem 1.1rem; overflow-x: auto; margin: .9rem 0 1.2rem;
   }
   pre code { background: none; border: none; padding: 0; font-size: .84rem; line-height: 1.6; color: var(--code-ink); }
@@ -119,7 +119,7 @@ const html = `<!doctype html>
   td code { white-space: nowrap; }
   .tierdot { display: inline-block; width: .6em; height: .6em; border-radius: 50%; margin-right: .45em; }
   #favorites { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: .6rem; margin-top: 1.1rem; }
-  .fav { border: 1px solid var(--line); border-radius: 10px; overflow: hidden; background: var(--panel); }
+  .fav { border: 1px solid var(--line); overflow: hidden; background: var(--panel); }
   .fav .fsw { height: 52px; }
   .fav .fnm { padding: .45rem .6rem .1rem; font-size: .82rem; font-weight: 600; }
   .fav .fmeta { padding: 0 .6rem .5rem; font-size: .7rem; color: var(--faint); font-variant-numeric: tabular-nums; }
