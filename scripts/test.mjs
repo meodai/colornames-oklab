@@ -23,15 +23,45 @@ for (const e of list) {
   else seen.set(norm, e.name);
 }
 
-// 2. no word-order near-duplicates ("Coral Sunset" vs "Sunset Coral").
+// 2. near-duplicate names (approach ported from meodai/color-names tests):
+//    fold case, accents, punctuation, stopwords, plurals and word order, so
+//    "Coral Sunset"/"Sunset Coral" or "Heart Gold"/"Heart of Gold" collide.
 //    A few pairs are genuinely distinct established terms — allowlisted.
 const ALLOWED_PAIRS = new Set(['green|olive', 'apple|green', 'blue|steel']);
+const STOPWORDS = new Set(['of', 'the', 'and', 'a', 'an', 'in', 'on', 'at', 'to', 'for', 'by', 'with', 'from', 'de']);
+const singular = (w) => (w.length > 3 && w.endsWith('s') && !w.endsWith('ss') ? w.slice(0, -1) : w);
+const nameKey = (name) =>
+  name
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .replace(/[^a-z0-9]+/g, ' ')
+    .trim()
+    .split(/\s+/)
+    .filter((w) => !STOPWORDS.has(w))
+    .map(singular)
+    .sort()
+    .join('|');
 const byWords = new Map();
 for (const e of list) {
-  const key = e.name.toLowerCase().replace(/[^a-z ]/g, '').split(/\s+/).sort().join('|');
+  const key = nameKey(e.name);
   if (byWords.has(key) && !ALLOWED_PAIRS.has(key)) {
-    fail.push(`word-order duplicate: "${byWords.get(key)}" vs "${e.name}"`);
+    fail.push(`near-duplicate: "${byWords.get(key)}" vs "${e.name}"`);
   } else if (!byWords.has(key)) byWords.set(key, e.name);
+}
+
+// 2b. British English spelling (color-names house style: grey, harbour, …)
+const BRITISH = [
+  [/\bgray\b/i, 'grey'], [/\bharbor\b/i, 'harbour'], [/\bchili\b/i, 'chilli'],
+  [/\bocher\b/i, 'ochre'], [/\bsomber\b/i, 'sombre'], [/\bsulfur\b/i, 'sulphur'],
+  [/\bmoldy?\b/i, 'mould(y)'], [/\bcozy\b/i, 'cosy'], [/\bcheckered\b/i, 'chequered'],
+  [/\bdonut\b/i, 'doughnut'], [/\bjewelry\b/i, 'jewellery'], [/\bluster\b/i, 'lustre'],
+  [/\b\w*(col|hon|arm|vap|sav|splend|flav|fav|behavi|endeav|harb|neighb|rum|val|vig)or(s|ed|ing|ful|less)?\b/i, '…our'],
+];
+for (const e of list) {
+  for (const [re, brit] of BRITISH) {
+    if (re.test(e.name)) fail.push(`"${e.name}": American spelling — use ${brit}`);
+  }
 }
 
 // 3. inclusive naming — no colonial, racist, or otherwise exclusionary terms.

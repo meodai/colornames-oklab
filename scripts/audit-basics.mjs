@@ -12,7 +12,7 @@ const list = JSON.parse(
 );
 
 const BASICS = {
-  White: '#ffffff', Black: '#000000', Gray: '#808080', Silver: '#c0c0c0',
+  White: '#ffffff', Black: '#000000', Grey: '#808080', Silver: '#c0c0c0',
   Red: '#ff0000', Orange: '#ff8000', Yellow: '#ffff00', Green: '#00a000',
   Blue: '#0000ff', Purple: '#8000ff', Violet: '#7f00ff', Pink: '#ffc0cb',
   Brown: '#8b4513', Beige: '#f5f5dc', Tan: '#d2b48c', Khaki: '#c3b091',

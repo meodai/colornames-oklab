@@ -400,7 +400,7 @@
   }
  },
  {
-  "name": "Harbor",
+  "name": "Harbour",
   "tier": "srgb",
   "css": "#688081",
   "fallbackHex": "#688081",
@@ -416,7 +416,7 @@
   }
  },
  {
-  "name": "Lavender Gray",
+  "name": "Lavender Grey",
   "tier": "srgb",
   "css": "#7f7984",
   "fallbackHex": "#7f7984",
@@ -448,7 +448,7 @@
   }
  },
  {
-  "name": "Gray",
+  "name": "Grey",
   "tier": "srgb",
   "css": "#8f9293",
   "fallbackHex": "#8f9293",
@@ -464,7 +464,7 @@
   }
  },
  {
-  "name": "Rosy Gray",
+  "name": "Rosy Grey",
   "tier": "srgb",
   "css": "#a593a1",
   "fallbackHex": "#a593a1",
@@ -496,7 +496,7 @@
   }
  },
  {
-  "name": "Warm Gray",
+  "name": "Warm Grey",
   "tier": "srgb",
   "css": "#afa7a4",
   "fallbackHex": "#afa7a4",
@@ -3232,7 +3232,7 @@
   }
  },
  {
-  "name": "Chili",
+  "name": "Chilli",
   "tier": "srgb",
   "css": "#a62a15",
   "fallbackHex": "#a62a15",
@@ -13296,7 +13296,7 @@
   }
  },
  {
-  "name": "Harbor Blue",
+  "name": "Harbour Blue",
   "tier": "rec2020",
   "css": "color(rec2020 0.03668223500646314 0.3427740058137213 0.46844853168420664)",
   "fallbackHex": "#006370",
@@ -16400,7 +16400,7 @@
   }
  },
  {
-  "name": "Blue Gray",
+  "name": "Blue Grey",
   "tier": "srgb",
   "css": "#5a6d8b",
   "fallbackHex": "#5a6d8b",
@@ -16928,7 +16928,7 @@
   }
  },
  {
-  "name": "Twilight Gray",
+  "name": "Twilight Grey",
   "tier": "srgb",
   "css": "#353756",
   "fallbackHex": "#353756",
@@ -19600,7 +19600,7 @@
   }
  },
  {
-  "name": "Lilac Gray",
+  "name": "Lilac Grey",
   "tier": "srgb",
   "css": "#b9abc3",
   "fallbackHex": "#b9abc3",
@@ -24160,7 +24160,7 @@
   }
  },
  {
-  "name": "Storm Gray",
+  "name": "Storm Grey",
   "tier": "srgb",
   "css": "#424f51",
   "fallbackHex": "#424f51",
@@ -24224,7 +24224,7 @@
   }
  },
  {
-  "name": "Mauve Gray",
+  "name": "Mauve Grey",
   "tier": "srgb",
   "css": "#978697",
   "fallbackHex": "#978697",
@@ -24240,7 +24240,7 @@
   }
  },
  {
-  "name": "Cool Gray",
+  "name": "Cool Grey",
   "tier": "srgb",
   "css": "#929ea3",
   "fallbackHex": "#929ea3",
@@ -24256,7 +24256,7 @@
   }
  },
  {
-  "name": "Sage Gray",
+  "name": "Sage Grey",
   "tier": "srgb",
   "css": "#a3a991",
   "fallbackHex": "#a3a991",
@@ -24272,7 +24272,7 @@
   }
  },
  {
-  "name": "Cadet Gray",
+  "name": "Cadet Grey",
   "tier": "srgb",
   "css": "#9daab9",
   "fallbackHex": "#9daab9",
@@ -26720,7 +26720,7 @@
   }
  },
  {
-  "name": "Lichen Gray",
+  "name": "Lichen Grey",
   "tier": "srgb",
   "css": "#8b937a",
   "fallbackHex": "#8b937a",
@@ -28224,7 +28224,7 @@
   }
  },
  {
-  "name": "Gray Jade",
+  "name": "Grey Jade",
   "tier": "srgb",
   "css": "#85a397",
   "fallbackHex": "#85a397",
@@ -29296,7 +29296,7 @@
   }
  },
  {
-  "name": "Harbor Mist",
+  "name": "Harbour Mist",
   "tier": "srgb",
   "css": "#638b93",
   "fallbackHex": "#638b93",
@@ -29488,7 +29488,7 @@
   }
  },
  {
-  "name": "Deep Harbor",
+  "name": "Deep Harbour",
   "tier": "rec2020",
   "css": "color(rec2020 0.05041847041602154 0.2166160250324965 0.4113012164420409)",
   "fallbackHex": "#004863",
@@ -29840,7 +29840,7 @@
   }
  },
  {
-  "name": "Harbor Night",
+  "name": "Harbour Night",
   "tier": "p3",
   "css": "color(display-p3 0.06893997890713255 0.2887187322448485 0.5112711889798601)",
   "fallbackHex": "#004c7f",
@@ -33728,7 +33728,7 @@
   }
  },
  {
-  "name": "Charcoal Gray",
+  "name": "Charcoal Grey",
   "tier": "srgb",
   "css": "#46434c",
   "fallbackHex": "#46434c",
@@ -33744,7 +33744,7 @@
   }
  },
  {
-  "name": "Iron Gray",
+  "name": "Iron Grey",
   "tier": "srgb",
   "css": "#51545b",
   "fallbackHex": "#51545b",
@@ -33776,7 +33776,7 @@
   }
  },
  {
-  "name": "Green Gray",
+  "name": "Green Grey",
   "tier": "srgb",
   "css": "#616e65",
   "fallbackHex": "#616e65",
@@ -33792,7 +33792,7 @@
   }
  },
  {
-  "name": "Slate Gray",
+  "name": "Slate Grey",
   "tier": "srgb",
   "css": "#60757c",
   "fallbackHex": "#60757c",
@@ -33824,7 +33824,7 @@
   }
  },
  {
-  "name": "Violet Gray",
+  "name": "Violet Grey",
   "tier": "srgb",
   "css": "#8d8093",
   "fallbackHex": "#8d8093",
@@ -38160,7 +38160,7 @@
   }
  },
  {
-  "name": "Gray Moss",
+  "name": "Grey Moss",
   "tier": "srgb",
   "css": "#798f79",
   "fallbackHex": "#798f79",
@@ -39952,7 +39952,7 @@
   }
  },
  {
-  "name": "Jade Harbor",
+  "name": "Jade Harbour",
   "tier": "p3",
   "css": "color(display-p3 0.11769296840334673 0.5705930044404892 0.41525965022877814)",
   "fallbackHex": "#008f6b",
@@ -40592,7 +40592,7 @@
   }
  },
  {
-  "name": "Gray Teal",
+  "name": "Grey Teal",
   "tier": "srgb",
   "css": "#537a73",
   "fallbackHex": "#537a73",
@@ -41264,7 +41264,7 @@
   }
  },
  {
-  "name": "Harbor Teal",
+  "name": "Harbour Teal",
   "tier": "p3",
   "css": "color(display-p3 0.25693477096203976 0.5777567688684403 0.6129263186613586)",
   "fallbackHex": "#00969e",
@@ -41664,7 +41664,7 @@
   }
  },
  {
-  "name": "Harbor Slate",
+  "name": "Harbour Slate",
   "tier": "srgb",
   "css": "#294b58",
   "fallbackHex": "#294b58",
@@ -42960,7 +42960,7 @@
   }
  },
  {
-  "name": "Harbor Gray",
+  "name": "Harbour Grey",
   "tier": "srgb",
   "css": "#4f6779",
   "fallbackHex": "#4f6779",
@@ -44752,7 +44752,7 @@
   }
  },
  {
-  "name": "Gray Iris",
+  "name": "Grey Iris",
   "tier": "srgb",
   "css": "#7b7a97",
   "fallbackHex": "#7b7a97",
