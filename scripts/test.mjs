@@ -23,7 +23,18 @@ for (const e of list) {
   else seen.set(norm, e.name);
 }
 
-// 2. inclusive naming — no colonial, racist, or otherwise exclusionary terms.
+// 2. no word-order near-duplicates ("Coral Sunset" vs "Sunset Coral").
+//    A few pairs are genuinely distinct established terms — allowlisted.
+const ALLOWED_PAIRS = new Set(['green|olive', 'apple|green', 'blue|steel']);
+const byWords = new Map();
+for (const e of list) {
+  const key = e.name.toLowerCase().replace(/[^a-z ]/g, '').split(/\s+/).sort().join('|');
+  if (byWords.has(key) && !ALLOWED_PAIRS.has(key)) {
+    fail.push(`word-order duplicate: "${byWords.get(key)}" vs "${e.name}"`);
+  } else if (!byWords.has(key)) byWords.set(key, e.name);
+}
+
+// 3. inclusive naming — no colonial, racist, or otherwise exclusionary terms.
 //    Whole-word match (substrings gave "Ultra Jade" → "raj"); extend as needed.
 const DENYLIST = [
   'indian', 'oriental', 'gypsy', 'gipsy', 'squaw', 'eskimo', 'navajo', 'apache',
