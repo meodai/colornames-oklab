@@ -79,12 +79,12 @@ Everything is scripted and seeded (`scripts/`):
 
 Names live in `data/names/batch-*.json` (keyed by stable point id) with `data/names/fixes.json` applied last as an override layer.
 
-## 3D viewer
+## Project page & 3D viewer
 
-`viz/index.html` — a standalone Three.js viewer with the full dataset embedded. Orbit through the OKLab solid, hover for names (wide-gamut swatches render via CSS, so a P3 display shows the real thing), filter by tier, click to copy.
+`docs/index.html` — the project page: a standalone Three.js viewer with the full dataset embedded (orbit the OKLab solid, hover for names, filter by tier, click to copy — wide-gamut swatches render via CSS, so a P3 display shows the real thing), followed by install/usage docs. Ready for GitHub Pages (serve the `docs/` folder).
 
 ```sh
-npx serve .   # then open /viz/
+npx serve .   # then open /docs/
 ```
 
 ## License
