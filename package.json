@@ -1,0 +1,49 @@
+{
+  "name": "colornames-oklab",
+  "version": "0.1.0",
+  "description": "3000 color names blue-noise sampled over the Rec2020 gamut in OKLab — evenly spread perceptually, tiered by gamut (sRGB / Display P3 / Rec2020), named by Claude Fable 5.",
+  "license": "MIT",
+  "author": "meodai",
+  "main": "index.cjs",
+  "exports": {
+    ".": {
+      "import": "./index.mjs",
+      "require": "./index.cjs",
+      "default": "./index.cjs"
+    },
+    "./colornames-oklab.json": "./colornames-oklab.json"
+  },
+  "files": [
+    "colornames-oklab.json",
+    "index.cjs",
+    "index.mjs",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "color",
+    "colors",
+    "color-names",
+    "oklab",
+    "oklch",
+    "wide-gamut",
+    "display-p3",
+    "rec2020",
+    "blue-noise",
+    "palette"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meodai/colornames-oklab.git"
+  },
+  "scripts": {
+    "sample": "node scripts/sample-points.mjs",
+    "sample:more": "node scripts/sample-more.mjs",
+    "worksheet": "node scripts/make-worksheet.mjs",
+    "build": "node scripts/merge-names.mjs && node scripts/audit-basics.mjs && node scripts/build-viz.mjs",
+    "validate": "node scripts/merge-names.mjs && node scripts/audit-basics.mjs"
+  },
+  "devDependencies": {
+    "culori": "^4.0.2"
+  }
+}
