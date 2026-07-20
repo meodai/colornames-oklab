@@ -3,9 +3,22 @@
  * (data embedded, standalone) plus about / install / usage sections.
  */
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { toGamut } from 'culori';
 
 const data = readFileSync(new URL('../colornames-oklab.json', import.meta.url), 'utf8');
 const parsed = JSON.parse(data);
+
+// Rec2020-only points can't be shown exactly, even on P3 displays. Map them
+// into P3 perceptually (CSS4 algorithm, chroma reduced in OKLCH, hue kept)
+// instead of clipping channels, and embed the results for the viewer.
+const mapP3 = toGamut('p3', 'oklch');
+const p3map = {};
+parsed.forEach((e, i) => {
+  if (e.tier === 'rec2020') {
+    const c = mapP3({ mode: 'oklab', ...e.oklab });
+    p3map[i] = [c.r, c.g, c.b].map((v) => +Math.min(1, Math.max(0, v)).toFixed(4));
+  }
+});
 const COUNT = parsed.length;
 const TIER_COUNTS = parsed.reduce((m, c) => ((m[c.tier] = (m[c.tier] ?? 0) + 1), m), {});
 
@@ -222,6 +235,7 @@ el.style.background = c.css;         <span class="c">// browsers keep the wide-g
 } }
 </script>
 <script id="data" type="application/json">__DATA__</script>
+<script id="p3map" type="application/json">__P3MAP__</script>
 <script type="module">
 import * as THREE from 'three';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
@@ -336,11 +350,6 @@ const S2X = [
   [0.21263900587151027, 0.715168678767756, 0.07219231536073371],
   [0.01933081871559182, 0.11919477979462598, 0.9505321522496607],
 ];
-const R2X = [
-  [0.6369580483012914, 0.14461690358620832, 0.16888097516417205],
-  [0.2627002120112671, 0.6779980715188708, 0.05930171646986196],
-  [0, 0.028072693049087428, 1.060985057710791],
-];
 const X2P = [
   [2.493496911941425, -0.9313836179191239, -0.40271078445071684],
   [-0.8294889695615747, 1.7626640603183463, 0.023624685841943577],
@@ -348,28 +357,25 @@ const X2P = [
 ];
 const mulM = (M, v) => M.map((r) => r[0] * v[0] + r[1] * v[1] + r[2] * v[2]);
 const srgbDecode = (e) => (e <= 0.04045 ? e / 12.92 : Math.pow((e + 0.055) / 1.055, 2.4));
-const rec2020Decode = (e) => {
-  const a = 1.09929682680944, b = 0.018053968510807;
-  return e < b * 4.5 ? e / 4.5 : Math.pow((e + a - 1) / a, 1 / 0.45);
-};
 const srgbEncode = (x) => (x <= 0.0031308 ? 12.92 * x : 1.055 * Math.pow(Math.max(x, 0), 1 / 2.4) - 0.055);
 const clamp01 = (x) => Math.min(1, Math.max(0, x));
 const hexToRgb = (hex) => [1, 3, 5].map((i) => parseInt(hex.slice(i, i + 2), 16) / 255);
 const toP3 = (M, lin) => mulM(X2P, mulM(M, lin)).map((x) => clamp01(srgbEncode(x)));
 // display-ready RGB for the drawing buffer: real P3 / converted sRGB+Rec2020
 // on wide-gamut displays, OKLCH-clamped sRGB fallback everywhere else
-const pointColor = (c) => {
+const P3MAP = JSON.parse(document.getElementById('p3map').textContent);
+const pointColor = (c, i) => {
   if (!P3_OK) return hexToRgb(c.fallbackHex);
   if (c.tier === 'srgb') return toP3(S2X, hexToRgb(c.css).map(srgbDecode));
   if (c.tier === 'p3') return c.css.slice(17, -1).trim().split(' ').map(Number).map(clamp01);
-  return toP3(R2X, c.css.slice(14, -1).trim().split(' ').map(Number).map(rec2020Decode));
+  return P3MAP[i]; // rec2020: perceptually mapped into P3 at build time
 };
 const positions = new Float32Array(COLORS.length * 3);
 const colors = new Float32Array(COLORS.length * 3);
 COLORS.forEach((c, i) => {
   const v = pos(c);
   positions.set([v.x, v.y, v.z], i * 3);
-  colors.set(pointColor(c), i * 3);
+  colors.set(pointColor(c, i), i * 3);
 });
 const geo = new THREE.BufferGeometry();
 geo.setAttribute('position', new THREE.BufferAttribute(positions, 3));
@@ -539,5 +545,8 @@ FAVES.forEach((n) => {
 </html>`;
 
 mkdirSync(new URL('../docs/', import.meta.url), { recursive: true });
-writeFileSync(new URL('../docs/index.html', import.meta.url), html.replace('__DATA__', () => data));
+writeFileSync(
+  new URL('../docs/index.html', import.meta.url),
+  html.replace('__DATA__', () => data).replace('__P3MAP__', () => JSON.stringify(p3map))
+);
 console.log(`wrote docs/index.html (${COUNT} colors)`);
