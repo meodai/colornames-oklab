@@ -3249,30 +3249,755 @@
     "description": "The bog shrub that scents Highland air and repels Highland midges — olive-gold.",
     "source": "authored"
   },
+  "1650": {
+    "name": "Lentil",
+    "description": "The humble pulse in khaki-green — soup's workhorse legume.",
+    "source": "authored"
+  },
+  "1651": {
+    "name": "Matcha Latte",
+    "description": "Stone-ground tea folded into steamed milk — jade froth over sage.",
+    "source": "authored"
+  },
+  "1652": {
+    "name": "Tisane",
+    "description": "The herbal infusion in its pale gold-green virtue.",
+    "source": "authored"
+  },
+  "1653": {
+    "name": "Sour Lime",
+    "description": "Lime with the sugar withheld.",
+    "source": "authored"
+  },
+  "1654": {
+    "name": "Wild Lime",
+    "description": "Lime that jumped the garden fence.",
+    "source": "authored"
+  },
+  "1655": {
+    "name": "Chrysalis",
+    "description": "The gold-flecked green case where a caterpillar files its paperwork for wings.",
+    "source": "authored"
+  },
+  "1656": {
+    "name": "Bumblebee",
+    "description": "The fuzzy commuter of the flowerbeds — yellow-and-black, aerodynamically improbable.",
+    "source": "authored"
+  },
+  "1657": {
+    "name": "Highlighter Yellow",
+    "description": "The yellow marker that invented modern revision.",
+    "source": "authored"
+  },
+  "1658": {
+    "name": "Glowstick",
+    "description": "Snap, shake, and twelve hours of chemical yellow-green.",
+    "source": "authored"
+  },
+  "1659": {
+    "name": "Lemon Curd",
+    "description": "Lemon cooked into spreadable sunshine — sharp under the sweetness.",
+    "source": "authored"
+  },
+  "1660": {
+    "name": "Green Ooze",
+    "description": "The cartoon barrel's contents, mid-drip.",
+    "source": "authored"
+  },
+  "1661": {
+    "name": "Lemon Chiffon",
+    "description": "The X11 pastel named for the airiest lemon dessert.",
+    "source": "authored"
+  },
+  "1662": {
+    "name": "Black Forest",
+    "description": "The German forest of fairy tales — dark spruce, darker gateau.",
+    "source": "authored"
+  },
+  "1663": {
+    "name": "Dark Juniper",
+    "description": "Juniper at the shaded end of the moor.",
+    "source": "authored"
+  },
+  "1664": {
+    "name": "Cedar Green",
+    "description": "Cedar boughs in their blue-green service.",
+    "source": "authored"
+  },
+  "1665": {
+    "name": "Trellis",
+    "description": "The lattice the roses are trained to — garden architecture in green.",
+    "source": "authored"
+  },
+  "1666": {
+    "name": "Pesto",
+    "description": "Basil, pine nuts, parmesan and a mortar — Genoa's green export.",
+    "source": "authored"
+  },
+  "1667": {
+    "name": "Banana Leaf",
+    "description": "The plate, the wrap and the roof of tropical kitchens — a leaf big enough to serve on.",
+    "source": "authored"
+  },
+  "1668": {
+    "name": "Kale",
+    "description": "The leafy brassica of virtuous salads and hardy allotments.",
+    "source": "authored"
+  },
+  "1669": {
+    "name": "Lawnmower",
+    "description": "Sunday morning's green apology to the neighbours.",
+    "source": "authored"
+  },
+  "1670": {
+    "name": "Lichen Grey",
+    "description": "Lichen on the north face — grey-green survival.",
+    "source": "authored"
+  },
+  "1671": {
+    "name": "Cricket",
+    "description": "The insect metronome of summer evenings — leaf-green and relentless.",
+    "source": "authored"
+  },
+  "1672": {
+    "name": "June Bud",
+    "description": "June's new buds — the year's freshest green appointment.",
+    "source": "authored"
+  },
+  "1673": {
+    "name": "Salad Bar",
+    "description": "All you can assemble — greens by the tong-load.",
+    "source": "authored"
+  },
+  "1674": {
+    "name": "Spring Roll",
+    "description": "Rice paper around pale green crunch — dipping sauce mandatory.",
+    "source": "authored"
+  },
+  "1675": {
+    "name": "Sunny Lime",
+    "description": "Lime with a beach towel.",
+    "source": "authored"
+  },
+  "1676": {
+    "name": "Flubber",
+    "description": "The flying rubber of the absent-minded professor — green with unpredictable bounce.",
+    "source": "authored"
+  },
+  "1677": {
+    "name": "Sencha",
+    "description": "The everyday Japanese green tea — steamed leaves, pale gold-green cup.",
+    "source": "authored"
+  },
+  "1678": {
+    "name": "Volt",
+    "description": "Electricity's unit, dressed in charge-warning green.",
+    "source": "authored"
+  },
+  "1679": {
+    "name": "Deep Woods",
+    "description": "Past the last blaze mark — green going quiet.",
+    "source": "authored"
+  },
+  "1680": {
+    "name": "Melancholia",
+    "description": "Dürer's engraving and the mood — dark green study included.",
+    "source": "authored"
+  },
+  "1681": {
+    "name": "Forbidden Forest",
+    "description": "The Hogwarts tree line students are told to avoid — so, naturally, a plot destination.",
+    "source": "authored"
+  },
+  "1682": {
+    "name": "English Ivy",
+    "description": "The ivy of collegiate walls — climbing towards tenure.",
+    "source": "authored"
+  },
+  "1683": {
+    "name": "Paddock",
+    "description": "The fenced green where horses hold their meetings.",
+    "source": "authored"
+  },
   "1684": {
     "name": "Forest",
-    "description": "A forest is an ecosystem characterized by a dense community of trees. Hundreds of definitions of forest are used throughout the world, incorporating factors such as tree density, tree height, land use, legal standing, and ecological function.",
-    "source": "wikipedia"
+    "description": "Trees in bulk — the green that covers a third of the land.",
+    "source": "authored"
+  },
+  "1685": {
+    "name": "Stem Green",
+    "description": "The green of the stem doing the unglamorous plumbing.",
+    "source": "authored"
+  },
+  "1686": {
+    "name": "Garden Moss",
+    "description": "Moss where the garden keeps its shade.",
+    "source": "authored"
+  },
+  "1687": {
+    "name": "Tree Frog",
+    "description": "The suction-cupped chorus of rainy nights — green with a grip.",
+    "source": "authored"
+  },
+  "1688": {
+    "name": "Scarab",
+    "description": "The dung beetle Egypt promoted to sacred — green with iridescent job security.",
+    "source": "authored"
   },
   "1689": {
     "name": "Leaf",
-    "description": "A leaf is a principal appendage of the stem of a vascular plant, usually borne laterally above ground and specialized for photosynthesis. Leaves are collectively called foliage, as in \"autumn foliage\", while the leaves, stem, flower, and fruit collectively form the shoot system.",
-    "source": "wikipedia"
+    "description": "One leaf, canonical green.",
+    "source": "authored"
+  },
+  "1690": {
+    "name": "Vivid Kelly",
+    "description": "Kelly green with the saturation dial pinned.",
+    "source": "authored"
+  },
+  "1691": {
+    "name": "Green Bolt",
+    "description": "Green delivered at storm speed.",
+    "source": "authored"
+  },
+  "1692": {
+    "name": "Green Goblin",
+    "description": "The pumpkin-bombing villain in the green suit — Spider-Man's worst recurring appointment.",
+    "source": "authored"
+  },
+  "1693": {
+    "name": "Frog on a Log",
+    "description": "The classic snack of celery, peanut butter and raisins — or just an amphibian on furniture.",
+    "source": "authored"
+  },
+  "1694": {
+    "name": "Parsley",
+    "description": "The garnish that outlives the meal — chopped green punctuation.",
+    "source": "authored"
+  },
+  "1695": {
+    "name": "Lucky Clover",
+    "description": "The four-leafed statistical anomaly — one in five thousand, all green.",
+    "source": "authored"
   },
   "1696": {
     "name": "Lettuce",
-    "description": "An annual plant of the family Asteraceae mostly grown as a leaf vegetable. The leaves are most often used raw in green salads, although lettuce is also seen in other kinds of food, such as sandwiches, wraps and soups; it can also be grilled.",
-    "source": "wikipedia"
+    "description": "The salad's structural green — crisp, mild, load-bearing.",
+    "source": "authored"
+  },
+  "1697": {
+    "name": "Green Priestess",
+    "description": "Robes of ivy, sermons of moss — the green order's highest office.",
+    "source": "authored"
+  },
+  "1698": {
+    "name": "Picnic",
+    "description": "A blanket, a basket, and grass doing the seating.",
+    "source": "authored"
+  },
+  "1699": {
+    "name": "Apex Green",
+    "description": "Green at the top of the food chain.",
+    "source": "authored"
+  },
+  "1700": {
+    "name": "Radiant Hulk",
+    "description": "The gamma giant mid-smash — green at maximum anger.",
+    "source": "authored"
+  },
+  "1701": {
+    "name": "Gecko",
+    "description": "The wall-walking lizard of warm evenings — green with sticky feet.",
+    "source": "authored"
+  },
+  "1702": {
+    "name": "Budding Green",
+    "description": "Green at the first hint of itself.",
+    "source": "authored"
+  },
+  "1703": {
+    "name": "Lime It or Leave It",
+    "description": "The ultimatum in citrus — lime, take it or leave it.",
+    "source": "authored"
+  },
+  "1704": {
+    "name": "Cathode Green",
+    "description": "The phosphor green of terminal screens — cursor blinking since 1978.",
+    "source": "authored"
+  },
+  "1705": {
+    "name": "Ultra Mint",
+    "description": "Mint beyond mint — the herb's platonic ideal.",
+    "source": "authored"
+  },
+  "1706": {
+    "name": "Nursery",
+    "description": "Rows of seedlings under glass — green in its infancy.",
+    "source": "authored"
+  },
+  "1707": {
+    "name": "Cotyledon",
+    "description": "The seed's first two leaves — botany's opening statement.",
+    "source": "authored"
+  },
+  "1708": {
+    "name": "Hornworm",
+    "description": "The tomato plant's enormous green tenant — gardeners' nemesis, moth-to-be.",
+    "source": "authored"
+  },
+  "1709": {
+    "name": "Boreal",
+    "description": "The great northern forest belt — green stretching across three continents.",
+    "source": "authored"
+  },
+  "1710": {
+    "name": "Emerald Forest",
+    "description": "Forest with an emerald deed.",
+    "source": "authored"
+  },
+  "1711": {
+    "name": "Kakapo",
+    "description": "The flightless nocturnal parrot of New Zealand — moss-green, critically endeared.",
+    "source": "authored"
+  },
+  "1712": {
+    "name": "Liana",
+    "description": "The jungle vine Tarzan commutes by.",
+    "source": "authored"
+  },
+  "1713": {
+    "name": "Enchanted Glen",
+    "description": "A clearing that seems lit from within — green with a rumour of magic.",
+    "source": "authored"
+  },
+  "1714": {
+    "name": "Fir",
+    "description": "The needle green of the tree that hosts December.",
+    "source": "authored"
+  },
+  "1715": {
+    "name": "Connemara",
+    "description": "The stone-walled green of Ireland's wild west coast.",
+    "source": "authored"
+  },
+  "1716": {
+    "name": "Broccoflower",
+    "description": "The broccoli-cauliflower hybrid in fractal green — yes, it's real, yes, it's this colour.",
+    "source": "authored"
+  },
+  "1717": {
+    "name": "Verdant Green",
+    "description": "Green in full flourish.",
+    "source": "authored"
+  },
+  "1718": {
+    "name": "Center Field",
+    "description": "The deepest grass in the park — where the long balls land.",
+    "source": "authored"
+  },
+  "1719": {
+    "name": "Emerald Coast",
+    "description": "The coast named for its water — emerald by the postcard-load.",
+    "source": "authored"
+  },
+  "1720": {
+    "name": "Vinho Verde",
+    "description": "Portugal's young green wine — slightly fizzy, faintly this colour, entirely summer.",
+    "source": "authored"
+  },
+  "1721": {
+    "name": "Militant Vegan",
+    "description": "Green at protest volume — no leather, no compromise.",
+    "source": "authored"
+  },
+  "1722": {
+    "name": "Verdite",
+    "description": "The green South African stone carved into curios.",
+    "source": "authored"
+  },
+  "1723": {
+    "name": "Lucky Charm",
+    "description": "The horseshoe, the clover, the marshmallow cereal — luck in green.",
+    "source": "authored"
+  },
+  "1724": {
+    "name": "Bay Leaf",
+    "description": "The stiff aromatic leaf fished out of every stew.",
+    "source": "authored"
+  },
+  "1725": {
+    "name": "Devil’s Grass",
+    "description": "Grass the devil seeded — twitch by name, invasive by nature.",
+    "source": "authored"
+  },
+  "1726": {
+    "name": "Island Jade",
+    "description": "Jade on island time.",
+    "source": "authored"
+  },
+  "1727": {
+    "name": "Fennel Fiesta",
+    "description": "The aniseed fronds staging a takeover of the herb bed.",
+    "source": "authored"
+  },
+  "1728": {
+    "name": "Hammock",
+    "description": "Two trees, one net, zero plans.",
+    "source": "authored"
+  },
+  "1729": {
+    "name": "Circuit Board",
+    "description": "The solder-masked green of every PCB — electronics' default landscape.",
+    "source": "authored"
+  },
+  "1730": {
+    "name": "Fairway",
+    "description": "The mown corridor between tee and green — keep left of the rough.",
+    "source": "authored"
+  },
+  "1731": {
+    "name": "Green Fairy",
+    "description": "Absinthe's hallucinatory mascot — la fée verte herself.",
+    "source": "authored"
+  },
+  "1732": {
+    "name": "Malachite Flash",
+    "description": "Malachite catching the light mid-band.",
+    "source": "authored"
+  },
+  "1733": {
+    "name": "Fiddlehead",
+    "description": "The young fern coiled like a violin scroll — spring's green spiral, briefly edible.",
+    "source": "authored"
+  },
+  "1734": {
+    "name": "Creme de Menthe",
+    "description": "The mint liqueur of grasshopper cocktails and after-dinner regret.",
+    "source": "authored"
+  },
+  "1735": {
+    "name": "Lettuce Entertain You",
+    "description": "The salad bar's lounge act — romaine applause, please.",
+    "source": "authored"
   },
   "1736": {
     "name": "Alexandrite",
-    "description": "The mineral or gemstone chrysoberyl is an aluminate of beryllium with the formula Be Al2O4. The name chrysoberyl is derived from the Greek words χρυσός chrysos and βήρυλλος beryllos, meaning \"a gold-white spar\".",
-    "source": "wikipedia"
+    "description": "The gem that changes colour with the light — green by day, red by candlelight, priced accordingly.",
+    "source": "authored"
+  },
+  "1737": {
+    "name": "Aurora Australis",
+    "description": "The southern lights — the aurora with fewer witnesses and better modesty.",
+    "source": "authored"
+  },
+  "1738": {
+    "name": "Island Breeze",
+    "description": "Palm shade travelling on a sea wind.",
+    "source": "authored"
+  },
+  "1739": {
+    "name": "Lorikeet",
+    "description": "The rainbow parrot mob of Australian gardens — this is the green section.",
+    "source": "authored"
+  },
+  "1740": {
+    "name": "Sea Sprite",
+    "description": "A sprite of the shallows — green with fins.",
+    "source": "authored"
+  },
+  "1741": {
+    "name": "Jade Plant",
+    "description": "The succulent that thrives on windowsill neglect — jade leaves, money-tree promises.",
+    "source": "authored"
+  },
+  "1742": {
+    "name": "Atoll",
+    "description": "The coral ring holding a lagoon — green rim, turquoise centre.",
+    "source": "authored"
+  },
+  "1743": {
+    "name": "Impossible Jade",
+    "description": "Jade your monitor can only gesture at — wide gamut required.",
+    "source": "authored"
+  },
+  "1744": {
+    "name": "Chameleon",
+    "description": "The lizard that redecorates itself — green being its calmest opinion.",
+    "source": "authored"
+  },
+  "1745": {
+    "name": "Peppermint",
+    "description": "The candy-cane mint — green in its brightest breath.",
+    "source": "authored"
+  },
+  "1746": {
+    "name": "Cenote",
+    "description": "The limestone sinkhole pools of the Yucatán — sacred to the Maya, impossibly clear.",
+    "source": "authored"
+  },
+  "1747": {
+    "name": "Beach Hut",
+    "description": "The seaside changing hut in mint stripes — one deckchair deep.",
+    "source": "authored"
+  },
+  "1748": {
+    "name": "Blackwater Green",
+    "description": "Water stained dark by peat and patience.",
+    "source": "authored"
+  },
+  "1749": {
+    "name": "Pitch-Black Forests",
+    "description": "Forests plural, blackness singular.",
+    "source": "authored"
+  },
+  "1750": {
+    "name": "Dark Viridian",
+    "description": "Viridian in the cellar.",
+    "source": "authored"
+  },
+  "1751": {
+    "name": "Aspidistra",
+    "description": "The unkillable parlour palm of Victorian aspidistra flats — cast-iron green.",
+    "source": "authored"
+  },
+  "1752": {
+    "name": "Rainforest Canopy",
+    "description": "The rainforest's green roof — where most of the residents actually live.",
+    "source": "authored"
+  },
+  "1753": {
+    "name": "Jungle Gym",
+    "description": "Painted steel geometry over woodchips — playground green.",
+    "source": "authored"
+  },
+  "1754": {
+    "name": "Tea Ceremony",
+    "description": "Matcha whisked in silence — green with etiquette.",
+    "source": "authored"
+  },
+  "1755": {
+    "name": "Pool Table",
+    "description": "Six pockets of green felt and one unlikely angle.",
+    "source": "authored"
+  },
+  "1756": {
+    "name": "Muted Jade",
+    "description": "Jade with its voice lowered.",
+    "source": "authored"
+  },
+  "1757": {
+    "name": "Koi Pond",
+    "description": "Ornamental carp circling under lily pads — green water, orange flashes.",
+    "source": "authored"
+  },
+  "1758": {
+    "name": "Green Flash",
+    "description": "The rare emerald flash at the sun's last second over the sea — real, brief, much argued about.",
+    "source": "authored"
+  },
+  "1759": {
+    "name": "Java",
+    "description": "The island, the coffee, and the programming language — all steeped green-brown.",
+    "source": "authored"
+  },
+  "1760": {
+    "name": "Hobgoblin",
+    "description": "The pantry-raiding goblin of folklore — green and underfoot.",
+    "source": "authored"
+  },
+  "1761": {
+    "name": "Vivid Caribbean",
+    "description": "The Caribbean at brochure saturation.",
+    "source": "authored"
+  },
+  "1762": {
+    "name": "Bimini",
+    "description": "The Bahamian islands where Hemingway fished — flats-water green.",
+    "source": "authored"
+  },
+  "1763": {
+    "name": "Belize",
+    "description": "The reef-and-jungle country wearing this green on both sides.",
+    "source": "authored"
+  },
+  "1764": {
+    "name": "Grey Jade",
+    "description": "Jade weathered to grey duty.",
+    "source": "authored"
+  },
+  "1765": {
+    "name": "Abalone",
+    "description": "The iridescent ear-shaped shell — mother-of-pearl in green-teal.",
+    "source": "authored"
+  },
+  "1766": {
+    "name": "Manatee Spring",
+    "description": "The Florida spring where manatees overwinter — clear green, gentle giants.",
+    "source": "authored"
+  },
+  "1767": {
+    "name": "Chalcedony",
+    "description": "The waxy quartz family in its green-blue member.",
+    "source": "authored"
+  },
+  "1768": {
+    "name": "Cannonball",
+    "description": "Knees hugged, maximum splash — pool green displaced.",
+    "source": "authored"
+  },
+  "1769": {
+    "name": "Flippers",
+    "description": "Rubber fins slapping toward the reef.",
+    "source": "authored"
+  },
+  "1770": {
+    "name": "Shivering Green",
+    "description": "Green with a chill running through it.",
+    "source": "authored"
+  },
+  "1771": {
+    "name": "Angelfish",
+    "description": "The reef's vertical pancake in green-gold.",
+    "source": "authored"
+  },
+  "1772": {
+    "name": "Glacial Mint",
+    "description": "Mint chilled to glacier temperature.",
+    "source": "authored"
+  },
+  "1773": {
+    "name": "Soft Turquoise",
+    "description": "Turquoise with the edges sanded soft.",
+    "source": "authored"
+  },
+  "1774": {
+    "name": "Pool Party",
+    "description": "Inflatable flamingos, chlorine green, someone's phone in the water.",
+    "source": "authored"
+  },
+  "1775": {
+    "name": "Glacier Lagoon",
+    "description": "Iceland's iceberg lagoon — Jökulsárlón's green-white bergs drifting to sea.",
+    "source": "authored"
+  },
+  "1776": {
+    "name": "Aquamarine",
+    "description": "The sea-water beryl — Latin for exactly that — worn against drowning by Roman sailors.",
+    "source": "authored"
+  },
+  "1777": {
+    "name": "Mermaid's Purse",
+    "description": "The leathery egg case of sharks and rays that washes up like a purse from the deep.",
+    "source": "authored"
+  },
+  "1778": {
+    "name": "Waitomo",
+    "description": "The New Zealand caves lit by thousands of glowworms — a green galaxy underground.",
+    "source": "authored"
+  },
+  "1779": {
+    "name": "Crystal Mint",
+    "description": "Mint with crystal clarity.",
+    "source": "authored"
+  },
+  "1780": {
+    "name": "Rich Black",
+    "description": "The printer's richest black — cyan, magenta and yellow under the K.",
+    "source": "authored"
+  },
+  "1781": {
+    "name": "Dark Lagoon",
+    "description": "The lagoon after closing time.",
+    "source": "authored"
+  },
+  "1782": {
+    "name": "Estuary",
+    "description": "Where the river meets the sea and neither wins — brackish green.",
+    "source": "authored"
+  },
+  "1783": {
+    "name": "Deep Sea Teal",
+    "description": "Teal at diving depth.",
+    "source": "authored"
+  },
+  "1784": {
+    "name": "Petrol Green",
+    "description": "Petrol's green iridescence, isolated.",
+    "source": "authored"
+  },
+  "1785": {
+    "name": "Juniper Teal",
+    "description": "Juniper drifting teal.",
+    "source": "authored"
   },
   "1786": {
     "name": "Hummingbird",
-    "description": "Hummingbirds are birds native to the Americas and comprise the biological family Trochilidae. With approximately 375 species and 113 genera, they occur from Alaska to Tierra del Fuego, but most species are found in Central and South America.",
-    "source": "wikipedia"
+    "description": "The hovering jewel that drinks upside down — its gorget flashes this green-teal.",
+    "source": "authored"
+  },
+  "1787": {
+    "name": "Highlands",
+    "description": "Heather, mist and altitude — the green-teal of Scottish elevation.",
+    "source": "authored"
+  },
+  "1788": {
+    "name": "Green Dynasty",
+    "description": "A dynasty's worth of green — jade by succession.",
+    "source": "authored"
+  },
+  "1789": {
+    "name": "Dusty Turquoise",
+    "description": "Turquoise gone matte with history.",
+    "source": "authored"
+  },
+  "1790": {
+    "name": "Sento",
+    "description": "The Japanese public bathhouse — tiled teal, strict etiquette, Mount Fuji mural.",
+    "source": "authored"
+  },
+  "1791": {
+    "name": "Verdigris",
+    "description": "The green crust on old copper and bronze — the Statue of Liberty's entire look.",
+    "source": "authored"
+  },
+  "1792": {
+    "name": "Waterfall",
+    "description": "White water over green stone — gravity's prettiest argument.",
+    "source": "authored"
+  },
+  "1793": {
+    "name": "Medium Turquoise",
+    "description": "The X11 turquoise at medium strength.",
+    "source": "authored"
+  },
+  "1794": {
+    "name": "Andaman",
+    "description": "The island chain of clear teal water between India and Myanmar.",
+    "source": "authored"
+  },
+  "1795": {
+    "name": "Aqua",
+    "description": "Latin for water — the blue-green that swimming pools promised.",
+    "source": "authored"
+  },
+  "1796": {
+    "name": "Motel Pool",
+    "description": "The kidney-shaped pool behind the neon vacancy sign.",
+    "source": "authored"
+  },
+  "1797": {
+    "name": "Sea Crystal",
+    "description": "Sea-glass green with facets.",
+    "source": "authored"
+  },
+  "1798": {
+    "name": "Moonpool",
+    "description": "The moon pool of dive ships and sci-fi stations — open water indoors, glowing green.",
+    "source": "authored"
+  },
+  "1799": {
+    "name": "Cherenkov",
+    "description": "The blue-green glow of reactor pools — particles outrunning light in water, physics' prettiest trick.",
+    "source": "authored"
   },
   "1822": {
     "name": "Freon",
