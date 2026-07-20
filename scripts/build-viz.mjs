@@ -115,7 +115,7 @@ const html = `<!doctype html>
   #scrolldown:hover { color: var(--ink); border-color: var(--muted); }
   .card { border: 1px solid var(--line); background: var(--panel); overflow: hidden; }
   .card .fsw { aspect-ratio: 1; position: relative; }
-  .card .fsw .fsb { position: absolute; right: 0; bottom: 0; width: 10px; height: 10px; }
+  .card .fsw .fsb { position: absolute; right: 0; bottom: 0; width: 10%; height: 10%; }
   .card .fnm { padding: .45rem .6rem .1rem; font-size: .82rem; font-weight: 600; }
   .card .fmeta { padding: 0 .6rem .5rem; font-size: .7rem; color: var(--faint); font-variant-numeric: tabular-nums; }
   .card .fcss {
