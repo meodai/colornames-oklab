@@ -37,13 +37,14 @@
     "url": "git+https://github.com/meodai/colornames-oklab.git"
   },
   "scripts": {
-    "test": "node scripts/test.mjs && node scripts/test-api.mjs && node scripts/audit-basics.mjs && node scripts/audit-families.mjs",
+    "test": "node scripts/test.mjs && node scripts/test-api.mjs && node scripts/audit-basics.mjs && node scripts/audit-families.mjs && node scripts/audit-descriptions.mjs",
     "sample": "node scripts/sample-points.mjs",
     "sample:more": "node scripts/sample-more.mjs",
     "worksheet": "node scripts/make-worksheet.mjs",
     "build": "node scripts/merge-names.mjs && node scripts/audit-basics.mjs && vite build",
     "validate": "node scripts/merge-names.mjs && node scripts/audit-basics.mjs",
-    "dev": "vite"
+    "dev": "vite",
+    "fetch:descriptions": "node scripts/fetch-descriptions.mjs"
   },
   "devDependencies": {
     "culori": "^4.0.2",
