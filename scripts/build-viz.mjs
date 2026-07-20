@@ -381,8 +381,8 @@ const P3MAP = JSON.parse(document.getElementById('p3map').textContent);
 const NL = String.fromCharCode(10);
 const cssLine = (c) =>
   (c.tier === 'srgb'
-    ? 'color(srgb ' + hexToRgb(c.css).map((v) => +v.toFixed(2)).join(' ') + ')'
-    : c.css.replace(/[0-9]*[.][0-9]+/g, (m) => +(+m).toFixed(2))
+    ? 'color(srgb ' + hexToRgb(c.css).map((v) => v.toFixed(2)).join(' ') + ')'
+    : c.css.replace(/[0-9]*[.][0-9]+/g, (m) => (+m).toFixed(2))
   ).replace(' ', NL);
 const pointColor = (c, i) => {
   if (!P3_OK) return hexToRgb(c.fallbackHex);
