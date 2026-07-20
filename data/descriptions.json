@@ -16749,15 +16749,475 @@
     "description": "Violet-black with the waitlist closed.",
     "source": "authored"
   },
+  "4350": {
+    "name": "Grapes of Italy",
+    "description": "Sangiovese country in violet-black — hills invoiced by the glass.",
+    "source": "authored"
+  },
+  "4351": {
+    "name": "Landjäger",
+    "description": "The hiker's flat sausage — red-brown, rucksack cured.",
+    "source": "authored"
+  },
+  "4352": {
+    "name": "Paper Hearts",
+    "description": "The valentine economy at classroom scale — pink-red, scissors licensed.",
+    "source": "authored"
+  },
+  "4353": {
+    "name": "Thanos",
+    "description": "The chin that halved the universe — violet, gauntlet gaudy.",
+    "source": "authored"
+  },
+  "4354": {
+    "name": "Dark Prince",
+    "description": "The heir with the minor chord — violet-black, throne pending.",
+    "source": "authored"
+  },
+  "4355": {
+    "name": "Woodhaven",
+    "description": "The cul-de-sac with the old oaks — brown-violet, leaf disputes annual.",
+    "source": "authored"
+  },
+  "4356": {
+    "name": "Teakwood",
+    "description": "Teak with the decades polished in — brown, saltwater CV.",
+    "source": "authored"
+  },
+  "4357": {
+    "name": "Chain Mail",
+    "description": "Rings by the thousand — grey, blacksmith's invoice itemised.",
+    "source": "authored"
+  },
+  "4358": {
+    "name": "Fantasy Romance",
+    "description": "The paperback with the windswept cover — violet, chapter twelve blushing.",
+    "source": "authored"
+  },
+  "4359": {
+    "name": "Shipwreck",
+    "description": "The hull the reef claimed — grey-violet, cargo redistributed.",
+    "source": "authored"
+  },
+  "4360": {
+    "name": "Fortune Teller",
+    "description": "The tent with the crystal ball — violet, futures sold retail.",
+    "source": "authored"
+  },
+  "4361": {
+    "name": "Dark Ages",
+    "description": "The centuries the textbooks hurry past — grey-violet, monks archiving.",
+    "source": "authored"
+  },
+  "4362": {
+    "name": "Pastel Violet",
+    "description": "Violet through the pastel filter.",
+    "source": "authored"
+  },
+  "4363": {
+    "name": "Wet Asphalt",
+    "description": "The road after rain — grey-black, reflections freeloading.",
+    "source": "authored"
+  },
+  "4364": {
+    "name": "Monet Magic",
+    "description": "The lilies at Giverny distance — violet-grey, squint mandatory.",
+    "source": "authored"
+  },
+  "4365": {
+    "name": "Black Metal",
+    "description": "The genre of corpse paint and blast beats — grey-black, Norway exporting.",
+    "source": "authored"
+  },
+  "4366": {
+    "name": "Cloak and Dagger",
+    "description": "The trade in violet-black — umbrellas armed, passwords seasonal.",
+    "source": "authored"
+  },
+  "4367": {
+    "name": "Dime Novel",
+    "description": "The thriller priced at ten cents — grey-violet, spines cracked.",
+    "source": "authored"
+  },
+  "4368": {
+    "name": "Octopus",
+    "description": "Eight arms, three hearts, one exit strategy — grey-violet, jar opened from inside.",
+    "source": "authored"
+  },
+  "4369": {
+    "name": "Your Majesty",
+    "description": "The address that opens doors — violet, bows amortised.",
+    "source": "authored"
+  },
+  "4370": {
+    "name": "Freefall",
+    "description": "The stomach's violet-grey lurch — parachute subscribed.",
+    "source": "authored"
+  },
+  "4371": {
+    "name": "Thunderbird",
+    "description": "The Ford, the cocktail, the Native legend — violet-red, wings spanning.",
+    "source": "authored"
+  },
+  "4372": {
+    "name": "Toadstool",
+    "description": "The red cap with white apologies — fairy rings, gnome tenancy.",
+    "source": "authored"
+  },
+  "4373": {
+    "name": "Royal Fig",
+    "description": "The fig with a household guard — violet-black, wasps notarised.",
+    "source": "authored"
+  },
+  "4374": {
+    "name": "Vampire Fangs",
+    "description": "The overbite with a curfew — violet-red, garlic actionable.",
+    "source": "authored"
+  },
+  "4375": {
+    "name": "Neon Petunia",
+    "description": "Petunia at tube-light frequency.",
+    "source": "authored"
+  },
+  "4376": {
+    "name": "Intense Passion",
+    "description": "Passion with the thermostat maxed — red-violet, sprinklers alerted.",
+    "source": "authored"
+  },
+  "4377": {
+    "name": "Merlot Magic",
+    "description": "Merlot with the rabbit pulled — red-violet, decanted theatrically.",
+    "source": "authored"
+  },
+  "4378": {
+    "name": "Borderline Pink",
+    "description": "Pink at the checkpoint — red-violet, papers ambiguous.",
+    "source": "authored"
+  },
+  "4379": {
+    "name": "Trippy Velvet",
+    "description": "Velvet at the wrong frequency — red-violet, walls breathing.",
+    "source": "authored"
+  },
+  "4380": {
+    "name": "Burning Fireflies",
+    "description": "Fireflies past the legal lumen — red-orange, jars sued.",
+    "source": "authored"
+  },
+  "4381": {
+    "name": "Kiss Me More",
+    "description": "Doja's pink-red chorus — repeat pending.",
+    "source": "authored"
+  },
+  "4382": {
+    "name": "Mexican Chile",
+    "description": "The dried chilli wall at the mercado — red-brown, heat by lineage.",
+    "source": "authored"
+  },
   "4383": {
     "name": "Shiitake",
-    "description": "A macrofungus native to East Asia and mainland Southeast Asia, which is cultivated and consumed around the globe.",
-    "source": "wikipedia"
+    "description": "The log-grown umami engine — brown, broth's quiet partner.",
+    "source": "authored"
+  },
+  "4384": {
+    "name": "Lick and Kiss",
+    "description": "The envelope's pink-red closing ritual — stamps flavoured.",
+    "source": "authored"
+  },
+  "4385": {
+    "name": "Parasol",
+    "description": "The shade held against the pink hour — lace optional, wrist committed.",
+    "source": "authored"
+  },
+  "4386": {
+    "name": "Little Princess",
+    "description": "The tiara at pocket scale — pink, decrees adorable.",
+    "source": "authored"
+  },
+  "4387": {
+    "name": "Soft Cashmere",
+    "description": "The jumper that forgives everything — pink-grey, moths litigating.",
+    "source": "authored"
+  },
+  "4388": {
+    "name": "Ballet",
+    "description": "Pink at the barre — fifth position, blisters redacted.",
+    "source": "authored"
+  },
+  "4389": {
+    "name": "Film Noir",
+    "description": "The genre where the pink is a lie — shadows narrating.",
+    "source": "authored"
+  },
+  "4390": {
+    "name": "Saffronaut",
+    "description": "Saffron with a mission patch — orange-red, threads in orbit.",
+    "source": "authored"
+  },
+  "4391": {
+    "name": "Neon Violet",
+    "description": "Violet at tube-light frequency.",
+    "source": "authored"
+  },
+  "4392": {
+    "name": "Bottom of My Heart",
+    "description": "The pink-red at the ledger's last line — sincerely compounding.",
+    "source": "authored"
+  },
+  "4393": {
+    "name": "Possessed Red",
+    "description": "Red with a tenant it can't evict — exorcist quoted.",
+    "source": "authored"
+  },
+  "4394": {
+    "name": "Lusty Lips",
+    "description": "The pout with intent — red, chapstick weaponised.",
+    "source": "authored"
+  },
+  "4395": {
+    "name": "Bruschetta",
+    "description": "Tomatoes on toast with a garlic signature — red, olive oil notarised.",
+    "source": "authored"
+  },
+  "4396": {
+    "name": "Howling Pink",
+    "description": "Pink at wolf pitch — moon subscribed.",
+    "source": "authored"
+  },
+  "4397": {
+    "name": "Lepidolite",
+    "description": "The lilac mica with lithium in the lattice — pink-violet, calm quarried.",
+    "source": "authored"
+  },
+  "4398": {
+    "name": "Her Velour",
+    "description": "The tracksuit at duchess grade — pink-violet, nap directional.",
+    "source": "authored"
+  },
+  "4399": {
+    "name": "Transfusion",
+    "description": "The bag on the pole — red, drip metered.",
+    "source": "authored"
+  },
+  "4400": {
+    "name": "Middlemist",
+    "description": "The camellia down to two plants — pink, extinction waitlisted.",
+    "source": "authored"
+  },
+  "4401": {
+    "name": "Sizzling Watermelon",
+    "description": "Watermelon on the griddle — pink-red, seeds evacuating.",
+    "source": "authored"
+  },
+  "4402": {
+    "name": "Pedigrey",
+    "description": "Grey with papers — pink-grey, kennel club punning.",
+    "source": "authored"
+  },
+  "4403": {
+    "name": "Muted Pink",
+    "description": "Pink at library volume.",
+    "source": "authored"
   },
   "4404": {
     "name": "Chinese New Year",
-    "description": "Chinese New Year, also known as the Spring Festival, marks the beginning of a new year on the traditional lunisolar Chinese calendar. It is one of the most important holidays in Chinese culture.",
-    "source": "wikipedia"
+    "description": "The red of envelopes and firecrackers — luck denominated.",
+    "source": "authored"
+  },
+  "4405": {
+    "name": "Forbidden Fruit",
+    "description": "The apple with the legal history — red, serpent counsel.",
+    "source": "authored"
+  },
+  "4406": {
+    "name": "Strawberry Field",
+    "description": "Strawberries forever, Lennon presiding — red, gates repainted.",
+    "source": "authored"
+  },
+  "4407": {
+    "name": "I Love You Pink",
+    "description": "The pink-red said back quickly — elevator doors closing.",
+    "source": "authored"
+  },
+  "4408": {
+    "name": "Brandywine Spritz",
+    "description": "Brandywine with bubbles filed — pink-red, brunch jurisdiction.",
+    "source": "authored"
+  },
+  "4409": {
+    "name": "Vinaceous Cinnamon",
+    "description": "Ridgway's 1912 shade — pink-brown, ornithology's paint chip.",
+    "source": "authored"
+  },
+  "4410": {
+    "name": "Pick Your Brain",
+    "description": "The favour that costs an hour — pink-grey, coffee comped.",
+    "source": "authored"
+  },
+  "4411": {
+    "name": "Parfait",
+    "description": "Layers in a tall glass — pink, spoon archaeology.",
+    "source": "authored"
+  },
+  "4412": {
+    "name": "New Love",
+    "description": "The pink-red of week two — playlists merging.",
+    "source": "authored"
+  },
+  "4413": {
+    "name": "Powder Puff",
+    "description": "The pink applicator of vanished decades — powder diplomatic.",
+    "source": "authored"
+  },
+  "4414": {
+    "name": "Prom Corsage",
+    "description": "The wristband of one evening — pink, photos non-refundable.",
+    "source": "authored"
+  },
+  "4415": {
+    "name": "Love Spell",
+    "description": "The incantation with a pink budget — candles invoiced.",
+    "source": "authored"
+  },
+  "4416": {
+    "name": "Foggy Love",
+    "description": "Love at low visibility — pink-grey, foghorns romantic.",
+    "source": "authored"
+  },
+  "4417": {
+    "name": "Manga Pink",
+    "description": "The pink of speed lines and sweat drops — panels shouting.",
+    "source": "authored"
+  },
+  "4418": {
+    "name": "Chocolate Kiss",
+    "description": "The foil drop with the paper flag — pink-brown, bowl raided.",
+    "source": "authored"
+  },
+  "4419": {
+    "name": "Arcane Red",
+    "description": "Red with a spellbook appendix.",
+    "source": "authored"
+  },
+  "4420": {
+    "name": "Mustang",
+    "description": "The pony car and the wild herd — red-brown, both unbridled.",
+    "source": "authored"
+  },
+  "4421": {
+    "name": "Queen of Hearts",
+    "description": "Off with their pink — hearts painted, roses audited.",
+    "source": "authored"
+  },
+  "4422": {
+    "name": "Love Juice",
+    "description": "The pink-red the blender swears is healthy.",
+    "source": "authored"
+  },
+  "4423": {
+    "name": "Chubby Kiss",
+    "description": "The kiss with the cheek surplus — pink, aunts unionised.",
+    "source": "authored"
+  },
+  "4424": {
+    "name": "Vampire Love Story",
+    "description": "The romance with a sunscreen problem — pink-red, necks itemised.",
+    "source": "authored"
+  },
+  "4425": {
+    "name": "Valentine’s Kiss",
+    "description": "The pink-red of February fourteenth — reservations scalped.",
+    "source": "authored"
+  },
+  "4426": {
+    "name": "Fruit Punch",
+    "description": "The bowl at every birthday — pink-red, ladle governance.",
+    "source": "authored"
+  },
+  "4427": {
+    "name": "Debian Red",
+    "description": "The swirl's red cousin — open source, apt-get affection.",
+    "source": "authored"
+  },
+  "4428": {
+    "name": "Rock Lobster",
+    "description": "The B-52s' crustacean anthem — red, dance floor boiling.",
+    "source": "authored"
+  },
+  "4429": {
+    "name": "Blazing Dragonfruit",
+    "description": "Dragonfruit past the flash point — pink-red, seeds sparking.",
+    "source": "authored"
+  },
+  "4430": {
+    "name": "Mellow Melon",
+    "description": "Melon at hammock tempo — pink, rind reclining.",
+    "source": "authored"
+  },
+  "4431": {
+    "name": "Pure Pleasure",
+    "description": "Pink-red with the receipts shredded.",
+    "source": "authored"
+  },
+  "4432": {
+    "name": "Earthworm",
+    "description": "The tiller's pink-brown employee — rain commutes.",
+    "source": "authored"
+  },
+  "4433": {
+    "name": "Sweet William",
+    "description": "The dianthus with the gentleman's name — pink-red, clove scented.",
+    "source": "authored"
+  },
+  "4434": {
+    "name": "Munch on Melon",
+    "description": "Melon by the wedge — pink, chins glossed.",
+    "source": "authored"
+  },
+  "4435": {
+    "name": "Flirty Salmon",
+    "description": "Salmon with eye contact — pink-orange, upstream confidence.",
+    "source": "authored"
+  },
+  "4436": {
+    "name": "Sparkling Cosmo",
+    "description": "The cosmo with the sparkler — pink, Carrie cited.",
+    "source": "authored"
+  },
+  "4437": {
+    "name": "Salmon Sashimi",
+    "description": "The pink-orange slice at counter distance — wasabi treaties.",
+    "source": "authored"
+  },
+  "4438": {
+    "name": "Pastel Magenta",
+    "description": "Magenta through the pastel filter.",
+    "source": "authored"
+  },
+  "4439": {
+    "name": "Young Crab",
+    "description": "The crab in its first shell — pink-orange, moults budgeted.",
+    "source": "authored"
+  },
+  "4440": {
+    "name": "Pink Floyd",
+    "description": "The band on the pink spectrum — prisms, pigs airborne.",
+    "source": "authored"
+  },
+  "4441": {
+    "name": "Coconut Ice",
+    "description": "The fudge in pink and white strata — coconut certified.",
+    "source": "authored"
+  },
+  "4442": {
+    "name": "Blush Kiss",
+    "description": "The kiss that leaves pink-grey evidence — cheeks archived.",
+    "source": "authored"
+  },
+  "4443": {
+    "name": "Steam",
+    "description": "The kettle's pink-white exhale — whistle pending.",
+    "source": "authored"
   },
   "0000": {
     "name": "Black",
