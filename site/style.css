@@ -132,7 +132,7 @@
     max-height: 60vh; overflow-y: auto; border: 1px solid var(--line); background: var(--panel);
     padding: .2rem .9rem;
   }
-  .nrow { padding: 0; border-bottom: 1px solid var(--row-line); min-width: 0; }
+  .nrow { padding: 0; border-bottom: 1px solid var(--row-line); min-width: 0; content-visibility: auto; contain-intrinsic-height: auto 2.2rem; }
   .nline { display: flex; align-items: center; gap: .55rem; padding: .28rem 0; font-size: .85rem; min-width: 0; }
   details.nrow > summary.nline { cursor: pointer; list-style: none; }
   details.nrow > summary.nline::-webkit-details-marker { display: none; }

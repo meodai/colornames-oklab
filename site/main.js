@@ -432,18 +432,28 @@ const nameRows = sortedNames.map((c) => {
     row.append(p);
   }
   listFrag.appendChild(row);
-  return { row, key: foldName(c.name) };
+  return { row, key: foldName(c.name), shown: true };
 });
 listEl.appendChild(listFrag);
+// only touch rows whose visibility actually changes — writing style on all
+// 4444 rows per keystroke forces a full-list layout pass every time
 const applyNameFilter = (q) => {
   const needle = foldName(q.trim());
   let shown = 0;
   for (const r of nameRows) {
     const hit = !needle || r.key.includes(needle);
-    r.row.style.display = hit ? '' : 'none';
+    if (hit !== r.shown) {
+      r.row.hidden = !hit;
+      r.shown = hit;
+    }
     if (hit) shown++;
   }
   countEl.textContent = shown + ' / ' + COLORS.length + ' names';
 };
-document.getElementById('nameFilter').addEventListener('input', (e) => applyNameFilter(e.target.value));
+// coalesce fast typing into one filter pass per frame
+let filterRaf = 0;
+document.getElementById('nameFilter').addEventListener('input', (e) => {
+  cancelAnimationFrame(filterRaf);
+  filterRaf = requestAnimationFrame(() => applyNameFilter(e.target.value));
+});
 applyNameFilter('');
