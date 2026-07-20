@@ -401,8 +401,11 @@ const listEl = document.getElementById('namelist');
 const countEl = document.getElementById('nameCount');
 const foldName = (s) => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 const sortedNames = COLORS.map((c, idx) => ({ ...c, idx })).sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));
-const listFrag = document.createDocumentFragment();
-const nameRows = sortedNames.map((c) => {
+// filter state lives on the data array; rows are built lazily in chunks so
+// startup never blocks on 4444 details nodes at once
+const nameRows = sortedNames.map((c) => ({ c, key: foldName(c.name), row: null, shown: true }));
+const buildRow = (r) => {
+  const c = r.c;
   const desc = DESCRIPTIONS[c.idx];
   const hasDesc = Boolean(desc);
   const row = document.createElement(hasDesc ? 'details' : 'div');
@@ -431,22 +434,34 @@ const nameRows = sortedNames.map((c) => {
     p.textContent = desc;
     row.append(p);
   }
-  listFrag.appendChild(row);
-  return { row, key: foldName(c.name), shown: true };
-});
-listEl.appendChild(listFrag);
+  row.hidden = !r.shown;
+  r.row = row;
+  return row;
+};
+const CHUNK = 250;
+let built = 0;
+const idle = window.requestIdleCallback || ((fn) => setTimeout(fn, 16));
+const buildChunk = () => {
+  const frag = document.createDocumentFragment();
+  const end = Math.min(built + CHUNK, nameRows.length);
+  for (; built < end; built++) frag.appendChild(buildRow(nameRows[built]));
+  listEl.appendChild(frag);
+  if (built < nameRows.length) idle(buildChunk);
+};
+buildChunk();
 // only touch rows whose visibility actually changes — writing style on all
-// 4444 rows per keystroke forces a full-list layout pass every time
+// rows per keystroke forces a full-list layout pass every time; unbuilt rows
+// just record their state and pick it up in buildRow
 const applyNameFilter = (q) => {
   const needle = foldName(q.trim());
   let shown = 0;
   for (const r of nameRows) {
     const hit = !needle || r.key.includes(needle);
-    if (hit !== r.shown) {
-      r.row.hidden = !hit;
-      r.shown = hit;
-    }
     if (hit) shown++;
+    if (hit !== r.shown) {
+      r.shown = hit;
+      if (r.row) r.row.hidden = !hit;
+    }
   }
   countEl.textContent = shown + ' / ' + COLORS.length + ' names';
 };
