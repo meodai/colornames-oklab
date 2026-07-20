@@ -52,11 +52,23 @@ controls.minDistance = 0.4;
 controls.maxDistance = 8;
 controls.enableZoom = false; // keep page scroll usable; pinch still zooms
 controls.enablePan = false;
-let zoomArmed = false;
-renderer.domElement.addEventListener('dblclick', () => {
-  zoomArmed = !zoomArmed;
-  controls.enableZoom = zoomArmed;
-});
+// touch: one finger keeps scrolling the page (a 100svh hero that eats every
+// swipe traps mobile visitors); two fingers orbit and pinch-zoom
+const COARSE = matchMedia('(pointer: coarse)').matches;
+if (COARSE) {
+  controls.touches.ONE = -1; // not a gesture OrbitControls knows → ignored
+  controls.touches.TWO = THREE.TOUCH.DOLLY_ROTATE; // orbit + pinch together
+  controls.enableZoom = true;
+  renderer.domElement.style.touchAction = 'pan-y';
+  const hint = document.getElementById('hint');
+  if (hint) hint.textContent = 'two fingers to orbit & zoom · tap a point for its name';
+} else {
+  let zoomArmed = false;
+  renderer.domElement.addEventListener('dblclick', () => {
+    zoomArmed = !zoomArmed;
+    controls.enableZoom = zoomArmed;
+  });
+}
 
 // OKLab frame: x = a, y = L, z = b — a/b scaled so the gamut body reads well
 const AB = 2.2;
@@ -313,11 +325,14 @@ ray.params.Points.threshold = R * 1.3;
 const mouse = new THREE.Vector2(-2, -2);
 let hovered = -1;
 const tip = document.getElementById('tip');
-renderer.domElement.addEventListener('pointermove', (e) => {
+const aimAt = (e) => {
   const r = box();
   mouse.set(((e.clientX - r.left) / r.width) * 2 - 1, -((e.clientY - r.top) / r.height) * 2 + 1);
-});
-renderer.domElement.addEventListener('pointerleave', () => mouse.set(-2, -2));
+};
+renderer.domElement.addEventListener('pointermove', aimAt);
+// no hover on touch — a tap aims the raycast instead
+renderer.domElement.addEventListener('pointerdown', aimAt);
+renderer.domElement.addEventListener('pointerleave', () => { if (!COARSE) mouse.set(-2, -2); });
 
 function updateHover() {
   ray.setFromCamera(mouse, camera);
