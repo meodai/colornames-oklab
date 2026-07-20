@@ -1999,6 +1999,606 @@
     "name": "Light Pink",
     "description": "The X11 pastel that ends the pink row gently."
   },
+  "1500": {
+    "name": "Pitch Black",
+    "description": "Absolute #000000 — the only point in this list with nothing to add."
+  },
+  "1501": {
+    "name": "Void",
+    "description": "The gap between things — black with vacancy."
+  },
+  "1502": {
+    "name": "Obsidian Green",
+    "description": "Obsidian holding a green glint in the fracture."
+  },
+  "1503": {
+    "name": "Onyx",
+    "description": "The banded black chalcedony of signet rings and stern countertops."
+  },
+  "1504": {
+    "name": "Iron Black",
+    "description": "Cast iron cooled — foundry black."
+  },
+  "1505": {
+    "name": "Darkroom",
+    "description": "The red-lit room where photographs used to appear — black to protect the latent image."
+  },
+  "1506": {
+    "name": "Stout",
+    "description": "The near-black pint with the cream collar — roasted barley in a glass."
+  },
+  "1507": {
+    "name": "Blackboard",
+    "description": "The green-black slate of chalk-squeak and times tables."
+  },
+  "1508": {
+    "name": "Gunmetal",
+    "description": "The grey-blue of gun barrels and understated sports cars."
+  },
+  "1509": {
+    "name": "Graphite",
+    "description": "Pencil-core carbon — the grey that writes."
+  },
+  "1510": {
+    "name": "Storm Grey",
+    "description": "The sky's colour when it means it."
+  },
+  "1511": {
+    "name": "Blue Steel",
+    "description": "Zoolander's signature look — and, more prosaically, tempered steel with a blue cast."
+  },
+  "1512": {
+    "name": "Ash",
+    "description": "What the fire leaves — grey with heat history."
+  },
+  "1513": {
+    "name": "Taupe",
+    "description": "Mole-fur grey-brown — French zoology as interior design."
+  },
+  "1514": {
+    "name": "Mauve Grey",
+    "description": "Mauve retired into greyscale."
+  },
+  "1515": {
+    "name": "Cool Grey",
+    "description": "The designer's neutral with a blue lean — the grey of interfaces."
+  },
+  "1516": {
+    "name": "Artemisia",
+    "description": "The silver-leaved wormwood genus — absinthe's botanical mother, sagebrush's cousin."
+  },
+  "1517": {
+    "name": "Cadet Grey",
+    "description": "The blue-grey of military-school uniforms — an X11 regular."
+  },
+  "1518": {
+    "name": "Nebulous",
+    "description": "Neither cloud nor clear — grey with commitment issues."
+  },
+  "1519": {
+    "name": "Toile",
+    "description": "The pastoral one-colour print fabric of French bedrooms — scenes in blue-grey on cream."
+  },
+  "1520": {
+    "name": "Mist",
+    "description": "The weather that erases distance."
+  },
+  "1521": {
+    "name": "Snow",
+    "description": "The white that squeaks underfoot — crystalline, fresh, municipally inconvenient."
+  },
+  "1522": {
+    "name": "Blood Moon",
+    "description": "The lunar eclipse's copper-red disc — Earth's sunsets projected on the moon."
+  },
+  "1523": {
+    "name": "Chocolate Cherry",
+    "description": "The cordial-filled chocolate box classic — dark shell, red centre."
+  },
+  "1524": {
+    "name": "Burgundy",
+    "description": "The wine region's dark red — claret's deeper neighbour."
+  },
+  "1525": {
+    "name": "Pigeon Blood",
+    "description": "The most prized ruby grade — the exact red of, per the Burmese trade, a pigeon's eye blood."
+  },
+  "1526": {
+    "name": "Locket",
+    "description": "The hinged keepsake at collarbone height — a portrait and a curl of hair in rose-brown."
+  },
+  "1527": {
+    "name": "Hibiscus",
+    "description": "The tropical bloom worn behind the ear — advertising availability, depending on the side."
+  },
+  "1528": {
+    "name": "Faded Rouge",
+    "description": "Rouge that outlasted the evening."
+  },
+  "1529": {
+    "name": "Rhodochrosite",
+    "description": "The banded pink manganese mineral — Argentina's national stone, rose-red in cross-section."
+  },
+  "1530": {
+    "name": "Lingonberry",
+    "description": "The tart Scandinavian berry served with everything — meatballs' red companion."
+  },
+  "1531": {
+    "name": "Dark Pink",
+    "description": "Pink after dark."
+  },
+  "1532": {
+    "name": "Strawberry Moon",
+    "description": "June's full moon, named for berry season — occasionally actually pink."
+  },
+  "1533": {
+    "name": "Morganite",
+    "description": "The peach-pink beryl named after J.P. Morgan — banker's pink, literally."
+  },
+  "1534": {
+    "name": "Pitaya",
+    "description": "Dragon fruit's proper name — shocking pink skin, polka-dot interior."
+  },
+  "1535": {
+    "name": "Paradise Pink",
+    "description": "The pink of postcards from somewhere warmer."
+  },
+  "1536": {
+    "name": "Dusty Blush",
+    "description": "Blush through a dusty window."
+  },
+  "1537": {
+    "name": "Rosa Chinensis",
+    "description": "The China rose — ancestor of nearly every garden rose, in botanical Latin."
+  },
+  "1538": {
+    "name": "Atomic Pink",
+    "description": "Pink at fission energy."
+  },
+  "1539": {
+    "name": "Wild Watermelon",
+    "description": "The Crayola watermelon at maximum ripeness."
+  },
+  "1540": {
+    "name": "Warm Pink",
+    "description": "Pink with body temperature."
+  },
+  "1541": {
+    "name": "Frosé",
+    "description": "Rosé, frozen, garnished — the portmanteau slush of patio summers."
+  },
+  "1542": {
+    "name": "Coral Bells",
+    "description": "The heuchera's tiny bell flowers on wire stems — coral by name and nature."
+  },
+  "1543": {
+    "name": "Paloma",
+    "description": "The grapefruit-soda tequila cocktail — salt rim, pink glow."
+  },
+  "1544": {
+    "name": "Pink Popsicle",
+    "description": "The freezer's pink stratum — strawberry, allegedly."
+  },
+  "1545": {
+    "name": "Puce",
+    "description": "French for flea — the pink-brown of flea-bitten linens that Marie Antoinette supposedly made fashionable."
+  },
+  "1546": {
+    "name": "Tickled Pink",
+    "description": "Beyond amused — pink past giggling."
+  },
+  "1547": {
+    "name": "Glowing Blush",
+    "description": "A blush with a backlight."
+  },
+  "1548": {
+    "name": "Salmon Pink",
+    "description": "The X11 salmon in its pink register."
+  },
+  "1549": {
+    "name": "Vinaceous",
+    "description": "The naturalist's adjective for wine-tinted — used of birds by people with opera glasses."
+  },
+  "1550": {
+    "name": "Dark Cocoa",
+    "description": "Cocoa at ninety percent."
+  },
+  "1551": {
+    "name": "Blood Ruby",
+    "description": "Ruby by way of a wound — dark red with a pulse."
+  },
+  "1552": {
+    "name": "Firebrick",
+    "description": "The X11 brick at furnace temperature."
+  },
+  "1553": {
+    "name": "Brownstone",
+    "description": "The row-house sandstone of Brooklyn stoops."
+  },
+  "1554": {
+    "name": "Swedish Fish",
+    "description": "The chewy red fish of cinema pick-n-mix — Sweden's most famous export after flat-pack."
+  },
+  "1555": {
+    "name": "Matador",
+    "description": "The suit of lights facing the bull — red by tradition, though bulls can't see it."
+  },
+  "1556": {
+    "name": "Firecracker",
+    "description": "The red tube that goes bang — hold at arm's length, light blue touchpaper."
+  },
+  "1557": {
+    "name": "Last Warning",
+    "description": "The red before consequences."
+  },
+  "1558": {
+    "name": "Smooch Rouge",
+    "description": "Rouge applied by kiss."
+  },
+  "1559": {
+    "name": "Crimson",
+    "description": "The deep red of academic robes and Harvard — kermes' Latin descendant."
+  },
+  "1560": {
+    "name": "Rustling Leaves",
+    "description": "Autumn's red-brown percussion underfoot."
+  },
+  "1561": {
+    "name": "Postbox Red",
+    "description": "The pillar-box red of British mail — standardised scarlet since 1874."
+  },
+  "1562": {
+    "name": "Pimm’s",
+    "description": "The fruit-cup red of English summer — cucumber garnish, tennis optional."
+  },
+  "1563": {
+    "name": "Withered Rose",
+    "description": "The rose kept past its argument."
+  },
+  "1564": {
+    "name": "Red Alert",
+    "description": "Battle stations red — klaxon included."
+  },
+  "1565": {
+    "name": "Fiesta Red",
+    "description": "The red of the Stratocaster finish and the party both named Fiesta."
+  },
+  "1566": {
+    "name": "Faded Poppy",
+    "description": "The remembrance flower faded to rose."
+  },
+  "1567": {
+    "name": "Tanager",
+    "description": "The scarlet songbird that migrates through in a flash of red."
+  },
+  "1568": {
+    "name": "Geranium",
+    "description": "The window-box red of European balconies — deadheads weekly."
+  },
+  "1569": {
+    "name": "Maximum Red",
+    "description": "Red at the legal limit."
+  },
+  "1570": {
+    "name": "Sunset Orange",
+    "description": "The Crayola sunset — orange burning down to red."
+  },
+  "1571": {
+    "name": "Embarrassment",
+    "description": "The full-face red of the wrong name said aloud."
+  },
+  "1572": {
+    "name": "Dried Bouquet",
+    "description": "The wedding flowers, upside-down in the airing cupboard, rose gone to rust."
+  },
+  "1573": {
+    "name": "Light Red",
+    "description": "Red with cream stirred through."
+  },
+  "1574": {
+    "name": "Pink Grapefruit",
+    "description": "The breakfast citrus in its pink-red flesh."
+  },
+  "1575": {
+    "name": "Peach Melba",
+    "description": "Escoffier's dessert for the soprano Nellie Melba — peach, raspberry, vanilla, applause."
+  },
+  "1576": {
+    "name": "Coho",
+    "description": "The silver salmon of the Pacific run, pink-fleshed and prized."
+  },
+  "1577": {
+    "name": "Blush Halo",
+    "description": "A blush with a saintly ring to it."
+  },
+  "1578": {
+    "name": "Rosewater",
+    "description": "The distilled essence of rose petals — Turkish delight's perfume, in palest pink."
+  },
+  "1579": {
+    "name": "Pink Salt",
+    "description": "Himalayan rock salt — pink from iron, mined from a mountain range, marketed as wellness."
+  },
+  "1580": {
+    "name": "Ember",
+    "description": "The coal still glowing after the flame moves on."
+  },
+  "1581": {
+    "name": "Russet Brown",
+    "description": "Russet with more cellar time."
+  },
+  "1582": {
+    "name": "Lava",
+    "description": "Molten rock in its underground red — magma once it surfaces it's all press."
+  },
+  "1583": {
+    "name": "Burnt Clay",
+    "description": "Clay fired past its first colour."
+  },
+  "1584": {
+    "name": "Rusty Copper",
+    "description": "Copper streaked with its own oxide."
+  },
+  "1585": {
+    "name": "Copper Clay",
+    "description": "Clay with copper ambitions."
+  },
+  "1586": {
+    "name": "Fire",
+    "description": "The element itself — combustion's orange-red signature."
+  },
+  "1587": {
+    "name": "Autumn",
+    "description": "The season that shows off by dying — orange-red at leaf level."
+  },
+  "1588": {
+    "name": "Terracotta Dust",
+    "description": "Terracotta ground fine — pot dust on the potter's apron."
+  },
+  "1589": {
+    "name": "Pumpkin",
+    "description": "October's gourd — porch decoration, pie filling, coach conversion."
+  },
+  "1590": {
+    "name": "Carrot",
+    "description": "The root vegetable that sees in the dark, allegedly — wartime propaganda's orange."
+  },
+  "1591": {
+    "name": "Neon Carrot",
+    "description": "The Crayola carrot with a neon tube in it."
+  },
+  "1592": {
+    "name": "Outrageous Orange",
+    "description": "Crayola's loudest orange — outrageous by name since 1972."
+  },
+  "1593": {
+    "name": "Tiger Lily",
+    "description": "The spotted orange lily that grows wild along fences — tiger by pattern, lily by grace."
+  },
+  "1594": {
+    "name": "Slippery Salmon",
+    "description": "A salmon that got away — orange-pink and gone."
+  },
+  "1595": {
+    "name": "Salmon Nigiri",
+    "description": "The salmon slice over pressed rice — omega-orange, wasabi under."
+  },
+  "1596": {
+    "name": "Pulp Friction",
+    "description": "Quentin's citrus caper — pulp, friction, and a briefcase of orange."
+  },
+  "1597": {
+    "name": "Sunstone",
+    "description": "The feldspar with copper glitter inside — Viking navigation legend, Oregon's state gem."
+  },
+  "1598": {
+    "name": "Dark Roast",
+    "description": "The bean roasted past argument — oily, dark, uncompromising."
+  },
+  "1599": {
+    "name": "Bitter Chocolate",
+    "description": "Chocolate without the diplomacy of sugar."
+  },
+  "1600": {
+    "name": "Otter",
+    "description": "The river's playful mustelid — wet brown fur, backstroke included."
+  },
+  "1601": {
+    "name": "Burnt Caramel",
+    "description": "Caramel two minutes past perfect."
+  },
+  "1602": {
+    "name": "Tobacco",
+    "description": "The cured leaf in its auction-house brown."
+  },
+  "1603": {
+    "name": "Pecan",
+    "description": "The pie nut of the American South — butter-brown shells."
+  },
+  "1604": {
+    "name": "Ginger",
+    "description": "The root that bites back — warm brown with heat filed under fresh."
+  },
+  "1605": {
+    "name": "Rust Orange",
+    "description": "Rust leaning orange."
+  },
+  "1606": {
+    "name": "Spiced Cider",
+    "description": "Mulled apples steaming in an autumn car park."
+  },
+  "1607": {
+    "name": "Raw Sienna",
+    "description": "The Tuscan earth pigment, unroasted — sienna before the burn."
+  },
+  "1608": {
+    "name": "Tequila Sunrise",
+    "description": "The layered dawn cocktail — grenadine sinking through orange juice, sunrise reconstructed in a glass."
+  },
+  "1609": {
+    "name": "Bronze",
+    "description": "Third place's metal — copper and tin holding a podium spot."
+  },
+  "1610": {
+    "name": "Latte",
+    "description": "Espresso softened with steamed milk — beige with barista art."
+  },
+  "1611": {
+    "name": "Mango",
+    "description": "The tropical stone fruit at full orange — messy to eat, worth the shirt."
+  },
+  "1612": {
+    "name": "Almond",
+    "description": "The nut in its skin-on tan."
+  },
+  "1613": {
+    "name": "Apricot",
+    "description": "The velvet stone fruit — orange with a soft-focus filter."
+  },
+  "1614": {
+    "name": "Peach",
+    "description": "The fruit that named the softest orange-pink."
+  },
+  "1615": {
+    "name": "Peach Puff",
+    "description": "The X11 peach at powder-puff softness."
+  },
+  "1616": {
+    "name": "Smell of Bakery",
+    "description": "Butter, yeast and sugar, radiating from the oven door — beige you can smell."
+  },
+  "1617": {
+    "name": "Dwindling Dandelion",
+    "description": "The seed head at half strength — one puff already spent."
+  },
+  "1618": {
+    "name": "Chocolate",
+    "description": "The bean, fermented, roasted and civilised into brown."
+  },
+  "1619": {
+    "name": "Sepia",
+    "description": "The cuttlefish-ink brown of old photographs — nostalgia's official filter."
+  },
+  "1620": {
+    "name": "Dark Goldenrod",
+    "description": "Goldenrod at dusk."
+  },
+  "1621": {
+    "name": "Fawn",
+    "description": "The deer's first-year coat — tan that flatters everything."
+  },
+  "1622": {
+    "name": "Dune",
+    "description": "Sand architecture at desert scale."
+  },
+  "1623": {
+    "name": "Monarch",
+    "description": "The migratory butterfly in orange-and-black — four generations to make one round trip."
+  },
+  "1624": {
+    "name": "Peanut Butter Chicken",
+    "description": "The dish that shouldn't work and this colour that shouldn't either — both delicious."
+  },
+  "1625": {
+    "name": "Honey Glow",
+    "description": "Honey with the lamp behind it."
+  },
+  "1626": {
+    "name": "Combat Boot",
+    "description": "Parade-ground leather — brown-black with a mirror toe."
+  },
+  "1627": {
+    "name": "Dried Grass",
+    "description": "The lawn in August, gone to straw."
+  },
+  "1628": {
+    "name": "Golden Khaki",
+    "description": "Khaki with gilt edges."
+  },
+  "1629": {
+    "name": "Golden Syrup",
+    "description": "The tin of amber the spoon stands up in — Britain's breakfast adhesive."
+  },
+  "1630": {
+    "name": "Golden Wheat",
+    "description": "Wheat at golden hour."
+  },
+  "1631": {
+    "name": "School Bus Yellow",
+    "description": "The yellow legislated for visibility — school transport's official cheer."
+  },
+  "1632": {
+    "name": "Amber",
+    "description": "Fossilised tree resin — prehistoric gold with the occasional mosquito tenant."
+  },
+  "1633": {
+    "name": "Sunshine",
+    "description": "The forecast everyone wanted — yellow with a UV index."
+  },
+  "1634": {
+    "name": "Cargo Pants",
+    "description": "Pockets for everything, khaki throughout."
+  },
+  "1635": {
+    "name": "Swamp",
+    "description": "Standing water and secrets — olive-brown with methane."
+  },
+  "1636": {
+    "name": "Fatigues",
+    "description": "Olive drab by the uniform-load."
+  },
+  "1637": {
+    "name": "Golden Chartreuse",
+    "description": "Chartreuse with a gold filling."
+  },
+  "1638": {
+    "name": "Brimstone",
+    "description": "The sulphurous yellow of fire-and-... sermons — brimstone is just old English for sulphur."
+  },
+  "1639": {
+    "name": "Vetiver",
+    "description": "The bundled root grass of perfume's base notes — khaki-green scent anchor."
+  },
+  "1640": {
+    "name": "Brass",
+    "description": "The section that plays loudest — alloy gold with valves."
+  },
+  "1641": {
+    "name": "Manila Envelope",
+    "description": "The office envelope in its unbleached tan — named for Manila hemp."
+  },
+  "1642": {
+    "name": "Bone",
+    "description": "The ivory-adjacent white of a well-boiled soup joint."
+  },
+  "1643": {
+    "name": "Banana Drama",
+    "description": "A banana peel's third act — comedy in yellow."
+  },
+  "1644": {
+    "name": "Banana",
+    "description": "The curved yellow standard of fruit bowls and slapstick."
+  },
+  "1645": {
+    "name": "Sunbeam",
+    "description": "One shaft of yellow through a gap in the curtains."
+  },
+  "1646": {
+    "name": "Cream",
+    "description": "The top of the milk — dairy's palest yellow."
+  },
+  "1647": {
+    "name": "Cypress",
+    "description": "The tall dark conifer of Mediterranean cemeteries and Van Gogh skies."
+  },
+  "1648": {
+    "name": "Ghillie Suit",
+    "description": "The sniper's shrubbery — a suit of olive rags pretending to be landscape."
+  },
+  "1649": {
+    "name": "Bog Myrtle",
+    "description": "The bog shrub that scents Highland air and repels Highland midges — olive-gold."
+  },
   "0000": {
     "name": "Black",
     "description": "The complete absorption of visible light — though this one, like every black a screen can show, keeps a whisper of blue in it."
