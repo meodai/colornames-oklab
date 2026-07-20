@@ -1,152 +1,1202 @@
 {
-  "0000": { "name": "Black", "description": "The complete absorption of visible light — though this one, like every black a screen can show, keeps a whisper of blue in it." },
-  "0001": { "name": "Melanite", "description": "A lustrous black variety of andradite garnet, named from the Greek for black; Victorian jewellers cut it for mourning wear." },
-  "0002": { "name": "Soot", "description": "Unburnt carbon settling out of a flame — the first black pigment humans ever put on a cave wall." },
-  "0003": { "name": "Cosmic Bit Flip", "description": "When a stray cosmic ray strikes a memory cell and flips a 0 to a 1 — near-black with a single green bit set." },
-  "0004": { "name": "Ink", "description": "Iron-gall dark, the colour of every signature before ballpoints; never quite pure black once it dries." },
-  "0005": { "name": "Black Olive", "description": "Brine-cured and glistening on the antipasti plate — a black that leans quietly toward its green past." },
-  "0006": { "name": "Obsidian", "description": "Volcanic glass, cooled too fast to crystallise; knapped into blades sharper than surgical steel." },
-  "0007": { "name": "Bats Cloak", "description": "The soft dark of folded wings in a cave roof — black with a purple flicker when it moves." },
-  "0008": { "name": "Dark Forest", "description": "Past the treeline at dusk, where green stops being a colour and becomes a depth." },
-  "0009": { "name": "Espresso", "description": "A shot pulled short — crema-brown crossing over into black." },
-  "0010": { "name": "Dark Slate", "description": "Roof slate wet with rain, split along the grain." },
-  "0011": { "name": "Dark Taupe", "description": "Taupe is French for mole; this is the mole at the bottom of the burrow." },
-  "0012": { "name": "Starling", "description": "Not truly black at all — starling feathers are iridescent, flashing blue-violet when the murmuration turns." },
-  "0013": { "name": "Walnut", "description": "Oiled walnut heartwood; also the husk stain that won't leave your hands for a week." },
-  "0014": { "name": "Witches Cauldron", "description": "Cast iron in low candlelight, with something faintly purple simmering in it." },
-  "0015": { "name": "Smoky Purple", "description": "Purple seen through the last of the bonfire." },
-  "0016": { "name": "Charcoal", "description": "Wood baked without air until only carbon remains — the sketcher's black that is really a deep grey-teal." },
-  "0017": { "name": "Cocoa", "description": "Ground cacao before the sugar arrives: bitter, dusty, brown." },
-  "0018": { "name": "Driftwood", "description": "Timber the sea has sanded and the salt has greyed." },
-  "0019": { "name": "Dusty Mauve", "description": "Mauve after decades in the attic — the first aniline-dye colour, faded to a murmur." },
-  "0020": { "name": "Artichoke", "description": "The grey-green bract of a vegetable that is technically a thistle you eat with butter." },
-  "0021": { "name": "Heather", "description": "Moorland heather between blooms — grey until the light warms it purple." },
-  "0022": { "name": "Stone", "description": "Field-wall stone: no colour in particular, which is exactly its colour." },
-  "0023": { "name": "Slate", "description": "Split roofing slate, blue-grey along the cleavage plane." },
-  "0024": { "name": "Sage", "description": "Dried sage leaves, grey-green and dusty with their own oils." },
-  "0025": { "name": "Harbour", "description": "Harbour water on an overcast morning — grey-green, patient, smelling of rope and diesel." },
-  "0026": { "name": "Lavender Grey", "description": "Lavender with the scent faded out of it; grey with a floral memory." },
-  "0027": { "name": "Laurel", "description": "The wreath leaf of poets and victors, silvered green." },
-  "0028": { "name": "Grey", "description": "The exact midpoint of indifference — neither warm nor cool, and content with it." },
-  "0029": { "name": "Rosy Grey", "description": "Grey that has been standing near a blush." },
-  "0030": { "name": "Putty", "description": "Glazier's putty: linseed and chalk, the quiet beige holding every old window in place." },
-  "0031": { "name": "Warm Grey", "description": "Grey with the thermostat nudged up a degree." },
-  "0032": { "name": "Silver", "description": "Polished-metal grey — the matte version, before the mirror finish." },
-  "0033": { "name": "Greige", "description": "The portmanteau interior designers reach for when beige and grey refuse to commit." },
-  "0034": { "name": "Wild Life", "description": "Pale grey-cyan of dawn mist where something just moved in the reeds." },
-  "0035": { "name": "Mecha Kitty", "description": "Pastel armour plating for a robot cat — lilac-grey chrome from a Saturday-morning anime." },
-  "0036": { "name": "Windy", "description": "The sky on a day that can't sit still — pale grey-cyan with weather in it." },
-  "0037": { "name": "Beige", "description": "From the French for undyed wool: fabric before fashion happens to it." },
-  "0038": { "name": "Sugared Almond", "description": "Dragée-coated almonds in pale pink — the confetti candy handed out at weddings." },
-  "0039": { "name": "Morning Mist", "description": "The hour when the garden is only shapes." },
-  "0040": { "name": "Velvet Scarf", "description": "Pale violet velvet, worn once, kept forever." },
-  "0041": { "name": "Ivory", "description": "Tusk-white with age in it; the reason old piano keys yellowed so gracefully." },
-  "0042": { "name": "Perfume Haze", "description": "The pale violet cloud left hanging after someone elegant leaves the room." },
-  "0043": { "name": "Frost", "description": "First frost on a window — white with the faintest blue instruction to stay inside." },
-  "0044": { "name": "White", "description": "All wavelengths at once — here with the warm cast of paper rather than the cold of a screen." },
-  "0045": { "name": "Black Cherry", "description": "Cherries cooked down to their darkest; the sundae flavour and the near-black red." },
-  "0046": { "name": "Kermes", "description": "The ancient scarlet dye crushed from scale insects on Mediterranean oaks — crimson's oldest ancestor." },
-  "0047": { "name": "Merlot", "description": "The softest of the big red grapes, poured in low light." },
-  "0048": { "name": "Cochineal", "description": "Carmine's source: cactus-dwelling insects, dried and crushed — still colouring lipsticks and aperitifs." },
-  "0049": { "name": "Boysenberry", "description": "The bramble cross of raspberry, blackberry and loganberry, named for Rudolph Boysen; dark-juice territory." },
-  "0050": { "name": "Wine", "description": "Red wine at table depth — the glass half-empty of light." },
-  "0051": { "name": "Mulberry", "description": "The berry that stains everything it touches, from the silkworm's favourite tree." },
-  "0052": { "name": "Garance", "description": "French madder — the dye that reddened a million army trousers before synthetic alizarin arrived." },
-  "0053": { "name": "Fig", "description": "The skin of a ripe fig, purple-brown under a dusty bloom." },
-  "0054": { "name": "Alizarin", "description": "The red of madder root and the first natural dye ever synthesised in a lab (1868); beloved of watercolourists since." },
-  "0055": { "name": "Carmine", "description": "Cochineal's concentrated crimson, once traded at more than its weight in silver." },
-  "0056": { "name": "Cranberry", "description": "Bog-grown and sharp — the sauce, not the juice." },
-  "0057": { "name": "Rubine", "description": "Printer's process red from the rubine pigment family — magenta's punchier cousin." },
-  "0058": { "name": "Dark Raspberry", "description": "Raspberries at the bottom of the punnet, crushed a little." },
-  "0059": { "name": "Berry", "description": "Generic berry, specific stain." },
-  "0060": { "name": "Cerise", "description": "French for cherry, English for a pink that means business." },
-  "0061": { "name": "Rhodamine", "description": "The fluorescent dye that makes safety pink glow under UV; beloved of microscopists and highlighter engineers." },
-  "0062": { "name": "Ruby", "description": "Corundum with chromium in it — the red that made crowns worth stealing." },
-  "0063": { "name": "Rosewood", "description": "The rose-scented hardwood of guitar fretboards." },
-  "0064": { "name": "Crimson Lake", "description": "A 'lake' is a dye fixed onto powder to make paint — this one is cochineal crimson, a watercolour-box staple." },
-  "0065": { "name": "Rose Red", "description": "The rose of valentines, one shade before cliché." },
-  "0066": { "name": "Antique Ruby", "description": "A ruby that has been in the family long enough to have stories." },
-  "0067": { "name": "Yearning Desire", "description": "Magenta-red pitched exactly at the temperature of wanting something you shouldn't." },
-  "0068": { "name": "Fuchsine", "description": "The 1858 aniline dye named after the fuchsia flower — magenta's original trade name." },
-  "0069": { "name": "Punch", "description": "The bowl at the party: red fruit, questionable additions." },
-  "0070": { "name": "Incarnadine", "description": "Shakespeare's verb — 'the multitudinous seas incarnadine' — for turning things blood-red." },
-  "0071": { "name": "Cinnapink", "description": "Cinnamon dust settling on pink icing." },
-  "0072": { "name": "Rouge", "description": "The compact in every 1940s handbag — cheek-red by way of Paris." },
-  "0073": { "name": "Watermelon", "description": "The flesh an inch in from the rind, where the sweetness starts." },
-  "0074": { "name": "Old Rose", "description": "A rose pressed in a book by someone's grandmother." },
-  "0075": { "name": "Rosella", "description": "The crimson-splashed Australian parrot — and the hibiscus cordial that borrows its name." },
-  "0076": { "name": "Quail", "description": "The soft rosy grey-brown of quail plumage." },
-  "0077": { "name": "Roseine", "description": "An early trade name for magenta dye, taken from the rose." },
-  "0078": { "name": "Radicchio", "description": "The bitter chicory whose leaves are wine-red veined with white." },
-  "0079": { "name": "Opium", "description": "A den's haze: mauve-grey and heavy-lidded." },
-  "0080": { "name": "Strawberry", "description": "Ripe at the tip, red all the way through if you're lucky." },
-  "0081": { "name": "Punk Pink", "description": "Pink with the safety pin still in it." },
-  "0082": { "name": "Carnation", "description": "The buttonhole flower; 'carnation' and 'incarnadine' share a root meaning flesh." },
-  "0083": { "name": "Erythrine", "description": "From the Greek erythros, red — an old mineralogist's word for cobalt bloom." },
-  "0084": { "name": "Neapolitan", "description": "The stripe where the strawberry third meets the rest of the block." },
-  "0085": { "name": "Hot Pink", "description": "Pink past the thermostat's limit — the shade that made shocking pink jealous." },
-  "0086": { "name": "Wild Strawberry", "description": "The tiny woodland kind — more perfume than fruit." },
-  "0087": { "name": "Hot Lips", "description": "The kiss print left on the mirror." },
-  "0088": { "name": "Solferino", "description": "Named for the 1859 battle whose carnage inspired the Red Cross — and, in the same year, a magenta dye." },
-  "0089": { "name": "Hindu Lotus", "description": "The sacred pink lotus of South Asia, rising unstained from muddy water — a symbol of purity across traditions." },
-  "0090": { "name": "Flamingo", "description": "Pink on one leg — the bird dyes itself with the carotenoids in its shrimp dinner." },
-  "0091": { "name": "Begonia", "description": "The waxy bedding flower that blooms in relentless pink." },
-  "0092": { "name": "Eosin", "description": "The pink half of every microscope slide's H&E stain, named for Eos, goddess of dawn." },
-  "0093": { "name": "Pink Clay", "description": "Rosy kaolin — spa-mask pink." },
-  "0094": { "name": "Diva Pink", "description": "Dressing-room-lightbulb pink; demands top billing." },
-  "0095": { "name": "Ultra Pink", "description": "Pink dialled past what ordinary screens were built for." },
-  "0096": { "name": "Guava", "description": "The blushing flesh inside an unassuming green rind." },
-  "0097": { "name": "Hyperbloom", "description": "A flower bed rendered at 120 frames per second." },
-  "0098": { "name": "Peony", "description": "The flower that opens too generously for its own stem." },
-  "0099": { "name": "Highlighter Pink", "description": "The pink marker — for passages you'll definitely read again." },
-  "0100": { "name": "Wallflower", "description": "The quiet dusty pink at the edge of the dance floor — also a real flower that thrives in old walls." },
-  "0101": { "name": "Phlox", "description": "From the Greek for flame — a wildflower that burns pink." },
-  "0102": { "name": "Peaches of Immortality", "description": "In Chinese myth, the peaches in Xi Wangmu's garden ripen once every few thousand years and grant eternal life — rosy fruit worth the wait." },
-  "0103": { "name": "Strawberry Taffy", "description": "Pulled candy, strawberry flavour — pink stretched until it goes pale at the folds." },
-  "0104": { "name": "Roseate", "description": "The poet's adjective for rose-tinted, as in spoonbills and outlooks." },
-  "0105": { "name": "Dayglo Pink", "description": "Fluorescent poster pink borrowed from the Day-Glo palette of 1960s gig flyers." },
-  "0106": { "name": "Bubblegum", "description": "The first bubblegum's colour — pink only because its inventor had a single dye on hand in 1928." },
-  "0107": { "name": "Marabou", "description": "The feather trim on a showgirl's robe, dyed pink." },
-  "0108": { "name": "Rhodolite", "description": "The raspberry-pink garnet, from the Greek for rose stone." },
-  "0109": { "name": "Azalea", "description": "The shrub that turns whole hillsides pink each spring; Japan and Korea hold festivals under it." },
-  "0110": { "name": "Fruity Licious", "description": "A pink that tastes like the artificial flavour simply called 'fruit'." },
-  "0111": { "name": "Petal Pink", "description": "The inside of a petal, near the stem, where the colour is shyest." },
-  "0112": { "name": "Upstream", "description": "The direction salmon insist on — pink against the current." },
-  "0113": { "name": "Cotton Candy", "description": "Spun sugar: mostly air, entirely childhood." },
-  "0114": { "name": "Motel Sign", "description": "Neon pink buzzing VACANCY at the edge of the highway." },
-  "0115": { "name": "Pink Blush", "description": "The blush you can't will away." },
-  "0116": { "name": "Poodle Skirt", "description": "1950s felt in sock-hop pink, appliquéd dog included." },
-  "0117": { "name": "Shell Pink", "description": "The inside of a seashell held up to the light." },
-  "0118": { "name": "Pink", "description": "The canonical light red; English only settled on 'pink' as a colour word in the late 1600s, borrowing the flower's name." },
-  "0119": { "name": "Gossamer Pink", "description": "Spider silk at sunrise — pink you can see through." },
-  "0120": { "name": "Dark Garnet", "description": "Garnet at the bottom of the jewellery box: all depth, almost no light." },
-  "0121": { "name": "Dark Mahogany", "description": "The boardroom table after a century of polish." },
-  "0122": { "name": "Sang de Boeuf", "description": "'Ox blood' — the perilous copper-red glaze Chinese potters perfected in the Kangxi era." },
-  "0123": { "name": "Oxblood", "description": "Deep red leather with brown intentions — the classic boot colourway." },
-  "0124": { "name": "Cabernet", "description": "The structured grape: tannin you can see." },
-  "0125": { "name": "Dragon's Blood", "description": "A real resin from Dracaena trees, sold as incense and varnish since antiquity — allegedly dragon, actually tree." },
-  "0126": { "name": "Maroon", "description": "From the French marron, chestnut — the dark red of school uniforms everywhere." },
-  "0127": { "name": "Pomegranate", "description": "The fruit you open like a geode; garnet seeds by the hundred." },
-  "0128": { "name": "Brick Dust", "description": "What's left on your hands after a day of laying reds." },
-  "0129": { "name": "Redwood", "description": "Sequoia heartwood — the red of two-thousand-year patience." },
-  "0130": { "name": "Sanguine", "description": "Blood-red in Latin, cheerful in temperament — the old theory of humours let it be both." },
-  "0131": { "name": "Garnet", "description": "January's birthstone; the pomegranate-seed gem." },
-  "0132": { "name": "Dark Crimson", "description": "Crimson after the theatre lights go down." },
-  "0133": { "name": "Cherry Bomb", "description": "The firework and the Runaways song — both this red." },
-  "0134": { "name": "Chestnut", "description": "Conker-shell red-brown, fresh from the husk and briefly glossy." },
-  "0135": { "name": "Cardinal", "description": "The red of the songbird and the robe — the bird was named after the cleric, not the other way round." },
-  "0136": { "name": "Brick", "description": "Fired clay, load-bearing red." },
-  "0137": { "name": "Hot Lava", "description": "Molten rock where the crust splits — a red that means don't." },
-  "0138": { "name": "Madder Lake", "description": "Madder root fixed into a painter's lake pigment; the old masters glazed shadows with it." },
-  "0139": { "name": "Auburn", "description": "Red-brown hair colour — from the Latin alburnus, 'whitish', which drifted over centuries to mean nearly the opposite." },
-  "0140": { "name": "Cherry Red", "description": "The cherry of jukeboxes and electric guitars rather than orchards." },
-  "0141": { "name": "Barn Red", "description": "The classic barn — red because iron-oxide paint was the cheapest thing that lasted." },
-  "0142": { "name": "Lipstick Red", "description": "The bullet in the golden tube — a red engineered for confidence." },
-  "0143": { "name": "Electric Crimson", "description": "Crimson with the current switched on." },
-  "0144": { "name": "Ghost Pepper", "description": "The bhut jolokia: a million Scoville, a red you feel before you taste." },
-  "0145": { "name": "Amaranthine", "description": "Unfading, like the mythical amaranth flower — a red-pink that refuses to wilt." },
-  "0146": { "name": "Weathered Red", "description": "A door that was scarlet thirty summers ago." },
-  "0147": { "name": "Poppy", "description": "Remembrance red, tissue-paper thin." },
-  "0148": { "name": "Rosy Brown", "description": "Brown that remembers being pink; an X11 classic." },
-  "0149": { "name": "Grenadine", "description": "The pomegranate syrup at the bottom of a tequila sunrise — sinks first, blushes upward." }
+  "0000": {
+    "name": "Black",
+    "description": "The complete absorption of visible light — though this one, like every black a screen can show, keeps a whisper of blue in it."
+  },
+  "0001": {
+    "name": "Melanite",
+    "description": "A lustrous black variety of andradite garnet, named from the Greek for black; Victorian jewellers cut it for mourning wear."
+  },
+  "0002": {
+    "name": "Soot",
+    "description": "Unburnt carbon settling out of a flame — the first black pigment humans ever put on a cave wall."
+  },
+  "0003": {
+    "name": "Cosmic Bit Flip",
+    "description": "When a stray cosmic ray strikes a memory cell and flips a 0 to a 1 — near-black with a single green bit set."
+  },
+  "0004": {
+    "name": "Ink",
+    "description": "Iron-gall dark, the colour of every signature before ballpoints; never quite pure black once it dries."
+  },
+  "0005": {
+    "name": "Black Olive",
+    "description": "Brine-cured and glistening on the antipasti plate — a black that leans quietly toward its green past."
+  },
+  "0006": {
+    "name": "Obsidian",
+    "description": "Volcanic glass, cooled too fast to crystallise; knapped into blades sharper than surgical steel."
+  },
+  "0007": {
+    "name": "Bats Cloak",
+    "description": "The soft dark of folded wings in a cave roof — black with a purple flicker when it moves."
+  },
+  "0008": {
+    "name": "Dark Forest",
+    "description": "Past the treeline at dusk, where green stops being a colour and becomes a depth."
+  },
+  "0009": {
+    "name": "Espresso",
+    "description": "A shot pulled short — crema-brown crossing over into black."
+  },
+  "0010": {
+    "name": "Dark Slate",
+    "description": "Roof slate wet with rain, split along the grain."
+  },
+  "0011": {
+    "name": "Dark Taupe",
+    "description": "Taupe is French for mole; this is the mole at the bottom of the burrow."
+  },
+  "0012": {
+    "name": "Starling",
+    "description": "Not truly black at all — starling feathers are iridescent, flashing blue-violet when the murmuration turns."
+  },
+  "0013": {
+    "name": "Walnut",
+    "description": "Oiled walnut heartwood; also the husk stain that won't leave your hands for a week."
+  },
+  "0014": {
+    "name": "Witches Cauldron",
+    "description": "Cast iron in low candlelight, with something faintly purple simmering in it."
+  },
+  "0015": {
+    "name": "Smoky Purple",
+    "description": "Purple seen through the last of the bonfire."
+  },
+  "0016": {
+    "name": "Charcoal",
+    "description": "Wood baked without air until only carbon remains — the sketcher's black that is really a deep grey-teal."
+  },
+  "0017": {
+    "name": "Cocoa",
+    "description": "Ground cacao before the sugar arrives: bitter, dusty, brown."
+  },
+  "0018": {
+    "name": "Driftwood",
+    "description": "Timber the sea has sanded and the salt has greyed."
+  },
+  "0019": {
+    "name": "Dusty Mauve",
+    "description": "Mauve after decades in the attic — the first aniline-dye colour, faded to a murmur."
+  },
+  "0020": {
+    "name": "Artichoke",
+    "description": "The grey-green bract of a vegetable that is technically a thistle you eat with butter."
+  },
+  "0021": {
+    "name": "Heather",
+    "description": "Moorland heather between blooms — grey until the light warms it purple."
+  },
+  "0022": {
+    "name": "Stone",
+    "description": "Field-wall stone: no colour in particular, which is exactly its colour."
+  },
+  "0023": {
+    "name": "Slate",
+    "description": "Split roofing slate, blue-grey along the cleavage plane."
+  },
+  "0024": {
+    "name": "Sage",
+    "description": "Dried sage leaves, grey-green and dusty with their own oils."
+  },
+  "0025": {
+    "name": "Harbour",
+    "description": "Harbour water on an overcast morning — grey-green, patient, smelling of rope and diesel."
+  },
+  "0026": {
+    "name": "Lavender Grey",
+    "description": "Lavender with the scent faded out of it; grey with a floral memory."
+  },
+  "0027": {
+    "name": "Laurel",
+    "description": "The wreath leaf of poets and victors, silvered green."
+  },
+  "0028": {
+    "name": "Grey",
+    "description": "The exact midpoint of indifference — neither warm nor cool, and content with it."
+  },
+  "0029": {
+    "name": "Rosy Grey",
+    "description": "Grey that has been standing near a blush."
+  },
+  "0030": {
+    "name": "Putty",
+    "description": "Glazier's putty: linseed and chalk, the quiet beige holding every old window in place."
+  },
+  "0031": {
+    "name": "Warm Grey",
+    "description": "Grey with the thermostat nudged up a degree."
+  },
+  "0032": {
+    "name": "Silver",
+    "description": "Polished-metal grey — the matte version, before the mirror finish."
+  },
+  "0033": {
+    "name": "Greige",
+    "description": "The portmanteau interior designers reach for when beige and grey refuse to commit."
+  },
+  "0034": {
+    "name": "Wild Life",
+    "description": "Pale grey-cyan of dawn mist where something just moved in the reeds."
+  },
+  "0035": {
+    "name": "Mecha Kitty",
+    "description": "Pastel armour plating for a robot cat — lilac-grey chrome from a Saturday-morning anime."
+  },
+  "0036": {
+    "name": "Windy",
+    "description": "The sky on a day that can't sit still — pale grey-cyan with weather in it."
+  },
+  "0037": {
+    "name": "Beige",
+    "description": "From the French for undyed wool: fabric before fashion happens to it."
+  },
+  "0038": {
+    "name": "Sugared Almond",
+    "description": "Dragée-coated almonds in pale pink — the confetti candy handed out at weddings."
+  },
+  "0039": {
+    "name": "Morning Mist",
+    "description": "The hour when the garden is only shapes."
+  },
+  "0040": {
+    "name": "Velvet Scarf",
+    "description": "Pale violet velvet, worn once, kept forever."
+  },
+  "0041": {
+    "name": "Ivory",
+    "description": "Tusk-white with age in it; the reason old piano keys yellowed so gracefully."
+  },
+  "0042": {
+    "name": "Perfume Haze",
+    "description": "The pale violet cloud left hanging after someone elegant leaves the room."
+  },
+  "0043": {
+    "name": "Frost",
+    "description": "First frost on a window — white with the faintest blue instruction to stay inside."
+  },
+  "0044": {
+    "name": "White",
+    "description": "All wavelengths at once — here with the warm cast of paper rather than the cold of a screen."
+  },
+  "0045": {
+    "name": "Black Cherry",
+    "description": "Cherries cooked down to their darkest; the sundae flavour and the near-black red."
+  },
+  "0046": {
+    "name": "Kermes",
+    "description": "The ancient scarlet dye crushed from scale insects on Mediterranean oaks — crimson's oldest ancestor."
+  },
+  "0047": {
+    "name": "Merlot",
+    "description": "The softest of the big red grapes, poured in low light."
+  },
+  "0048": {
+    "name": "Cochineal",
+    "description": "Carmine's source: cactus-dwelling insects, dried and crushed — still colouring lipsticks and aperitifs."
+  },
+  "0049": {
+    "name": "Boysenberry",
+    "description": "The bramble cross of raspberry, blackberry and loganberry, named for Rudolph Boysen; dark-juice territory."
+  },
+  "0050": {
+    "name": "Wine",
+    "description": "Red wine at table depth — the glass half-empty of light."
+  },
+  "0051": {
+    "name": "Mulberry",
+    "description": "The berry that stains everything it touches, from the silkworm's favourite tree."
+  },
+  "0052": {
+    "name": "Garance",
+    "description": "French madder — the dye that reddened a million army trousers before synthetic alizarin arrived."
+  },
+  "0053": {
+    "name": "Fig",
+    "description": "The skin of a ripe fig, purple-brown under a dusty bloom."
+  },
+  "0054": {
+    "name": "Alizarin",
+    "description": "The red of madder root and the first natural dye ever synthesised in a lab (1868); beloved of watercolourists since."
+  },
+  "0055": {
+    "name": "Carmine",
+    "description": "Cochineal's concentrated crimson, once traded at more than its weight in silver."
+  },
+  "0056": {
+    "name": "Cranberry",
+    "description": "Bog-grown and sharp — the sauce, not the juice."
+  },
+  "0057": {
+    "name": "Rubine",
+    "description": "Printer's process red from the rubine pigment family — magenta's punchier cousin."
+  },
+  "0058": {
+    "name": "Dark Raspberry",
+    "description": "Raspberries at the bottom of the punnet, crushed a little."
+  },
+  "0059": {
+    "name": "Berry",
+    "description": "Generic berry, specific stain."
+  },
+  "0060": {
+    "name": "Cerise",
+    "description": "French for cherry, English for a pink that means business."
+  },
+  "0061": {
+    "name": "Rhodamine",
+    "description": "The fluorescent dye that makes safety pink glow under UV; beloved of microscopists and highlighter engineers."
+  },
+  "0062": {
+    "name": "Ruby",
+    "description": "Corundum with chromium in it — the red that made crowns worth stealing."
+  },
+  "0063": {
+    "name": "Rosewood",
+    "description": "The rose-scented hardwood of guitar fretboards."
+  },
+  "0064": {
+    "name": "Crimson Lake",
+    "description": "A 'lake' is a dye fixed onto powder to make paint — this one is cochineal crimson, a watercolour-box staple."
+  },
+  "0065": {
+    "name": "Rose Red",
+    "description": "The rose of valentines, one shade before cliché."
+  },
+  "0066": {
+    "name": "Antique Ruby",
+    "description": "A ruby that has been in the family long enough to have stories."
+  },
+  "0067": {
+    "name": "Yearning Desire",
+    "description": "Magenta-red pitched exactly at the temperature of wanting something you shouldn't."
+  },
+  "0068": {
+    "name": "Fuchsine",
+    "description": "The 1858 aniline dye named after the fuchsia flower — magenta's original trade name."
+  },
+  "0069": {
+    "name": "Punch",
+    "description": "The bowl at the party: red fruit, questionable additions."
+  },
+  "0070": {
+    "name": "Incarnadine",
+    "description": "Shakespeare's verb — 'the multitudinous seas incarnadine' — for turning things blood-red."
+  },
+  "0071": {
+    "name": "Cinnapink",
+    "description": "Cinnamon dust settling on pink icing."
+  },
+  "0072": {
+    "name": "Rouge",
+    "description": "The compact in every 1940s handbag — cheek-red by way of Paris."
+  },
+  "0073": {
+    "name": "Watermelon",
+    "description": "The flesh an inch in from the rind, where the sweetness starts."
+  },
+  "0074": {
+    "name": "Old Rose",
+    "description": "A rose pressed in a book by someone's grandmother."
+  },
+  "0075": {
+    "name": "Rosella",
+    "description": "The crimson-splashed Australian parrot — and the hibiscus cordial that borrows its name."
+  },
+  "0076": {
+    "name": "Quail",
+    "description": "The soft rosy grey-brown of quail plumage."
+  },
+  "0077": {
+    "name": "Roseine",
+    "description": "An early trade name for magenta dye, taken from the rose."
+  },
+  "0078": {
+    "name": "Radicchio",
+    "description": "The bitter chicory whose leaves are wine-red veined with white."
+  },
+  "0079": {
+    "name": "Opium",
+    "description": "A den's haze: mauve-grey and heavy-lidded."
+  },
+  "0080": {
+    "name": "Strawberry",
+    "description": "Ripe at the tip, red all the way through if you're lucky."
+  },
+  "0081": {
+    "name": "Punk Pink",
+    "description": "Pink with the safety pin still in it."
+  },
+  "0082": {
+    "name": "Carnation",
+    "description": "The buttonhole flower; 'carnation' and 'incarnadine' share a root meaning flesh."
+  },
+  "0083": {
+    "name": "Erythrine",
+    "description": "From the Greek erythros, red — an old mineralogist's word for cobalt bloom."
+  },
+  "0084": {
+    "name": "Neapolitan",
+    "description": "The stripe where the strawberry third meets the rest of the block."
+  },
+  "0085": {
+    "name": "Hot Pink",
+    "description": "Pink past the thermostat's limit — the shade that made shocking pink jealous."
+  },
+  "0086": {
+    "name": "Wild Strawberry",
+    "description": "The tiny woodland kind — more perfume than fruit."
+  },
+  "0087": {
+    "name": "Hot Lips",
+    "description": "The kiss print left on the mirror."
+  },
+  "0088": {
+    "name": "Solferino",
+    "description": "Named for the 1859 battle whose carnage inspired the Red Cross — and, in the same year, a magenta dye."
+  },
+  "0089": {
+    "name": "Hindu Lotus",
+    "description": "The sacred pink lotus of South Asia, rising unstained from muddy water — a symbol of purity across traditions."
+  },
+  "0090": {
+    "name": "Flamingo",
+    "description": "Pink on one leg — the bird dyes itself with the carotenoids in its shrimp dinner."
+  },
+  "0091": {
+    "name": "Begonia",
+    "description": "The waxy bedding flower that blooms in relentless pink."
+  },
+  "0092": {
+    "name": "Eosin",
+    "description": "The pink half of every microscope slide's H&E stain, named for Eos, goddess of dawn."
+  },
+  "0093": {
+    "name": "Pink Clay",
+    "description": "Rosy kaolin — spa-mask pink."
+  },
+  "0094": {
+    "name": "Diva Pink",
+    "description": "Dressing-room-lightbulb pink; demands top billing."
+  },
+  "0095": {
+    "name": "Ultra Pink",
+    "description": "Pink dialled past what ordinary screens were built for."
+  },
+  "0096": {
+    "name": "Guava",
+    "description": "The blushing flesh inside an unassuming green rind."
+  },
+  "0097": {
+    "name": "Hyperbloom",
+    "description": "A flower bed rendered at 120 frames per second."
+  },
+  "0098": {
+    "name": "Peony",
+    "description": "The flower that opens too generously for its own stem."
+  },
+  "0099": {
+    "name": "Highlighter Pink",
+    "description": "The pink marker — for passages you'll definitely read again."
+  },
+  "0100": {
+    "name": "Wallflower",
+    "description": "The quiet dusty pink at the edge of the dance floor — also a real flower that thrives in old walls."
+  },
+  "0101": {
+    "name": "Phlox",
+    "description": "From the Greek for flame — a wildflower that burns pink."
+  },
+  "0102": {
+    "name": "Peaches of Immortality",
+    "description": "In Chinese myth, the peaches in Xi Wangmu's garden ripen once every few thousand years and grant eternal life — rosy fruit worth the wait."
+  },
+  "0103": {
+    "name": "Strawberry Taffy",
+    "description": "Pulled candy, strawberry flavour — pink stretched until it goes pale at the folds."
+  },
+  "0104": {
+    "name": "Roseate",
+    "description": "The poet's adjective for rose-tinted, as in spoonbills and outlooks."
+  },
+  "0105": {
+    "name": "Dayglo Pink",
+    "description": "Fluorescent poster pink borrowed from the Day-Glo palette of 1960s gig flyers."
+  },
+  "0106": {
+    "name": "Bubblegum",
+    "description": "The first bubblegum's colour — pink only because its inventor had a single dye on hand in 1928."
+  },
+  "0107": {
+    "name": "Marabou",
+    "description": "The feather trim on a showgirl's robe, dyed pink."
+  },
+  "0108": {
+    "name": "Rhodolite",
+    "description": "The raspberry-pink garnet, from the Greek for rose stone."
+  },
+  "0109": {
+    "name": "Azalea",
+    "description": "The shrub that turns whole hillsides pink each spring; Japan and Korea hold festivals under it."
+  },
+  "0110": {
+    "name": "Fruity Licious",
+    "description": "A pink that tastes like the artificial flavour simply called 'fruit'."
+  },
+  "0111": {
+    "name": "Petal Pink",
+    "description": "The inside of a petal, near the stem, where the colour is shyest."
+  },
+  "0112": {
+    "name": "Upstream",
+    "description": "The direction salmon insist on — pink against the current."
+  },
+  "0113": {
+    "name": "Cotton Candy",
+    "description": "Spun sugar: mostly air, entirely childhood."
+  },
+  "0114": {
+    "name": "Motel Sign",
+    "description": "Neon pink buzzing VACANCY at the edge of the highway."
+  },
+  "0115": {
+    "name": "Pink Blush",
+    "description": "The blush you can't will away."
+  },
+  "0116": {
+    "name": "Poodle Skirt",
+    "description": "1950s felt in sock-hop pink, appliquéd dog included."
+  },
+  "0117": {
+    "name": "Shell Pink",
+    "description": "The inside of a seashell held up to the light."
+  },
+  "0118": {
+    "name": "Pink",
+    "description": "The canonical light red; English only settled on 'pink' as a colour word in the late 1600s, borrowing the flower's name."
+  },
+  "0119": {
+    "name": "Gossamer Pink",
+    "description": "Spider silk at sunrise — pink you can see through."
+  },
+  "0120": {
+    "name": "Dark Garnet",
+    "description": "Garnet at the bottom of the jewellery box: all depth, almost no light."
+  },
+  "0121": {
+    "name": "Dark Mahogany",
+    "description": "The boardroom table after a century of polish."
+  },
+  "0122": {
+    "name": "Sang de Boeuf",
+    "description": "'Ox blood' — the perilous copper-red glaze Chinese potters perfected in the Kangxi era."
+  },
+  "0123": {
+    "name": "Oxblood",
+    "description": "Deep red leather with brown intentions — the classic boot colourway."
+  },
+  "0124": {
+    "name": "Cabernet",
+    "description": "The structured grape: tannin you can see."
+  },
+  "0125": {
+    "name": "Dragon's Blood",
+    "description": "A real resin from Dracaena trees, sold as incense and varnish since antiquity — allegedly dragon, actually tree."
+  },
+  "0126": {
+    "name": "Maroon",
+    "description": "From the French marron, chestnut — the dark red of school uniforms everywhere."
+  },
+  "0127": {
+    "name": "Pomegranate",
+    "description": "The fruit you open like a geode; garnet seeds by the hundred."
+  },
+  "0128": {
+    "name": "Brick Dust",
+    "description": "What's left on your hands after a day of laying reds."
+  },
+  "0129": {
+    "name": "Redwood",
+    "description": "Sequoia heartwood — the red of two-thousand-year patience."
+  },
+  "0130": {
+    "name": "Sanguine",
+    "description": "Blood-red in Latin, cheerful in temperament — the old theory of humours let it be both."
+  },
+  "0131": {
+    "name": "Garnet",
+    "description": "January's birthstone; the pomegranate-seed gem."
+  },
+  "0132": {
+    "name": "Dark Crimson",
+    "description": "Crimson after the theatre lights go down."
+  },
+  "0133": {
+    "name": "Cherry Bomb",
+    "description": "The firework and the Runaways song — both this red."
+  },
+  "0134": {
+    "name": "Chestnut",
+    "description": "Conker-shell red-brown, fresh from the husk and briefly glossy."
+  },
+  "0135": {
+    "name": "Cardinal",
+    "description": "The red of the songbird and the robe — the bird was named after the cleric, not the other way round."
+  },
+  "0136": {
+    "name": "Brick",
+    "description": "Fired clay, load-bearing red."
+  },
+  "0137": {
+    "name": "Hot Lava",
+    "description": "Molten rock where the crust splits — a red that means don't."
+  },
+  "0138": {
+    "name": "Madder Lake",
+    "description": "Madder root fixed into a painter's lake pigment; the old masters glazed shadows with it."
+  },
+  "0139": {
+    "name": "Auburn",
+    "description": "Red-brown hair colour — from the Latin alburnus, 'whitish', which drifted over centuries to mean nearly the opposite."
+  },
+  "0140": {
+    "name": "Cherry Red",
+    "description": "The cherry of jukeboxes and electric guitars rather than orchards."
+  },
+  "0141": {
+    "name": "Barn Red",
+    "description": "The classic barn — red because iron-oxide paint was the cheapest thing that lasted."
+  },
+  "0142": {
+    "name": "Lipstick Red",
+    "description": "The bullet in the golden tube — a red engineered for confidence."
+  },
+  "0143": {
+    "name": "Electric Crimson",
+    "description": "Crimson with the current switched on."
+  },
+  "0144": {
+    "name": "Ghost Pepper",
+    "description": "The bhut jolokia: a million Scoville, a red you feel before you taste."
+  },
+  "0145": {
+    "name": "Amaranthine",
+    "description": "Unfading, like the mythical amaranth flower — a red-pink that refuses to wilt."
+  },
+  "0146": {
+    "name": "Weathered Red",
+    "description": "A door that was scarlet thirty summers ago."
+  },
+  "0147": {
+    "name": "Poppy",
+    "description": "Remembrance red, tissue-paper thin."
+  },
+  "0148": {
+    "name": "Rosy Brown",
+    "description": "Brown that remembers being pink; an X11 classic."
+  },
+  "0149": {
+    "name": "Grenadine",
+    "description": "The pomegranate syrup at the bottom of a tequila sunrise — sinks first, blushes upward."
+  },
+  "0150": {
+    "name": "Safranin",
+    "description": "The biologist's counterstain — it turns cell nuclei this alarming red under the microscope."
+  },
+  "0151": {
+    "name": "Racing Red",
+    "description": "Rosso corsa by another name: the national racing colour Italy claimed before sponsors claimed everything else."
+  },
+  "0152": {
+    "name": "Firebird",
+    "description": "The phoenix of Slavic folklore — and the Pontiac with one painted across the bonnet."
+  },
+  "0153": {
+    "name": "Fire Engine Red",
+    "description": "Painted this red so nobody can claim they didn't see it coming."
+  },
+  "0154": {
+    "name": "Fireweed",
+    "description": "The first flower to bloom on burnt ground — magenta-red rising out of ash."
+  },
+  "0155": {
+    "name": "Sriracha",
+    "description": "The rooster-bottle hot sauce; a red that escalates."
+  },
+  "0156": {
+    "name": "Red",
+    "description": "The first colour language names after black and white, in culture after culture — blood, fire, stop."
+  },
+  "0157": {
+    "name": "Marsala",
+    "description": "The fortified Sicilian wine — and a divisive Pantone Colour of the Year 2015."
+  },
+  "0158": {
+    "name": "Signal Red",
+    "description": "The exact red of official warnings — engineered to be seen, not admired."
+  },
+  "0159": {
+    "name": "Spritz",
+    "description": "Aperitivo hour in a glass: bitter orange-red over ice, best before dinner."
+  },
+  "0160": {
+    "name": "Nipple",
+    "description": "Anatomically honest rosy brown — the colour list equivalent of a life-drawing class."
+  },
+  "0161": {
+    "name": "Fire Alarm",
+    "description": "Break glass, press here: a red that interrupts."
+  },
+  "0162": {
+    "name": "Erythrosine",
+    "description": "Food colouring E127 — the red of glacé cherries and dental disclosing tablets."
+  },
+  "0163": {
+    "name": "Scarlet",
+    "description": "The red of cardinals' robes, letter-A infamy and military coats — dyed with kermes, then cochineal."
+  },
+  "0164": {
+    "name": "Neon Cherry",
+    "description": "A cherry that swallowed the sign outside the bar."
+  },
+  "0165": {
+    "name": "Impossible Red",
+    "description": "Redder than an sRGB screen can render — this one lives in the Rec2020 gamut's outer shell."
+  },
+  "0166": {
+    "name": "Tomato",
+    "description": "Vine-ripe red with orange in its blood; botanically a fruit, culinarily an argument."
+  },
+  "0167": {
+    "name": "Dusty Coral",
+    "description": "Coral that has spent a decade as a sofa cushion."
+  },
+  "0168": {
+    "name": "Grapefruit",
+    "description": "The pink-red flesh of the breakfast half, sugar optional."
+  },
+  "0169": {
+    "name": "Red Mana",
+    "description": "The colour you tap for direct damage — mountains, dragons, impulse decisions."
+  },
+  "0170": {
+    "name": "Muted Clay",
+    "description": "Terracotta with the volume knob rolled back."
+  },
+  "0171": {
+    "name": "Cinnabar",
+    "description": "Mercury sulphide, the toxic ore behind vermilion — beautiful and historically hazardous to its miners."
+  },
+  "0172": {
+    "name": "Lifebuoy",
+    "description": "The ring on the pier rail — orange-red kept bright so it can be found in a grey sea."
+  },
+  "0173": {
+    "name": "Robot Heart",
+    "description": "The warning-lamp red that blinks where a heart would be — feelings, but printed on a circuit board."
+  },
+  "0174": {
+    "name": "Coral Pink",
+    "description": "The classic reef-coral pink of mid-century bathrooms and lipsticks."
+  },
+  "0175": {
+    "name": "Nemo",
+    "description": "The clownfish who got found — orange-red with cartilage-white stripes implied."
+  },
+  "0176": {
+    "name": "Georgia Peach",
+    "description": "The state fruit at full blush — more red than a peach has any right to be."
+  },
+  "0177": {
+    "name": "Living Coral",
+    "description": "Pantone's 2019 Colour of the Year, chosen as a plea for the reefs that were bleaching white."
+  },
+  "0178": {
+    "name": "Blush Beige",
+    "description": "Foundation-counter neutral with a warm secret."
+  },
+  "0179": {
+    "name": "Glowing Coral",
+    "description": "Coral polyps under a blacklight tide."
+  },
+  "0180": {
+    "name": "Red Valerian",
+    "description": "The wall-loving wildflower that colonises cliffs and railway cuttings in coral-red drifts."
+  },
+  "0181": {
+    "name": "Koi",
+    "description": "The orange-red flash under the pond surface — ornamental carp bred for centuries in Japan."
+  },
+  "0182": {
+    "name": "Ceviche",
+    "description": "Citrus-cured fish blushing pink in lime juice — cooked by acid, not fire."
+  },
+  "0183": {
+    "name": "Salmon",
+    "description": "The fish so chromatically committed it named the colour; farmed ones have to eat their pink."
+  },
+  "0184": {
+    "name": "Dusty Pink",
+    "description": "Pink through a lace curtain that needs washing."
+  },
+  "0185": {
+    "name": "Pink Sherbet",
+    "description": "Scooped fizzy-sweet pink, paper cup included."
+  },
+  "0186": {
+    "name": "Poke Bowl",
+    "description": "Cubed raw salmon over rice — Hawaiian lunch counter pink-orange."
+  },
+  "0187": {
+    "name": "Mad Pinker",
+    "description": "A hatter, but for pink."
+  },
+  "0188": {
+    "name": "Perfect Pink",
+    "description": "The pink you mix on the third try and refuse to touch again."
+  },
+  "0189": {
+    "name": "Conch",
+    "description": "The shell's flared lip — pale coral-pink, ocean-polished; hold it up and hear the sea."
+  },
+  "0190": {
+    "name": "Angel Wing",
+    "description": "Named for the delicate pink begonia — and the paired seashells that open like wings."
+  },
+  "0191": {
+    "name": "Young Salmon",
+    "description": "A smolt-fresh salmon pink, still pale from the river."
+  },
+  "0192": {
+    "name": "Dawn Chorus",
+    "description": "The colour of the sky when the first bird refuses to let you sleep."
+  },
+  "0193": {
+    "name": "Ephemeral Red",
+    "description": "The palest tint in the red row — a red at the exact moment of vanishing."
+  },
+  "0194": {
+    "name": "Black Bean",
+    "description": "Frijoles negros before the pot: black with a red-brown gleam."
+  },
+  "0195": {
+    "name": "Dark Rust",
+    "description": "Iron oxide that has been at it for years."
+  },
+  "0196": {
+    "name": "Dark Chocolate",
+    "description": "Eighty-five percent cacao: bitter enough to be called sophisticated."
+  },
+  "0197": {
+    "name": "Henna",
+    "description": "The bridal dye — lawsone from crushed leaves, staining skin and hair red-brown for weeks."
+  },
+  "0198": {
+    "name": "Red Ochre",
+    "description": "Iron-rich earth, humanity's first paint — the red of Lascaux and every ochre pit since."
+  },
+  "0199": {
+    "name": "Burnt Brick",
+    "description": "A brick that went through the kiln twice."
+  },
+  "0200": {
+    "name": "Rosy Taupe",
+    "description": "Mole-grey warmed by a rose standing nearby."
+  },
+  "0201": {
+    "name": "Rust",
+    "description": "Iron admitting it has met water — oxidation as a colour."
+  },
+  "0202": {
+    "name": "Chilli",
+    "description": "Dried red chillies strung up to concentrate their threat."
+  },
+  "0203": {
+    "name": "Brown",
+    "description": "The colour vision science calls low-luminance orange — context does all the work."
+  },
+  "0204": {
+    "name": "Molten Rust",
+    "description": "Rust reheated to pouring temperature."
+  },
+  "0205": {
+    "name": "Terracotta",
+    "description": "Literally \"baked earth\" — the pot, the roof tile, the warrior army at Xi'an."
+  },
+  "0206": {
+    "name": "Clay",
+    "description": "Riverbank clay on the wheel, before the glaze gets a vote."
+  },
+  "0207": {
+    "name": "Burnt Orange",
+    "description": "Orange pushed to the edge of brown — claimed by two rival universities and all of autumn."
+  },
+  "0208": {
+    "name": "Blood Orange",
+    "description": "The winter citrus whose anthocyanin flush needs cold nights to develop."
+  },
+  "0209": {
+    "name": "Paprika",
+    "description": "Ground sweet peppers — Hungary's national spice and its national colour, arguably."
+  },
+  "0210": {
+    "name": "Canyon Clay",
+    "description": "Southwestern canyon walls an hour before sunset."
+  },
+  "0211": {
+    "name": "Cayenne",
+    "description": "The pepper powder measured in pinches and regretted in tablespoons."
+  },
+  "0212": {
+    "name": "Persimmon",
+    "description": "The autumn fruit that hangs on after the leaves drop — orange-red lanterns on bare branches."
+  },
+  "0213": {
+    "name": "Vermilion",
+    "description": "Ground cinnabar: the sacred red of Chinese lacquer, Roman frescoes and temple gates."
+  },
+  "0214": {
+    "name": "Flame",
+    "description": "The orange middle of the fire, between blue heart and yellow tip."
+  },
+  "0215": {
+    "name": "Rocket Red",
+    "description": "Launch-pad red-orange, felt in the sternum."
+  },
+  "0216": {
+    "name": "Cedar",
+    "description": "Freshly split cedar heartwood, aromatic and reddish."
+  },
+  "0217": {
+    "name": "Red Orange",
+    "description": "The crayon that couldn't decide and was right not to."
+  },
+  "0218": {
+    "name": "Rosy Tan",
+    "description": "A tan with circulation."
+  },
+  "0219": {
+    "name": "Adobe",
+    "description": "Sun-dried mud brick — the warm buff-orange of pueblo walls (the software came later)."
+  },
+  "0220": {
+    "name": "Orange You Glad",
+    "description": "The knock-knock punchline in pigment form — banana jokes not included."
+  },
+  "0221": {
+    "name": "Safety Orange",
+    "description": "The regulation hi-vis orange of cones, vests and hunting caps — chosen to clash with everything in nature."
+  },
+  "0222": {
+    "name": "Realgar",
+    "description": "Arsenic sulphide, the \"ruby of arsenic\" — a gorgeous orange-red mineral you should not lick."
+  },
+  "0223": {
+    "name": "Nasturtium",
+    "description": "The trailing garden flower you can eat — peppery leaves, flame-orange petals."
+  },
+  "0224": {
+    "name": "Coral",
+    "description": "The reef-builder's skeleton in its famous orange-pink; the colour keeps the name even as reefs lose it."
+  },
+  "0225": {
+    "name": "Tangerine",
+    "description": "The easy-peel citrus, named for Tangier — orange with the brightness up."
+  },
+  "0226": {
+    "name": "Mushroom",
+    "description": "Field-mushroom cap: greige with an earthy pink underside."
+  },
+  "0227": {
+    "name": "Chanterelle",
+    "description": "The apricot-scented golden mushroom foragers won't tell you the location of."
+  },
+  "0228": {
+    "name": "Minium",
+    "description": "Red lead — the pigment of mediaeval manuscript rubrics, whence \"miniature\"."
+  },
+  "0229": {
+    "name": "Fire Coral",
+    "description": "The stinging reef organism that is not quite coral and not quite polite."
+  },
+  "0230": {
+    "name": "Cantaloupe",
+    "description": "Melon-ball orange, scooped on a hot day."
+  },
+  "0231": {
+    "name": "Tiger of Mysore",
+    "description": "Tipu Sultan, who faced the East India Company with rockets and a mechanical tiger — burning orange remembered."
+  },
+  "0232": {
+    "name": "Gorgonian",
+    "description": "The sea fan — a coral relative spreading like orange lace in the current."
+  },
+  "0233": {
+    "name": "Coralistic",
+    "description": "Coral, but as a lifestyle."
+  },
+  "0234": {
+    "name": "Tabby",
+    "description": "The marmalade cat asleep in the one sunbeam."
+  },
+  "0235": {
+    "name": "Bisque",
+    "description": "Lobster-shell soup and unglazed porcelain share this warm pale orange — both called bisque."
+  },
+  "0236": {
+    "name": "Highland Cow",
+    "description": "The rusty-orange fringe of Scotland's shaggiest export, peering through its own hair."
+  },
+  "0237": {
+    "name": "Nectarine",
+    "description": "A peach that shaved."
+  },
+  "0238": {
+    "name": "Juicy Peach",
+    "description": "The one you eat over the sink."
+  },
+  "0239": {
+    "name": "Discreet Orange",
+    "description": "Orange trying not to draw attention to itself — and, being orange, failing gracefully."
+  },
+  "0240": {
+    "name": "Corgi",
+    "description": "The Queen's dog in its official orange-cream coat, short legs implied."
+  },
+  "0241": {
+    "name": "First Light",
+    "description": "The sky's first warm answer to the night shift."
+  },
+  "0242": {
+    "name": "Madeleine",
+    "description": "The shell-shaped sponge cake that unlocked Proust's entire childhood — pale golden with a browned edge."
+  },
+  "0243": {
+    "name": "Alpenglow",
+    "description": "The rose-orange light on mountain peaks after the sun has left the valley — a real optical phenomenon with a German name."
+  },
+  "0244": {
+    "name": "Black Coffee",
+    "description": "No milk, no sugar, no negotiation."
+  },
+  "0245": {
+    "name": "Bean There Done That",
+    "description": "Espresso-dark smugness; the pun forgives the caffeine dependency."
+  },
+  "0246": {
+    "name": "Molasses",
+    "description": "The slow dark syrup left when sugar is done crystallising."
+  },
+  "0247": {
+    "name": "Burnt Umber",
+    "description": "Umber earth from Umbria, roasted to deepen — on every palette since the Baroque."
+  },
+  "0248": {
+    "name": "Cold Brew",
+    "description": "Coffee steeped patient and dark, served over conviction."
+  },
+  "0249": {
+    "name": "Saddle Brown",
+    "description": "Tack-room leather, oiled and ridden; an X11 stalwart."
+  },
+  "0250": {
+    "name": "Russet",
+    "description": "The rough reddish-brown of homespun cloth and heritage apples — mediaeval England's working colour."
+  },
+  "0251": {
+    "name": "Coffee",
+    "description": "With a splash of milk, if the pot is honest."
+  },
+  "0252": {
+    "name": "Cinnamon",
+    "description": "The inner bark of a Sri Lankan tree, rolled and ground into warm brown-red."
+  },
+  "0253": {
+    "name": "Mocha",
+    "description": "Coffee met chocolate, named for a Yemeni port that shipped both directions of brown."
+  },
+  "0254": {
+    "name": "Gingerbread",
+    "description": "The structural cookie — brown enough to be architecture."
+  },
+  "0255": {
+    "name": "Churro",
+    "description": "Fried dough dragged through cinnamon sugar — fairground brown-gold with ridges."
+  },
+  "0256": {
+    "name": "Toffee",
+    "description": "Butter and sugar taken exactly far enough."
+  },
+  "0257": {
+    "name": "Fulvous",
+    "description": "The naturalist's word for tawny — used almost exclusively for ducks and the people who watch them."
+  },
+  "0258": {
+    "name": "Caramel",
+    "description": "Sugar past its melting point, one shade before regret."
+  },
+  "0259": {
+    "name": "Copper",
+    "description": "The only metal that is orange on purpose — pipes, pennies and pre-patina domes."
+  },
+  "0260": {
+    "name": "Hazelnut",
+    "description": "The shell of the nut the dormouse is sleeping in."
+  },
+  "0261": {
+    "name": "Marmalade",
+    "description": "Seville oranges boiled bitter-bright, spread on toast."
+  },
+  "0262": {
+    "name": "Orange",
+    "description": "The fruit named the colour — before oranges reached Europe, English simply said yellow-red."
+  },
+  "0263": {
+    "name": "Butterscotch",
+    "description": "Brown sugar and butter — the hard candy in every grandparent's dish."
+  },
+  "0264": {
+    "name": "Smashing Pumpkins",
+    "description": "The band, the Halloween aftermath, and this orange — all three at once."
+  },
+  "0265": {
+    "name": "Cadmium Orange",
+    "description": "The opaque powerhouse of the paint box — cadmium sulfoselenide, brilliant and slightly notorious."
+  },
+  "0266": {
+    "name": "Papaya",
+    "description": "Tropical flesh orange with a scent that divides households."
+  },
+  "0267": {
+    "name": "Kumquat",
+    "description": "The citrus you eat whole, peel and all — a mouthful of orange contradiction."
+  },
+  "0268": {
+    "name": "Tangerine Tango",
+    "description": "Pantone's 2012 Colour of the Year — citrus taught to dance."
+  },
+  "0269": {
+    "name": "Clementine",
+    "description": "The Christmas-stocking citrus: seedless, easy-peeling, gone by Boxing Day."
+  },
+  "0270": {
+    "name": "Butternut",
+    "description": "The squash halved to reveal its dense orange interior."
+  },
+  "0271": {
+    "name": "Blushing Cinnamon",
+    "description": "Cinnamon caught being complimented."
+  },
+  "0272": {
+    "name": "Polly",
+    "description": "The parrot that wants a cracker — peach-feathered variety."
+  },
+  "0273": {
+    "name": "Gentle Caress",
+    "description": "A peach tone applied at the pressure of a compliment."
+  },
+  "0274": {
+    "name": "Dark Bronze",
+    "description": "Statue bronze in the museum's worst-lit corridor."
+  },
+  "0275": {
+    "name": "Truffle",
+    "description": "The black diggable kind — dark earthy brown, priced like contraband."
+  },
+  "0276": {
+    "name": "Bronzite",
+    "description": "A bronze-lustred pyroxene mineral that glints like the metal it is named for."
+  },
+  "0277": {
+    "name": "Sunken Gold",
+    "description": "Doubloons under two centuries of seawater — gold that gave up its shine but not its value."
+  },
+  "0278": {
+    "name": "Maple",
+    "description": "Syrup grade: amber, dark, very dark — this one is pancake-ready."
+  },
+  "0279": {
+    "name": "Honey Bronze",
+    "description": "Bronze cut with honey; a medal for third place in summer."
+  },
+  "0280": {
+    "name": "Sandalwood",
+    "description": "The fragrant carving wood whose scent lasts decades — warm grey-brown."
+  },
+  "0281": {
+    "name": "Old Gold",
+    "description": "Gilding that has stopped trying — the heraldic gold of faded banners."
+  },
+  "0282": {
+    "name": "Deep Saffron",
+    "description": "Saffron threads packed dense — the deep orange of the spice at quantity."
+  },
+  "0283": {
+    "name": "Camel",
+    "description": "The coat, not the animal — though the animal supplied the reference."
+  },
+  "0284": {
+    "name": "Orpiment",
+    "description": "Golden arsenic sulphide — mediaeval illuminators risked their health for this yellow-orange."
+  },
+  "0285": {
+    "name": "Harvest Gold",
+    "description": "The avocado-adjacent appliance colour of 1970s kitchens, unrepentant."
+  },
+  "0286": {
+    "name": "Honey",
+    "description": "Runny, backlit on the breakfast table."
+  },
+  "0287": {
+    "name": "Marigold",
+    "description": "The cempasúchil of Día de los Muertos — petals bright enough to guide the departed home."
+  },
+  "0288": {
+    "name": "Tan",
+    "description": "From tannin-cured leather — the colour of the tanner's trade."
+  },
+  "0289": {
+    "name": "Golden Orange",
+    "description": "Orange with a good credit rating."
+  },
+  "0290": {
+    "name": "Golden Sand",
+    "description": "The beach in the brochure, warm underfoot."
+  },
+  "0291": {
+    "name": "Saffron",
+    "description": "The world's most expensive spice by weight — three crocus stigmas at a time."
+  },
+  "0292": {
+    "name": "Warm Sand",
+    "description": "The beach at four in the afternoon, holding the day's heat."
+  },
+  "0293": {
+    "name": "Burning Flame",
+    "description": "The bright middle of the campfire, seen through squinted eyes."
+  },
+  "0294": {
+    "name": "Golden Hour",
+    "description": "The photographer's favourite sixty minutes, when everything is briefly flattering."
+  },
+  "0295": {
+    "name": "Golden Straw",
+    "description": "The bale at the end of harvest, catching low sun."
+  },
+  "0296": {
+    "name": "Aureolin",
+    "description": "Cobalt yellow — a transparent painter's yellow with a saint's-halo name."
+  },
+  "0297": {
+    "name": "Wheat",
+    "description": "The field a week before harvest; an X11 classic."
+  },
+  "0298": {
+    "name": "Golden Halo",
+    "description": "The gilded ring in every icon painting — sainthood as a colour."
+  },
+  "0299": {
+    "name": "Buttercream",
+    "description": "Icing whipped with enough butter to blur the line between frosting and dessert."
+  }
 }
