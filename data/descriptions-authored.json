@@ -5599,6 +5599,606 @@
     "name": "Light Clover",
     "description": "Clover in its lightest patch."
   },
+  "2400": {
+    "name": "Whip Snake",
+    "description": "The slender green whip of the treetops — a snake at fast-forward."
+  },
+  "2401": {
+    "name": "Fresh Cut Grass",
+    "description": "The smell everyone loves is actually a distress signal — grass chemically shouting for help, gorgeously."
+  },
+  "2402": {
+    "name": "Luna Moth",
+    "description": "The pale green moon of moths — no mouth, one week, all beauty."
+  },
+  "2403": {
+    "name": "Radioactive Frog",
+    "description": "An amphibian with a superhero origin story — glowing green, bitten by nothing."
+  },
+  "2404": {
+    "name": "Melon Rind",
+    "description": "The stripe between flesh and field — watermelon's green armour."
+  },
+  "2405": {
+    "name": "Day Gecko",
+    "description": "The Madagascar gecko in day-glo green — active hours, loud opinions."
+  },
+  "2406": {
+    "name": "Astroturf",
+    "description": "Grass by the roll, mud never — stadium green with seams."
+  },
+  "2407": {
+    "name": "Soft Sprout",
+    "description": "A sprout speaking softly."
+  },
+  "2408": {
+    "name": "Ecto Cooler",
+    "description": "The Ghostbusters juice box of the 90s — Slimer green, discontinued, mourned."
+  },
+  "2409": {
+    "name": "Chia Pet",
+    "description": "The terracotta pet that grows its own fur — ch-ch-ch-chia green."
+  },
+  "2410": {
+    "name": "Leafhopper",
+    "description": "The sap-sipping speck that leaps a hundred body-lengths — lawn glitter in green."
+  },
+  "2411": {
+    "name": "Green Sparkle",
+    "description": "Green with its own glitter budget."
+  },
+  "2412": {
+    "name": "Flora",
+    "description": "The plant kingdom, comprehensively — green by taxonomy."
+  },
+  "2413": {
+    "name": "Light Neon Green",
+    "description": "Neon green with milk."
+  },
+  "2414": {
+    "name": "Tundra",
+    "description": "The treeless mossy north — green surviving on permafrost."
+  },
+  "2415": {
+    "name": "Kakariki",
+    "description": "The New Zealand parakeet — kākāriki means green, which settles it."
+  },
+  "2416": {
+    "name": "Reindeer Lichen",
+    "description": "The pale lichen reindeer dig through snow for — arctic mint by the antler-load."
+  },
+  "2417": {
+    "name": "Peace Lily",
+    "description": "The white-flagged office plant that droops theatrically when thirsty."
+  },
+  "2418": {
+    "name": "Black Spruce",
+    "description": "The boreal spruce of muskeg bogs — green-black and slow."
+  },
+  "2419": {
+    "name": "Nightmare",
+    "description": "The forest in the dream where the path disappears."
+  },
+  "2420": {
+    "name": "Lindworm Green",
+    "description": "The wingless dragon of Norse carvings — coiled green on runestones."
+  },
+  "2421": {
+    "name": "Hunter Shadow",
+    "description": "The hunter, seen only as absence."
+  },
+  "2422": {
+    "name": "Nori",
+    "description": "The pressed seaweed of sushi rolls — black-green sheets, ocean umami."
+  },
+  "2423": {
+    "name": "Dark Shamrock",
+    "description": "Shamrock past the pub lights."
+  },
+  "2424": {
+    "name": "Evergreen Depths",
+    "description": "Evergreen with a depth gauge."
+  },
+  "2425": {
+    "name": "Lost in the Woods",
+    "description": "The point where every tree looks the same — green with no north."
+  },
+  "2426": {
+    "name": "Bristlecone",
+    "description": "The oldest living trees — five millennia of twisted green on the treeline."
+  },
+  "2427": {
+    "name": "Zucchini",
+    "description": "The courgette by its Italian passport — green marrow either way."
+  },
+  "2428": {
+    "name": "Woodland Green",
+    "description": "The green of managed woods — coppice, path, dappled protocol."
+  },
+  "2429": {
+    "name": "Boxwood",
+    "description": "The hedge of formal gardens — clipped green architecture with a scent people argue about."
+  },
+  "2430": {
+    "name": "Poker Table",
+    "description": "Green baize under low lamps — cards up, tells hidden."
+  },
+  "2431": {
+    "name": "Blarney",
+    "description": "The Irish castle stone you kiss upside-down for eloquence — green with a queue."
+  },
+  "2432": {
+    "name": "Quaker Parrot",
+    "description": "The green monk parakeet that builds apartment-block nests on power poles."
+  },
+  "2433": {
+    "name": "Gemstone Green",
+    "description": "Green with a certificate of authenticity."
+  },
+  "2434": {
+    "name": "Bold Irish",
+    "description": "Irish green with the collar up."
+  },
+  "2435": {
+    "name": "Primal Green",
+    "description": "Green from before the agriculture."
+  },
+  "2436": {
+    "name": "Xanadu",
+    "description": "Coleridge's pleasure dome — and the grey-green Crayola named after it."
+  },
+  "2437": {
+    "name": "Paolo Veronese Green",
+    "description": "The Venetian master's signature green — Veronese by name and palette."
+  },
+  "2438": {
+    "name": "Snooker",
+    "description": "The twenty-two ball game on six pockets of green — snookered is a place on this table."
+  },
+  "2439": {
+    "name": "Origami Frog",
+    "description": "One square of paper, forty folds, one green frog."
+  },
+  "2440": {
+    "name": "Impossible Shamrock",
+    "description": "A shamrock your screen can't quite render — wide-gamut luck."
+  },
+  "2441": {
+    "name": "Bejewelled",
+    "description": "Green in its jewelled setting."
+  },
+  "2442": {
+    "name": "Matt Green",
+    "description": "Green with the gloss removed."
+  },
+  "2443": {
+    "name": "Pandan",
+    "description": "The fragrant leaf that dyes Southeast Asian desserts green — vanilla's tropical rival."
+  },
+  "2444": {
+    "name": "Green Mana",
+    "description": "The forest's share of the mana pool — tap for growth."
+  },
+  "2445": {
+    "name": "Hole in One",
+    "description": "One swing, one cup, one very green celebration."
+  },
+  "2446": {
+    "name": "Nephrite",
+    "description": "The tougher of the two true jades — Māori taonga and Chinese carving stone."
+  },
+  "2447": {
+    "name": "Budgerigar",
+    "description": "The budgie at full wild-type green — Australia's pocket parrot."
+  },
+  "2448": {
+    "name": "Sea Mint",
+    "description": "Mint gone to sea and liking the salt."
+  },
+  "2449": {
+    "name": "Ikebana",
+    "description": "The Japanese art of arranging almost nothing, perfectly — green with negative space."
+  },
+  "2450": {
+    "name": "Spearmint Tide",
+    "description": "Spearmint on the flood tide."
+  },
+  "2451": {
+    "name": "Soft Sea Green",
+    "description": "Sea green with the edges felted."
+  },
+  "2452": {
+    "name": "Muzo",
+    "description": "The Colombian valley that produces the world's greenest emeralds — Muzo grade means this."
+  },
+  "2453": {
+    "name": "Spearmint Rush",
+    "description": "Spearmint at rush hour."
+  },
+  "2454": {
+    "name": "Peridot",
+    "description": "August's birthstone — the only gem formed in the mantle and delivered by volcano."
+  },
+  "2455": {
+    "name": "Vegetation",
+    "description": "Everything photosynthesising, collectively."
+  },
+  "2456": {
+    "name": "Esmeralda",
+    "description": "Emerald with a telenovela name."
+  },
+  "2457": {
+    "name": "Dusty Spearmint",
+    "description": "Spearmint gone to seed."
+  },
+  "2458": {
+    "name": "Zamboni",
+    "description": "The machine that irons the ice between periods — mint-white lanes behind it."
+  },
+  "2459": {
+    "name": "Spearmint Overdrive",
+    "description": "Spearmint past the speed limit."
+  },
+  "2460": {
+    "name": "Julep",
+    "description": "Crushed ice, bourbon, and a sprig — the Derby's minted silver cup."
+  },
+  "2461": {
+    "name": "Pistachio Gelato",
+    "description": "Sicilian pistachio churned pale green — the gelato that tests a gelateria."
+  },
+  "2462": {
+    "name": "Spearmint Laser",
+    "description": "Spearmint at laser wattage."
+  },
+  "2463": {
+    "name": "Yerba Buena",
+    "description": "The 'good herb' of Cuban mojitos — mint by its Havana name."
+  },
+  "2464": {
+    "name": "Terrapin",
+    "description": "The pond turtle sunning on a log — olive-green patience."
+  },
+  "2465": {
+    "name": "Spearmint Punch",
+    "description": "Spearmint with a right cross."
+  },
+  "2466": {
+    "name": "Spindrift",
+    "description": "The spray blown from wave crests — green-white and airborne."
+  },
+  "2467": {
+    "name": "Green Room",
+    "description": "The inside of a barrelling wave — surfing's green cathedral."
+  },
+  "2468": {
+    "name": "Greenest Green",
+    "description": "The superlative settled by saturation alone."
+  },
+  "2469": {
+    "name": "Vaporwave",
+    "description": "The aesthetic of marble busts and mall soundtracks slowed 500% — mint-teal by decree."
+  },
+  "2470": {
+    "name": "Bora Bora",
+    "description": "The lagoon-ringed volcano of French Polynesia — honeymoon teal."
+  },
+  "2471": {
+    "name": "Microgreens",
+    "description": "The seedlings harvested at first leaves — pea-shoot green by the punnet."
+  },
+  "2472": {
+    "name": "Sea Lettuce",
+    "description": "The bright green sheets of tide pools — salad by literal name."
+  },
+  "2473": {
+    "name": "Plankton Bloom",
+    "description": "The spring explosion of microscopic life that feeds everything — green visible from orbit."
+  },
+  "2474": {
+    "name": "Chlorella",
+    "description": "The single-celled green supplement — smoothie chlorophyll by the scoop."
+  },
+  "2475": {
+    "name": "Experimintal Green",
+    "description": "Mint in the test chamber — results pending."
+  },
+  "2476": {
+    "name": "Mermaid Tail",
+    "description": "The iridescent green-teal of the myth's business end."
+  },
+  "2477": {
+    "name": "Tic Tac",
+    "description": "The two-calorie mint that clicks — fresh green by the flip-top box."
+  },
+  "2478": {
+    "name": "Pea Shoot",
+    "description": "The pea's green apostrophe — stir-fry's tender curl."
+  },
+  "2479": {
+    "name": "Ectoplasm",
+    "description": "The slime Egon warned about — Slimer's green residue."
+  },
+  "2480": {
+    "name": "Photosynthesis",
+    "description": "Light in, sugar out — the green reaction running the biosphere."
+  },
+  "2481": {
+    "name": "Lacewing",
+    "description": "The gauze-winged aphid assassin — pale green with golden eyes."
+  },
+  "2482": {
+    "name": "Glacier Mint",
+    "description": "The polar-bear mint of British sweet tins — pale green, glacier by name."
+  },
+  "2483": {
+    "name": "Mint Chip",
+    "description": "The ice cream flecked dark — mint with chocolate shrapnel."
+  },
+  "2484": {
+    "name": "Blackn’t",
+    "description": "Black, but green about it — the contradiction stands."
+  },
+  "2485": {
+    "name": "Queen of Trees",
+    "description": "The oldest tree in the wood — moss to the crown."
+  },
+  "2486": {
+    "name": "Deep Rainforest",
+    "description": "Rainforest below the canopy line."
+  },
+  "2487": {
+    "name": "Panther",
+    "description": "The melanistic big cat — green-black with eyes that close last."
+  },
+  "2488": {
+    "name": "Basilisk",
+    "description": "The lizard king whose stare turned travellers to stone — green with legal disclaimers."
+  },
+  "2489": {
+    "name": "Jewel",
+    "description": "The stone at the centre of the setting."
+  },
+  "2490": {
+    "name": "Into the Green",
+    "description": "The walk that ends greener than it began."
+  },
+  "2491": {
+    "name": "Anole",
+    "description": "The little American lizard that does push-ups on fences — green with a pink dewlap."
+  },
+  "2492": {
+    "name": "Piranha",
+    "description": "The river fish of exaggerated reputation — teal-green water, efficient teeth."
+  },
+  "2493": {
+    "name": "Calathea",
+    "description": "The prayer-plant cousin with painted leaves — green art, folds at night."
+  },
+  "2494": {
+    "name": "Spruce Green",
+    "description": "Spruce in its green Sunday best."
+  },
+  "2495": {
+    "name": "Pothos",
+    "description": "The unkillable trailing office plant — devil's ivy by nickname, green by default."
+  },
+  "2496": {
+    "name": "Dusty Viridian",
+    "description": "Viridian gone matte."
+  },
+  "2497": {
+    "name": "Air Plant",
+    "description": "The tillandsia that lives on air and mist — no soil, all green."
+  },
+  "2498": {
+    "name": "Watering Can",
+    "description": "Galvanised green duty — the long-spouted friend of allotments."
+  },
+  "2499": {
+    "name": "String of Pearls",
+    "description": "The trailing succulent of hanging baskets — green beads on threads."
+  },
+  "2500": {
+    "name": "Bitter Melon",
+    "description": "The warty gourd that bitters Asian soups — jade green, acquired taste."
+  },
+  "2501": {
+    "name": "Trade Winds",
+    "description": "The steady easterlies that powered the age of sail — teal water, following sea."
+  },
+  "2502": {
+    "name": "Echeveria",
+    "description": "The rosette succulent in dusty jade — windowsill geometry."
+  },
+  "2503": {
+    "name": "Turtle Cove",
+    "description": "The bay where the shells surface — teal shallows, slow traffic."
+  },
+  "2504": {
+    "name": "Bonaire",
+    "description": "The diver's island of the Dutch Caribbean — reef teal by shore entry."
+  },
+  "2505": {
+    "name": "Coastal Jade",
+    "description": "Jade with a sea view."
+  },
+  "2506": {
+    "name": "Cozumel",
+    "description": "The Mexican island of drift dives — teal current included."
+  },
+  "2507": {
+    "name": "Hawksbill",
+    "description": "The critically endangered turtle with the tortoiseshell — teal water, amber shell."
+  },
+  "2508": {
+    "name": "Zip Line",
+    "description": "Clipped in, screaming politely — canopy teal at speed."
+  },
+  "2509": {
+    "name": "Macau",
+    "description": "The casino peninsula — teal harbour, gold tables."
+  },
+  "2510": {
+    "name": "Dusty Aquamarine",
+    "description": "Aquamarine gone soft with haze."
+  },
+  "2511": {
+    "name": "Radiant Caribbean",
+    "description": "The Caribbean at full wattage."
+  },
+  "2512": {
+    "name": "Fern Gully",
+    "description": "The 1992 rainforest fable — fairy green with a logging subplot."
+  },
+  "2513": {
+    "name": "Bromeliad",
+    "description": "The tank plant of the rainforest — a rosette that holds its own pond."
+  },
+  "2514": {
+    "name": "Windward",
+    "description": "Toward the wind — the teal side of the island."
+  },
+  "2515": {
+    "name": "Ultra Caribbean",
+    "description": "Caribbean past the brochure."
+  },
+  "2516": {
+    "name": "Glacial Lagoon",
+    "description": "The lagoon a glacier left as a tip."
+  },
+  "2517": {
+    "name": "Algae Bloom",
+    "description": "The green tide when the water over-fertilises — beautiful, suffocating."
+  },
+  "2518": {
+    "name": "Peppy Peacock",
+    "description": "A peacock on its best day."
+  },
+  "2519": {
+    "name": "Hot Spring",
+    "description": "Geothermal teal at soaking temperature."
+  },
+  "2520": {
+    "name": "Silfra",
+    "description": "The Icelandic fissure between continents — visibility one hundred metres, teal."
+  },
+  "2521": {
+    "name": "Noctiluca",
+    "description": "The sea sparkle plankton — night surf lit teal-green by the disturbed."
+  },
+  "2522": {
+    "name": "Peppermint Patty",
+    "description": "Peppermint's chocolate-covered patty — the York kind, mint teal inside."
+  },
+  "2523": {
+    "name": "Glacier Glow",
+    "description": "A glacier with inner light."
+  },
+  "2524": {
+    "name": "Icecap",
+    "description": "The frozen crown of the world — teal-white and shrinking."
+  },
+  "2525": {
+    "name": "Paraiba",
+    "description": "The neon-teal tourmaline of Brazil — copper-lit, priced like real estate."
+  },
+  "2526": {
+    "name": "Comb Jelly",
+    "description": "The ctenophore that rows with rainbow cilia — a jelly running lights."
+  },
+  "2527": {
+    "name": "Cucumber Water",
+    "description": "The spa jug with the floating slices — hydration's pale teal."
+  },
+  "2528": {
+    "name": "Message in a Bottle",
+    "description": "S.O.S. or a love note — teal glass, cork, patience."
+  },
+  "2529": {
+    "name": "Kelpie",
+    "description": "The shape-shifting water horse of Scottish lochs — do not accept the ride."
+  },
+  "2530": {
+    "name": "Vivarium",
+    "description": "An ecosystem with a lid — teal-green under glass."
+  },
+  "2531": {
+    "name": "Deep Sea Slate",
+    "description": "Slate at snorkel depth."
+  },
+  "2532": {
+    "name": "Loch",
+    "description": "The long Scottish lake — teal-dark, monster optional."
+  },
+  "2533": {
+    "name": "Everglade Teal",
+    "description": "The river of grass in its teal register."
+  },
+  "2534": {
+    "name": "Brackish",
+    "description": "Half salt, half fresh, fully teal — estuary water's compromise."
+  },
+  "2535": {
+    "name": "Tidal Pool",
+    "description": "The rock pool the tide forgot to take back."
+  },
+  "2536": {
+    "name": "Juniper Sea",
+    "description": "Juniper gone to sea."
+  },
+  "2537": {
+    "name": "Grey Teal",
+    "description": "Teal in its grey flannel."
+  },
+  "2538": {
+    "name": "Green Moray",
+    "description": "The green eel grinning from the reef crevice — second jaws included, famously."
+  },
+  "2539": {
+    "name": "Raku",
+    "description": "The Japanese glaze fired fast and pulled glowing — teal crackle by controlled accident."
+  },
+  "2540": {
+    "name": "Tealstone",
+    "description": "Teal set in stone, quarry-certified."
+  },
+  "2541": {
+    "name": "Undine",
+    "description": "The water spirit of European wells — teal-eyed, contractually complicated."
+  },
+  "2542": {
+    "name": "Majolica",
+    "description": "The tin-glazed pottery of Renaissance Italy — teal on white, painted fast."
+  },
+  "2543": {
+    "name": "Springboard",
+    "description": "The board that adds bounce to the dive — teal flex."
+  },
+  "2544": {
+    "name": "Cue Chalk",
+    "description": "The blue cube that keeps the tip honest — snooker's teal dust."
+  },
+  "2545": {
+    "name": "Island Teal",
+    "description": "Teal on island time."
+  },
+  "2546": {
+    "name": "Faded Aqua",
+    "description": "Aqua left in the sun."
+  },
+  "2547": {
+    "name": "Flume",
+    "description": "The log ride's teal chute — splash guaranteed."
+  },
+  "2548": {
+    "name": "Cyan Reef",
+    "description": "Cyan with coral tenants."
+  },
+  "2549": {
+    "name": "Test Pattern",
+    "description": "The broadcast bars before the show — cyan's official test slot."
+  },
   "0000": {
     "name": "Black",
     "description": "The complete absorption of visible light — though this one, like every black a screen can show, keeps a whisper of blue in it."
