@@ -144,6 +144,7 @@
   "1619": "Sepia",
   "1623": "Monarch",
   "1626": "Combat Boot",
+  "1629": "Golden Syrup",
   "1632": "Amber",
   "1634": "Cargo Pants",
   "1636": "Fatigues",
@@ -355,6 +356,7 @@
   "2236": "Membrillo",
   "2238": "Physalis",
   "2239": "Sandbar",
+  "2244": "Kiln",
   "2245": "Biscotti",
   "2250": "Loquat",
   "2251": "Mango Lassi",
@@ -362,6 +364,8 @@
   "2253": "Fuzzy Navel",
   "2254": "Prawn Cracker",
   "2255": "Wafer",
+  "2264": "Propolis",
+  "2268": "Barley Sugar",
   "2277": "Brioche",
   "2278": "Croissant",
   "2281": "Bog Oak",
@@ -1025,5 +1029,6 @@
   "0186": "Poke Bowl",
   "0112": "Upstream",
   "0714": "Whitecap",
-  "0507": "Splat"
+  "0507": "Splat",
+  "0278": "Maple"
 }
