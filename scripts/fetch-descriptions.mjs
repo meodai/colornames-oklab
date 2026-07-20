@@ -23,6 +23,16 @@ const limit = limitArg > -1 ? +process.argv[limitArg + 1] : Infinity;
 const MAX_LEN = 320;
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+// "Black is a color that…" under a swatch called Black is redundant — drop
+// the leading "<Name> is/are/was/were" and start with the substance.
+export const dropLeadingName = (name, text) => {
+  const esc = name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const re = new RegExp(`^(?:The )?${esc}(?:,[^.]{0,80},)? (?:is|are|was|were) `, 'i');
+  const stripped = text.replace(re, '');
+  if (stripped === text) return text;
+  return stripped.charAt(0).toUpperCase() + stripped.slice(1);
+};
+
 const firstSentences = (text) => {
   const clean = text.replace(/\[\d+\]/g, '').replace(/\s+/g, ' ').trim();
   if (clean.length <= MAX_LEN) return clean;
@@ -59,7 +69,7 @@ for (let i = 0; i < list.length && fetched < limit; i++) {
     await sleep(40);
   }
   if (extract) {
-    out[id] = { name, description: firstSentences(extract), source: 'wikipedia' };
+    out[id] = { name, description: firstSentences(dropLeadingName(name, extract)), source: 'wikipedia' };
     fetched++;
     if (fetched % 25 === 0) {
       writeFileSync(outPath, JSON.stringify(out, null, 2) + '\n');
