@@ -1056,7 +1056,7 @@
 {"name":"Indigo Ink","tier":"srgb","hex":"#1b147f","oklab":[0.3013,0.0081,-0.1663]},
 {"name":"Void Violet","tier":"rec2020","hex":"#2a0086","oklab":[0.3056,0.0377,-0.1946]},
 {"name":"Eclipse","tier":"srgb","hex":"#272968","oklab":[0.3181,0.0136,-0.1076]},
-{"name":"Kind of Blue","tier":"srgb","hex":"#27237e","oklab":[0.3286,0.0165,-0.1461]},
+{"name":"Muted Trumpet","tier":"srgb","hex":"#27237e","oklab":[0.3286,0.0165,-0.1461]},
 {"name":"Crepuscule","tier":"srgb","hex":"#353756","oklab":[0.3499,0.0101,-0.0529]},
 {"name":"After Hours","tier":"srgb","hex":"#36297f","oklab":[0.3532,0.0326,-0.1347]},
 {"name":"Deep Blue","tier":"srgb","hex":"#2801b1","oklab":[0.36,0.0128,-0.2282]},
