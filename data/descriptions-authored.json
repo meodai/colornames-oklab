@@ -10399,6 +10399,606 @@
     "name": "Blue Burst",
     "description": "Blue at detonation, shrapnel still airborne."
   },
+  "3600": {
+    "name": "Sub-Zero",
+    "description": "The Lin Kuei's ice specialist — blue mask, finish him forecast."
+  },
+  "3601": {
+    "name": "Walrus",
+    "description": "Tusks, blubber and committee naps — blue-grey at haul-out density."
+  },
+  "3602": {
+    "name": "Cousteau",
+    "description": "The red-capped captain of the Calypso — this is the blue he filmed."
+  },
+  "3603": {
+    "name": "Glacier",
+    "description": "Ice on a geological schedule — blue where it compresses, calving on its own terms."
+  },
+  "3604": {
+    "name": "Blue Mana",
+    "description": "The island's blue tithe — tap for counterspells."
+  },
+  "3605": {
+    "name": "Ghost",
+    "description": "The tenant who never signed — blue-grey, walks through the dispute."
+  },
+  "3606": {
+    "name": "Black Wash",
+    "description": "Miniature-painter's shadow trick — black thinned to settle in the cracks."
+  },
+  "3607": {
+    "name": "Dark Moon",
+    "description": "The moon on its unlit business — blue-black, tide still owed."
+  },
+  "3608": {
+    "name": "Sunken Ship",
+    "description": "Ribs in the sand and one patient octopus — blue-black, ballast ledger."
+  },
+  "3609": {
+    "name": "Piano Black",
+    "description": "Lacquer polished past its own reflection — black, fingerprint magnet."
+  },
+  "3610": {
+    "name": "Black Pearl",
+    "description": "The pearl the oyster made overnight — blue-black nacre, freighter negotiable."
+  },
+  "3611": {
+    "name": "Black Box",
+    "description": "The recorder that survives the fall — blue-black by paint, orange by fact."
+  },
+  "3612": {
+    "name": "Dark Soul",
+    "description": "Praise the bonfire — blue-black, death counter humble."
+  },
+  "3613": {
+    "name": "Night Shift",
+    "description": "The screen's amber apology at 22:00 — this blue is what it removes."
+  },
+  "3614": {
+    "name": "Shuriken",
+    "description": "The star thrown before the question — blue-black steel, ninja invoice."
+  },
+  "3615": {
+    "name": "Blue Whale",
+    "description": "The largest heart that ever beat — blue-grey, krill by the tonne."
+  },
+  "3616": {
+    "name": "Capital Blue",
+    "description": "Blue with a treasury behind it."
+  },
+  "3617": {
+    "name": "Bonne Nuit",
+    "description": "Good night by French billing — blue-black, shutters latched."
+  },
+  "3618": {
+    "name": "Dragonfly",
+    "description": "Four wings, hover rights, Cretaceous seniority — blue-black gloss."
+  },
+  "3619": {
+    "name": "Pi",
+    "description": "The ratio that never resolves — blue-black, digits still arriving."
+  },
+  "3620": {
+    "name": "Bluedgeons",
+    "description": "Blue with blunt-force wordplay."
+  },
+  "3621": {
+    "name": "Slow Jam",
+    "description": "The playlist's velvet hour — blue-black, tempo at heart rate."
+  },
+  "3622": {
+    "name": "Galaxy Blue",
+    "description": "The corporate colour of everything ending in -verse — deep blue, stars comped."
+  },
+  "3623": {
+    "name": "Slumber",
+    "description": "The third snooze, taken seriously — blue-black, duvet sovereignty."
+  },
+  "3624": {
+    "name": "Assassin",
+    "description": "The contract in blue-black — blade unremarked, exit clean."
+  },
+  "3625": {
+    "name": "Inkjet",
+    "description": "The cartridge's ransom price — blue-black by the millilitre."
+  },
+  "3626": {
+    "name": "Juggernaut",
+    "description": "Momentum given a name — blue-black, unstoppable filed under fact."
+  },
+  "3627": {
+    "name": "St. Tropaz",
+    "description": "The Riviera resort in web-safe spelling — blue with a typo tan."
+  },
+  "3628": {
+    "name": "Saltwater Denim",
+    "description": "Jeans that shipped before the mast — blue, salt-faded honest."
+  },
+  "3629": {
+    "name": "Sailor",
+    "description": "Blue with a collar to match — knots certified, shore leave pending."
+  },
+  "3630": {
+    "name": "Giant Squid",
+    "description": "The eyes the size of dinner plates — blue-black at sperm-whale depth."
+  },
+  "3631": {
+    "name": "Nightly Activities",
+    "description": "Blue-black with plausible deniability — the calendar just says busy."
+  },
+  "3632": {
+    "name": "Intergalactic",
+    "description": "Planetary, and the Beastie Boys said it robotically — blue-black transit."
+  },
+  "3633": {
+    "name": "Cry Me a River",
+    "description": "Timberlake's 2002 flood warning — blue, bridge and all."
+  },
+  "3634": {
+    "name": "Into the Blue",
+    "description": "The dive brief in two words — blue, weightless past the shelf."
+  },
+  "3635": {
+    "name": "Citadel",
+    "description": "The keep inside the keep — blue-grey stone, siege maths."
+  },
+  "3636": {
+    "name": "Clean Slate",
+    "description": "Yesterday wiped to grey-blue — chalk dust settling."
+  },
+  "3637": {
+    "name": "Sail On",
+    "description": "The transom's standing order — blue, horizon renewed."
+  },
+  "3638": {
+    "name": "Honolulu Blue",
+    "description": "The Lions' home blue — Detroit's Pacific import."
+  },
+  "3639": {
+    "name": "Skies of Cyberspace",
+    "description": "The sky the modem promised — blue, dial-up chorus."
+  },
+  "3640": {
+    "name": "Fisher King",
+    "description": "The wounded king and the trout that got away — blue, grail adjacent."
+  },
+  "3641": {
+    "name": "Endless River",
+    "description": "The river past its last map reference — blue, Pink Floyd echo."
+  },
+  "3642": {
+    "name": "Soothing Sapphire",
+    "description": "Sapphire at bedside-manner volume."
+  },
+  "3643": {
+    "name": "Gothic",
+    "description": "Pointed arches and blue-black rose windows — flying buttress invoice."
+  },
+  "3644": {
+    "name": "Mediterranean Blue",
+    "description": "The blue between three continents — ferry lattice, olive freight."
+  },
+  "3645": {
+    "name": "Serenity’s Reign",
+    "description": "Serenity with a coronation — blue, sceptre becalmed."
+  },
+  "3646": {
+    "name": "Bay View",
+    "description": "The window seat over the moorings — blue, mast forest."
+  },
+  "3647": {
+    "name": "Nickel",
+    "description": "The five-cent metal — blue-grey, allergy asterisk."
+  },
+  "3648": {
+    "name": "Machinery",
+    "description": "Grease, torque and scheduled maintenance — blue-grey, guard rails."
+  },
+  "3649": {
+    "name": "Windstorm",
+    "description": "The forecast's blue-grey exclamation — bins airborne."
+  },
+  "3650": {
+    "name": "Dark Rift",
+    "description": "The seam where the map tears — blue-black, physics on leave."
+  },
+  "3651": {
+    "name": "Black Stallion",
+    "description": "The horse that won't be broken twice — blue-black at full gallop."
+  },
+  "3652": {
+    "name": "Black Market",
+    "description": "The economy behind the curtain — blue-black, prices whispered."
+  },
+  "3653": {
+    "name": "Silent Orbit",
+    "description": "One satellite, no transmissions — blue-black, telemetry asleep."
+  },
+  "3654": {
+    "name": "Dark",
+    "description": "The absence with a brand — blue-black, adjectives surrendered."
+  },
+  "3655": {
+    "name": "Ravenclaw",
+    "description": "Wit beyond measure, blue and bronze by the book — eagle door riddles."
+  },
+  "3656": {
+    "name": "Dark Dreams",
+    "description": "The REM cycle's director's cut — blue-black, no credits."
+  },
+  "3657": {
+    "name": "Marine",
+    "description": "Blue with a tide table — corps pedigree either way."
+  },
+  "3658": {
+    "name": "Royal",
+    "description": "The blue that outranks — throne room issue."
+  },
+  "3659": {
+    "name": "9000 Leagues Under the Sea",
+    "description": "Verne's itinerary with a markup — blue-black at 9000 leagues, squid renegotiated."
+  },
+  "3660": {
+    "name": "Galaxea",
+    "description": "The coral genus called galaxy — blue-black polyps, starfield colony."
+  },
+  "3661": {
+    "name": "Space Dust",
+    "description": "What nebulas are made of — blue-black, pre-stellar inventory."
+  },
+  "3662": {
+    "name": "One Minute to Midnight",
+    "description": "The doomsday clock's blue-black margin — hands unmoved, breath held."
+  },
+  "3663": {
+    "name": "Pure Blue",
+    "description": "Blue with the additives declined."
+  },
+  "3664": {
+    "name": "Genie",
+    "description": "Phenomenal cosmic blue — itty bitty living space."
+  },
+  "3665": {
+    "name": "Space Missions",
+    "description": "Checklists, countdowns and one small step — blue-black window seat."
+  },
+  "3666": {
+    "name": "First Mate",
+    "description": "Second in command, first to the coffee — blue, watch kept."
+  },
+  "3667": {
+    "name": "Ulysses",
+    "description": "The long way home as a job description — blue, Ithaca pending."
+  },
+  "3668": {
+    "name": "Blue Overdose",
+    "description": "Blue past the recommended dose."
+  },
+  "3669": {
+    "name": "Galaxy Express",
+    "description": "The 999 to the stars — blue-black rails, Leiji Matsumoto conducting."
+  },
+  "3670": {
+    "name": "Sapphire Splendour",
+    "description": "Sapphire with the budget approved."
+  },
+  "3671": {
+    "name": "Vivid Blue",
+    "description": "Blue with the gain up."
+  },
+  "3672": {
+    "name": "Cascade Twilight",
+    "description": "The falls at last light — blue-grey mist, spray curfew."
+  },
+  "3673": {
+    "name": "Vibrant Blue",
+    "description": "Blue at festival wristband energy."
+  },
+  "3674": {
+    "name": "Blue Screen of Death",
+    "description": "The blue that means it's over — 0x0000007B, reboot grief."
+  },
+  "3675": {
+    "name": "C64 Blue",
+    "description": "The boot screen of 1982 — 64K RAM ready, blue on blue."
+  },
+  "3676": {
+    "name": "Piccadilly Purple",
+    "description": "The Circus at violet hour — purple-blue, neon rain."
+  },
+  "3677": {
+    "name": "Rare Blue",
+    "description": "Blue in a limited pressing."
+  },
+  "3678": {
+    "name": "Magic Ink",
+    "description": "The ink that answers back — blue, marauder's clearance."
+  },
+  "3679": {
+    "name": "Europa",
+    "description": "Jupiter's ice moon with the hidden ocean — blue-white crust, cracks promising."
+  },
+  "3680": {
+    "name": "Savoy Blue",
+    "description": "The hotel blue with the ballroom pedigree — martini arithmetic."
+  },
+  "3681": {
+    "name": "Epic Blue",
+    "description": "Blue at raid-boss scale."
+  },
+  "3682": {
+    "name": "Bluerocratic",
+    "description": "Blue with a filing system — forms in triplicate."
+  },
+  "3683": {
+    "name": "Bluetiful",
+    "description": "Crayola's 2017 portmanteau — blue, YInMn's crayon deal."
+  },
+  "3684": {
+    "name": "Hadfield Blue",
+    "description": "The blue Chris Hadfield sang Bowie through — cupola window issue."
+  },
+  "3685": {
+    "name": "Kimono",
+    "description": "Silk squared and sashed — indigo blue, seams as ceremony."
+  },
+  "3686": {
+    "name": "Too Blue to Be True",
+    "description": "Blue past the plausibility audit."
+  },
+  "3687": {
+    "name": "Galactic Gossamer",
+    "description": "Spider silk at nebula scale — blue-violet, light caught."
+  },
+  "3688": {
+    "name": "Pool Water",
+    "description": "The blue that smells of chlorine — depth markers lying."
+  },
+  "3689": {
+    "name": "Sailing",
+    "description": "Wind, canvas and a heel angle — blue, boom warning."
+  },
+  "3690": {
+    "name": "High Tide",
+    "description": "The sea at full ambition — blue, towels retreating."
+  },
+  "3691": {
+    "name": "King Neptune",
+    "description": "The trident's senior bearer — blue, storm sign-off."
+  },
+  "3692": {
+    "name": "Shipmate",
+    "description": "The bunk above and the watch shared — blue, mess-deck loyalties."
+  },
+  "3693": {
+    "name": "Windjammer",
+    "description": "The tall ship's working name — blue, canvas by the acre."
+  },
+  "3694": {
+    "name": "Raincoat",
+    "description": "The yellow ones get the press — this one's blue, hood up."
+  },
+  "3695": {
+    "name": "Breeze",
+    "description": "Wind at its most forgivable — pale blue, laundry assisted."
+  },
+  "3696": {
+    "name": "Oblivion",
+    "description": "The elder scroll of forgetting — blue-black, memory waived."
+  },
+  "3697": {
+    "name": "Quiet Abyss",
+    "description": "The deep with the volume off — blue-black, pressure polite."
+  },
+  "3698": {
+    "name": "Your Darkness",
+    "description": "The dark on a first-name basis — blue-black, yours specifically."
+  },
+  "3699": {
+    "name": "Deadly Depths",
+    "description": "The depth chart's red zone in blue-black — anglerfish lit."
+  },
+  "3700": {
+    "name": "Dark Knight",
+    "description": "Gotham's longest night shift — blue-black cape, no thanks needed."
+  },
+  "3701": {
+    "name": "Insomniac Blue",
+    "description": "The ceiling at 3:47 — blue, thoughts uninvited."
+  },
+  "3702": {
+    "name": "Spacescape",
+    "description": "The genre of painted nebulas — blue-black, airbrush stars."
+  },
+  "3703": {
+    "name": "Pāua",
+    "description": "New Zealand's abalone — blue-violet nacre, Māori taonga."
+  },
+  "3704": {
+    "name": "Bohemian Blue",
+    "description": "Blue in the artist's quarter — rent late, canvases everywhere."
+  },
+  "3705": {
+    "name": "Indiglow",
+    "description": "The watch button that lit the 90s — indigo-blue electroluminescence."
+  },
+  "3706": {
+    "name": "Deepsea Kraken",
+    "description": "The kraken past the brochure depth — blue-black, beak budget."
+  },
+  "3707": {
+    "name": "Good Karma",
+    "description": "The ledger that balances itself — blue, deeds compounding."
+  },
+  "3708": {
+    "name": "Busty Blue",
+    "description": "Blue at full figure — hourglass certified."
+  },
+  "3709": {
+    "name": "Liquid Denim",
+    "description": "Denim past its solid phase — blue, poured to fit."
+  },
+  "3710": {
+    "name": "Perfect Dark",
+    "description": "The N64 spy shooter — blue-black, Joanna Dark clearance."
+  },
+  "3711": {
+    "name": "Brutally Blue",
+    "description": "Blue with the gloves off."
+  },
+  "3712": {
+    "name": "Burning Ultrablue",
+    "description": "Ultramarine on fire — blue past its own flash point."
+  },
+  "3713": {
+    "name": "Dusk",
+    "description": "The light's resignation letter — blue-violet, streetlamps cued."
+  },
+  "3714": {
+    "name": "Royal Nightcore",
+    "description": "Royalty at 180 BPM — blue-violet, pitch shifted."
+  },
+  "3715": {
+    "name": "Overdue Blue",
+    "description": "The library's patient blue — fines compounding gently."
+  },
+  "3716": {
+    "name": "Warm Blue",
+    "description": "The contradiction that works — blue with the chill waived."
+  },
+  "3717": {
+    "name": "Heron",
+    "description": "The S-necked patience of the shallows — blue-grey, one strike planned."
+  },
+  "3718": {
+    "name": "Null Pointer Purple",
+    "description": "The purple of dereferenced nothing — segfault at address blue."
+  },
+  "3719": {
+    "name": "Mamba",
+    "description": "The snake with the sprint record — blue-black, wide berth advised."
+  },
+  "3720": {
+    "name": "Scampi",
+    "description": "The langoustine in breadcrumbs and the violet-blue named for it."
+  },
+  "3721": {
+    "name": "Loch Ness",
+    "description": "The loch with the long-necked rumour — blue-black, sonar shy."
+  },
+  "3722": {
+    "name": "Opulent Blue",
+    "description": "Blue in the penthouse."
+  },
+  "3723": {
+    "name": "Petrified Purple",
+    "description": "Purple gone to stone — violet-grey, rings legible."
+  },
+  "3724": {
+    "name": "English Manor",
+    "description": "Wisteria over stone and a library that smells of rain — violet-grey."
+  },
+  "3725": {
+    "name": "Argent",
+    "description": "Silver by heraldic decree — grey-white, blazon ready."
+  },
+  "3726": {
+    "name": "Orbital",
+    "description": "The path that never lands — violet-grey, apogee scheduled."
+  },
+  "3727": {
+    "name": "Perrywinkle",
+    "description": "Periwinkle as the crayon misspelled it — violet-blue, childhood canon."
+  },
+  "3728": {
+    "name": "Azureno",
+    "description": "Azure with a Spanish suffix — violet-blue, rolled vowels."
+  },
+  "3729": {
+    "name": "Old World",
+    "description": "The hemisphere with the castles — violet-grey, patina included."
+  },
+  "3730": {
+    "name": "Dreamy Candy Forest",
+    "description": "The forest where the trees are lollipops — violet, cavity canopy."
+  },
+  "3731": {
+    "name": "Fly Away",
+    "description": "The window seat's violet-blue — seatbelt sign off."
+  },
+  "3732": {
+    "name": "Ariel",
+    "description": "The mermaid and the moon of Uranus — violet-blue either way."
+  },
+  "3733": {
+    "name": "Narwhal Grey",
+    "description": "The unicorn of the sea in grey — tusk actually a tooth."
+  },
+  "3734": {
+    "name": "Eigengrau",
+    "description": "The grey the eyes make in total darkness — intrinsic light, everyone's seen it."
+  },
+  "3735": {
+    "name": "Azulado",
+    "description": "Bluish by Spanish billing — violet-blue, adjective agreed."
+  },
+  "3736": {
+    "name": "Blackmail",
+    "description": "The envelope with no return address — blue-black, terms enclosed."
+  },
+  "3737": {
+    "name": "Indie Go",
+    "description": "Indigo on an independent label — violet-blue, 500 copies pressed."
+  },
+  "3738": {
+    "name": "Acai",
+    "description": "The Amazonian berry bowl — violet-black, granola tax."
+  },
+  "3739": {
+    "name": "Orbital Kingdom",
+    "description": "The realm that rules from apogee — violet-blue, crown in freefall."
+  },
+  "3740": {
+    "name": "Meteorite",
+    "description": "The rock that finished the trip — violet-black, crater receipt."
+  },
+  "3741": {
+    "name": "Galactic Highway",
+    "description": "The lane between arms of the spiral — violet-blue, no services."
+  },
+  "3742": {
+    "name": "Galactic Civilization",
+    "description": "The 4X of galactic bureaucracy — violet-blue, turn 400."
+  },
+  "3743": {
+    "name": "Royalty",
+    "description": "The abstraction above the crown — violet-blue, lineage audited."
+  },
+  "3744": {
+    "name": "Queens of the Dead",
+    "description": "The matriarchy after midnight — violet-black, crowns exhumed."
+  },
+  "3745": {
+    "name": "Kingfisher Daisy",
+    "description": "The felicia daisy in kingfisher blue — violet-eyed annual."
+  },
+  "3746": {
+    "name": "Twilight",
+    "description": "The between hour — violet-blue, bats clocking in."
+  },
+  "3747": {
+    "name": "Lapis on Neptune",
+    "description": "Lapis shipped eight planets out — violet-blue at minus 200."
+  },
+  "3748": {
+    "name": "Wizard",
+    "description": "Robes, staff and a pointed hat of violet-blue — you shall not pass."
+  },
+  "3749": {
+    "name": "Hyperlink Blue",
+    "description": "The blue that begs clicking — underline included, history purple pending."
+  },
   "0000": {
     "name": "Black",
     "description": "The complete absorption of visible light — though this one, like every black a screen can show, keeps a whisper of blue in it."
