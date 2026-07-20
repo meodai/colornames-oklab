@@ -2471,10 +2471,6 @@
     "name": "Toothpaste",
     "description": "The stripe promising freshness since striped toothpaste was invented to promise it."
   },
-  "0618": {
-    "name": "Envy's Love",
-    "description": "Green with envy, but fond about it."
-  },
   "0619": {
     "name": "Prasiolite",
     "description": "Green amethyst — quartz that turned over a new leaf, usually with heat treatment."
@@ -2998,5 +2994,9 @@
   "0749": {
     "name": "Scrubs",
     "description": "Surgical teal — chosen because it's the after-image complement of blood red."
+  },
+  "0618": {
+    "name": "Envy’s Love",
+    "description": "Green with envy, but fond about it."
   }
 }
