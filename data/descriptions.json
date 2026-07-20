@@ -6249,20 +6249,755 @@
     "description": "Orange in sugared-almond softness.",
     "source": "authored"
   },
+  "2250": {
+    "name": "Loquat",
+    "description": "The small orange fruit of southern courtyards — apricot's East Asian cousin.",
+    "source": "authored"
+  },
+  "2251": {
+    "name": "Mango Lassi",
+    "description": "Mango whipped with yoghurt — the subcontinent's orange antidote to chilli.",
+    "source": "authored"
+  },
+  "2252": {
+    "name": "Marzipan",
+    "description": "Ground almonds and sugar, sculptable — the pastel paste under wedding-cake icing.",
+    "source": "authored"
+  },
+  "2253": {
+    "name": "Fuzzy Navel",
+    "description": "The peach schnapps and orange juice special — named for the navel orange and the fuzz.",
+    "source": "authored"
+  },
+  "2254": {
+    "name": "Prawn Cracker",
+    "description": "The shrimp chip that inflates in hot oil — pale peach, styrofoam crunch, inexplicably perfect.",
+    "source": "authored"
+  },
+  "2255": {
+    "name": "Wafer",
+    "description": "The pale sandwich layer of pink wafer biscuits — more air than biscuit.",
+    "source": "authored"
+  },
+  "2256": {
+    "name": "Ballet Tights",
+    "description": "The pale peach-pink of first position — darned at the toes.",
+    "source": "authored"
+  },
+  "2257": {
+    "name": "Bronze Shadow",
+    "description": "Bronze in its own shadow.",
+    "source": "authored"
+  },
+  "2258": {
+    "name": "Burnt Bronze",
+    "description": "Bronze past the polish stage.",
+    "source": "authored"
+  },
+  "2259": {
+    "name": "Walnut Brown",
+    "description": "Walnut in board form.",
+    "source": "authored"
+  },
+  "2260": {
+    "name": "Bronze Umber",
+    "description": "Bronze ground into earth pigment.",
+    "source": "authored"
+  },
+  "2261": {
+    "name": "Umber",
+    "description": "The brown earth of Umbria — painting's foundational shadow tone.",
+    "source": "authored"
+  },
+  "2262": {
+    "name": "Golden Umber",
+    "description": "Umber with a gold leaf edge.",
+    "source": "authored"
+  },
+  "2263": {
+    "name": "Bronze Khaki",
+    "description": "Khaki with service medals.",
+    "source": "authored"
+  },
+  "2264": {
+    "name": "Propolis",
+    "description": "The resin bees make to seal the hive — amber-brown bee glue, sold in tinctures.",
+    "source": "authored"
+  },
+  "2265": {
+    "name": "Copper Gold",
+    "description": "The alloy of third and first place.",
+    "source": "authored"
+  },
+  "2266": {
+    "name": "Cinnamon Toast",
+    "description": "Butter, sugar, cinnamon, grill — breakfast's warm brown reward.",
+    "source": "authored"
+  },
+  "2267": {
+    "name": "Caramel Gold",
+    "description": "Caramel poured at gold standard.",
+    "source": "authored"
+  },
+  "2268": {
+    "name": "Barley Sugar",
+    "description": "The amber twist of Victorian sweet jars — sugar boiled to stained glass.",
+    "source": "authored"
+  },
+  "2269": {
+    "name": "Golden Ochre",
+    "description": "Ochre burnished to gold.",
+    "source": "authored"
+  },
+  "2270": {
+    "name": "Sandworm",
+    "description": "Shai-Hulud surfacing — the maker's tan hide, spice implied. Bless the Maker.",
+    "source": "authored"
+  },
+  "2271": {
+    "name": "Elden Ring Orange",
+    "description": "The golden grace of the Lands Between — maidenless orange.",
+    "source": "authored"
+  },
+  "2272": {
+    "name": "Honey Amber",
+    "description": "Honey crystallised toward amber.",
+    "source": "authored"
+  },
+  "2273": {
+    "name": "Golden Mango",
+    "description": "Mango at its most gilded.",
+    "source": "authored"
+  },
+  "2274": {
+    "name": "Cheesus",
+    "description": "Cheese raised to the heavens — nacho worship, orange vestments.",
+    "source": "authored"
+  },
+  "2275": {
+    "name": "Marigold Glow",
+    "description": "Marigold with the porch light on.",
+    "source": "authored"
+  },
+  "2276": {
+    "name": "Sandy Beige",
+    "description": "The default beach — sand at brochure neutrality.",
+    "source": "authored"
+  },
+  "2277": {
+    "name": "Brioche",
+    "description": "The butter-rich Sunday loaf — golden crumb, patisserie pride.",
+    "source": "authored"
+  },
+  "2278": {
+    "name": "Croissant",
+    "description": "Laminated butter in crescent form — golden, shattering, French.",
+    "source": "authored"
+  },
+  "2279": {
+    "name": "Golden Linen",
+    "description": "Linen woven with a gold thread.",
+    "source": "authored"
+  },
+  "2280": {
+    "name": "Blackened Bronze",
+    "description": "Bronze after the fire took its shine.",
+    "source": "authored"
+  },
+  "2281": {
+    "name": "Bog Oak",
+    "description": "Oak buried in peat for millennia — timber turned black-gold by the bog.",
+    "source": "authored"
+  },
+  "2282": {
+    "name": "Field Drab",
+    "description": "The regulation drab of field uniforms — olive-brown by committee.",
+    "source": "authored"
+  },
+  "2283": {
+    "name": "Burlap",
+    "description": "The sack fabric of coffee shipments — rough tan, jute honesty.",
+    "source": "authored"
+  },
+  "2284": {
+    "name": "Mudskipper",
+    "description": "The fish that walks the mudflats at low tide — olive-brown, ambitious.",
+    "source": "authored"
+  },
+  "2285": {
+    "name": "Dark Gold",
+    "description": "Gold with the lights half down.",
+    "source": "authored"
+  },
+  "2286": {
+    "name": "Poppadom",
+    "description": "The lentil crisp of Indian tables — golden, shattered by hand, gone first.",
+    "source": "authored"
+  },
+  "2287": {
+    "name": "Golden Bronze",
+    "description": "Bronze on its gold days.",
+    "source": "authored"
+  },
+  "2288": {
+    "name": "Mustard's Last Stand",
+    "description": "The condiment's final battle — a stand worth cutting.",
+    "source": "authored"
+  },
+  "2289": {
+    "name": "Bee Pollen",
+    "description": "Granules of foraged gold — the hive's protein counter.",
+    "source": "authored"
+  },
+  "2290": {
+    "name": "Mummy's Tomb",
+    "description": "Linen wraps and dry gold dust — the tomb unsealed after three thousand years.",
+    "source": "authored"
+  },
+  "2291": {
+    "name": "Oh Em Ghee",
+    "description": "Clarified butter, exclaimed — ghee whiz in golden form.",
+    "source": "authored"
+  },
+  "2292": {
+    "name": "Pirate Gold",
+    "description": "Doubloons by the chest — gold with a parrot's approval.",
+    "source": "authored"
+  },
+  "2293": {
+    "name": "Trophy Gold",
+    "description": "The cup on the shelf — engraved, gold, slightly smug.",
+    "source": "authored"
+  },
+  "2294": {
+    "name": "Sunflower Gold",
+    "description": "The sunflower's gold at seed-head scale.",
+    "source": "authored"
+  },
+  "2295": {
+    "name": "Honeycomb",
+    "description": "Hexagonal engineering in wax — the hive's golden architecture.",
+    "source": "authored"
+  },
+  "2296": {
+    "name": "Ancient Scroll",
+    "description": "Papyrus gone gold with millennia — handle with cotton gloves.",
+    "source": "authored"
+  },
+  "2297": {
+    "name": "Straw Hat",
+    "description": "Woven summer at brim width.",
+    "source": "authored"
+  },
+  "2298": {
+    "name": "Pasta Luego",
+    "description": "See you later, carbohydrates — pasta gold with a wave.",
+    "source": "authored"
+  },
+  "2299": {
+    "name": "Golden Sun",
+    "description": "The sun as children draw it — rays mandatory.",
+    "source": "authored"
+  },
+  "2300": {
+    "name": "Heliodor",
+    "description": "The golden beryl — Greek for gift of the sun.",
+    "source": "authored"
+  },
+  "2301": {
+    "name": "Champagne Gold",
+    "description": "Champagne with a gilt rim.",
+    "source": "authored"
+  },
+  "2302": {
+    "name": "Sushi Rice",
+    "description": "Seasoned rice at body temperature — the polished pearl base of every roll.",
+    "source": "authored"
+  },
+  "2303": {
+    "name": "Wasabi Nori",
+    "description": "The dark seaweed wrap — green-black pressed sheets, wasabi's neighbour.",
+    "source": "authored"
+  },
+  "2304": {
+    "name": "Mess Tin",
+    "description": "The dented aluminium of army breakfasts — olive-drab metal, tea-stained.",
+    "source": "authored"
+  },
+  "2305": {
+    "name": "Moss Gold",
+    "description": "Moss in its gilded autumn.",
+    "source": "authored"
+  },
+  "2306": {
+    "name": "Olivenite",
+    "description": "The olive-green copper arsenate — mineralogy's most honest name.",
+    "source": "authored"
+  },
+  "2307": {
+    "name": "Old Brass",
+    "description": "Brass with a century of fingerprints.",
+    "source": "authored"
+  },
+  "2308": {
+    "name": "Pistachio Shell",
+    "description": "The split shell half you dig through for the green prize.",
+    "source": "authored"
+  },
+  "2309": {
+    "name": "Faded Gold",
+    "description": "Gold that stopped insisting.",
+    "source": "authored"
+  },
   "2310": {
     "name": "Turmeric",
-    "description": "A flowering plant in the ginger family Zingiberaceae. It is a perennial, rhizomatous, herbaceous plant native to the Indian subcontinent and Southeast Asia that requires temperatures between 20 and 30 °C and high annual rainfall to thrive.",
-    "source": "wikipedia"
+    "description": "The golden rhizome that stains everything — curry's colour engine, launderers' nemesis.",
+    "source": "authored"
+  },
+  "2311": {
+    "name": "Raffia",
+    "description": "Woven palm fibre — sun hats and shopping baskets in dry gold.",
+    "source": "authored"
+  },
+  "2312": {
+    "name": "Ginkgo",
+    "description": "The living-fossil tree whose fans turn pure gold in one autumn week — then drop all at once.",
+    "source": "authored"
+  },
+  "2313": {
+    "name": "Golden Pear",
+    "description": "Pear at its most gilded.",
+    "source": "authored"
+  },
+  "2314": {
+    "name": "Canary Gold",
+    "description": "Canary promoted to gold.",
+    "source": "authored"
+  },
+  "2315": {
+    "name": "Quince Jelly",
+    "description": "Quince slow-cooked to amber glass — the jelly that outshines its fruit.",
+    "source": "authored"
+  },
+  "2316": {
+    "name": "Taxi Yellow",
+    "description": "The regulated yellow of city cabs — hailable from a block away.",
+    "source": "authored"
+  },
+  "2317": {
+    "name": "Instant Noodles",
+    "description": "Three minutes, one kettle — the pale gold brick of student cuisine.",
+    "source": "authored"
+  },
+  "2318": {
+    "name": "Butter",
+    "description": "Churned cream at spreading temperature — toast's golden duty.",
+    "source": "authored"
+  },
+  "2319": {
+    "name": "Post-it",
+    "description": "The sticky square of remembering — canary yellow by default.",
+    "source": "authored"
+  },
+  "2320": {
+    "name": "Buttercup Glow",
+    "description": "The buttercup's chin-test glow — do you like butter? The flower says yes.",
+    "source": "authored"
+  },
+  "2321": {
+    "name": "Deep Army Green",
+    "description": "Army green at parade depth.",
+    "source": "authored"
+  },
+  "2322": {
+    "name": "Green Not Found",
+    "description": "Error 404 in olive — and the one hex joke that landed: this point really starts with 404.",
+    "source": "authored"
+  },
+  "2323": {
+    "name": "Topiary Green",
+    "description": "Shrubbery with a job description — green trimmed into peacocks.",
+    "source": "authored"
+  },
+  "2324": {
+    "name": "Duckweed",
+    "description": "The pond's green confetti — the world's smallest flowering plant, by the million.",
+    "source": "authored"
+  },
+  "2325": {
+    "name": "Alligator",
+    "description": "The armoured log of southern waterways — olive scales, patient grin.",
+    "source": "authored"
+  },
+  "2326": {
+    "name": "Locust",
+    "description": "The swarm in olive drab — biblical appetite included.",
+    "source": "authored"
+  },
+  "2327": {
+    "name": "Za'atar",
+    "description": "The Levantine spice blend — thyme, sumac and sesame in olive-gold dust.",
+    "source": "authored"
+  },
+  "2328": {
+    "name": "Reed",
+    "description": "The riverbank's dry olive stems — baskets and thatch by trade.",
+    "source": "authored"
+  },
+  "2329": {
+    "name": "Tahini",
+    "description": "Ground sesame at pouring consistency — the pale gold that binds hummus.",
+    "source": "authored"
+  },
+  "2330": {
+    "name": "Matcha Cookie",
+    "description": "Matcha folded into shortbread — green tea gone biscuit.",
+    "source": "authored"
+  },
+  "2331": {
+    "name": "Margarita",
+    "description": "Tequila, lime and salt negotiating — pale gold-green over ice.",
+    "source": "authored"
+  },
+  "2332": {
+    "name": "Anjou Pear",
+    "description": "The green-skinned winter pear of French orchards.",
+    "source": "authored"
+  },
+  "2333": {
+    "name": "Gooseberry Fool",
+    "description": "Crushed gooseberries folded through cream — the fool that flatters the fruit.",
+    "source": "authored"
+  },
+  "2334": {
+    "name": "Basket Weave",
+    "description": "Willow over willow under willow — the weave in pale gold.",
+    "source": "authored"
+  },
+  "2335": {
+    "name": "Yuzu",
+    "description": "The Japanese citrus zested over everything — fragrant yellow-green rind.",
+    "source": "authored"
+  },
+  "2336": {
+    "name": "Lamb's Ear",
+    "description": "The silver-furred leaf children are told to pat — softest plant in the border.",
+    "source": "authored"
+  },
+  "2337": {
+    "name": "Sparkling Lime",
+    "description": "Lime with carbonation.",
+    "source": "authored"
+  },
+  "2338": {
+    "name": "Limeade",
+    "description": "Lime squeezed into a pitcher of sweet green.",
+    "source": "authored"
   },
   "2339": {
     "name": "Chamomile",
-    "description": "Chamomile or camomile is the common name for several daisy-like plants of the family Asteraceae. Two of the species, Matricaria chamomilla and Chamaemelum nobile, are commonly used to make herbal infusions for beverages.",
-    "source": "wikipedia"
+    "description": "The daisy that makes bedtime tea — pale gold-green in the cup.",
+    "source": "authored"
+  },
+  "2340": {
+    "name": "Sherbet Dip",
+    "description": "The fizzy powder with the liquorice spoon — sherbet's pale yellow crackle.",
+    "source": "authored"
+  },
+  "2341": {
+    "name": "Citronella",
+    "description": "The lemongrass candle of every patio evening — citrus smoke in yellow-green.",
+    "source": "authored"
+  },
+  "2342": {
+    "name": "Black Moss",
+    "description": "Moss at midnight, green by memory only.",
+    "source": "authored"
+  },
+  "2343": {
+    "name": "Dark Grass",
+    "description": "Grass in the shade of the wall.",
+    "source": "authored"
+  },
+  "2344": {
+    "name": "Thyme and Place",
+    "description": "A place for every herb, and thyme in its place.",
+    "source": "authored"
+  },
+  "2345": {
+    "name": "Nettle Green",
+    "description": "The sting in leaf form — dark green with formic footnotes.",
+    "source": "authored"
+  },
+  "2346": {
+    "name": "Dried Rosemary",
+    "description": "Rosemary hung until the oils concentrate.",
+    "source": "authored"
+  },
+  "2347": {
+    "name": "Dark Absinthe",
+    "description": "The green fairy's darker sister.",
+    "source": "authored"
   },
   "2348": {
     "name": "Pasture",
-    "description": "Land used for grazing.",
-    "source": "wikipedia"
+    "description": "The field the herd knows by heart.",
+    "source": "authored"
+  },
+  "2349": {
+    "name": "Faded Fern",
+    "description": "A fern gone quiet with the season.",
+    "source": "authored"
+  },
+  "2350": {
+    "name": "Summer Grass",
+    "description": "Grass at holiday height.",
+    "source": "authored"
+  },
+  "2351": {
+    "name": "Hey Pesto",
+    "description": "Presto with basil — the sauce appears.",
+    "source": "authored"
+  },
+  "2352": {
+    "name": "Garden Sage",
+    "description": "Sage among the vegetables.",
+    "source": "authored"
+  },
+  "2353": {
+    "name": "Romanesco",
+    "description": "The fractal broccoli — every floret a smaller cathedral.",
+    "source": "authored"
+  },
+  "2354": {
+    "name": "Hedgerow",
+    "description": "The stitched green boundary of British fields — hawthorn, blackthorn and birdsong.",
+    "source": "authored"
+  },
+  "2355": {
+    "name": "Jubilant Meadow",
+    "description": "A meadow in a very good mood.",
+    "source": "authored"
+  },
+  "2356": {
+    "name": "Peapod",
+    "description": "The pod with the peas still in formation.",
+    "source": "authored"
+  },
+  "2357": {
+    "name": "Tomatillo",
+    "description": "The husked green tomato of salsa verde — papery jacket, tart interior.",
+    "source": "authored"
+  },
+  "2358": {
+    "name": "Old Greenhouse",
+    "description": "Whitewashed glass and tomato vines gone feral — green with rust hinges.",
+    "source": "authored"
+  },
+  "2359": {
+    "name": "Mini Golf",
+    "description": "Windmills, waterfalls and a putter — astroturf green at hole eighteen.",
+    "source": "authored"
+  },
+  "2360": {
+    "name": "Gooseberry",
+    "description": "The tart green globe of northern gardens — veined like a gooseberry, which it is.",
+    "source": "authored"
+  },
+  "2361": {
+    "name": "Chartreuse Pop",
+    "description": "Chartreuse with the cap off.",
+    "source": "authored"
+  },
+  "2362": {
+    "name": "Sour Candy",
+    "description": "The candy that fights back — green with citric weaponry.",
+    "source": "authored"
+  },
+  "2363": {
+    "name": "Gak",
+    "description": "The Nickelodeon-era toy goo — neon green-yellow, gloriously pointless.",
+    "source": "authored"
+  },
+  "2364": {
+    "name": "Chartreuse Overdrive",
+    "description": "Chartreuse past the recommended dose.",
+    "source": "authored"
+  },
+  "2365": {
+    "name": "Pear Pressure",
+    "description": "Everyone else is ripening — pear-green with social expectations.",
+    "source": "authored"
+  },
+  "2366": {
+    "name": "Toxic Lime",
+    "description": "Lime with a hazard label.",
+    "source": "authored"
+  },
+  "2367": {
+    "name": "Shamrock Shake",
+    "description": "The minty green McMilkshake of March — Ireland by franchise.",
+    "source": "authored"
+  },
+  "2368": {
+    "name": "Cucamelon",
+    "description": "The grape-sized watermelon lookalike — Mexican sour gherkin in miniature green.",
+    "source": "authored"
+  },
+  "2369": {
+    "name": "Sugarcane",
+    "description": "The tall grass that is basically sugar scaffolding — pale green cane.",
+    "source": "authored"
+  },
+  "2370": {
+    "name": "Dewdrop",
+    "description": "One drop holding the whole lawn in focus.",
+    "source": "authored"
+  },
+  "2371": {
+    "name": "Deep Forest Green",
+    "description": "Forest green with the depth gauge buried.",
+    "source": "authored"
+  },
+  "2372": {
+    "name": "Treehouse",
+    "description": "Planks, rope ladder, password required — green at canopy height.",
+    "source": "authored"
+  },
+  "2373": {
+    "name": "Deep Kelly",
+    "description": "Kelly green at full depth.",
+    "source": "authored"
+  },
+  "2374": {
+    "name": "Deep Clover",
+    "description": "Clover in the deep end.",
+    "source": "authored"
+  },
+  "2375": {
+    "name": "Turf Green",
+    "description": "Turf at regulation green.",
+    "source": "authored"
+  },
+  "2376": {
+    "name": "Garden Ivy",
+    "description": "Ivy given garden citizenship.",
+    "source": "authored"
+  },
+  "2377": {
+    "name": "Riverdance",
+    "description": "The hard-shoe storm of Irish dance — green at 120 taps a minute.",
+    "source": "authored"
+  },
+  "2378": {
+    "name": "Mugwort",
+    "description": "The silver-backed herb of dreams and hedgerows — smudge sticks' European cousin.",
+    "source": "authored"
+  },
+  "2379": {
+    "name": "Emerald Field",
+    "description": "A field with an emerald deed.",
+    "source": "authored"
+  },
+  "2380": {
+    "name": "Rice Terrace",
+    "description": "Stepped paddies climbing the hillside — green agriculture as architecture.",
+    "source": "authored"
+  },
+  "2381": {
+    "name": "Meadow Sage",
+    "description": "Sage loose in the meadow.",
+    "source": "authored"
+  },
+  "2382": {
+    "name": "Summer Lawn",
+    "description": "The lawn in its July prime.",
+    "source": "authored"
+  },
+  "2383": {
+    "name": "Cricket Pitch",
+    "description": "The mown oval of leather on willow — green with tea intervals.",
+    "source": "authored"
+  },
+  "2384": {
+    "name": "Shiso",
+    "description": "The serrated Japanese herb — green shiso, sushi's garnish.",
+    "source": "authored"
+  },
+  "2385": {
+    "name": "Grey Moss",
+    "description": "Moss gone grey with limestone.",
+    "source": "authored"
+  },
+  "2386": {
+    "name": "Botanical Garden",
+    "description": "Latin names on small brass plaques — green curated.",
+    "source": "authored"
+  },
+  "2387": {
+    "name": "Uranium Glass",
+    "description": "The Depression-era glassware that glows under UV — uranium-doped green, safely radioactive-ish.",
+    "source": "authored"
+  },
+  "2388": {
+    "name": "Garden Emerald",
+    "description": "Emerald with a garden address.",
+    "source": "authored"
+  },
+  "2389": {
+    "name": "Try Your Luck",
+    "description": "Green felt and long odds.",
+    "source": "authored"
+  },
+  "2390": {
+    "name": "A Frond in Need",
+    "description": "A frond indeed — fern solidarity in green.",
+    "source": "authored"
+  },
+  "2391": {
+    "name": "Whole Nine Yards",
+    "description": "All of it — every green yard, delivered.",
+    "source": "authored"
+  },
+  "2392": {
+    "name": "Croquet",
+    "description": "Mallets, hoops and lawn diplomacy — green with strategy.",
+    "source": "authored"
+  },
+  "2393": {
+    "name": "Lively Grass",
+    "description": "Grass with somewhere to be.",
+    "source": "authored"
+  },
+  "2394": {
+    "name": "Around the Gills",
+    "description": "The queasy pale green of rough ferries — gills going grey.",
+    "source": "authored"
+  },
+  "2395": {
+    "name": "Neon Kelly",
+    "description": "Kelly green with a neon permit.",
+    "source": "authored"
+  },
+  "2396": {
+    "name": "Soft Emerald",
+    "description": "Emerald with the edges softened.",
+    "source": "authored"
+  },
+  "2397": {
+    "name": "Walled Garden",
+    "description": "The garden behind the API — green you need credentials for.",
+    "source": "authored"
+  },
+  "2398": {
+    "name": "Green Pop",
+    "description": "Green with the tab pulled.",
+    "source": "authored"
+  },
+  "2399": {
+    "name": "Light Clover",
+    "description": "Clover in its lightest patch.",
+    "source": "authored"
   },
   "2454": {
     "name": "Peridot",
