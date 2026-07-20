@@ -3,6 +3,7 @@
  * (data embedded, standalone) plus about / install / usage sections.
  */
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { gzipSync } from 'node:zlib';
 import { toGamut } from 'culori';
 
 const data = readFileSync(new URL('../colornames-oklab.json', import.meta.url), 'utf8');
@@ -21,6 +22,8 @@ parsed.forEach((e, i) => {
 });
 const COUNT = parsed.length;
 const TIER_COUNTS = parsed.reduce((m, c) => ((m[c.tier] = (m[c.tier] ?? 0) + 1), m), {});
+const KB = Math.round(Buffer.byteLength(data) / 1024);
+const GZKB = Math.round(gzipSync(data).length / 1024);
 
 const html = `<!doctype html>
 <html lang="en">
@@ -157,7 +160,7 @@ const html = `<!doctype html>
 <div id="hero">
   <div id="app"></div>
   <header>
-    <h1>colornames-oklab <small>· ${COUNT} names, blue-noise sampled in OKLab</small></h1>
+    <h1>colornames-oklab <small>· ${COUNT} names, blue-noise sampled in OKLab · ${KB} kB (${GZKB} kB gzipped)</small></h1>
     <div class="filters" id="filters"></div>
     <nav class="hero-links">
       <a href="https://github.com/meodai/colornames-oklab">GitHub</a>
