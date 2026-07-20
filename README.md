@@ -8,7 +8,7 @@ All names were written by **[Claude Fable 5](https://www.anthropic.com/news/clau
 
 ## Data
 
-`colornames-oklab.json` — an array of 4444 entries, 373 kB raw / 90 kB gzipped:
+`colornames-oklab.json` — an array of 4444 entries, 374 kB raw / 90 kB gzipped:
 
 ```json
 { "name": "Emerald", "tier": "srgb", "hex": "#089156", "oklab": [0.577, -0.1257, 0.0551] }
