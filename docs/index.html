@@ -150,7 +150,8 @@
   <section id="about">
     <h2>What is this?</h2>
     <p class="lede">4444 color names, evenly spread over the OKLab color space, covering the full Rec2020 gamut — every point above is one named color.</p>
-    <p>Most color name lists cluster where humans historically looked: reds, skin tones, sRGB pastels. This list is built the other way around — the <em>positions</em> come first. Points are placed with <strong>best-candidate (blue-noise) sampling in OKLab</strong>, so they are perceptually evenly spaced: dense nowhere, sparse nowhere, no two names awkwardly close together. Sampling is seeded and grown in stable passes, so ids and names never change as the list is extended.</p>
+    <p>This project grew out of <a href="https://github.com/meodai/color-names">color-names</a>, my crowd-sourced collection of 30&thinsp;000+ color names. Plotted in perceptual color space, that list clusters heavily where humans historically looked — reds, skin tones, popular sRGB pastels — while whole regions of the gamut sit almost empty. colornames-oklab is the experiment in the other direction: <strong>what does a color name list look like when it's equally distributed?</strong></p>
+    <p>Here the <em>positions</em> come first. Points are placed with <strong>best-candidate (blue-noise) sampling in OKLab</strong>, so they are perceptually evenly spaced: dense nowhere, sparse nowhere, no two names awkwardly close together. Sampling is seeded and grown in stable passes, so ids and names never change as the list is extended.</p>
     <p>Each point is classified by the smallest standard gamut that contains it, and the <strong>commonness of its name tracks its tier</strong>:</p>
     <table>
       <tr><th>tier</th><th>count</th><th>meaning</th><th>naming register</th></tr>
@@ -158,7 +159,7 @@
       <tr><td><span class="tierdot" style="background:#5ac8fa"></span><code>p3</code></td><td>776</td><td>needs a Display&nbsp;P3 screen</td><td>vivid &amp; recognizable — Electric Blue, Neon Carrot</td></tr>
       <tr><td><span class="tierdot" style="background:#e58fff"></span><code>rec2020</code></td><td>1627</td><td>beyond P3, the outer shell</td><td>rare pigments &amp; superlatives — Smaragdine, Zaffre, Impossible Green</td></tr>
     </table>
-    <p>All names were written point-by-point by <a href="https://www.anthropic.com/news/claude-fable-5-mythos-5"><strong>Claude Fable 5</strong></a> (Anthropic), with each color's OKLCH coordinates and gamut tier in view. Every name is unique, and ~80 obvious names (Red, Blue, Navy, Pink, White, …) are audited to sit on <code>srgb</code>-tier points near their reference colors — nobody needs a P3 monitor to see “Pink”.</p>
+    <p>The naming was done with <a href="https://www.anthropic.com/news/claude-fable-5-mythos-5"><strong>Claude Fable 5</strong></a> (Anthropic), point-by-point with each color's OKLCH coordinates and gamut tier in view, using the existing color-names list as inspiration for tone and style. Every name is unique, and ~80 obvious names (Red, Blue, Navy, Pink, White, …) are audited to sit on <code>srgb</code>-tier points near their reference colors — nobody needs a P3 monitor to see “Pink”.</p>
     <div id="favorites"></div>
   </section>
 

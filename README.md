@@ -2,9 +2,9 @@
 
 **4444 color names, evenly spread over the OKLab color space, covering the full Rec2020 gamut.**
 
-Most color name lists cluster where humans historically looked: reds, skin tones, sRGB pastels. This list is built the other way around — the *positions* come first. Points are distributed uniformly through perceptual color space, so every region of the gamut (including the wide-gamut colors your screen may only now be learning to show) gets a name, and no two names sit awkwardly close together.
+This project grew out of [color-names](https://github.com/meodai/color-names), my crowd-sourced collection of 30 000+ color names. Plotting that list in perceptual color space, I observed that the names cluster heavily where humans historically looked: reds, skin tones, popular sRGB pastels — while whole regions of the gamut sit almost empty. colornames-oklab is the experiment in the other direction: **what does a color name list look like when it's equally distributed?** Here the *positions* come first — points are spread uniformly through OKLab, so every region of the gamut (including the wide-gamut colors your screen may only now be learning to show) gets a name, and no two names sit awkwardly close together.
 
-All names were written by **[Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)** (Anthropic), curated point-by-point against each color's position in OKLab.
+The naming was done with **[Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)** (Anthropic), point-by-point against each color's position in OKLab, using my existing color-names list as inspiration for tone and style.
 
 ## Data
 
@@ -72,7 +72,7 @@ These are the *natural* volume proportions of the gamuts in OKLab. (Surprise ins
 
 ### 3. Naming
 
-The first 3000 names were written individually by **Claude Fable 5**, working through the list in hue order with each point's OKLCH coordinates and gamut tier in view; the fourth and fifth passes drew the 1444 strongest unused names from [color.pizza](https://color.pizza)'s curated *bestOf* list, matched to the new points by OKLab proximity. The commonness of a name tracks its tier:
+The first 3000 names were written individually by **Claude Fable 5**, working through the list in hue order with each point's OKLCH coordinates and gamut tier in view, drawing on the tone and vocabulary of [color-names](https://github.com/meodai/color-names) for inspiration; the fourth and fifth passes drew the 1444 strongest unused names directly from its curated *bestOf* subset (via [color.pizza](https://color.pizza)), matched to the new points by OKLab proximity. The commonness of a name tracks its tier:
 
 - **sRGB → the everyday canon.** The colors everyone can see get the names everyone knows: `Moss`, `Denim`, `Terracotta`, `Butter`, `Salmon`, `Charcoal`.
 - **P3 → vivid and recognizable.** One step brighter than sRGB allows, so the vocabulary steps up too: `Electric Blue`, `Neon Carrot`, `Jazzberry Jam`, `Shocking Pink`.
