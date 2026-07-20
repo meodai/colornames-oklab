@@ -15999,10 +15999,755 @@
     "description": "The green-brown landlord of everything — rent due in stewardship.",
     "source": "authored"
   },
+  "4200": {
+    "name": "Magnetic",
+    "description": "Blue-grey with a field around it — compasses recusing themselves.",
+    "source": "authored"
+  },
+  "4201": {
+    "name": "Screensaver",
+    "description": "Pipes at 2am on a CRT — blue-grey, toasters flying.",
+    "source": "authored"
+  },
+  "4202": {
+    "name": "Greystone",
+    "description": "The wall that outlived the farm — grey, lichen tenancy.",
+    "source": "authored"
+  },
+  "4203": {
+    "name": "Cool",
+    "description": "Blue-grey below room temperature — sunglasses indoors waived.",
+    "source": "authored"
+  },
+  "4204": {
+    "name": "Icebreaker",
+    "description": "The ship that makes the lane, or the question that makes the party — blue-white either way.",
+    "source": "authored"
+  },
+  "4205": {
+    "name": "Infinity Pool",
+    "description": "The edge that lies beautifully — blue meeting sky, drone tax.",
+    "source": "authored"
+  },
+  "4206": {
+    "name": "On the Rocks",
+    "description": "Two cubes, one amber decision — blue-grey glass sweating.",
+    "source": "authored"
+  },
+  "4207": {
+    "name": "Cancún",
+    "description": "The blue the brochures oversold and the sea delivered anyway.",
+    "source": "authored"
+  },
+  "4208": {
+    "name": "Freezy Breezy",
+    "description": "Cold with a nursery rhyme cadence — blue, mittens clipped.",
+    "source": "authored"
+  },
+  "4209": {
+    "name": "Glitter Shower",
+    "description": "The confetti that never leaves — pale blue-white, scalp archived.",
+    "source": "authored"
+  },
+  "4210": {
+    "name": "Water Leaf",
+    "description": "The leaf with the aquifer — pale blue-green, succulent ledger.",
+    "source": "authored"
+  },
+  "4211": {
+    "name": "Dark Space",
+    "description": "Space with the streetlights off — blue-black, stars auditing.",
+    "source": "authored"
+  },
+  "4212": {
+    "name": "Urban Chic",
+    "description": "Grey with a loft conversion — exposed brick applauded.",
+    "source": "authored"
+  },
+  "4213": {
+    "name": "All Nighter",
+    "description": "The deadline's blue-black companion — sunrise as invoice.",
+    "source": "authored"
+  },
+  "4214": {
+    "name": "Lava Rock",
+    "description": "The flow cooled to grey-black honesty — porous, barbecue famous.",
+    "source": "authored"
+  },
+  "4215": {
+    "name": "Berth",
+    "description": "The bunk with tide access — blue-grey, ropes creaking.",
+    "source": "authored"
+  },
+  "4216": {
+    "name": "Diver’s Eden",
+    "description": "The reef at brochure depth — blue, fins in formation.",
+    "source": "authored"
+  },
+  "4217": {
+    "name": "Ironside",
+    "description": "The hull in courtroom grey — depositions armoured.",
+    "source": "authored"
+  },
+  "4218": {
+    "name": "Far Horizons",
+    "description": "The blue at the map's margin — here be optimism.",
+    "source": "authored"
+  },
+  "4219": {
+    "name": "Below Zero",
+    "description": "The thermometer's blue overdraft — breath visible, opinions frozen.",
+    "source": "authored"
+  },
+  "4220": {
+    "name": "Metallic",
+    "description": "Grey with a specular ego — reflections itemised.",
+    "source": "authored"
+  },
+  "4221": {
+    "name": "Blizzard Blue",
+    "description": "The Crayola blue that retired in 2003 — frost with a pension.",
+    "source": "authored"
+  },
+  "4222": {
+    "name": "Paradisiacal Getaway",
+    "description": "The getaway with no signal bars — blue, hammock notarised.",
+    "source": "authored"
+  },
+  "4223": {
+    "name": "Oceanic Noir",
+    "description": "The sea in a trench coat — blue-black, motive nautical.",
+    "source": "authored"
+  },
+  "4224": {
+    "name": "Persian Mosaic",
+    "description": "Isfahan's blue arithmetic — tiles reciting geometry.",
+    "source": "authored"
+  },
+  "4225": {
+    "name": "Rainstick",
+    "description": "Rain on demand — blue-grey, cactus spines percussive.",
+    "source": "authored"
+  },
+  "4226": {
+    "name": "Stream Burble",
+    "description": "The stream's blue-grey small talk — stones interviewed.",
+    "source": "authored"
+  },
+  "4227": {
+    "name": "Windows 95 Desktop",
+    "description": "That teal — Start button, solitaire minimised.",
+    "source": "authored"
+  },
+  "4228": {
+    "name": "Cavolo Nero",
+    "description": "Tuscany's black kale — green so dark it files as blue.",
+    "source": "authored"
+  },
+  "4229": {
+    "name": "Riptide",
+    "description": "The current with an exit strategy — blue, swim sideways counsel.",
+    "source": "authored"
+  },
+  "4230": {
+    "name": "Quicksilver",
+    "description": "Mercury off the clock — grey, beads reuniting.",
+    "source": "authored"
+  },
+  "4231": {
+    "name": "Fail Whale",
+    "description": "The whale the birds carried — blue-grey, 2008 mourned it hourly.",
+    "source": "authored"
+  },
+  "4232": {
+    "name": "Nevermind Nirvana",
+    "description": "The album with the pool baby — blue-grey grunge, royalties disputed.",
+    "source": "authored"
+  },
+  "4233": {
+    "name": "Fish Pond",
+    "description": "The koi economy — blue-grey water, breadcrumb inflation.",
+    "source": "authored"
+  },
+  "4234": {
+    "name": "Maritime",
+    "description": "Blue-grey with a signal flag vocabulary.",
+    "source": "authored"
+  },
+  "4235": {
+    "name": "Black Knight",
+    "description": "Tis but a scratch — grey-black, limbs negotiable.",
+    "source": "authored"
+  },
+  "4236": {
+    "name": "Twilight Zone",
+    "description": "The dimension of sight and sound — grey, Serling narrating.",
+    "source": "authored"
+  },
+  "4237": {
+    "name": "Dark & Stormy",
+    "description": "Rum under ginger weather — blue-black, lime lightning.",
+    "source": "authored"
+  },
+  "4238": {
+    "name": "Dark Secret",
+    "description": "The blue-black kept behind the smile — diary encrypted.",
+    "source": "authored"
+  },
+  "4239": {
+    "name": "Teal With It",
+    "description": "Teal as coping mechanism — pun prescribed.",
+    "source": "authored"
+  },
+  "4240": {
+    "name": "Excalibur",
+    "description": "The sword with the residency requirement — grey-blue, stone landlord.",
+    "source": "authored"
+  },
+  "4241": {
+    "name": "Mysterious Blue",
+    "description": "Blue with the case file sealed.",
+    "source": "authored"
+  },
+  "4242": {
+    "name": "Gunsmoke",
+    "description": "The saloon's grey-blue haze — irons cooling.",
+    "source": "authored"
+  },
+  "4243": {
+    "name": "Puddle Jumper",
+    "description": "The commute the wellies won — grey-blue, splash amnesty.",
+    "source": "authored"
+  },
+  "4244": {
+    "name": "Phantom",
+    "description": "The opera's masked tenant — grey-black, chandelier liability.",
+    "source": "authored"
+  },
+  "4245": {
+    "name": "Petrified",
+    "description": "Wood gone to grey-blue stone — rings archived in silica.",
+    "source": "authored"
+  },
+  "4246": {
+    "name": "Blue Blood",
+    "description": "The blue the peerage claims runs in it — veins notarised.",
+    "source": "authored"
+  },
+  "4247": {
+    "name": "Celestial Horizon",
+    "description": "The line where sky files its flight plan — blue-grey, jet lag pending.",
+    "source": "authored"
+  },
+  "4248": {
+    "name": "Inland Waters",
+    "description": "The blue-grey of lakes with ferry timetables — sea privileges waived.",
+    "source": "authored"
+  },
+  "4249": {
+    "name": "Monsoon Season",
+    "description": "The sky's blue-black delivery window — umbrellas futile.",
+    "source": "authored"
+  },
+  "4250": {
+    "name": "Moon Veil",
+    "description": "The moon behind chiffon — grey-blue, glow taxed.",
+    "source": "authored"
+  },
+  "4251": {
+    "name": "Blank Stare",
+    "description": "The grey-blue of the meeting's fourth hour — thoughts buffering.",
+    "source": "authored"
+  },
+  "4252": {
+    "name": "Robotic Gods",
+    "description": "The pantheon in chrome — grey-blue, prayers compiled.",
+    "source": "authored"
+  },
+  "4253": {
+    "name": "Mont Blanc",
+    "description": "The summit in meringue grey-white — Europe's rooftop, pens named after it.",
+    "source": "authored"
+  },
+  "4254": {
+    "name": "Cooler Than Ever",
+    "description": "Cool with a sequel budget — blue-grey, ice compounding.",
+    "source": "authored"
+  },
+  "4255": {
+    "name": "Droplet",
+    "description": "The rain's smallest shareholder — pale blue, window equity.",
+    "source": "authored"
+  },
+  "4256": {
+    "name": "Eclipse Elixir",
+    "description": "The corona bottled — blue-black, totality per sip.",
+    "source": "authored"
+  },
+  "4257": {
+    "name": "Fibonacci Blue",
+    "description": "Blue in golden ratio instalments — spirals invoiced.",
+    "source": "authored"
+  },
+  "4258": {
+    "name": "Graphite Black",
+    "description": "Pencil lead at flagship grade — grey-black, smudge dividends.",
+    "source": "authored"
+  },
+  "4259": {
+    "name": "Total Eclipse",
+    "description": "The two minutes the birds go quiet — blue-black, glasses mandatory.",
+    "source": "authored"
+  },
+  "4260": {
+    "name": "Maniac Mansion",
+    "description": "The mansion with the chainsaw and no fuel — grey-blue, tentacle tenancy.",
+    "source": "authored"
+  },
+  "4261": {
+    "name": "Black Turmeric",
+    "description": "The turmeric with the gothic rhizome — blue-black flesh, apothecary rare.",
+    "source": "authored"
+  },
+  "4262": {
+    "name": "Whalefall",
+    "description": "The whale's last gift — blue-black, an ecosystem RSVPs.",
+    "source": "authored"
+  },
+  "4263": {
+    "name": "Witchcraft",
+    "description": "The craft the trials never disproved — blue-black, familiar on payroll.",
+    "source": "authored"
+  },
+  "4264": {
+    "name": "Forlorn Cruise",
+    "description": "The cruise with one passenger — blue-grey, buffet echoing.",
+    "source": "authored"
+  },
+  "4265": {
+    "name": "Outer Space",
+    "description": "The Crayola black with the NASA consultancy — stars optional extras.",
+    "source": "authored"
+  },
+  "4266": {
+    "name": "Noble Knight",
+    "description": "The knight with the library voice — grey-blue, oaths itemised.",
+    "source": "authored"
+  },
+  "4267": {
+    "name": "Le Grand Bleu",
+    "description": "Besson's freediving blue — dolphins as HR.",
+    "source": "authored"
+  },
+  "4268": {
+    "name": "Heavy Violet",
+    "description": "Violet with the bass turned up.",
+    "source": "authored"
+  },
+  "4269": {
+    "name": "Dark Blue",
+    "description": "Blue with the curtains drawn.",
+    "source": "authored"
+  },
+  "4270": {
+    "name": "Blackwater",
+    "description": "The river that files at night — blue-black, oars muffled.",
+    "source": "authored"
+  },
+  "4271": {
+    "name": "Blindfolded",
+    "description": "The grey-black behind the knot — piñata coordinates classified.",
+    "source": "authored"
+  },
+  "4272": {
+    "name": "Smokescreen",
+    "description": "The exit made of grey — mirrors invoiced separately.",
+    "source": "authored"
+  },
+  "4273": {
+    "name": "Majestic Magic",
+    "description": "Magic at coronation grade — violet-blue, doves budgeted.",
+    "source": "authored"
+  },
+  "4274": {
+    "name": "Ashen Whisper",
+    "description": "Ash at whisper volume — grey, embers redacted.",
+    "source": "authored"
+  },
+  "4275": {
+    "name": "North Atlantic",
+    "description": "The blue-grey that sank the unsinkable — icebergs unionised.",
+    "source": "authored"
+  },
+  "4276": {
+    "name": "Archaeology",
+    "description": "The dig's grey-blue strata — toothbrushes deployed at scale.",
+    "source": "authored"
+  },
+  "4277": {
+    "name": "Infinity and Beyond",
+    "description": "The blue past the last named number — Buzz's flight plan.",
+    "source": "authored"
+  },
+  "4278": {
+    "name": "Hurricane",
+    "description": "The storm with a first name — blue-grey, shutters testifying.",
+    "source": "authored"
+  },
+  "4279": {
+    "name": "Quiet Harbour",
+    "description": "The moorings at vespers — blue-grey, halyards gossiping softly.",
+    "source": "authored"
+  },
+  "4280": {
+    "name": "Roman Silver",
+    "description": "The silver of legion pay — grey-blue, denarius certified.",
+    "source": "authored"
+  },
+  "4281": {
+    "name": "Electric Eel",
+    "description": "The eel with the utility bill — blue-black, 600 volts declared.",
+    "source": "authored"
+  },
+  "4282": {
+    "name": "Cathedral",
+    "description": "Stone at prayer altitude — grey-blue, echoes tithed.",
+    "source": "authored"
+  },
+  "4283": {
+    "name": "Double Denim",
+    "description": "Denim squared — blue on blue, Canadian precedent cited.",
+    "source": "authored"
+  },
+  "4284": {
+    "name": "Featherbed",
+    "description": "The mattress's blue-grey diplomacy — snooze treaties signed.",
+    "source": "authored"
+  },
+  "4285": {
+    "name": "Dreamless Sleep",
+    "description": "Sleep with the projector off — blue-black, REM furloughed.",
+    "source": "authored"
+  },
+  "4286": {
+    "name": "Silent Twilight",
+    "description": "Twilight with the volume at nought — violet-grey, bats muted.",
+    "source": "authored"
+  },
+  "4287": {
+    "name": "Galactic Cruise",
+    "description": "The liner between constellations — blue-black, deck chairs magnetised.",
+    "source": "authored"
+  },
+  "4288": {
+    "name": "Mediaeval Blue",
+    "description": "The blue of illuminated margins — lapis budgeted by the abbey.",
+    "source": "authored"
+  },
+  "4289": {
+    "name": "Chinotto",
+    "description": "The bitter Italian soda from the myrtle-leaved orange — brown-black, acquired clause.",
+    "source": "authored"
+  },
+  "4290": {
+    "name": "Crucible",
+    "description": "The pot where metals confess — grey-black, slag notarised.",
+    "source": "authored"
+  },
+  "4291": {
+    "name": "Protractor",
+    "description": "The half-moon of homework — grey-blue, degrees pencilled.",
+    "source": "authored"
+  },
   "4292": {
     "name": "International Klein Blue",
-    "description": "International Klein Blue (IKB) is a deep blue hue first mixed by the French artist Yves Klein. IKB's visual impact comes from its heavy reliance on ultramarine, as well as Klein's often thick and textured application of paint to canvas.",
-    "source": "wikipedia"
+    "description": "Klein's patented ultramarine — IKB, canvases sued into pure pigment.",
+    "source": "authored"
+  },
+  "4293": {
+    "name": "In the Vines",
+    "description": "The vineyard after hours — blue-black, tendrils conspiring.",
+    "source": "authored"
+  },
+  "4294": {
+    "name": "Alley Cat",
+    "description": "The tom with the territory — grey-black, bins itemised.",
+    "source": "authored"
+  },
+  "4295": {
+    "name": "Too Dark Tonight",
+    "description": "The blue-black past the porch light's jurisdiction.",
+    "source": "authored"
+  },
+  "4296": {
+    "name": "Flying Carpet",
+    "description": "The rug with a pilot licence — blue-violet, fringe as landing gear.",
+    "source": "authored"
+  },
+  "4297": {
+    "name": "Abandoned Spaceship",
+    "description": "The hull the beacons forgot — blue-black, airlocks yawning.",
+    "source": "authored"
+  },
+  "4298": {
+    "name": "Dusty Chimney",
+    "description": "The flue's grey résumé — swifts as references.",
+    "source": "authored"
+  },
+  "4299": {
+    "name": "Smoky Studio",
+    "description": "The session's grey-blue haze — amps ageing like wine.",
+    "source": "authored"
+  },
+  "4300": {
+    "name": "Endless Galaxy",
+    "description": "The galaxy with no last page — blue-black, spiral arms recruiting.",
+    "source": "authored"
+  },
+  "4301": {
+    "name": "Maiden Voyage",
+    "description": "The champagne against the bow — blue, manifests optimistic.",
+    "source": "authored"
+  },
+  "4302": {
+    "name": "Dark Crypt",
+    "description": "The stairs the torch declined — blue-black, sarcophagi networking.",
+    "source": "authored"
+  },
+  "4303": {
+    "name": "Intergalactic Highway",
+    "description": "The lane between spirals — blue-black, hitchhikers thumbing.",
+    "source": "authored"
+  },
+  "4304": {
+    "name": "Nightly Walk",
+    "description": "The constitutional after dark — blue-black, owls auditing.",
+    "source": "authored"
+  },
+  "4305": {
+    "name": "Sea Serpent's Tears",
+    "description": "The serpent's blue-grey grief — myths salted.",
+    "source": "authored"
+  },
+  "4306": {
+    "name": "Nightly Expedition",
+    "description": "The expedition that packs headlamps — blue-black, summit whispered.",
+    "source": "authored"
+  },
+  "4307": {
+    "name": "Deep Space Royal",
+    "description": "Royalty at escape velocity — blue-violet, crown in freefall.",
+    "source": "authored"
+  },
+  "4308": {
+    "name": "Night Train",
+    "description": "The sleeper service in blue-black — berths swaying, borders dreamt.",
+    "source": "authored"
+  },
+  "4309": {
+    "name": "Drifting Violet",
+    "description": "Violet with the anchor raised.",
+    "source": "authored"
+  },
+  "4310": {
+    "name": "Understudy",
+    "description": "The one who knows every line — violet-grey, spotlight escrowed.",
+    "source": "authored"
+  },
+  "4311": {
+    "name": "Haunted Candelabra",
+    "description": "The candelabra with a tenant — violet-grey, wax testifying.",
+    "source": "authored"
+  },
+  "4312": {
+    "name": "Nymph’s Delight",
+    "description": "The nymph's violet-grey indulgence — reeds discreet.",
+    "source": "authored"
+  },
+  "4313": {
+    "name": "Spiderwort",
+    "description": "The dawn-flowering wanderer — violet, stamens hairy by botany's admission.",
+    "source": "authored"
+  },
+  "4314": {
+    "name": "Smoky",
+    "description": "Grey with a residue clause — curtains absorbing.",
+    "source": "authored"
+  },
+  "4315": {
+    "name": "Silver Surfer",
+    "description": "The herald in chrome — grey, board waxed with cosmos.",
+    "source": "authored"
+  },
+  "4316": {
+    "name": "Mecha Metal",
+    "description": "The hangar's grey-violet payload — pilots synchronised.",
+    "source": "authored"
+  },
+  "4317": {
+    "name": "Hatoba Pigeon",
+    "description": "The harbour pigeon of Japanese ports — grey-violet, gantry tenure.",
+    "source": "authored"
+  },
+  "4318": {
+    "name": "Birdie Num Num",
+    "description": "The party's violet-grey icebreaker — Sellers at the sitar.",
+    "source": "authored"
+  },
+  "4319": {
+    "name": "Electric Sheep",
+    "description": "Do androids dream — violet-grey, wool synthetic.",
+    "source": "authored"
+  },
+  "4320": {
+    "name": "Infinite Inkwell",
+    "description": "The inkwell with no floor — blue-black, nibs filing overtime.",
+    "source": "authored"
+  },
+  "4321": {
+    "name": "Eternal Darkness",
+    "description": "The dark with a tenure track — blue-black, sanity metered.",
+    "source": "authored"
+  },
+  "4322": {
+    "name": "Basalt",
+    "description": "Lava's grey-black paperwork — columns filed hexagonally.",
+    "source": "authored"
+  },
+  "4323": {
+    "name": "Deep Space Rodeo",
+    "description": "Eight seconds on a comet — blue-black, lasso relativistic.",
+    "source": "authored"
+  },
+  "4324": {
+    "name": "Space Battle Blue",
+    "description": "The broadside at parsec range — blue, shields at courtesy.",
+    "source": "authored"
+  },
+  "4325": {
+    "name": "Explorer of the Galaxies",
+    "description": "The explorer with no return leg — blue-black, log optimistic.",
+    "source": "authored"
+  },
+  "4326": {
+    "name": "Galactic Compass",
+    "description": "The needle that points spinward — blue-black, north deprecated.",
+    "source": "authored"
+  },
+  "4327": {
+    "name": "Lost in Heaven",
+    "description": "Heaven with the signage down — blue-grey, harps unattended.",
+    "source": "authored"
+  },
+  "4328": {
+    "name": "Opera Glove",
+    "description": "The glove at aria length — violet-black satin, elbows formal.",
+    "source": "authored"
+  },
+  "4329": {
+    "name": "Matterhorn",
+    "description": "The pyramid the postcards ration — grey, Toblerone licensed.",
+    "source": "authored"
+  },
+  "4330": {
+    "name": "Underground",
+    "description": "The map more famous than the streets — grey-black, mind the gap.",
+    "source": "authored"
+  },
+  "4331": {
+    "name": "Warrior",
+    "description": "Grey-violet with the shield arm forward.",
+    "source": "authored"
+  },
+  "4332": {
+    "name": "Metropolis",
+    "description": "Lang's grey city of gears — Maria duplicated, workers below.",
+    "source": "authored"
+  },
+  "4333": {
+    "name": "Cement Feet",
+    "description": "The grey-black commitment — pier arithmetic unfavourable.",
+    "source": "authored"
+  },
+  "4334": {
+    "name": "Lumberjack",
+    "description": "Plaid, pancakes and precision felling — grey-brown, okay certified.",
+    "source": "authored"
+  },
+  "4335": {
+    "name": "Femme Fatale",
+    "description": "The exit no one survives narrating — violet-black, lipstick loaded.",
+    "source": "authored"
+  },
+  "4336": {
+    "name": "Earthbound",
+    "description": "The RPG that fought with frying pans — grey, Onett's bus fare.",
+    "source": "authored"
+  },
+  "4337": {
+    "name": "Astral Projection",
+    "description": "The self one storey up — violet-grey, tether elastic.",
+    "source": "authored"
+  },
+  "4338": {
+    "name": "Taupedo",
+    "description": "Taupe at torpedo velocity — beige-grey, impact tasteful.",
+    "source": "authored"
+  },
+  "4339": {
+    "name": "Black Sabbath",
+    "description": "The Birmingham riff that invented heavy — grey-black, bells tolling.",
+    "source": "authored"
+  },
+  "4340": {
+    "name": "Cursed Black",
+    "description": "Black with the receipt from the crossroads.",
+    "source": "authored"
+  },
+  "4341": {
+    "name": "Royal Decree",
+    "description": "The parchment that reorganises kingdoms — violet-black, seals dripping.",
+    "source": "authored"
+  },
+  "4342": {
+    "name": "Her Highness",
+    "description": "The address before the name — violet, curtseys compounding.",
+    "source": "authored"
+  },
+  "4343": {
+    "name": "Mood Lighting",
+    "description": "The dimmer at date setting — violet-grey, candles delegating.",
+    "source": "authored"
+  },
+  "4344": {
+    "name": "Lava Stone",
+    "description": "The bead the volcano signed — grey-black, bracelets grounding.",
+    "source": "authored"
+  },
+  "4345": {
+    "name": "Pretty in Prune",
+    "description": "Prune with the Molly Ringwald arc — violet, prom reclaimed.",
+    "source": "authored"
+  },
+  "4346": {
+    "name": "Intergalactic Cowboy",
+    "description": "Spurs on the airlock — violet-black, tumbleweed in zero g.",
+    "source": "authored"
+  },
+  "4347": {
+    "name": "Black Magic",
+    "description": "The trick with no wires and no refunds — violet-black, wand unionised.",
+    "source": "authored"
+  },
+  "4348": {
+    "name": "Nocturne Violet",
+    "description": "Chopin after the violet hour — nocturne in a darker key.",
+    "source": "authored"
+  },
+  "4349": {
+    "name": "Desirable",
+    "description": "Violet-black with the waitlist closed.",
+    "source": "authored"
   },
   "4383": {
     "name": "Shiitake",
