@@ -412,10 +412,13 @@ const nameRows = sortedNames.map((c) => {
   nm.className = 'nm';
   nm.textContent = c.name;
   nm.title = c.name;
+  const ok = document.createElement('span');
+  ok.className = 'ok';
+  ok.textContent = cssLine(c);
   const hx = document.createElement('span');
   hx.className = 'hx';
   hx.textContent = c.hex;
-  row.append(sw, nm, hx);
+  row.append(sw, nm, ok, hx);
   listFrag.appendChild(row);
   return { row, key: foldName(c.name) };
 });

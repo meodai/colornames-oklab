@@ -130,13 +130,13 @@
   #nameCount { font-size: .78rem; color: var(--faint); margin-bottom: .55rem; }
   #namelist {
     max-height: 60vh; overflow-y: auto; border: 1px solid var(--line); background: var(--panel);
-    display: grid; grid-template-columns: repeat(auto-fill, minmax(215px, 1fr));
-    gap: 0 1.2rem; padding: .4rem .9rem; align-content: start;
+    padding: .2rem .9rem;
   }
   .nrow { display: flex; align-items: center; gap: .55rem; padding: .28rem 0; font-size: .85rem; border-bottom: 1px solid var(--row-line); min-width: 0; }
   .nrow .sw { width: 1.05em; height: 1.05em; border-radius: 4px; flex: none; }
   .nrow .nm { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-  .nrow .hx { margin-left: auto; color: var(--faint); font: .68rem ui-monospace, 'SF Mono', Menlo, monospace; }
+  .nrow .ok { margin-left: auto; color: var(--muted); font: .68rem ui-monospace, 'SF Mono', Menlo, monospace; white-space: nowrap; }
+  .nrow .hx { color: var(--faint); font: .68rem ui-monospace, 'SF Mono', Menlo, monospace; }
   footer {
     max-width: 760px; margin: 0 auto; padding: 2rem 1.25rem 3rem;
     border-top: 1px solid var(--foot-line); color: var(--faint); font-size: .82rem;

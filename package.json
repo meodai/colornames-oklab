@@ -41,10 +41,13 @@
     "sample": "node scripts/sample-points.mjs",
     "sample:more": "node scripts/sample-more.mjs",
     "worksheet": "node scripts/make-worksheet.mjs",
-    "build": "node scripts/merge-names.mjs && node scripts/audit-basics.mjs && node scripts/build-viz.mjs",
-    "validate": "node scripts/merge-names.mjs && node scripts/audit-basics.mjs"
+    "build": "node scripts/merge-names.mjs && node scripts/audit-basics.mjs && vite build",
+    "validate": "node scripts/merge-names.mjs && node scripts/audit-basics.mjs",
+    "dev": "vite"
   },
   "devDependencies": {
-    "culori": "^4.0.2"
+    "culori": "^4.0.2",
+    "vite": "^7.0.0",
+    "three": "^0.164.1"
   }
 }
