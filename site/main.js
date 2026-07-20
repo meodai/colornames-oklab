@@ -91,7 +91,7 @@ const makeLabel = (text, p, w = 128) => {
   const c = document.createElement('canvas');
   c.width = w; c.height = 64;
   const g = c.getContext('2d');
-  const font = '400 40px "Libre Caslon Condensed", Georgia, serif';
+  const font = '400 40px "Valley Sans", system-ui, sans-serif';
   g.font = font;
   g.fillStyle = theme().label;
   g.textAlign = 'center'; g.textBaseline = 'middle';
