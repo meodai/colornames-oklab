@@ -199,6 +199,606 @@
     "name": "Night",
     "description": "The sky's off-shift — deep blue-black with administrative stars."
   },
+  "1050": {
+    "name": "New Moon",
+    "description": "The moon's invisible phase — dark sky by lunar arrangement."
+  },
+  "1051": {
+    "name": "Dark Indigo",
+    "description": "Indigo descending toward its dye-vat origins."
+  },
+  "1052": {
+    "name": "Dark Eclipse",
+    "description": "The mid-totality minute, when day does an impression of night."
+  },
+  "1053": {
+    "name": "Black Rice",
+    "description": "The forbidden rice of Chinese emperors — indigo-black grains that cook to purple."
+  },
+  "1054": {
+    "name": "Indigo Ink",
+    "description": "The dye that built denim, bottled for the nib."
+  },
+  "1055": {
+    "name": "Void Violet",
+    "description": "Violet at the event horizon of black."
+  },
+  "1056": {
+    "name": "Eclipse",
+    "description": "The moon photobombing the sun — daytime dark with a corona."
+  },
+  "1057": {
+    "name": "Muted Trumpet",
+    "description": "A Harmon mute in the bell — jazz's dusky indigo voice."
+  },
+  "1058": {
+    "name": "Crepuscule",
+    "description": "The Latinate word for twilight — dusk with a degree."
+  },
+  "1059": {
+    "name": "After Hours",
+    "description": "The club after the set list ends — indigo, low talk, chairs on tables soon."
+  },
+  "1060": {
+    "name": "Deep Blue",
+    "description": "The chess computer that beat Kasparov — and the blue depth it was named for."
+  },
+  "1061": {
+    "name": "Blueprint",
+    "description": "White lines on cyanotype blue — architecture's working copies for a century."
+  },
+  "1062": {
+    "name": "Zaffre",
+    "description": "The mediaeval cobalt-glass pigment — smalt's deeper ancestor with an alchemist's name."
+  },
+  "1063": {
+    "name": "Quarry",
+    "description": "Cut granite faces and standing rainwater — industrial blue-grey."
+  },
+  "1064": {
+    "name": "Dark Iris",
+    "description": "The bearded iris in its inkiest cultivar."
+  },
+  "1065": {
+    "name": "Vermeer",
+    "description": "The Delft master's ultramarine — he spent turban-money on lapis for a girl with a pearl."
+  },
+  "1066": {
+    "name": "Evening Blue",
+    "description": "The sky at bat-emergence hour."
+  },
+  "1067": {
+    "name": "Han Purple",
+    "description": "The synthetic barium-copper purple of Han dynasty artisans — chemistry two millennia early, twin to Egyptian blue."
+  },
+  "1068": {
+    "name": "Persian Indigo",
+    "description": "The deep indigo of Persian carpets' darkest field."
+  },
+  "1069": {
+    "name": "Electric Indigo",
+    "description": "Indigo with the transformer humming."
+  },
+  "1070": {
+    "name": "Iris",
+    "description": "The rainbow goddess's flower — and the eye's own aperture ring."
+  },
+  "1071": {
+    "name": "Inkwell",
+    "description": "The desk's deepest reservoir — blue-black by the dip."
+  },
+  "1072": {
+    "name": "Aizome",
+    "description": "Japanese indigo dyeing — vats of fermented sukumo turning cloth this exact blue over many dips."
+  },
+  "1073": {
+    "name": "Black Light",
+    "description": "The UV tube that makes posters glow and laundry confess."
+  },
+  "1074": {
+    "name": "Hero Blue",
+    "description": "The protagonist's cape-blue — worn outside the trousers."
+  },
+  "1075": {
+    "name": "Majorelle Blue",
+    "description": "The cobalt Jacques Majorelle painted his Marrakech garden — a blue with a legal name."
+  },
+  "1076": {
+    "name": "Johnny Jump-Up",
+    "description": "The wild pansy's folk name — the flower that jumps up wherever it likes."
+  },
+  "1077": {
+    "name": "Granite Blue",
+    "description": "Blue-grey with igneous credentials."
+  },
+  "1078": {
+    "name": "Gentian",
+    "description": "The alpine trumpet flower of near-impossible blue — hikers' reward, liqueur's bitter root."
+  },
+  "1079": {
+    "name": "Blue Violet",
+    "description": "The X11 wavelength where blue concedes to violet."
+  },
+  "1080": {
+    "name": "Blustering Blue",
+    "description": "Blue with a gale behind it."
+  },
+  "1081": {
+    "name": "Double Bass",
+    "description": "The jazz section's heartbeat — dusky indigo, bowed or walked."
+  },
+  "1082": {
+    "name": "Blue Lightning",
+    "description": "Sky-to-ground voltage, blue-violet for a millisecond."
+  },
+  "1083": {
+    "name": "Meteor Shower",
+    "description": "The Perseids doing their August show — streaks on indigo."
+  },
+  "1084": {
+    "name": "Gloaming",
+    "description": "The Scots word for twilight — the gloam settling on the hills."
+  },
+  "1085": {
+    "name": "Siberian Iris",
+    "description": "The cold-hardy iris that blooms blue-violet through late frost."
+  },
+  "1086": {
+    "name": "Boro",
+    "description": "Japanese mended-indigo textiles — patched, stitched, faded, and more beautiful for all three."
+  },
+  "1087": {
+    "name": "Crown Jewel",
+    "description": "The one under glass with its own guard."
+  },
+  "1088": {
+    "name": "Heron Blue",
+    "description": "The patient riverside hunter in blue-grey plumage."
+  },
+  "1089": {
+    "name": "Delphinium",
+    "description": "The cottage-garden spire in true blue — toxic to eat, dazzling to stake."
+  },
+  "1090": {
+    "name": "Tesla Coil",
+    "description": "The million-volt spark fountain — violet-blue arcs on demand."
+  },
+  "1091": {
+    "name": "Bluebell",
+    "description": "The woodland carpet of April — entire forests gone blue-violet for three weeks."
+  },
+  "1092": {
+    "name": "Lupine",
+    "description": "The wolf-named meadow spire — blue-violet ranks along every June roadside."
+  },
+  "1093": {
+    "name": "Arcane Brew",
+    "description": "Something violet steeping in a warlock's kitchen."
+  },
+  "1094": {
+    "name": "Wedgwood",
+    "description": "The Staffordshire potter's jasperware blue — unglazed, white-cameoed, instantly recognisable."
+  },
+  "1095": {
+    "name": "Blue Hour",
+    "description": "Photographers' name for the blue minutes after sunset — l'heure bleue, when everything glows."
+  },
+  "1096": {
+    "name": "Balloon Flower",
+    "description": "The bud that inflates like a paper lantern before opening — platycodon, in blue-violet."
+  },
+  "1097": {
+    "name": "Candy Grape Fizz",
+    "description": "Grape soda carbonated past decorum."
+  },
+  "1098": {
+    "name": "Cornflower",
+    "description": "The bachelor's button that grew in wheat fields until herbicides — now a garden blue."
+  },
+  "1099": {
+    "name": "Borage",
+    "description": "The cucumber-flavoured herb whose star flowers garnish summer drinks in blue."
+  },
+  "1100": {
+    "name": "Hologram",
+    "description": "The rainbow shimmer of stored light — security stickers and sci-fi ghosts."
+  },
+  "1101": {
+    "name": "Wisteria Blue",
+    "description": "Wisteria leaning toward its blue register."
+  },
+  "1102": {
+    "name": "Dove Blue",
+    "description": "The city pigeon's soft blue-grey — dove by courtesy."
+  },
+  "1103": {
+    "name": "Roller Rink",
+    "description": "Four wheels, disco lights, and a periwinkle floor."
+  },
+  "1104": {
+    "name": "Faded Periwinkle",
+    "description": "Periwinkle after several summers."
+  },
+  "1105": {
+    "name": "Periwinkle",
+    "description": "The five-petalled ground-cover flower — and the blue-violet it lent to crayon boxes."
+  },
+  "1106": {
+    "name": "London Fog",
+    "description": "The earl-grey-with-lavender latte — and the weather it's named after."
+  },
+  "1107": {
+    "name": "Flax Flower",
+    "description": "The pale blue bloom of the plant that becomes linen."
+  },
+  "1108": {
+    "name": "Hyacinth",
+    "description": "The spring bulb that perfumes a whole room — named for a youth Apollo mourned."
+  },
+  "1109": {
+    "name": "Chalk Violet",
+    "description": "Violet drawn on a chalkboard's dusty ghost."
+  },
+  "1110": {
+    "name": "Pillow Talk",
+    "description": "Whispered nothings on periwinkle pillowcases."
+  },
+  "1111": {
+    "name": "Lullaby",
+    "description": "The song that negotiates with bedtime — pale blue, repeated softly."
+  },
+  "1112": {
+    "name": "Neutron Star",
+    "description": "A star collapsed to city size — a spoonful weighs a mountain range, and it glows violet in every artist's impression."
+  },
+  "1113": {
+    "name": "Nightshade",
+    "description": "The deadly nightshade family — belladonna's dark violet berries, beautiful and inadvisable."
+  },
+  "1114": {
+    "name": "Monkshood",
+    "description": "The hooded aconite flower — gorgeous spires, gloves recommended."
+  },
+  "1115": {
+    "name": "Dark Violet",
+    "description": "The X11 violet at its darkest setting."
+  },
+  "1116": {
+    "name": "Deep Royal Purple",
+    "description": "Royal purple with the lights dimmed for the portrait."
+  },
+  "1117": {
+    "name": "Deep Ultraviolet",
+    "description": "Past violet, off the visible spectrum — the light bees see and we name blindly."
+  },
+  "1118": {
+    "name": "Jewel Box",
+    "description": "The velvet-lined case where the good violet lives."
+  },
+  "1119": {
+    "name": "Royal Purple",
+    "description": "The purple of actual royalty — restricted by sumptuary law when it cost a fortune in snails."
+  },
+  "1120": {
+    "name": "Deep Purple",
+    "description": "The band and the depth — smoke on the water included."
+  },
+  "1121": {
+    "name": "Dusky Violet",
+    "description": "Violet at dusk, voice lowered."
+  },
+  "1122": {
+    "name": "UV Index",
+    "description": "The forecast number that decides sunscreen — violet by name, invisible by nature."
+  },
+  "1123": {
+    "name": "Gentian Violet",
+    "description": "The antiseptic violet dye that painted a century of scraped knees."
+  },
+  "1124": {
+    "name": "Dark Amethyst",
+    "description": "Amethyst in shadow."
+  },
+  "1125": {
+    "name": "Wild Violet",
+    "description": "The violet that escaped the border and naturalised in the lawn."
+  },
+  "1126": {
+    "name": "Smoky Violet",
+    "description": "Violet through incense."
+  },
+  "1127": {
+    "name": "Voluptuous Violet",
+    "description": "Violet with the top button undone."
+  },
+  "1128": {
+    "name": "Purple Velvet",
+    "description": "Crushed-pile purple — the jacket Prince would have approved."
+  },
+  "1129": {
+    "name": "Vivid Violet",
+    "description": "Violet at maximum chroma, no apologies."
+  },
+  "1130": {
+    "name": "Curtain Call",
+    "description": "The last bow before the house lights — dusky purple with applause."
+  },
+  "1131": {
+    "name": "Arles",
+    "description": "The Provençal town where Van Gogh painted irises and lost an ear — this violet is from the flowerbed."
+  },
+  "1132": {
+    "name": "Warp Drive",
+    "description": "Faster-than-light purple — engage."
+  },
+  "1133": {
+    "name": "Meadow Violet",
+    "description": "Violets loose in the grass."
+  },
+  "1134": {
+    "name": "Electric Purple",
+    "description": "Purple with the amplifier on."
+  },
+  "1135": {
+    "name": "Violet Crumble",
+    "description": "The Australian chocolate bar with the shattering violet centre."
+  },
+  "1136": {
+    "name": "Purpurite",
+    "description": "The manganese phosphate mineral that is purple straight out of the ground."
+  },
+  "1137": {
+    "name": "Dusty Purple",
+    "description": "Purple with a settled layer of years."
+  },
+  "1138": {
+    "name": "Ultraviolet",
+    "description": "Beyond violet — the wavelength that tans you and fades the curtains."
+  },
+  "1139": {
+    "name": "Electric Violet",
+    "description": "Violet with the current cranked."
+  },
+  "1140": {
+    "name": "Amethyst",
+    "description": "February's quartz — Greek for 'not drunk', worn as ancient insurance against wine."
+  },
+  "1141": {
+    "name": "Purple Rain",
+    "description": "The Prince anthem — the colour he owned so completely it needed no explanation."
+  },
+  "1142": {
+    "name": "Magic Potion",
+    "description": "Bubbling violet in a bottle labelled XXX — effects vary."
+  },
+  "1143": {
+    "name": "Lava Lamp",
+    "description": "The heirloom of slow television — wax rising through violet, endlessly."
+  },
+  "1144": {
+    "name": "Sugarplum",
+    "description": "The fairy of the Nutcracker and the candied plum she's named for."
+  },
+  "1145": {
+    "name": "Magnetar",
+    "description": "A neutron star with a magnetic field a quadrillion times Earth's — violet, in every visualisation."
+  },
+  "1146": {
+    "name": "Dusty Amethyst",
+    "description": "Amethyst kept in the attic."
+  },
+  "1147": {
+    "name": "African Violet",
+    "description": "The fuzzy-leaved houseplant that blooms violet on a kitchen windowsill."
+  },
+  "1148": {
+    "name": "Faded Violet",
+    "description": "Violet that has done its fading gracefully."
+  },
+  "1149": {
+    "name": "Brilliant Purple",
+    "description": "Purple at gallery brightness."
+  },
+  "1150": {
+    "name": "Crocus",
+    "description": "The first bulb through the snow — violet cups before winter has finished."
+  },
+  "1151": {
+    "name": "Amethyst Geode",
+    "description": "The hollow stone lined with violet crystals — split it and it glitters."
+  },
+  "1152": {
+    "name": "Bass Drop",
+    "description": "The moment the beat lands — subwoofer violet."
+  },
+  "1153": {
+    "name": "Allium",
+    "description": "The ornamental onion's perfect purple sphere on a metre stem."
+  },
+  "1154": {
+    "name": "Duskwing",
+    "description": "The dusky butterfly of violet-grey evenings."
+  },
+  "1155": {
+    "name": "Harebell",
+    "description": "The Scottish bluebell — a violet-blue bell on a thread-thin stem."
+  },
+  "1156": {
+    "name": "Watercolour Wash",
+    "description": "Violet pigment loosened with water, finding its own edges."
+  },
+  "1157": {
+    "name": "Jacaranda",
+    "description": "The tree that turns whole avenues violet-blue — Pretoria and Lisbon time their springs by it."
+  },
+  "1158": {
+    "name": "Matt Purple",
+    "description": "Purple in a matte finish."
+  },
+  "1159": {
+    "name": "Taffeta",
+    "description": "The stiff rustling silk of ball gowns — violet with acoustics."
+  },
+  "1160": {
+    "name": "Aster",
+    "description": "The star-named autumn daisy in violet."
+  },
+  "1161": {
+    "name": "Wizard’s Brew",
+    "description": "Something violet simmering under a pointed hat — ingredients classified."
+  },
+  "1162": {
+    "name": "Angelite",
+    "description": "The pale blue-violet 'angel stone' of crystal shops — anhydrite with better marketing."
+  },
+  "1163": {
+    "name": "Cold Lips",
+    "description": "Lips after too long in the winter sea — periwinkle, chattering."
+  },
+  "1164": {
+    "name": "Fairy Wings",
+    "description": "Gossamer violet with a wingspan."
+  },
+  "1165": {
+    "name": "Diva",
+    "description": "Spotlight violet with a rider."
+  },
+  "1166": {
+    "name": "Dryer Sheet",
+    "description": "Lavender-scented static control — laundry's violet-grey flag."
+  },
+  "1167": {
+    "name": "Obsidian Purple",
+    "description": "Obsidian with a violet gleam in the fracture."
+  },
+  "1168": {
+    "name": "Blackberry",
+    "description": "The bramble fruit at full ripeness — purple masquerading as black."
+  },
+  "1169": {
+    "name": "Coal Mine",
+    "description": "The seam face by helmet-lamp — black with pressure behind it."
+  },
+  "1170": {
+    "name": "Dark Matter",
+    "description": "The 85% of the universe that refuses observation — rendered violet-black for illustration purposes."
+  },
+  "1171": {
+    "name": "Raisin",
+    "description": "A grape's retirement — dark, wrinkled, sweeter for it."
+  },
+  "1172": {
+    "name": "Romanic Scene",
+    "description": "A candlelit chamber scene in aubergine tones."
+  },
+  "1173": {
+    "name": "Pulsar",
+    "description": "The lighthouse star — collapsed, spinning, sweeping the cosmos in violet pulses."
+  },
+  "1174": {
+    "name": "Coronation",
+    "description": "The crowning moment — purple robes, orb and sceptre, one very heavy hat."
+  },
+  "1175": {
+    "name": "Eggplant",
+    "description": "The aubergine by its American name — glossy deep purple, technically a berry."
+  },
+  "1176": {
+    "name": "Tyrian Purple",
+    "description": "The murex-snail purple of Roman emperors — twelve thousand snails per toga trim."
+  },
+  "1177": {
+    "name": "Dusky Grape",
+    "description": "Grapes at dusk on the vine."
+  },
+  "1178": {
+    "name": "Purple Reign",
+    "description": "The purple pun of sovereignty — long may it rain."
+  },
+  "1179": {
+    "name": "Grape",
+    "description": "The fruit whose purple is a flavour before it is a colour."
+  },
+  "1180": {
+    "name": "Chaise Longue",
+    "description": "The fainting couch's elegant cousin — upholstered in plum, built for reclining dramatically."
+  },
+  "1181": {
+    "name": "Concord Grape",
+    "description": "The foxy American grape behind juice, jelly and communion wine."
+  },
+  "1182": {
+    "name": "Royal Plum",
+    "description": "Plum with a coat of arms."
+  },
+  "1183": {
+    "name": "Grape Soda",
+    "description": "The vending-machine purple that stains tongues on contact."
+  },
+  "1184": {
+    "name": "Sugilite",
+    "description": "The rare magenta-purple mineral collectors pronounce three different ways."
+  },
+  "1185": {
+    "name": "Rich Purple",
+    "description": "Purple with compound interest."
+  },
+  "1186": {
+    "name": "Purple Haze",
+    "description": "The Hendrix question — 'scuse me while I kiss the sky."
+  },
+  "1187": {
+    "name": "Wolfsbane",
+    "description": "The werewolf-repelling aconite — folklore's most dramatic purple flower."
+  },
+  "1188": {
+    "name": "Prince",
+    "description": "The artist formerly and finally known as — his purple, his symbol, his rain."
+  },
+  "1189": {
+    "name": "Paleta",
+    "description": "The Mexican ice pop in its grape-violet flavour."
+  },
+  "1190": {
+    "name": "Plummy",
+    "description": "Comfortably, contentedly plum."
+  },
+  "1191": {
+    "name": "Royal Amethyst",
+    "description": "Amethyst with a court appointment."
+  },
+  "1192": {
+    "name": "Murex",
+    "description": "The spiny sea snail whose glands made Tyrian purple — empires traded on its mucus."
+  },
+  "1193": {
+    "name": "Violet",
+    "description": "The flower Napoleon's supporters wore — and the spectral colour at the rainbow's inner edge."
+  },
+  "1194": {
+    "name": "Purple",
+    "description": "Red and blue's treaty colour — royalty, magic and Prince all signed."
+  },
+  "1195": {
+    "name": "Purple Marker",
+    "description": "The scented felt-tip that smelled like grape and lied."
+  },
+  "1196": {
+    "name": "Firework",
+    "description": "The chrysanthemum burst at the show's finale — violet sparks on black."
+  },
+  "1197": {
+    "name": "Plasma Globe",
+    "description": "The plasma ball's violet filaments chasing your fingertip across the glass."
+  },
+  "1198": {
+    "name": "Glam Rock",
+    "description": "Glitter, platforms, and a purple guitar — the Ziggy decade's stage uniform."
+  },
+  "1199": {
+    "name": "Dreamscape Purple",
+    "description": "The purple your dreams render when the plot goes lucid."
+  },
   "0000": {
     "name": "Black",
     "description": "The complete absorption of visible light — though this one, like every black a screen can show, keeps a whisper of blue in it."
