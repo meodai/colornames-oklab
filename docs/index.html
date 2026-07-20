@@ -4922,7 +4922,8 @@ const buildOutline = (key, M, decode) => {
   obj.visible = false;
   scene.add(obj);
   const edge = pts.reduce((m, v) => (v.x < m.x ? v : m), pts[0]);
-  const label = makeLabel(TIER_LABEL[key].replace('Display ', ''), new THREE.Vector3(edge.x - 0.09, 0.02, edge.z), 192);
+  const label = makeLabel(TIER_LABEL[key].replace('Display ', ''), new THREE.Vector3(edge.x - 0.07, 0.015, edge.z), 192);
+  label.scale.multiplyScalar(0.65);
   label.visible = false;
   obj.userData.label = label;
   shells[key] = obj;
