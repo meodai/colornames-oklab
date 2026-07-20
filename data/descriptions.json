@@ -14499,45 +14499,755 @@
     "description": "Ace through ten, one suit — violet felt, table quiet.",
     "source": "authored"
   },
+  "3900": {
+    "name": "Prince Charming",
+    "description": "The rescue with a jawline — pink-violet, glass slipper logistics.",
+    "source": "authored"
+  },
+  "3901": {
+    "name": "Spicy Purple",
+    "description": "Purple with a Scoville rating.",
+    "source": "authored"
+  },
+  "3902": {
+    "name": "Buccaneer",
+    "description": "The pirate with a business plan — violet-red, letters of marque.",
+    "source": "authored"
+  },
+  "3903": {
+    "name": "Never Forget",
+    "description": "The elephant's pink-violet motto — grudges archived.",
+    "source": "authored"
+  },
+  "3904": {
+    "name": "Magnificent Magenta",
+    "description": "Magenta with the orchestra swelling.",
+    "source": "authored"
+  },
+  "3905": {
+    "name": "Vintage",
+    "description": "Old enough to cost more — violet-rose, provenance papers.",
+    "source": "authored"
+  },
+  "3906": {
+    "name": "Pinky Pickle",
+    "description": "The pickle that blushed — pink, brine sweetened.",
+    "source": "authored"
+  },
+  "3907": {
+    "name": "Priscilla",
+    "description": "The bus, the frocks, the desert — pink-violet, lip sync survival.",
+    "source": "authored"
+  },
+  "3908": {
+    "name": "Nail Salon",
+    "description": "Acetone air and gossip drying — pink, top coat setting.",
+    "source": "authored"
+  },
+  "3909": {
+    "name": "Thrift Shop",
+    "description": "Twenty dollars in my pocket — pink-violet, tags popped.",
+    "source": "authored"
+  },
+  "3910": {
+    "name": "Vice City",
+    "description": "Neon over the causeway, pastel suits, one radio station — pink-violet 1986.",
+    "source": "authored"
+  },
+  "3911": {
+    "name": "Rodeo Queen",
+    "description": "Sequins in the saddle — pink, barrel turns waved.",
+    "source": "authored"
+  },
+  "3912": {
+    "name": "Pinch Me",
+    "description": "The pink that requires verification — dream status pending.",
+    "source": "authored"
+  },
+  "3913": {
+    "name": "Ferocious Flamingo",
+    "description": "Flamingo with the gloves off.",
+    "source": "authored"
+  },
+  "3914": {
+    "name": "Brutal Pink",
+    "description": "Pink in concrete brutalism — béton rosé.",
+    "source": "authored"
+  },
+  "3915": {
+    "name": "Schiaparelli Pink",
+    "description": "The shocking pink Elsa invented — surrealist, lobster-dress adjacent.",
+    "source": "authored"
+  },
+  "3916": {
+    "name": "Divine",
+    "description": "Pink past mortal clearance — choir invisible.",
+    "source": "authored"
+  },
+  "3917": {
+    "name": "Feverish Passion",
+    "description": "Passion at 39.5 degrees — pink, compress advised.",
+    "source": "authored"
+  },
+  "3918": {
+    "name": "Voila!",
+    "description": "The reveal in pink — tablecloth intact.",
+    "source": "authored"
+  },
+  "3919": {
+    "name": "Kinky Pinky",
+    "description": "Pink past the watershed hour.",
+    "source": "authored"
+  },
+  "3920": {
+    "name": "Fluorescent Pink",
+    "description": "Pink at tube-light frequency — highlighter certified.",
+    "source": "authored"
+  },
+  "3921": {
+    "name": "Pinking. Fast and Slow",
+    "description": "Kahneman for the pink aisle — system one says yes.",
+    "source": "authored"
+  },
+  "3922": {
+    "name": "Drunken Flamingo",
+    "description": "The flamingo past its brunch limit — pink, one leg failing.",
+    "source": "authored"
+  },
+  "3923": {
+    "name": "Pom-Pom",
+    "description": "The cheer squad's pink punctuation — shaken not spelled.",
+    "source": "authored"
+  },
+  "3924": {
+    "name": "Tamagotchi",
+    "description": "The pixel pet that died at recess — pink shell, guilt firmware.",
+    "source": "authored"
+  },
+  "3925": {
+    "name": "Passion Potion",
+    "description": "The love philtre in pink — side effects sonnets.",
+    "source": "authored"
+  },
+  "3926": {
+    "name": "Melondrama",
+    "description": "Watermelon with a storyline — pink, seeds as plot twists.",
+    "source": "authored"
+  },
+  "3927": {
+    "name": "Nervous Neon Pink",
+    "description": "Neon pink with stage fright — flicker as tell.",
+    "source": "authored"
+  },
+  "3928": {
+    "name": "Sultan of Pink",
+    "description": "Pink with a palace and opinions — turban jewelled.",
+    "source": "authored"
+  },
+  "3929": {
+    "name": "Elastic Pink",
+    "description": "Pink that snaps back — waistband physics.",
+    "source": "authored"
+  },
+  "3930": {
+    "name": "Tiara",
+    "description": "The crown's pink apprentice — bobby pins load-bearing.",
+    "source": "authored"
+  },
+  "3931": {
+    "name": "Blush Bomb",
+    "description": "Blush at detonation — cheeks ground zero.",
+    "source": "authored"
+  },
+  "3932": {
+    "name": "Pink Wafer",
+    "description": "The biscuit that's mostly air and nostalgia — pink layers, tea rights.",
+    "source": "authored"
+  },
+  "3933": {
+    "name": "Slumber Party",
+    "description": "Sleeping bags, secrets, zero sleep — pink, torch under chin.",
+    "source": "authored"
+  },
+  "3934": {
+    "name": "Land of Dreams",
+    "description": "The pillow's pink jurisdiction — passport dreams only.",
+    "source": "authored"
+  },
+  "3935": {
+    "name": "Think Pink",
+    "description": "The Funny Face directive — pink, Kay Thompson conducting.",
+    "source": "authored"
+  },
+  "3936": {
+    "name": "Kawaii",
+    "description": "Cute as a national industry — pink, mascot eligible.",
+    "source": "authored"
+  },
+  "3937": {
+    "name": "Hanami Pink",
+    "description": "The picnic under falling petals — pink, sake permitted.",
+    "source": "authored"
+  },
+  "3938": {
+    "name": "Matt Pink",
+    "description": "Pink with the gloss declined.",
+    "source": "authored"
+  },
+  "3939": {
+    "name": "Jigglypuff",
+    "description": "The pink balloon that sings you to sleep — marker retaliation canon.",
+    "source": "authored"
+  },
+  "3940": {
+    "name": "Rosecco",
+    "description": "Rosé meets prosecco — pink fizz, portmanteau poured.",
+    "source": "authored"
+  },
+  "3941": {
+    "name": "Sugarwinkle",
+    "description": "Sugar in periwinkle's clothing — pink-violet sprinkle.",
+    "source": "authored"
+  },
+  "3942": {
+    "name": "Bride",
+    "description": "The dress that photographs itself — pink-white, aisle physics.",
+    "source": "authored"
+  },
+  "3943": {
+    "name": "Polar Bear in a Blizzard",
+    "description": "The white-on-white joke made visible — pink nose gives it away.",
+    "source": "authored"
+  },
+  "3944": {
+    "name": "Minotaur Hide",
+    "description": "The labyrinth's leather ledger — brown-grey, thread evidence.",
+    "source": "authored"
+  },
+  "3945": {
+    "name": "What We Do in the Shadows",
+    "description": "The vampire flat-share documentary — grey-brown, Stu beloved.",
+    "source": "authored"
+  },
+  "3946": {
+    "name": "Soul Anchor",
+    "description": "The tether below the waterline — grey-brown, hull certainty.",
+    "source": "authored"
+  },
+  "3947": {
+    "name": "Cacao Nib",
+    "description": "Chocolate before the sugar lobby — brown-black, bitter shards.",
+    "source": "authored"
+  },
+  "3948": {
+    "name": "Bloodlust",
+    "description": "Red with the metric filed under appetite.",
+    "source": "authored"
+  },
+  "3949": {
+    "name": "Velvet",
+    "description": "The fabric that remembers your hand — red-brown, nap direction.",
+    "source": "authored"
+  },
+  "3950": {
+    "name": "Inescapable Lover",
+    "description": "The orbit that won't decay — red-brown, roses recurring.",
+    "source": "authored"
+  },
   "3951": {
     "name": "Tayberry",
-    "description": "A cultivated shrub in the genus Rubus of the family Rosaceae patented in 1979 as a cross between a blackberry and a red raspberry, and named after the River Tay in Scotland.",
-    "source": "wikipedia"
+    "description": "The blackberry-raspberry treaty — red-violet, Tayside signed.",
+    "source": "authored"
+  },
+  "3952": {
+    "name": "Beet Red",
+    "description": "The blush vegetables achieve — red-violet, borscht licensed.",
+    "source": "authored"
+  },
+  "3953": {
+    "name": "Bindi Red",
+    "description": "The dot that completes the look — red, forehead placement.",
+    "source": "authored"
+  },
+  "3954": {
+    "name": "Warrior Queen",
+    "description": "The crown taken, not given — red, chariot spikes.",
+    "source": "authored"
+  },
+  "3955": {
+    "name": "Liaison",
+    "description": "The meeting the calendars deny — red-violet, receipts encrypted.",
+    "source": "authored"
+  },
+  "3956": {
+    "name": "Love Potion",
+    "description": "Number nine, love potion — red-violet, gypsy-sold.",
+    "source": "authored"
+  },
+  "3957": {
+    "name": "Murderous Magenta",
+    "description": "Magenta with an alibi gap.",
+    "source": "authored"
+  },
+  "3958": {
+    "name": "Secret Affair",
+    "description": "The affair the group chat suspects — red-violet, read receipts off.",
+    "source": "authored"
+  },
+  "3959": {
+    "name": "Hot",
+    "description": "The setting past medium — red, oven mitts implied.",
+    "source": "authored"
+  },
+  "3960": {
+    "name": "Magentarama",
+    "description": "Magenta in cinemascope — curtains parting.",
+    "source": "authored"
+  },
+  "3961": {
+    "name": "Hot Flamingo",
+    "description": "Flamingo past the thermostat — pink-red, feathers fanned.",
+    "source": "authored"
+  },
+  "3962": {
+    "name": "Fat Smooch",
+    "description": "The kiss that leaves evidence — red-pink, collar exhibits.",
+    "source": "authored"
+  },
+  "3963": {
+    "name": "Gum Wall",
+    "description": "Seattle's chewed archive — pink-red, germophobe detour.",
+    "source": "authored"
+  },
+  "3964": {
+    "name": "Benevolent Pink",
+    "description": "Pink with a foundation and a grant cycle.",
+    "source": "authored"
+  },
+  "3965": {
+    "name": "Gotham",
+    "description": "The city that needs the signal — red-black skyline, rain constant.",
+    "source": "authored"
+  },
+  "3966": {
+    "name": "Kirby",
+    "description": "The pink puff that eats universes — copy ability included.",
+    "source": "authored"
+  },
+  "3967": {
+    "name": "Equestrienne",
+    "description": "Sidesaddle and certain — red-pink, dressage scores posted.",
+    "source": "authored"
+  },
+  "3968": {
+    "name": "Hyper Pink",
+    "description": "Pink past the refresh rate.",
+    "source": "authored"
+  },
+  "3969": {
+    "name": "Self-Love",
+    "description": "The valentine addressed inward — pink-red, boundaries laminated.",
+    "source": "authored"
+  },
+  "3970": {
+    "name": "First Love",
+    "description": "The crush with the misspelled note — pink-red, folded twelve times.",
+    "source": "authored"
+  },
+  "3971": {
+    "name": "Flickr Pink",
+    "description": "The photo site's missing e — pink, 2004 loading.",
+    "source": "authored"
+  },
+  "3972": {
+    "name": "Love Vessel",
+    "description": "The heart as cargo hold — pink-red, manifest emotional.",
+    "source": "authored"
+  },
+  "3973": {
+    "name": "Pucker Up",
+    "description": "The two-second warning — pink-red, chapstick applied.",
+    "source": "authored"
+  },
+  "3974": {
+    "name": "Sugar Rush",
+    "description": "The hour after the piñata — pink-red, ceiling fan orbit.",
+    "source": "authored"
+  },
+  "3975": {
+    "name": "Charm",
+    "description": "The bracelet's pink-red tenant — luck itemised.",
+    "source": "authored"
+  },
+  "3976": {
+    "name": "Forgiven Sin",
+    "description": "The slate wiped rose — pink-red, confession booth exhale.",
+    "source": "authored"
+  },
+  "3977": {
+    "name": "Fever Dream",
+    "description": "The dream that files no logic — pink-red, staircase looping.",
+    "source": "authored"
+  },
+  "3978": {
+    "name": "Man o' War",
+    "description": "The jellyfish that's actually a colony — pink-red sail, sting federal.",
+    "source": "authored"
+  },
+  "3979": {
+    "name": "Prickly Pink",
+    "description": "Pink with spines budgeted — cactus flower clause.",
+    "source": "authored"
+  },
+  "3980": {
+    "name": "Unicorn Dust",
+    "description": "What unicorns shed — pink-red shimmer, allergen magical.",
+    "source": "authored"
+  },
+  "3981": {
+    "name": "Embarrassed",
+    "description": "The pink-red that answers for you — cheeks testifying.",
+    "source": "authored"
+  },
+  "3982": {
+    "name": "Kiss",
+    "description": "The singular — pink-red, mistletoe jurisdiction.",
+    "source": "authored"
+  },
+  "3983": {
+    "name": "Kisses",
+    "description": "The plural with chocolate portfolio — pink-red, foil archived.",
+    "source": "authored"
+  },
+  "3984": {
+    "name": "Magical Girl",
+    "description": "Transformation sequence budgeted — pink-red, wand stock footage.",
+    "source": "authored"
+  },
+  "3985": {
+    "name": "Jellyfish Sting",
+    "description": "The souvenir the sea left — pink-red welt, vinegar debated.",
+    "source": "authored"
+  },
+  "3986": {
+    "name": "Mangala Pink",
+    "description": "Mars by its Sanskrit name in pink — auspicious orbit.",
+    "source": "authored"
+  },
+  "3987": {
+    "name": "Anime Blush",
+    "description": "The parallel lines under anime eyes — pink-red, feelings rendered.",
+    "source": "authored"
+  },
+  "3988": {
+    "name": "Girl Power",
+    "description": "The Spice Girls' pink-red thesis — zigazig ah.",
+    "source": "authored"
+  },
+  "3989": {
+    "name": "Pearly Pink",
+    "description": "Pink through mother-of-pearl.",
+    "source": "authored"
+  },
+  "3990": {
+    "name": "Prism Pink",
+    "description": "Pantone's pink through the prism — spring deck 2016.",
+    "source": "authored"
+  },
+  "3991": {
+    "name": "Fairy Tale",
+    "description": "Once upon a pink — grimm fine print.",
+    "source": "authored"
+  },
+  "3992": {
+    "name": "Mauvelous",
+    "description": "Crayola's mauve pun — pink-violet, 1993 vintage.",
+    "source": "authored"
+  },
+  "3993": {
+    "name": "Candy Bar",
+    "description": "The wrapper's pink-red promise — nougat disputes.",
+    "source": "authored"
+  },
+  "3994": {
+    "name": "LA Vibes",
+    "description": "Golden hour on Melrose — pink-red, traffic edited out.",
+    "source": "authored"
+  },
+  "3995": {
+    "name": "Cupid",
+    "description": "The archer with the HR complaints — pink-red, arrows unregulated.",
+    "source": "authored"
+  },
+  "3996": {
+    "name": "Ballerina",
+    "description": "First position in pink — barre sworn.",
+    "source": "authored"
+  },
+  "3997": {
+    "name": "Brume",
+    "description": "Sea mist by its French name — pink-grey, harbour soft.",
+    "source": "authored"
+  },
+  "3998": {
+    "name": "Abloom",
+    "description": "The garden mid-sentence — pink-white, buds interrupting.",
+    "source": "authored"
+  },
+  "3999": {
+    "name": "Tutu",
+    "description": "Tulle in pink circumference — twirl certified.",
+    "source": "authored"
+  },
+  "4000": {
+    "name": "Espresso Martini",
+    "description": "The cocktail that solved dessert — brown-black crema, three beans.",
+    "source": "authored"
+  },
+  "4001": {
+    "name": "Holy Crow",
+    "description": "The corvid of exclamations — brown-black, Sherlock adjacent.",
+    "source": "authored"
+  },
+  "4002": {
+    "name": "Tamahagane",
+    "description": "The jewel steel folded for katanas — grey-black, tamahagane smelted.",
+    "source": "authored"
+  },
+  "4003": {
+    "name": "Caveman",
+    "description": "Club, pelt, firm handshake pending — brown-grey, cave equity.",
+    "source": "authored"
+  },
+  "4004": {
+    "name": "Anchovy",
+    "description": "The fillet that divides pizzas — brown-grey, salt concentrated.",
+    "source": "authored"
+  },
+  "4005": {
+    "name": "Wreath",
+    "description": "The circle on the December door — green-black, needles shedding.",
+    "source": "authored"
+  },
+  "4006": {
+    "name": "Campfire Smoke",
+    "description": "The smell that follows you home — grey-brown, jumper evidence.",
+    "source": "authored"
+  },
+  "4007": {
+    "name": "Gryphon",
+    "description": "Eagle forward, lion aft — brown-grey, heraldry approved.",
+    "source": "authored"
+  },
+  "4008": {
+    "name": "Edamame",
+    "description": "Soybeans in the shell — green-grey pods, salt argument.",
+    "source": "authored"
+  },
+  "4009": {
+    "name": "Storm's Coming",
+    "description": "The dog knew first — grey-green, porch furniture migrating.",
+    "source": "authored"
   },
   "4010": {
     "name": "Sesame",
-    "description": "A plant in the genus Sesamum, also called benne. Numerous wild relatives occur in Africa and a smaller number in India. It is widely naturalized in tropical regions around the world and is cultivated for its edible seeds, which grow in pods.",
-    "source": "wikipedia"
+    "description": "The seed that opens caves — grey-tan, bagel allocation.",
+    "source": "authored"
+  },
+  "4011": {
+    "name": "Pelican",
+    "description": "The beak that files the catch — grey-brown, pouch arithmetic.",
+    "source": "authored"
+  },
+  "4012": {
+    "name": "Martini",
+    "description": "Gin, vermouth, and an olive doing its best — grey-green, stirred politics.",
+    "source": "authored"
   },
   "4013": {
     "name": "Pearl",
-    "description": "A pearl is a hard, glistening object produced within the soft tissue of a living shelled mollusk or another animal, such as fossil conulariids. Just like the shell of a mollusk, a pearl is composed of calcium carbonate in minute crystalline form, which is deposited in concentric layers.",
-    "source": "wikipedia"
+    "description": "The grit's luminous pension — grey-white, oyster patience.",
+    "source": "authored"
+  },
+  "4014": {
+    "name": "Bare Mintimum",
+    "description": "Mint at minimum viable effort — grey-green, pun clocked in.",
+    "source": "authored"
   },
   "4015": {
     "name": "Linen",
-    "description": "A textile made from the bast fibers of the flax plant. Linen cloth has been produced since ancient times primarily for use in clothing and household items.",
-    "source": "wikipedia"
+    "description": "Flax woven to summer's default — grey-white, wrinkles honest.",
+    "source": "authored"
+  },
+  "4016": {
+    "name": "Black Sheep",
+    "description": "The relative the photos crop — grey-black wool, baa unrepentant.",
+    "source": "authored"
+  },
+  "4017": {
+    "name": "Black Chocolate",
+    "description": "Chocolate at 100 percent — brown-black, ambition required.",
+    "source": "authored"
+  },
+  "4018": {
+    "name": "Evil Forces",
+    "description": "The alignment checkbox — grey-black, lair mortgaged.",
+    "source": "authored"
+  },
+  "4019": {
+    "name": "Void Wellness Coach",
+    "description": "The abyss with a mindfulness app — grey-black, staring back is self-care.",
+    "source": "authored"
+  },
+  "4020": {
+    "name": "Bitters",
+    "description": "The dash that fixes the drink — red-brown, angostura secrets.",
+    "source": "authored"
+  },
+  "4021": {
+    "name": "Carnivore",
+    "description": "The diet with canines to prove it — red-brown, salad declined.",
+    "source": "authored"
+  },
+  "4022": {
+    "name": "M. Bison",
+    "description": "The dictator of Shadaloo — red uniform, psycho power invoiced.",
+    "source": "authored"
+  },
+  "4023": {
+    "name": "Brunette",
+    "description": "Brown-black at the roots — appointments quarterly.",
+    "source": "authored"
+  },
+  "4024": {
+    "name": "Akai Red",
+    "description": "Red by its Japanese name — akai, doubled for emphasis.",
+    "source": "authored"
+  },
+  "4025": {
+    "name": "Knockout",
+    "description": "The punch that ends the card — red, canvas count.",
+    "source": "authored"
+  },
+  "4026": {
+    "name": "Bloodshed",
+    "description": "Red past the negotiation stage — history's margin notes.",
+    "source": "authored"
+  },
+  "4027": {
+    "name": "Lionheart",
+    "description": "The heart of the crusader king — red, ransom priced.",
+    "source": "authored"
   },
   "4028": {
     "name": "Tandoori",
-    "description": "A tandoor is a large vase-shaped oven, usually made of clay. Since antiquity, tandoors have been used to bake unleavened flatbreads, such as roti and traditional lavash, as well as leavened ones, such as naan and tandoor bread or matnakash. It is also used to roast meat and vegetables.",
-    "source": "wikipedia"
+    "description": "The oven that reddens everything it loves — chicken confessing.",
+    "source": "authored"
+  },
+  "4029": {
+    "name": "Ferocious",
+    "description": "Red with the leash slipped.",
+    "source": "authored"
   },
   "4030": {
     "name": "Carpaccio",
-    "description": "A dish of meat or fish, thinly sliced or pounded thin, and served raw, typically as an appetiser. It was invented in 1950 by Giuseppe Cipriani, founder of Harry's Bar in Venice, Italy, and popularised during the second half of the twentieth century.",
-    "source": "wikipedia"
+    "description": "Beef sliced to translucency — red, Harry's Bar patent.",
+    "source": "authored"
+  },
+  "4031": {
+    "name": "Azalea Festival",
+    "description": "The town that blooms for a week — pink-red, parade permitted.",
+    "source": "authored"
   },
   "4032": {
     "name": "Fuzzy Wuzzy",
-    "description": "Since the introduction of Crayola drawing crayons by Binney & Smith in 1903, more than 200 colors have been produced in a wide variety of assortments. The table below represents all of the colors found in regular Crayola assortments from 1903 to the present.",
-    "source": "wikipedia"
+    "description": "The bear with no hair — red-brown, Crayola's tongue twister.",
+    "source": "authored"
+  },
+  "4033": {
+    "name": "Halt Red",
+    "description": "Red with the palm out — proceed refused.",
+    "source": "authored"
+  },
+  "4034": {
+    "name": "Turnip the Pink",
+    "description": "The root vegetable's pink encore — turnip, volume up.",
+    "source": "authored"
+  },
+  "4035": {
+    "name": "Red Flag",
+    "description": "The pattern noticed too late — red, group chat vindicated.",
+    "source": "authored"
+  },
+  "4036": {
+    "name": "Ripe Malinka",
+    "description": "Raspberry by its Slavic name — red, jam season closed.",
+    "source": "authored"
+  },
+  "4037": {
+    "name": "Piglet Squid",
+    "description": "The deep-sea blob with the cartoon face — pink-red, snout rights.",
+    "source": "authored"
+  },
+  "4038": {
+    "name": "Parma Ham",
+    "description": "The leg aged in Parma's air — pink-red, melon diplomacy.",
+    "source": "authored"
+  },
+  "4039": {
+    "name": "Funki Porcini",
+    "description": "The trip-hop alias with the truffle appetite — red-brown grooves.",
+    "source": "authored"
+  },
+  "4040": {
+    "name": "Bloodthirsty",
+    "description": "Thirst in its red filing — daylight declined.",
+    "source": "authored"
+  },
+  "4041": {
+    "name": "Netherworld",
+    "description": "The floor below the underworld — red-black, elevator out of service.",
+    "source": "authored"
   },
   "4042": {
     "name": "Granite",
-    "description": "A coarse-grained (phaneritic) intrusive igneous rock composed mostly of quartz, alkali feldspar, mica and plagioclase. It forms from magma with a high content of silica and alkali metal oxides that slowly cools and solidifies underground.",
-    "source": "wikipedia"
+    "description": "The rock that outlasts kitchens — grey, speckle warranty.",
+    "source": "authored"
+  },
+  "4043": {
+    "name": "Devilish",
+    "description": "The grin with the pitchfork — red, fine print smoking.",
+    "source": "authored"
+  },
+  "4044": {
+    "name": "Autumnal",
+    "description": "The adjective October files — red-brown, rakes deployed.",
+    "source": "authored"
+  },
+  "4045": {
+    "name": "Fireball",
+    "description": "The cinnamon whisky dare — red-orange, chased with regret.",
+    "source": "authored"
+  },
+  "4046": {
+    "name": "Bronzed",
+    "description": "The tan past its own limit — red-brown, SPF ignored.",
+    "source": "authored"
+  },
+  "4047": {
+    "name": "Barberry",
+    "description": "The thorned shrub of tart red berries — jam's sour specialist.",
+    "source": "authored"
+  },
+  "4048": {
+    "name": "Incision",
+    "description": "The line the scalpel signs — red, sutures pending.",
+    "source": "authored"
+  },
+  "4049": {
+    "name": "Flamboyant",
+    "description": "Red-orange with jazz hands — subtlety declined.",
+    "source": "authored"
   },
   "4195": {
     "name": "Faience",
