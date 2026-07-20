@@ -440,8 +440,9 @@ const buildRow = (r) => {
 };
 const CHUNK = 250;
 let built = 0;
+// timeout so the build still completes in throttled/background tabs
 const idle = typeof requestIdleCallback === 'function'
-  ? (fn) => requestIdleCallback(fn)
+  ? (fn) => requestIdleCallback(fn, { timeout: 300 })
   : (fn) => setTimeout(fn, 16);
 const buildChunk = () => {
   const frag = document.createDocumentFragment();
