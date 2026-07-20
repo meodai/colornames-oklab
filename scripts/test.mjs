@@ -94,23 +94,20 @@ for (const e of list) {
   const tag = `"${e.name}"`;
   check(typeof e.name === 'string' && e.name.trim() === e.name && e.name.length > 0, `${tag}: bad name`);
   check(TIERS.has(e.tier), `${tag}: bad tier ${e.tier}`);
-  check(/^#[0-9a-f]{6}$/.test(e.fallbackHex), `${tag}: bad fallbackHex ${e.fallbackHex}`);
+  check(/^#[0-9a-f]{6}$/.test(e.hex), `${tag}: bad hex ${e.hex}`);
   check(
-    e.oklab && e.oklab.l >= 0 && e.oklab.l <= 1 && Math.abs(e.oklab.a) < 0.5 && Math.abs(e.oklab.b) < 0.5,
+    Array.isArray(e.oklab) && e.oklab.length === 3 &&
+      e.oklab[0] >= 0 && e.oklab[0] <= 1 && Math.abs(e.oklab[1]) < 0.5 && Math.abs(e.oklab[2]) < 0.5,
     `${tag}: oklab out of range`
   );
-  check(e.oklch && e.oklch.c >= 0 && e.oklch.h >= 0 && e.oklch.h <= 360, `${tag}: oklch out of range`);
 
-  const c = { mode: 'oklab', ...e.oklab };
+  const c = { mode: 'oklab', l: e.oklab[0], a: e.oklab[1], b: e.oklab[2] };
   if (e.tier === 'srgb') {
-    check(e.css === e.fallbackHex, `${tag}: srgb css should equal fallbackHex`);
     check(inSrgb(nudge(c, 1 - EPS)), `${tag}: tier=srgb but outside sRGB`);
   } else if (e.tier === 'p3') {
-    check(e.css.startsWith('color(display-p3 '), `${tag}: p3 css malformed`);
     check(inP3(nudge(c, 1 - EPS)), `${tag}: tier=p3 but outside P3`);
     check(!inSrgb(nudge(c, 1 + EPS)), `${tag}: tier=p3 but inside sRGB`);
   } else {
-    check(e.css.startsWith('color(rec2020 '), `${tag}: rec2020 css malformed`);
     check(inRec2020(nudge(c, 1 - EPS)), `${tag}: tier=rec2020 but outside Rec2020`);
     check(!inP3(nudge(c, 1 + EPS)), `${tag}: tier=rec2020 but inside P3`);
   }

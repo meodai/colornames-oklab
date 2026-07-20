@@ -8,23 +8,20 @@ All names were written by **[Claude Fable 5](https://www.anthropic.com/news/clau
 
 ## Data
 
-`colornames-oklab.json` — an array of 3000 entries:
+`colornames-oklab.json` — an array of 3000 entries, 254 kB raw / 60 kB gzipped:
 
 ```json
-{
-  "name": "Emerald",
-  "tier": "srgb",
-  "css": "#089156",
-  "fallbackHex": "#089156",
-  "oklab": { "l": 0.577, "a": -0.1257, "b": 0.0551 },
-  "oklch": { "l": 0.577, "c": 0.1372, "h": 156.3 }
-}
+{ "name": "Emerald", "tier": "srgb", "hex": "#089156", "oklab": [0.577, -0.1257, 0.0551] }
 ```
 
-- **`tier`** — which gamut the color lives in: `srgb`, `p3` (inside Display P3 but outside sRGB), or `rec2020` (outside P3).
-- **`css`** — the most faithful CSS representation: a hex string for sRGB colors, `color(display-p3 …)` or `color(rec2020 …)` for wide-gamut ones.
-- **`fallbackHex`** — an sRGB fallback produced by chroma-clamping in OKLCH (hue and lightness preserved, chroma pulled into gamut). Safe to show anywhere.
-- **`oklab` / `oklch`** — the exact sampled coordinates.
+- **`tier`** — smallest gamut containing the color: `srgb`, `p3` (inside Display P3 but outside sRGB), or `rec2020` (outside P3).
+- **`hex`** — sRGB fallback produced by chroma-clamping in OKLCH (hue and lightness preserved, chroma pulled into gamut). Safe everywhere.
+- **`oklab`** — the exact sampled `[L, a, b]` coordinates.
+
+The schema is deliberately minimal — everything else is derivable:
+
+- **CSS**: spell the exact color as `` `oklab(${l} ${a} ${b})` `` — supported in every evergreen browser, which gamut-maps it to whatever the display can show. No stored `color()` strings needed.
+- **OKLCH**: `C = Math.hypot(a, b)`, `H = Math.atan2(b, a) * 180 / Math.PI`.
 
 ```js
 import colors from 'colornames-oklab';        // ESM

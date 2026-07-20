@@ -29,16 +29,19 @@ if (errors.length) {
   process.exit(1);
 }
 
+// minimal shipped schema: css/oklch are derivable (css via CSS oklab(),
+// oklch via c=hypot(a,b), h=atan2); hex is the OKLCH-clamped sRGB fallback
 const list = points.map((p) => ({
   name: names[String(p.id).padStart(4, '0')],
   tier: p.tier,
-  css: p.css,
-  fallbackHex: p.fallbackHex,
-  oklab: p.oklab,
-  oklch: p.oklch,
+  hex: p.fallbackHex,
+  oklab: [p.oklab.l, p.oklab.a, p.oklab.b],
 }));
 
-writeFileSync(new URL('../colornames-oklab.json', dataDir), JSON.stringify(list, null, 1));
+writeFileSync(
+  new URL('../colornames-oklab.json', dataDir),
+  '[\n' + list.map((e) => JSON.stringify(e)).join(',\n') + '\n]\n'
+);
 
 const counts = list.reduce((m, e) => ((m[e.tier] = (m[e.tier] ?? 0) + 1), m), {});
 console.log(`OK: ${list.length} entries, all names unique`);

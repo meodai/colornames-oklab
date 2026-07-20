@@ -35,7 +35,7 @@ const BASICS = {
 };
 
 const byName = new Map(list.map((e) => [e.name.toLowerCase(), e]));
-const dist = (p, q) => Math.hypot(p.l - q.l, p.a - q.a, p.b - q.b);
+const dist = (p, q) => Math.hypot(p.l - q[0], p.a - q[1], p.b - q[2]);
 
 const problems = [];
 for (const [name, hex] of Object.entries(BASICS)) {
@@ -73,8 +73,8 @@ if (!problems.length) {
 } else {
   for (const p of problems) {
     console.log(`✗ ${p.name}: ${p.issue}`);
-    if (p.current) console.log(`   current: id? "${p.current.name}" ${p.current.fallbackHex} tier=${p.current.tier}`);
-    console.log(`   best srgb candidate: "${p.candidate.name}" ${p.candidate.fallbackHex} (d=${p.candD.toFixed(3)})`);
+    if (p.current) console.log(`   current: id? "${p.current.name}" ${p.current.hex} tier=${p.current.tier}`);
+    console.log(`   best srgb candidate: "${p.candidate.name}" ${p.candidate.hex} (d=${p.candD.toFixed(3)})`);
   }
   console.log(`\n${problems.length} problems`);
 }

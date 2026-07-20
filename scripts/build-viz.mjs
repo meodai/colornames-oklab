@@ -9,14 +9,14 @@ import { toGamut } from 'culori';
 const data = readFileSync(new URL('../colornames-oklab.json', import.meta.url), 'utf8');
 const parsed = JSON.parse(data);
 
-// Rec2020-only points can't be shown exactly, even on P3 displays. Map them
-// into P3 perceptually (CSS4 algorithm, chroma reduced in OKLCH, hue kept)
-// instead of clipping channels, and embed the results for the viewer.
+// Wide-gamut points, prepared for the P3 drawing buffer: p3-tier points
+// convert exactly, rec2020-only points are gamut-mapped perceptually
+// (CSS4 algorithm, chroma reduced in OKLCH, hue kept) instead of clipped.
 const mapP3 = toGamut('p3', 'oklch');
 const p3map = {};
 parsed.forEach((e, i) => {
-  if (e.tier === 'rec2020') {
-    const c = mapP3({ mode: 'oklab', ...e.oklab });
+  if (e.tier !== 'srgb') {
+    const c = mapP3({ mode: 'oklab', l: e.oklab[0], a: e.oklab[1], b: e.oklab[2] });
     p3map[i] = [c.r, c.g, c.b].map((v) => +Math.min(1, Math.max(0, v)).toFixed(4));
   }
 });
@@ -205,35 +205,27 @@ const colors = require('colornames-oklab');
 
 colors.length; <span class="c">// ${COUNT}</span>
 colors.find(c =&gt; c.name === 'Emerald');
-<span class="c">// {</span>
-<span class="c">//   name: 'Emerald',</span>
-<span class="c">//   tier: 'srgb',</span>
-<span class="c">//   css: '#089156',</span>
-<span class="c">//   fallbackHex: '#089156',</span>
-<span class="c">//   oklab: { l: 0.577, a: -0.1257, b: 0.0551 },</span>
-<span class="c">//   oklch: { l: 0.577, c: 0.1372, h: 156.3 }</span>
-<span class="c">// }</span></code></pre>
+<span class="c">// { name: 'Emerald', tier: 'srgb', hex: '#089156', oklab: [0.577, -0.1257, 0.0551] }</span></code></pre>
 
     <p>Name the nearest color to any OKLab point (Euclidean distance in OKLab is a good perceptual metric):</p>
-    <pre><code>const nearest = ({ l, a, b }) =&gt;
+    <pre><code>const nearest = ([l, a, b]) =&gt;
   colors.reduce((best, c) =&gt;
-    (d = (c.oklab.l - l) ** 2 + (c.oklab.a - a) ** 2 + (c.oklab.b - b) ** 2) &lt; best.d
+    (d = (c.oklab[0] - l) ** 2 + (c.oklab[1] - a) ** 2 + (c.oklab[2] - b) ** 2) &lt; best.d
       ? { c, d } : best, { d: Infinity }).c;
 let d;
 
-nearest({ l: 0.7, a: 0.1, b: 0.1 }).name; <span class="c">// → a warm coral</span></code></pre>
+nearest([0.7, 0.1, 0.1]).name; <span class="c">// → a warm coral</span></code></pre>
 
-    <p>Wide-gamut aware CSS — use the real color where the display allows it, the OKLCH-clamped fallback everywhere else:</p>
-    <pre><code>el.style.background = c.fallbackHex; <span class="c">// safe everywhere</span>
-el.style.background = c.css;         <span class="c">// browsers keep the wide-gamut value if they can</span></code></pre>
+    <p>For CSS, spell the exact color as <code>oklab()</code> — every evergreen browser renders it and gamut-maps to whatever the display can show. The hex is the pre-clamped sRGB fallback:</p>
+    <pre><code>el.style.background = 'oklab(' + c.oklab.join(' ') + ')'; <span class="c">// exact, browser gamut-maps</span>
+el.style.background = c.hex;                               <span class="c">// sRGB fallback (OKLCH-clamped)</span></code></pre>
 
     <table>
       <tr><th>field</th><th>what it is</th></tr>
-      <tr><td><code>name</code></td><td>unique color name</td></tr>
-      <tr><td><code>tier</code></td><td><code>srgb</code> · <code>p3</code> · <code>rec2020</code></td></tr>
-      <tr><td><code>css</code></td><td>most faithful CSS value: hex, or <code>color(display-p3 …)</code> / <code>color(rec2020 …)</code></td></tr>
-      <tr><td><code>fallbackHex</code></td><td>sRGB fallback, chroma-clamped in OKLCH (hue &amp; lightness preserved)</td></tr>
-      <tr><td><code>oklab</code>, <code>oklch</code></td><td>exact sampled coordinates</td></tr>
+      <tr><td><code>name</code></td><td>unique colour name</td></tr>
+      <tr><td><code>tier</code></td><td><code>srgb</code> · <code>p3</code> · <code>rec2020</code> — smallest gamut containing the colour</td></tr>
+      <tr><td><code>hex</code></td><td>sRGB fallback, chroma-clamped in OKLCH (hue &amp; lightness preserved)</td></tr>
+      <tr><td><code>oklab</code></td><td>exact sampled <code>[L, a, b]</code>; OKLCH is <code>hypot(a,b)</code> / <code>atan2(b,a)</code> away</td></tr>
     </table>
   </section>
 </main>
@@ -312,7 +304,7 @@ renderer.domElement.addEventListener('dblclick', () => {
 
 // OKLab frame: x = a, y = L, z = b — a/b scaled so the gamut body reads well
 const AB = 2.2;
-const pos = (c) => new THREE.Vector3(c.oklab.a * AB, c.oklab.l, c.oklab.b * AB);
+const pos = (c) => new THREE.Vector3(c.oklab[1] * AB, c.oklab[0], c.oklab[2] * AB);
 
 const spine = new THREE.Line(
   new THREE.BufferGeometry().setFromPoints([new THREE.Vector3(0, 0, 0), new THREE.Vector3(0, 1, 0)]),
@@ -380,18 +372,15 @@ const toP3 = (M, lin) => mulM(X2P, mulM(M, lin)).map((x) => clamp01(srgbEncode(x
 // display-ready RGB for the drawing buffer: real P3 / converted sRGB+Rec2020
 // on wide-gamut displays, OKLCH-clamped sRGB fallback everywhere else
 const P3MAP = JSON.parse(document.getElementById('p3map').textContent);
+// the data ships oklab only; css is spelled oklab() and browsers gamut-map it
+const oklabCss = (c) => 'oklab(' + c.oklab.join(' ') + ')';
 // display-only formatting: 2 decimals, numbers always on their own line
 const NL = String.fromCharCode(10);
-const cssLine = (c) =>
-  (c.tier === 'srgb'
-    ? 'color(srgb ' + hexToRgb(c.css).map((v) => v.toFixed(2)).join(' ') + ')'
-    : c.css.replace(/[0-9]*[.][0-9]+/g, (m) => (+m).toFixed(2))
-  ).replace(' ', NL);
+const cssLine = (c) => 'oklab(' + NL + c.oklab.map((v) => v.toFixed(2)).join(' ') + ')';
 const pointColor = (c, i) => {
-  if (!P3_OK) return hexToRgb(c.fallbackHex);
-  if (c.tier === 'srgb') return toP3(S2X, hexToRgb(c.css).map(srgbDecode));
-  if (c.tier === 'p3') return c.css.slice(17, -1).trim().split(' ').map(Number).map(clamp01);
-  return P3MAP[i]; // rec2020: perceptually mapped into P3 at build time
+  if (!P3_OK) return hexToRgb(c.hex);
+  if (c.tier === 'srgb') return toP3(S2X, hexToRgb(c.hex).map(srgbDecode));
+  return P3MAP[i]; // wide gamut: prepared for the P3 buffer at build time
 };
 const positions = new Float32Array(COLORS.length * 3);
 const colors = new Float32Array(COLORS.length * 3);
@@ -488,9 +477,9 @@ function updateHover() {
   const c = COLORS[id];
   halo.position.copy(pos(c));
   halo.visible = true;
-  tip.querySelector('.fsw').style.background = c.css;
+  tip.querySelector('.fsw').style.background = oklabCss(c);
   tip.querySelector('.fnm').textContent = c.name;
-  tip.querySelector('.fmeta').textContent = TIER_LABEL[c.tier] + ' · ' + c.fallbackHex;
+  tip.querySelector('.fmeta').textContent = TIER_LABEL[c.tier] + ' · ' + c.hex;
   tip.querySelector('.fcss').textContent = cssLine(c);
   tip.style.display = 'block';
 }
@@ -538,9 +527,9 @@ FAVES.forEach((n) => {
   const d = document.createElement('div');
   d.className = 'card';
   d.innerHTML = '<div class="fsw"></div><div class="fnm"></div><div class="fmeta"></div><div class="fcss"></div>';
-  d.querySelector('.fsw').style.background = c.css;
+  d.querySelector('.fsw').style.background = oklabCss(c);
   d.querySelector('.fnm').textContent = c.name;
-  d.querySelector('.fmeta').textContent = TIER_LABEL[c.tier] + ' · ' + c.fallbackHex;
+  d.querySelector('.fmeta').textContent = TIER_LABEL[c.tier] + ' · ' + c.hex;
   d.querySelector('.fcss').textContent = cssLine(c);
   favEl.appendChild(d);
 });
