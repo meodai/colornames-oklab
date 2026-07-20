@@ -1,20 +1,7 @@
 @font-face {
-    font-family: 'Libre Caslon Condensed';
-    src: url('./fonts/LibreCaslonCondensed-VF.woff2') format('woff2');
-    font-weight: 400 700;
-    font-display: swap;
-  }
-  @font-face {
-    font-family: 'Libre Caslon Condensed';
-    src: url('./fonts/LibreCaslonCondensed-Italic-VF.woff2') format('woff2');
-    font-weight: 400 700;
-    font-style: italic;
-    font-display: swap;
-  }
-  @font-face {
     font-family: 'Valley Sans';
-    src: url('./fonts/ValleySans-Regular.woff2') format('woff2');
-    font-weight: 400;
+    src: url('./fonts/ValleySans-VF.woff2') format('woff2');
+    font-weight: 100 900;
     font-display: swap;
   }
   :root {
@@ -48,7 +35,7 @@
   }
   * { margin: 0; box-sizing: border-box; }
   html { scroll-behavior: smooth; }
-  body { background: var(--bg); color: var(--ink); font: 16px/1.55 'Libre Caslon Condensed', Georgia, serif; }
+  body { background: var(--bg); color: var(--ink); font: 16px/1.55 'Valley Sans', system-ui, sans-serif; }
   a { color: inherit; }
 
   /* ---------- hero / viewer ---------- */
@@ -59,7 +46,7 @@
     display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;
     padding: .9rem 1.1rem; pointer-events: none;
   }
-  #hero h1 { font: 400 1.05rem/1.4 'Valley Sans', system-ui, sans-serif; letter-spacing: .02em; }
+  #hero h1 { font-size: 2.2rem; font-weight: 400; line-height: 1.2; letter-spacing: .02em; }
   #hero h1 small { color: var(--muted); font-weight: 400; }
   .filters { display: flex; gap: .4rem; pointer-events: auto; flex-wrap: wrap; }
   .filters button {
@@ -102,7 +89,7 @@
   /* ---------- content ---------- */
   main { max-width: 760px; margin: 0 auto; padding: 4.5rem 1.25rem 2rem; }
   main section + section { margin-top: 3.5rem; }
-  h2 { font: 400 1.3rem/1.35 'Valley Sans', system-ui, sans-serif; margin-bottom: .9rem; letter-spacing: .01em; }
+  h2 { font-size: 3.5rem; font-weight: 400; line-height: 1.1; margin-bottom: 1rem; letter-spacing: .01em; }
   p { color: var(--body-ink); margin-bottom: .85rem; }
   p strong { color: var(--ink); }
   .lede { font-size: 1.12rem; color: var(--ink); }
@@ -159,7 +146,8 @@
   /* ---------- small screens ---------- */
   @media (max-width: 640px) {
     #hero header { gap: .5rem; padding: .7rem .8rem; }
-    #hero h1 { font-size: .95rem; }
+    #hero h1 { font-size: 1.5rem; }
+    h2 { font-size: 2.4rem; }
     #hero h1 small { display: block; font-size: .7rem; }
     .filters button, .hero-links a { padding: .25rem .6rem; font-size: .72rem; }
     .hero-links { margin-left: 0; }
