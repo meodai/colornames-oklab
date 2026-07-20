@@ -11499,60 +11499,755 @@
     "description": "The NES dog that laughed at your aim — green-gold marsh, 8-bit ducks.",
     "source": "authored"
   },
+  "3300": {
+    "name": "Sloth",
+    "description": "Algae grows in the fur at this speed — green-grey, unbothered.",
+    "source": "authored"
+  },
+  "3301": {
+    "name": "Hedge Maze",
+    "description": "Yew walls, wrong turns and one smug gardener with the map.",
+    "source": "authored"
+  },
+  "3302": {
+    "name": "Lincoln Green",
+    "description": "The wool dyed for Sherwood's payroll — woad over weld, outlaw green.",
+    "source": "authored"
+  },
+  "3303": {
+    "name": "Forestial",
+    "description": "Forest as an adjective that doesn't exist — green enough to excuse it.",
+    "source": "authored"
+  },
+  "3304": {
+    "name": "Poblano",
+    "description": "The mild chilli that becomes ancho when dried — deep green, stuffing grade.",
+    "source": "authored"
+  },
+  "3305": {
+    "name": "Hulk",
+    "description": "The angrier he gets, the greener it reads — shirts non-survivable.",
+    "source": "authored"
+  },
+  "3306": {
+    "name": "Hinterland",
+    "description": "The land behind the land you know — green past the last signpost.",
+    "source": "authored"
+  },
+  "3307": {
+    "name": "Asian Spice",
+    "description": "The market street of lemongrass, coriander and heat — green ledger.",
+    "source": "authored"
+  },
+  "3308": {
+    "name": "Fine Pine",
+    "description": "Pine at its most quotable — green needles, rhyme included.",
+    "source": "authored"
+  },
+  "3309": {
+    "name": "Indica",
+    "description": "The broad-leafed, heavy-lidded cultivar — deep green, couch gravity.",
+    "source": "authored"
+  },
+  "3310": {
+    "name": "Lush Garden",
+    "description": "The garden that ignores the hosepipe ban somehow — green, dense.",
+    "source": "authored"
+  },
+  "3311": {
+    "name": "Sacro Bosco",
+    "description": "Bomarzo's monster grove — moss on stone mouths since 1552.",
+    "source": "authored"
+  },
+  "3312": {
+    "name": "Homegrown",
+    "description": "Tomatoes with a backstory — green vines, windowsill start.",
+    "source": "authored"
+  },
+  "3313": {
+    "name": "Vegetarian",
+    "description": "The diet in green — the barbecue's polite challenge.",
+    "source": "authored"
+  },
+  "3314": {
+    "name": "Basil",
+    "description": "The herb that bruises black at a touch — green, pesto's spine.",
+    "source": "authored"
+  },
+  "3315": {
+    "name": "Yoshi",
+    "description": "The dinosaur that eats everything and apologises with an egg — green rider.",
+    "source": "authored"
+  },
+  "3316": {
+    "name": "Endo",
+    "description": "Green inside the word — the prefix for within.",
+    "source": "authored"
+  },
+  "3317": {
+    "name": "Poison Ivy",
+    "description": "Leaves of three and Gotham's botanist — green, both cases itchy.",
+    "source": "authored"
+  },
+  "3318": {
+    "name": "Lush Plains",
+    "description": "Grassland with the saturation up — green to every horizon.",
+    "source": "authored"
+  },
+  "3319": {
+    "name": "Arugula",
+    "description": "Rocket by its American name — green, peppery either way.",
+    "source": "authored"
+  },
+  "3320": {
+    "name": "Frog",
+    "description": "The green sit-and-wait economy — tongue faster than budget.",
+    "source": "authored"
+  },
+  "3321": {
+    "name": "Broccoli",
+    "description": "The tree the plate pretends to be — green florets, butter amnesty.",
+    "source": "authored"
+  },
+  "3322": {
+    "name": "Luigi",
+    "description": "The greener brother, one jump higher — year of, deservedly.",
+    "source": "authored"
+  },
+  "3323": {
+    "name": "Exit Light",
+    "description": "The green sign over every last door — enter night, exit here.",
+    "source": "authored"
+  },
+  "3324": {
+    "name": "Candy Green",
+    "description": "Green from the sour shelf — apple by legal fiction.",
+    "source": "authored"
+  },
+  "3325": {
+    "name": "Verminal",
+    "description": "Vermin as a colour direction — green, scurrying.",
+    "source": "authored"
+  },
+  "3326": {
+    "name": "Kiwi Crush",
+    "description": "Kiwi past the spoon stage — green pulp, seeds in orbit.",
+    "source": "authored"
+  },
+  "3327": {
+    "name": "Tunic Green",
+    "description": "The green of the hero who never speaks — Hyrule issue.",
+    "source": "authored"
+  },
+  "3328": {
+    "name": "Foliage",
+    "description": "The canopy considered as a single noun — green plural.",
+    "source": "authored"
+  },
+  "3329": {
+    "name": "King Lizard",
+    "description": "Lizard with a crown — green, komodo constituency.",
+    "source": "authored"
+  },
   "3330": {
     "name": "Metal",
-    "description": "A metal is a material that, when polished or fractured, shows a lustrous appearance, and conducts electricity and heat relatively well. These properties are all associated with having electrons available at the Fermi level, as opposed to nonmetallic materials which do not. Metals are typically ductile and malleable.",
-    "source": "wikipedia"
+    "description": "Ore into ingot — the green-grey block between mine and machine.",
+    "source": "authored"
+  },
+  "3331": {
+    "name": "Crude Banana",
+    "description": "Banana before ripeness or manners — green, starch honest.",
+    "source": "authored"
+  },
+  "3332": {
+    "name": "Demeter Green",
+    "description": "Harvest's goddess in leaf — green with a grain portfolio.",
+    "source": "authored"
+  },
+  "3333": {
+    "name": "Overgrowth",
+    "description": "The vines' hostile takeover — green over every fence line.",
+    "source": "authored"
+  },
+  "3334": {
+    "name": "Opulent Lime",
+    "description": "Lime with a trust fund.",
+    "source": "authored"
+  },
+  "3335": {
+    "name": "Jungle Juice",
+    "description": "The punch of undisclosed recipe — green, ladled with a warning.",
+    "source": "authored"
+  },
+  "3336": {
+    "name": "Leek",
+    "description": "The onion that leans — green shafts, Welsh emblem.",
+    "source": "authored"
+  },
+  "3337": {
+    "name": "Satin Lime",
+    "description": "Lime in slip dress finish.",
+    "source": "authored"
+  },
+  "3338": {
+    "name": "Murmur",
+    "description": "Green at conversation's lowest volume — leaves passing it on.",
+    "source": "authored"
+  },
+  "3339": {
+    "name": "Botanist",
+    "description": "The one who knows every Latin name in the room — green thumbed, footnoted.",
+    "source": "authored"
+  },
+  "3340": {
+    "name": "High Grass",
+    "description": "Grass past the mower's amnesty — green, seed heads up.",
+    "source": "authored"
+  },
+  "3341": {
+    "name": "Vivid Green",
+    "description": "Green with the gain up.",
+    "source": "authored"
+  },
+  "3342": {
+    "name": "Furious Frog",
+    "description": "The frog past its patience — green at full croak.",
+    "source": "authored"
+  },
+  "3343": {
+    "name": "So Sour",
+    "description": "Sour with a hype man — green, lips filing complaints.",
+    "source": "authored"
+  },
+  "3344": {
+    "name": "Becquerel",
+    "description": "The unit of decay per second — green by association with the glow.",
+    "source": "authored"
+  },
+  "3345": {
+    "name": "Plutonium",
+    "description": "Element 94 — green-glow reputation, half-life patience.",
+    "source": "authored"
+  },
+  "3346": {
+    "name": "Green Mamba",
+    "description": "The tree snake with the velocity — green, best admired remotely.",
+    "source": "authored"
+  },
+  "3347": {
+    "name": "EGA Green",
+    "description": "Palette entry 2 of the 16 — green as 1984 monitors told it.",
+    "source": "authored"
   },
   "3348": {
     "name": "Acid",
-    "description": "An acid is a molecule or ion capable of either donating a proton (i.e. hydrogen cation, H+), known as a Brønsted–Lowry acid, or forming a covalent bond with an electron pair, known as a Lewis acid.",
-    "source": "wikipedia"
+    "description": "The chemistry that eats through the beaker — green, pH bragging.",
+    "source": "authored"
+  },
+  "3349": {
+    "name": "Herbivore",
+    "description": "Salad by evolutionary commitment — green diet, molar proof.",
+    "source": "authored"
+  },
+  "3350": {
+    "name": "Endive",
+    "description": "The bitter leaf blanched pale — green-white, chicory family.",
+    "source": "authored"
+  },
+  "3351": {
+    "name": "McNuke",
+    "description": "Fast food goes fission — green glow, fries irradiated.",
+    "source": "authored"
+  },
+  "3352": {
+    "name": "Loud Lime",
+    "description": "Lime with the amp on.",
+    "source": "authored"
   },
   "3353": {
     "name": "Radioactive",
-    "description": "Radioactive decay is the process by which an unstable atomic nucleus loses energy by radiation. A material containing unstable nuclei is considered radioactive. Three of the most common types of decay are alpha, beta, and gamma decay.",
-    "source": "wikipedia"
+    "description": "The trefoil warning in green — half-life included.",
+    "source": "authored"
+  },
+  "3354": {
+    "name": "Caipirinha",
+    "description": "Cachaça, lime, sugar, muddle — green over crushed ice, Brazil's round.",
+    "source": "authored"
   },
   "3355": {
     "name": "Futon",
-    "description": "A futon is a traditional Japanese style of bedding.",
-    "source": "wikipedia"
+    "description": "The mattress that folds its ambitions — green-grey, floor sovereignty.",
+    "source": "authored"
+  },
+  "3356": {
+    "name": "Sprig",
+    "description": "The garnish's smallest unit — one green stem, deployed.",
+    "source": "authored"
   },
   "3357": {
     "name": "Liquorice",
-    "description": "Liquorice or licorice is the common name of Glycyrrhiza glabra, a flowering plant of the bean family Fabaceae, from the root of which a sweet, aromatic flavouring is extracted.",
-    "source": "wikipedia"
+    "description": "The root boiled black — green-black coins, love-hate ballot.",
+    "source": "authored"
+  },
+  "3358": {
+    "name": "Balsamico",
+    "description": "Grape must aged toward syrup — green-black, drops not pours.",
+    "source": "authored"
+  },
+  "3359": {
+    "name": "Noble Black",
+    "description": "Black with a coat of arms.",
+    "source": "authored"
+  },
+  "3360": {
+    "name": "Dire Wolf",
+    "description": "The Pleistocene wolf outsized by legend — green-black hackles in the dark.",
+    "source": "authored"
+  },
+  "3361": {
+    "name": "The End",
+    "description": "The credits' last card — green-black, lights coming up.",
+    "source": "authored"
+  },
+  "3362": {
+    "name": "Dark Serpent",
+    "description": "The coil at the cave's deep end — green-black scales, hoard adjacent.",
+    "source": "authored"
   },
   "3363": {
     "name": "Cape Verde",
-    "description": "Cape Verde, also referred to in English by its Portuguese name Cabo Verde, and known officially as the Republic of Cabo Verde, is an archipelagic country in the central Atlantic Ocean, off the coast of West Africa.",
-    "source": "wikipedia"
+    "description": "The archipelago named for green, weathered grey-green by Atlantic fact.",
+    "source": "authored"
+  },
+  "3364": {
+    "name": "Ficus",
+    "description": "The houseplant that drops leaves as commentary — green, opinionated.",
+    "source": "authored"
+  },
+  "3365": {
+    "name": "Heavy Green",
+    "description": "Green with the bass turned up.",
+    "source": "authored"
+  },
+  "3366": {
+    "name": "Greenhouse",
+    "description": "Glass, humidity and February defiance — green under a roof of panes.",
+    "source": "authored"
+  },
+  "3367": {
+    "name": "Midori",
+    "description": "Green by its Japanese name — melon liqueur's glow.",
+    "source": "authored"
+  },
+  "3368": {
+    "name": "Bucolic",
+    "description": "Sheep, hedgerow, no signal — green as the postcard insists.",
+    "source": "authored"
   },
   "3369": {
     "name": "Jurassic Park",
-    "description": "A 1993 American science fiction adventure film directed by Steven Spielberg and written by Michael Crichton and David Koepp, based on Crichton's 1990 novel.",
-    "source": "wikipedia"
+    "description": "The park where the fences failed — green canopy, gate theme swelling.",
+    "source": "authored"
+  },
+  "3370": {
+    "name": "Bimi Green",
+    "description": "The broccolini brand in green — stalk diplomacy.",
+    "source": "authored"
+  },
+  "3371": {
+    "name": "Toad King",
+    "description": "The warty monarch of the pond — green-brown crown, flies by decree.",
+    "source": "authored"
+  },
+  "3372": {
+    "name": "Mana Tree",
+    "description": "The tree the whole world saves in — green boughs, save point hum.",
+    "source": "authored"
+  },
+  "3373": {
+    "name": "Succulents",
+    "description": "The plants that thrive on neglect — green-grey rosettes, water debt forgiven.",
+    "source": "authored"
+  },
+  "3374": {
+    "name": "June Ivy",
+    "description": "Ivy in its June sprint — green over the trellis by solstice.",
+    "source": "authored"
+  },
+  "3375": {
+    "name": "Organic",
+    "description": "The label that doubles the price — green by certification.",
+    "source": "authored"
+  },
+  "3376": {
+    "name": "Master Chief",
+    "description": "Spartan green armour, visor down — finish the fight.",
+    "source": "authored"
+  },
+  "3377": {
+    "name": "Lush Paradise",
+    "description": "Paradise with the sprinklers on — green past reason.",
+    "source": "authored"
+  },
+  "3378": {
+    "name": "Underclover",
+    "description": "The clover economy under the grass — green, quietly fixing nitrogen.",
+    "source": "authored"
+  },
+  "3379": {
+    "name": "May Green",
+    "description": "The green of the year's best-behaved month.",
+    "source": "authored"
+  },
+  "3380": {
+    "name": "Hidden Paradise",
+    "description": "The valley the map forgets on purpose — green behind the ridge.",
+    "source": "authored"
+  },
+  "3381": {
+    "name": "Turf Master",
+    "description": "Stripes mowed to tournament spec — green, roller certified.",
+    "source": "authored"
+  },
+  "3382": {
+    "name": "Lush Grass",
+    "description": "Grass with the humidity included.",
+    "source": "authored"
+  },
+  "3383": {
+    "name": "Wild Forest",
+    "description": "Forest without the forestry — green, deadfall stays.",
+    "source": "authored"
+  },
+  "3384": {
+    "name": "Wicked Witch",
+    "description": "Green skin, black hat, water allergy — flying monkey payroll.",
+    "source": "authored"
+  },
+  "3385": {
+    "name": "Tiger Beetle",
+    "description": "The metallic green sprinter of bare paths — fastest legs per body length.",
+    "source": "authored"
   },
   "3386": {
     "name": "Money",
-    "description": "Any item or verifiable record that is generally accepted as payment for goods and services and repayment of debts, such as taxes, in a particular country or socio-economic context.",
-    "source": "wikipedia"
+    "description": "The green that changes hands — folding, allegedly rooted in evil.",
+    "source": "authored"
+  },
+  "3387": {
+    "name": "Bitter Leaf",
+    "description": "The green that earns its bitterness — chewed for the finish.",
+    "source": "authored"
+  },
+  "3388": {
+    "name": "Leafy",
+    "description": "Green in salad adjacency — crisp plural.",
+    "source": "authored"
+  },
+  "3389": {
+    "name": "Lawn Green",
+    "description": "The green between the fence and the argument about the fence.",
+    "source": "authored"
+  },
+  "3390": {
+    "name": "Golf Course",
+    "description": "Eighteen greens and the rough between — par is a rumour.",
+    "source": "authored"
+  },
+  "3391": {
+    "name": "Hidden Valley",
+    "description": "The valley off every trail — green, ranch dressing coincidence.",
+    "source": "authored"
+  },
+  "3392": {
+    "name": "Leapfrog",
+    "description": "The playground vault in green — backs as apparatus.",
+    "source": "authored"
+  },
+  "3393": {
+    "name": "Hedged Garden",
+    "description": "The garden with borders enforced — green inside the yew line.",
+    "source": "authored"
+  },
+  "3394": {
+    "name": "Ferntastic",
+    "description": "Fern past containment — green fronds, pun licensed.",
+    "source": "authored"
+  },
+  "3395": {
+    "name": "Lost Golfer",
+    "description": "Last seen at the thirteenth — green rough, echoing fore.",
+    "source": "authored"
+  },
+  "3396": {
+    "name": "Ultra Green",
+    "description": "Green past the marketing department's restraint.",
+    "source": "authored"
+  },
+  "3397": {
+    "name": "Toxic Sludge",
+    "description": "The barrel's green ooze — turtle origin stories pending.",
+    "source": "authored"
+  },
+  "3398": {
+    "name": "Frankenstein",
+    "description": "The doctor, not the monster — but the green took the name anyway.",
+    "source": "authored"
+  },
+  "3399": {
+    "name": "Bud Green",
+    "description": "The green of the branch's first announcement.",
+    "source": "authored"
+  },
+  "3400": {
+    "name": "Limolicious",
+    "description": "Lime with a licious clause.",
+    "source": "authored"
+  },
+  "3401": {
+    "name": "Exhilarating Green",
+    "description": "Green at rollercoaster release.",
+    "source": "authored"
+  },
+  "3402": {
+    "name": "Dollar Bill",
+    "description": "The green portrait of a president — creased, exchanged.",
+    "source": "authored"
+  },
+  "3403": {
+    "name": "Zunda Green",
+    "description": "Edamame mashed sweet — Sendai's green mochi paste.",
+    "source": "authored"
+  },
+  "3404": {
+    "name": "Monster Green",
+    "description": "The green under the bed, contractually imaginary.",
+    "source": "authored"
+  },
+  "3405": {
+    "name": "Wintermint",
+    "description": "Mint wintering over — green-white, breath visible.",
+    "source": "authored"
+  },
+  "3406": {
+    "name": "Corrosive Green",
+    "description": "Green with a materials-safety sheet.",
+    "source": "authored"
   },
   "3407": {
     "name": "Moth",
-    "description": "Moths are a group of winged insect of the order Lepidoptera, the other well-known members of which are butterflies, they are characterized by dark or dull patterned wings.",
-    "source": "wikipedia"
+    "description": "The dust-winged lamp devotee — green-grey, porch congregation.",
+    "source": "authored"
+  },
+  "3408": {
+    "name": "Limestoned",
+    "description": "Limestone with a pun sentence served — green-grey strata.",
+    "source": "authored"
+  },
+  "3409": {
+    "name": "Hypnotic Green",
+    "description": "Green on a slow pendulum — you are getting very verdant.",
+    "source": "authored"
+  },
+  "3410": {
+    "name": "Bambino",
+    "description": "The little one at the table — green-gold, espresso diminutive.",
+    "source": "authored"
+  },
+  "3411": {
+    "name": "Snarky Mint",
+    "description": "Mint with a comeback ready.",
+    "source": "authored"
+  },
+  "3412": {
+    "name": "Nuclear Meltdown",
+    "description": "The core past containment — green glare, control room quiet.",
+    "source": "authored"
+  },
+  "3413": {
+    "name": "Whirlpool",
+    "description": "Water with an exit strategy — green-blue spiral.",
+    "source": "authored"
+  },
+  "3414": {
+    "name": "Screamin’ Green",
+    "description": "The Crayola green with the apostrophe — loud since 1990.",
+    "source": "authored"
+  },
+  "3415": {
+    "name": "Fizz",
+    "description": "The bubbles' business model — green-white lift.",
+    "source": "authored"
+  },
+  "3416": {
+    "name": "Greenhorn",
+    "description": "Green by inexperience — first day, wrong boots.",
+    "source": "authored"
+  },
+  "3417": {
+    "name": "Luxurious Lime",
+    "description": "Lime in the penthouse.",
+    "source": "authored"
+  },
+  "3418": {
+    "name": "Toxic Frog",
+    "description": "Bright green, back off — the colour is the warning label.",
+    "source": "authored"
+  },
+  "3419": {
+    "name": "Mint to Be",
+    "description": "Destiny with a breath-freshener budget — green, ring pending.",
+    "source": "authored"
+  },
+  "3420": {
+    "name": "Neo Mint",
+    "description": "Mint with a trend forecast — green-white, 2020 palette decks.",
+    "source": "authored"
+  },
+  "3421": {
+    "name": "Mintastic",
+    "description": "Mint at superlative pitch.",
+    "source": "authored"
   },
   "3422": {
     "name": "Caribbean",
-    "description": "A geo-political region in the middle of the Americas centered around the Caribbean Sea in the North Atlantic Ocean, mostly overlapping with the West Indies.",
-    "source": "wikipedia"
+    "description": "The sea over white sand in travel-brochure green-blue.",
+    "source": "authored"
+  },
+  "3423": {
+    "name": "Hunter",
+    "description": "The green of waxed jackets and hides — season permitting.",
+    "source": "authored"
+  },
+  "3424": {
+    "name": "Palm Leaf",
+    "description": "The frond that fans the canopy — green, split by design.",
+    "source": "authored"
+  },
+  "3425": {
+    "name": "Highlander",
+    "description": "There can be only one — green glen, claymore clause.",
+    "source": "authored"
+  },
+  "3426": {
+    "name": "Masala",
+    "description": "The spice blend ground to order — green cardamom in the deck.",
+    "source": "authored"
+  },
+  "3427": {
+    "name": "Terrestrial",
+    "description": "Earthbound by definition — green, gravity compliant.",
+    "source": "authored"
+  },
+  "3428": {
+    "name": "Douglas Fir",
+    "description": "The fir that isn't one, botanically — green-blue needles, timber spine.",
+    "source": "authored"
+  },
+  "3429": {
+    "name": "Opal Green",
+    "description": "Opal in its green play — fire under milk.",
+    "source": "authored"
+  },
+  "3430": {
+    "name": "Killarney",
+    "description": "The Kerry lakes in green — jaunting cart commentary included.",
+    "source": "authored"
+  },
+  "3431": {
+    "name": "Greasy Greens",
+    "description": "Collards in the pot with the fat — green, Sunday cadence.",
+    "source": "authored"
+  },
+  "3432": {
+    "name": "Clouded Pine",
+    "description": "Pine through low cloud.",
+    "source": "authored"
+  },
+  "3433": {
+    "name": "Green Sleeves",
+    "description": "The tune Henry VIII didn't write — green velvet, lute assumed.",
+    "source": "authored"
+  },
+  "3434": {
+    "name": "Victorian Garden",
+    "description": "Ferns under glass and wrought iron — green, corseted.",
+    "source": "authored"
+  },
+  "3435": {
+    "name": "Jumbo",
+    "description": "The elephant-sized adjective — green-grey, circus billing.",
+    "source": "authored"
+  },
+  "3436": {
+    "name": "Mosslands",
+    "description": "Moss at nation scale — green counties of it.",
+    "source": "authored"
+  },
+  "3437": {
+    "name": "Kryptonite Green",
+    "description": "The green that benches Superman — glowing, meteorite provenance.",
+    "source": "authored"
+  },
+  "3438": {
+    "name": "Vineyard",
+    "description": "Rows on a slope with a tasting room — green by appointment.",
+    "source": "authored"
+  },
+  "3439": {
+    "name": "Primavera",
+    "description": "Spring by its Italian name — green with a Botticelli backdrop.",
+    "source": "authored"
+  },
+  "3440": {
+    "name": "Envy",
+    "description": "The sin that reads the neighbour's feed — green, refreshing.",
+    "source": "authored"
+  },
+  "3441": {
+    "name": "Lily Pads",
+    "description": "The pond's green landing pads — frog certified.",
+    "source": "authored"
+  },
+  "3442": {
+    "name": "Green Goddess",
+    "description": "The dressing and the deity — green herbs, avocado communion.",
+    "source": "authored"
+  },
+  "3443": {
+    "name": "OMGreen",
+    "description": "Green at exclamation pitch — caps sustained.",
+    "source": "authored"
   },
   "3444": {
     "name": "Pigeon",
-    "description": "Columbidae is a bird family consisting of doves and pigeons. It is the only family in the order Columbiformes. These are stout-bodied birds with small heads, relatively short necks and slender bills that in some species feature fleshy ceres.",
-    "source": "wikipedia"
+    "description": "The grey commuter of every square — green-purple collar when the light agrees.",
+    "source": "authored"
+  },
+  "3445": {
+    "name": "Riverbed",
+    "description": "Stones the current sorted — green-grey under clear water.",
+    "source": "authored"
+  },
+  "3446": {
+    "name": "Froggy Pond",
+    "description": "The pond at full chorus — green, lilypad parking full.",
+    "source": "authored"
+  },
+  "3447": {
+    "name": "Treetop",
+    "description": "The canopy's upper management — green, best light.",
+    "source": "authored"
+  },
+  "3448": {
+    "name": "Estragon",
+    "description": "Tarragon by its French name — green, béarnaise credentials.",
+    "source": "authored"
+  },
+  "3449": {
+    "name": "Neptune Green",
+    "description": "The sea god in his green mood — trident visibility low.",
+    "source": "authored"
   },
   "3458": {
     "name": "Nature",
