@@ -33,7 +33,8 @@ A good replacement name:
 
 1. Find the color's id: its index in `colornames-oklab.json` (0-based, stable).
 2. Add or update the entry in `data/names/fixes.json` — the override layer
-   applied on top of the name batches: `"0123": "Your Better Name"`.
+   applied on top of the canonical `data/names/names.json`:
+   `"0123": "Your Better Name"`.
 3. Rebuild and test:
 
    ```sh
