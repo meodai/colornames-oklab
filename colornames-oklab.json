@@ -4139,7 +4139,7 @@
 {"name":"Treetop Cathedral","tier":"rec2020","hex":"#004821","oklab":[0.3526,-0.1712,0.0912]},
 {"name":"Pine Needle","tier":"rec2020","hex":"#004d2f","oklab":[0.3704,-0.1672,0.0627]},
 {"name":"Timberline","tier":"p3","hex":"#005830","oklab":[0.4032,-0.1177,0.0544]},
-{"name":"Broccoli Green","tier":"rec2020","hex":"#005b3c","oklab":[0.4159,-0.1553,0.0501]},
+{"name":"Collard","tier":"rec2020","hex":"#005b3c","oklab":[0.4159,-0.1553,0.0501]},
 {"name":"Ethereal Woods","tier":"rec2020","hex":"#006a43","oklab":[0.4634,-0.1426,0.053]},
 {"name":"Cucumber Queen","tier":"rec2020","hex":"#007c3c","oklab":[0.5143,-0.1957,0.107]},
 {"name":"Autumn Crocodile","tier":"p3","hex":"#008259","oklab":[0.5368,-0.1139,0.0357]},
