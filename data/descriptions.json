@@ -15249,15 +15249,755 @@
     "description": "Red-orange with jazz hands — subtlety declined.",
     "source": "authored"
   },
+  "4050": {
+    "name": "Watermelonade",
+    "description": "Watermelon through the juicer with a lemonade chaser — pink-red, seeds strained.",
+    "source": "authored"
+  },
+  "4051": {
+    "name": "Coquelicot",
+    "description": "Poppy red by its French field name — coquelicot, Monet witnessed.",
+    "source": "authored"
+  },
+  "4052": {
+    "name": "Halloween",
+    "description": "Pumpkin law, one night a year — orange, sugar tariffs.",
+    "source": "authored"
+  },
+  "4053": {
+    "name": "Peachy Pinky",
+    "description": "Peach and pink shaking hands — diminutives exchanged.",
+    "source": "authored"
+  },
+  "4054": {
+    "name": "Kindleflame",
+    "description": "The first spark taking — orange, tinder testifying.",
+    "source": "authored"
+  },
+  "4055": {
+    "name": "Espresso Yourself",
+    "description": "The barista's pun with your name misspelled — brown-black, double shot.",
+    "source": "authored"
+  },
+  "4056": {
+    "name": "Roasted",
+    "description": "Past toasted, before burnt — brown, smoke point respected.",
+    "source": "authored"
+  },
+  "4057": {
+    "name": "Picante",
+    "description": "The salsa aisle's honest label — red-orange, mild need not apply.",
+    "source": "authored"
+  },
+  "4058": {
+    "name": "Gazelle",
+    "description": "The sprint with the pronking flourish — tan, cheetah's audit.",
+    "source": "authored"
+  },
+  "4059": {
+    "name": "Furnace",
+    "description": "The room the house breathes from — orange-red, grate roaring.",
+    "source": "authored"
+  },
+  "4060": {
+    "name": "Whisky",
+    "description": "Barley through oak and patience — amber, water optional, fights optional.",
+    "source": "authored"
+  },
+  "4061": {
+    "name": "24 Carrot",
+    "description": "The carat pun farmers earned — orange, bunny appraised.",
+    "source": "authored"
+  },
+  "4062": {
+    "name": "Romesco",
+    "description": "Catalonia's pepper-almond sauce — red-orange, calçots dressed.",
+    "source": "authored"
+  },
+  "4063": {
+    "name": "Firewatch",
+    "description": "The tower, the radio, the orange dusk — Wyoming rendered.",
+    "source": "authored"
+  },
+  "4064": {
+    "name": "Mona Lisa",
+    "description": "The smile with the security detail — brown-amber, no eyebrows filed.",
+    "source": "authored"
+  },
+  "4065": {
+    "name": "Ridgeback",
+    "description": "The dog with the reverse mohawk — tan-brown, lion CV.",
+    "source": "authored"
+  },
+  "4066": {
+    "name": "Habañero",
+    "description": "The chilli with the tilde and the heat — orange-red, cream on standby.",
+    "source": "authored"
+  },
+  "4067": {
+    "name": "Wildfire",
+    "description": "Fire past the fence line — orange-red, wind negotiating.",
+    "source": "authored"
+  },
+  "4068": {
+    "name": "Hummus",
+    "description": "Chickpeas at velvet grade — tan, paprika crater.",
+    "source": "authored"
+  },
+  "4069": {
+    "name": "Dark Rum",
+    "description": "Molasses through the barrel years — brown-black, navy strength.",
+    "source": "authored"
+  },
+  "4070": {
+    "name": "Grilled",
+    "description": "The stripes that certify summer — brown, tongs authority.",
+    "source": "authored"
+  },
+  "4071": {
+    "name": "Gravy",
+    "description": "The pan's deglazed confession — brown, lumps litigated.",
+    "source": "authored"
+  },
+  "4072": {
+    "name": "Coffee Break",
+    "description": "The eleven o'clock treaty — brown, biscuits ratified.",
+    "source": "authored"
+  },
+  "4073": {
+    "name": "Coconut",
+    "description": "The nut that requires tools — brown husk, white interior.",
+    "source": "authored"
+  },
+  "4074": {
+    "name": "Nougat",
+    "description": "The chew between chocolate floors — tan, almond mortgages.",
+    "source": "authored"
+  },
+  "4075": {
+    "name": "Hickory",
+    "description": "The wood that smokes the brisket — brown, bark diplomas.",
+    "source": "authored"
+  },
+  "4076": {
+    "name": "Kombucha",
+    "description": "Tea fermented by a rubbery oracle — amber, scoby custody.",
+    "source": "authored"
+  },
+  "4077": {
+    "name": "Fiesta",
+    "description": "The party by its Spanish name — orange-red, piñata pending.",
+    "source": "authored"
+  },
+  "4078": {
+    "name": "Cheddar",
+    "description": "The cheese that sharpened with the village — orange, cave-aged citations.",
+    "source": "authored"
+  },
+  "4079": {
+    "name": "Garfield",
+    "description": "The Monday-hating lasagne economist — orange, Odie unbothered.",
+    "source": "authored"
+  },
+  "4080": {
+    "name": "Bourbon",
+    "description": "Corn mash in charred oak — amber-brown, Kentucky notarised.",
+    "source": "authored"
+  },
+  "4081": {
+    "name": "Baklava",
+    "description": "Forty layers and a honey flood — gold-brown, pistachio dividends.",
+    "source": "authored"
+  },
+  "4082": {
+    "name": "Fifty Shades of Greige",
+    "description": "Grey and beige's bestselling merger — paint-chip erotica.",
+    "source": "authored"
+  },
+  "4083": {
+    "name": "Midnight Snack",
+    "description": "The fridge at 1am — tan-brown, light incriminating.",
+    "source": "authored"
+  },
+  "4084": {
+    "name": "Falafel",
+    "description": "Chickpeas fried to a confession — brown-gold, tahini counsel.",
+    "source": "authored"
+  },
+  "4085": {
+    "name": "Incense",
+    "description": "Resin on coals — brown-gold smoke, temple invoiced.",
+    "source": "authored"
+  },
+  "4086": {
+    "name": "Gremlin",
+    "description": "Don't feed after midnight — green-brown, rules broken by act two.",
+    "source": "authored"
+  },
+  "4087": {
+    "name": "Nugget",
+    "description": "Gold in its found state, or chicken in its breaded one — tan-gold.",
+    "source": "authored"
+  },
+  "4088": {
+    "name": "Jackpot",
+    "description": "Three cherries, one lever — gold, bucket seismic.",
+    "source": "authored"
+  },
+  "4089": {
+    "name": "Banana Propaganda",
+    "description": "The posters say ripe — yellow, appeal peeled.",
+    "source": "authored"
+  },
+  "4090": {
+    "name": "Solar",
+    "description": "The panel's gold arithmetic — sun metered.",
+    "source": "authored"
+  },
+  "4091": {
+    "name": "Pineapple",
+    "description": "The fruit that takes two years and a hat — gold, Victorian flexing.",
+    "source": "authored"
+  },
+  "4092": {
+    "name": "Green Thumb",
+    "description": "The thumb that resurrects ferns — green, secateurs blessed.",
+    "source": "authored"
+  },
+  "4093": {
+    "name": "Rapeseed",
+    "description": "The yellow that floods May fields — gold, canola rebrand.",
+    "source": "authored"
+  },
+  "4094": {
+    "name": "Sulphur",
+    "description": "Element 16 in its yellow bloom — matches funded.",
+    "source": "authored"
+  },
+  "4095": {
+    "name": "Oakwood",
+    "description": "The barrel's donor forest — brown-gold, staves seasoned.",
+    "source": "authored"
+  },
+  "4096": {
+    "name": "Sandstorm",
+    "description": "The desert relocating — tan-gold, visibility bankrupt.",
+    "source": "authored"
+  },
+  "4097": {
+    "name": "Drover",
+    "description": "The herd's tan-gold commute — dust as payslip.",
+    "source": "authored"
+  },
+  "4098": {
+    "name": "Sulphuric",
+    "description": "The acid with the yellow CV — gloves non-negotiable.",
+    "source": "authored"
+  },
+  "4099": {
+    "name": "Daffodil",
+    "description": "The trumpet that outruns frost — yellow, Wordsworth licensed.",
+    "source": "authored"
+  },
+  "4100": {
+    "name": "Polar",
+    "description": "White at latitude ninety — bears camouflaged by policy.",
+    "source": "authored"
+  },
+  "4101": {
+    "name": "Noir Mystique",
+    "description": "Black with a cigarette holder and no alibi.",
+    "source": "authored"
+  },
+  "4102": {
+    "name": "Pickle Brine",
+    "description": "The jar's green-gold liquor — dills decommissioned.",
+    "source": "authored"
+  },
+  "4103": {
+    "name": "Kale Yeah",
+    "description": "The affirmation the smoothie needed — green, pun cold-pressed.",
+    "source": "authored"
+  },
+  "4104": {
+    "name": "Chorus of Frogs",
+    "description": "The pond's green choir — sections competing.",
+    "source": "authored"
+  },
+  "4105": {
+    "name": "Sinsemilla",
+    "description": "The seedless green heirloom — botany with a wink.",
+    "source": "authored"
+  },
+  "4106": {
+    "name": "Cheerly Kiwi",
+    "description": "Kiwi at full morale — green, spoon saluting.",
+    "source": "authored"
+  },
+  "4107": {
+    "name": "Limequat",
+    "description": "Lime and kumquat's pocket edition — green-gold, marmalade minor.",
+    "source": "authored"
+  },
+  "4108": {
+    "name": "Lovebird",
+    "description": "The parrot pair billing — green, perch shared.",
+    "source": "authored"
+  },
+  "4109": {
+    "name": "Ultra Moss",
+    "description": "Moss past the amplifier.",
+    "source": "authored"
+  },
+  "4110": {
+    "name": "Triforce",
+    "description": "Three golden triangles, one missing piece — green-gold, Hyrule's ledger.",
+    "source": "authored"
+  },
+  "4111": {
+    "name": "Yew",
+    "description": "The churchyard tree that outlives the church — green-black, longbow pedigree.",
+    "source": "authored"
+  },
+  "4112": {
+    "name": "Mountain View",
+    "description": "The green panorama and the town Google ate — vantage either way.",
+    "source": "authored"
+  },
+  "4113": {
+    "name": "Swamp Monster",
+    "description": "The lagoon's green-brown grievance — torches optional.",
+    "source": "authored"
+  },
+  "4114": {
+    "name": "Donegal Green",
+    "description": "Tweed county green — flecked, handloomed.",
+    "source": "authored"
+  },
+  "4115": {
+    "name": "Serrano Pepper",
+    "description": "The chilli above jalapeño's pay grade — green, thin-walled honesty.",
+    "source": "authored"
+  },
+  "4116": {
+    "name": "Parsley Sprig",
+    "description": "The plate's green formality — chewed by no one, missed if gone.",
+    "source": "authored"
+  },
+  "4117": {
+    "name": "Maniac Green",
+    "description": "Green past the risk assessment.",
+    "source": "authored"
+  },
+  "4118": {
+    "name": "Phosphor Green",
+    "description": "The terminal's green afterglow — cursor immortal.",
+    "source": "authored"
+  },
+  "4119": {
+    "name": "Praying Mantis",
+    "description": "The fold that precedes the strike — green, patience weaponised.",
+    "source": "authored"
+  },
+  "4120": {
+    "name": "German Hop",
+    "description": "The bine that bitters the pilsner — green cones, Hallertau notarised.",
+    "source": "authored"
+  },
+  "4121": {
+    "name": "Lusty Lizard",
+    "description": "The lizard in its courting colours — green, push-ups performative.",
+    "source": "authored"
+  },
+  "4122": {
+    "name": "Lone Hunter",
+    "description": "One set of tracks going in — green-grey, hide certified.",
+    "source": "authored"
+  },
+  "4123": {
+    "name": "Test Tube",
+    "description": "The green the lab glows — stopper politics.",
+    "source": "authored"
+  },
+  "4124": {
+    "name": "Nuclear Throne",
+    "description": "The roguelike's radioactive crown — green, mutations elective.",
+    "source": "authored"
+  },
+  "4125": {
+    "name": "Poisonous Pistachio",
+    "description": "Pistachio with a toxicology report.",
+    "source": "authored"
+  },
+  "4126": {
+    "name": "Plastic Veggie",
+    "description": "The salad that dusts instead of wilts — green, display case tenure.",
+    "source": "authored"
+  },
+  "4127": {
+    "name": "Traffic Green",
+    "description": "The green that legislates walking — signal warranted.",
+    "source": "authored"
+  },
+  "4128": {
+    "name": "Juicy Lime",
+    "description": "Lime at maximum solvency — juice liquid assets.",
+    "source": "authored"
+  },
+  "4129": {
+    "name": "Elixir",
+    "description": "The bottle that fixes everything by claim — green-gold, dosage vague.",
+    "source": "authored"
+  },
+  "4130": {
+    "name": "Lasting Lime",
+    "description": "Lime with a maintenance plan.",
+    "source": "authored"
+  },
+  "4131": {
+    "name": "Venom Dart",
+    "description": "The frog's chemistry on a tip — green, blowpipe certified.",
+    "source": "authored"
+  },
+  "4132": {
+    "name": "Lethal Lime",
+    "description": "Lime with an actuary's warning.",
+    "source": "authored"
+  },
+  "4133": {
+    "name": "Pastel Pea",
+    "description": "Pea through the pastel filter.",
+    "source": "authored"
+  },
+  "4134": {
+    "name": "Thunderdome",
+    "description": "Two men enter, one man leaves — green-grey, Tina presiding.",
+    "source": "authored"
+  },
+  "4135": {
+    "name": "Carbon Fibre",
+    "description": "The weave that weighs nothing and costs everything — green-black gloss.",
+    "source": "authored"
+  },
+  "4136": {
+    "name": "Little Mermaid",
+    "description": "Part of that green world — fork combed, voice escrowed.",
+    "source": "authored"
+  },
+  "4137": {
+    "name": "Treetop Cathedral",
+    "description": "The canopy's vaulted green — sermons in birdsong.",
+    "source": "authored"
+  },
+  "4138": {
+    "name": "Pine Needle",
+    "description": "The needle's green tenure — resin scented, carpet eventual.",
+    "source": "authored"
+  },
+  "4139": {
+    "name": "Timberline",
+    "description": "The line where trees file for altitude exemption — green stops here.",
+    "source": "authored"
+  },
+  "4140": {
+    "name": "Collard",
+    "description": "The green that simmers all Sunday — pot likker litigated.",
+    "source": "authored"
+  },
+  "4141": {
+    "name": "Ethereal Woods",
+    "description": "The woods with the volume at séance — green-grey, moss soundproofing.",
+    "source": "authored"
+  },
+  "4142": {
+    "name": "Cucumber Queen",
+    "description": "The cucumber at pageant grade — green, sandwiches curtsying.",
+    "source": "authored"
+  },
+  "4143": {
+    "name": "Autumn Crocodile",
+    "description": "The crocodile in its October colours — green-brown, log emeritus.",
+    "source": "authored"
+  },
+  "4144": {
+    "name": "Resplendent Growth",
+    "description": "Growth with the trumpets in — green, canopy applauding.",
+    "source": "authored"
+  },
+  "4145": {
+    "name": "Overgrown Mausoleum",
+    "description": "The tomb the vines won — green over marble, names redacted.",
+    "source": "authored"
+  },
+  "4146": {
+    "name": "Forgotten Temple",
+    "description": "The green the jungle filed over the altar — offerings compounding.",
+    "source": "authored"
+  },
+  "4147": {
+    "name": "Radiant Foliage",
+    "description": "Foliage with the backlight budget.",
+    "source": "authored"
+  },
+  "4148": {
+    "name": "Green Symphony",
+    "description": "Green in four movements — canopy conducting.",
+    "source": "authored"
+  },
+  "4149": {
+    "name": "Muted Green",
+    "description": "Green at library volume.",
+    "source": "authored"
+  },
+  "4150": {
+    "name": "Rosemarried",
+    "description": "The herb that committed — green, vows remembered.",
+    "source": "authored"
+  },
+  "4151": {
+    "name": "Kermit Green",
+    "description": "It's not easy — green, banjo evidence.",
+    "source": "authored"
+  },
+  "4152": {
+    "name": "Bullfrog",
+    "description": "The pond's green baritone — jug band credentials.",
+    "source": "authored"
+  },
+  "4153": {
+    "name": "Natural Order",
+    "description": "The food chain's green paperwork — apex filed correctly.",
+    "source": "authored"
+  },
+  "4154": {
+    "name": "New Leaf",
+    "description": "The green of resolutions — January's gym-adjacent optimism.",
+    "source": "authored"
+  },
+  "4155": {
+    "name": "Lush Fields",
+    "description": "Fields with the irrigation confessed — green, horizon solvent.",
+    "source": "authored"
+  },
+  "4156": {
+    "name": "Soon to Be Hay",
+    "description": "The meadow's green countdown — baler scheduled.",
+    "source": "authored"
+  },
+  "4157": {
+    "name": "Forester",
+    "description": "The green-brown employment of trees — marking, thinning, knowing.",
+    "source": "authored"
+  },
+  "4158": {
+    "name": "Pressing My Luck",
+    "description": "The whammy dodged again — green, buzzer luck compounding.",
+    "source": "authored"
+  },
+  "4159": {
+    "name": "Thrilling Lime",
+    "description": "Lime with the drop tested.",
+    "source": "authored"
+  },
+  "4160": {
+    "name": "Aromatic Herbs",
+    "description": "The shelf that seasons everything — green, jars alphabetised.",
+    "source": "authored"
+  },
+  "4161": {
+    "name": "Fairy Tale Green",
+    "description": "The green past the second star — breadcrumbs franchised.",
+    "source": "authored"
+  },
+  "4162": {
+    "name": "Blinking Terminal",
+    "description": "The cursor's green pulse — input awaited since 1978.",
+    "source": "authored"
+  },
+  "4163": {
+    "name": "Gum Leaf",
+    "description": "The eucalyptus leaf — green-grey, koala rations.",
+    "source": "authored"
+  },
+  "4164": {
+    "name": "Wicked Green",
+    "description": "Green with a west-end villain arc.",
+    "source": "authored"
+  },
+  "4165": {
+    "name": "Tender Shoot",
+    "description": "The stem's first green gamble — frost actuarial.",
+    "source": "authored"
+  },
+  "4166": {
+    "name": "Firefly Squid",
+    "description": "Toyama Bay's blue-green glow in season — squid lit from within.",
+    "source": "authored"
+  },
+  "4167": {
+    "name": "Badass Grass",
+    "description": "Grass with the attitude disclosed.",
+    "source": "authored"
+  },
+  "4168": {
+    "name": "Fertility Green",
+    "description": "The green of fields that deliver — harvest notarised.",
+    "source": "authored"
+  },
+  "4169": {
+    "name": "Payday",
+    "description": "The green of the fifteenth and the first — direct deposit dopamine.",
+    "source": "authored"
+  },
+  "4170": {
+    "name": "Last of Lettuce",
+    "description": "The crisper's green survivor — dressing as eulogy.",
+    "source": "authored"
+  },
+  "4171": {
+    "name": "Shōji",
+    "description": "Paper doors, green-white light through the lattice — socks mandatory.",
+    "source": "authored"
+  },
+  "4172": {
+    "name": "Venomous Green",
+    "description": "Green with the antivenom back-ordered.",
+    "source": "authored"
+  },
+  "4173": {
+    "name": "Alien Abduction",
+    "description": "The beam's green invoice — cows itemised, memory redacted.",
+    "source": "authored"
+  },
+  "4174": {
+    "name": "A State of Mint",
+    "description": "Mint as a state of mind — the hex spells it, the colour delivers.",
+    "source": "authored"
+  },
+  "4175": {
+    "name": "Celery Mousse",
+    "description": "Celery whipped past its crunch — pale green, doilies implied.",
+    "source": "authored"
+  },
+  "4176": {
+    "name": "Wood Bark",
+    "description": "The trunk's brown-grey armour — initials regretted.",
+    "source": "authored"
+  },
+  "4177": {
+    "name": "Deep Forest",
+    "description": "The green past the last blaze mark — GPS humbled.",
+    "source": "authored"
+  },
+  "4178": {
+    "name": "Bayou",
+    "description": "The slow green water with the zydeco soundtrack — gators tenured.",
+    "source": "authored"
+  },
+  "4179": {
+    "name": "Majorelle Gardens",
+    "description": "Marrakech's garden of that blue — green fronds over Majorelle's paint.",
+    "source": "authored"
+  },
+  "4180": {
+    "name": "Vitality",
+    "description": "Green at full vitals — juice bar testimony.",
+    "source": "authored"
+  },
+  "4181": {
+    "name": "Herbalist",
+    "description": "The green apothecary — tinctures alphabetised, moon phases consulted.",
+    "source": "authored"
+  },
+  "4182": {
+    "name": "Cardamom",
+    "description": "The pod worth its weight — green, chai's aristocrat.",
+    "source": "authored"
+  },
+  "4183": {
+    "name": "Oh Pistachio",
+    "description": "Pistachio at first-name enthusiasm.",
+    "source": "authored"
+  },
+  "4184": {
+    "name": "Motherland",
+    "description": "The green of the fields in the anthem — soil loyal.",
+    "source": "authored"
+  },
+  "4185": {
+    "name": "Menthol Kiss",
+    "description": "Mint with intent — green-white, breath weaponised.",
+    "source": "authored"
+  },
+  "4186": {
+    "name": "Basil Smash",
+    "description": "The cocktail that bruises the herb on purpose — green, gin counsel.",
+    "source": "authored"
+  },
+  "4187": {
+    "name": "Poolside",
+    "description": "The green-blue of rented loungers — chlorine perfume.",
+    "source": "authored"
+  },
+  "4188": {
+    "name": "Glaucous Green",
+    "description": "The grey-green with the botanical bloom — Latin for the dusting.",
+    "source": "authored"
+  },
+  "4189": {
+    "name": "Swimming",
+    "description": "Lanes at green-blue length — lungs metered.",
+    "source": "authored"
+  },
+  "4190": {
+    "name": "Shallow Water",
+    "description": "The green-blue you can stand in — confidence rented.",
+    "source": "authored"
+  },
+  "4191": {
+    "name": "Kaltes Klares Wasser",
+    "description": "Cold clear water by its German title — green-blue, Malaria! echoing.",
+    "source": "authored"
+  },
+  "4192": {
+    "name": "Lights Out",
+    "description": "The switch obeyed — green-black, eyes recalibrating.",
+    "source": "authored"
+  },
+  "4193": {
+    "name": "Kettle Lake",
+    "description": "The glacier's parting gift — green-blue, no inlet, no outlet.",
+    "source": "authored"
+  },
+  "4194": {
+    "name": "Verdant Hush",
+    "description": "Green with the congregation seated.",
+    "source": "authored"
+  },
   "4195": {
     "name": "Faience",
-    "description": "Faience or faïence is the general English language term for fine tin-glazed pottery. The invention of a white pottery glaze suitable for painted decoration, by the addition of an oxide of tin to the slip of a lead glaze, was a major advance in the history of pottery.",
-    "source": "wikipedia"
+    "description": "Egypt's blue-green quartz paste — beads outlasting pharaohs.",
+    "source": "authored"
+  },
+  "4196": {
+    "name": "Fennelly",
+    "description": "Fennel with a surname flourish — green, anise sworn.",
+    "source": "authored"
   },
   "4197": {
     "name": "Guacamole",
-    "description": "An avocado-based dip, spread, or salad first developed in Mexico. In addition to its use in modern Mexican cuisine, it has become part of international cuisine as a dip, condiment, and salad ingredient.",
-    "source": "wikipedia"
+    "description": "The avocado's green estate, mashed — lime executor, chips heirs.",
+    "source": "authored"
+  },
+  "4198": {
+    "name": "Moorland",
+    "description": "Heather's green-brown jurisdiction — grouse tenancy.",
+    "source": "authored"
+  },
+  "4199": {
+    "name": "Mother Earth",
+    "description": "The green-brown landlord of everything — rent due in stewardship.",
+    "source": "authored"
   },
   "4292": {
     "name": "International Klein Blue",
