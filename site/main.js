@@ -91,7 +91,7 @@ const makeLabel = (text, p, w = 128) => {
   const c = document.createElement('canvas');
   c.width = w; c.height = 64;
   const g = c.getContext('2d');
-  const font = '400 40px "Libre Caslon Condensed", Georgia, serif';
+  const font = '400 40px "Valley Sans", system-ui, sans-serif';
   g.font = font;
   g.fillStyle = theme().label;
   g.textAlign = 'center'; g.textBaseline = 'middle';
@@ -232,27 +232,9 @@ const gamutPoint = (M, decode, rgb) => {
   const [L, A, B] = mulM(LMS2LAB, mulM(XYZ2LMS, xyz).map(Math.cbrt));
   return new THREE.Vector3(A * AB, L, B * AB);
 };
-// projected onto the a-b floor plane as flat outlines: sample the RGB cube
-// boundary, keep the max-chroma point per hue angle, trace a closed loop
-const shells = {};
-const buildOutline = (key, M, decode) => {
-  // convex hull (monotone chain) of the projected cube boundary
-  const S = 48;
-  const raw = [];
-  for (let axis = 0; axis < 3; axis++) {
-    for (const w of [0, 1]) {
-      for (let i = 0; i <= S; i++) {
-        for (let j = 0; j <= S; j++) {
-          const c = [0, 0, 0];
-          c[axis] = w;
-          c[(axis + 1) % 3] = i / S;
-          c[(axis + 2) % 3] = j / S;
-          const v = gamutPoint(M, decode, c);
-          raw.push([v.x, v.z]);
-        }
-      }
-    }
-  }
+// 2D convex hull, monotone chain — shared by the floor outlines and the
+// camera-facing silhouettes
+const hull2d = (raw) => {
   raw.sort((p, q) => p[0] - q[0] || p[1] - q[1]);
   const cross = (o, a2, b2) => (a2[0] - o[0]) * (b2[1] - o[1]) - (a2[1] - o[1]) * (b2[0] - o[0]);
   const lower = [];
@@ -266,7 +248,34 @@ const buildOutline = (key, M, decode) => {
     while (upper.length >= 2 && cross(upper[upper.length - 2], upper[upper.length - 1], pt) <= 0) upper.pop();
     upper.push(pt);
   }
-  const hull = lower.slice(0, -1).concat(upper.slice(0, -1));
+  return lower.slice(0, -1).concat(upper.slice(0, -1));
+};
+
+// projected onto the a-b floor plane as flat outlines: sample the RGB cube
+// boundary, keep the max-chroma point per hue angle, trace a closed loop
+const shells = {};
+const surfSamples = {}; // sparse 3D boundary samples, kept for the silhouettes
+const buildOutline = (key, M, decode) => {
+  const S = 48;
+  const raw = [];
+  const samples = [];
+  for (let axis = 0; axis < 3; axis++) {
+    for (const w of [0, 1]) {
+      for (let i = 0; i <= S; i++) {
+        for (let j = 0; j <= S; j++) {
+          const c = [0, 0, 0];
+          c[axis] = w;
+          c[(axis + 1) % 3] = i / S;
+          c[(axis + 2) % 3] = j / S;
+          const v = gamutPoint(M, decode, c);
+          raw.push([v.x, v.z]);
+          if (i % 4 === 0 && j % 4 === 0) samples.push(v);
+        }
+      }
+    }
+  }
+  surfSamples[key] = samples;
+  const hull = hull2d(raw);
   const pts = hull.map(([x, z]) => new THREE.Vector3(x, 0.002, z));
   const obj = new THREE.LineLoop(
     new THREE.BufferGeometry().setFromPoints(pts),
@@ -280,17 +289,70 @@ const buildOutline = (key, M, decode) => {
   label.visible = false;
   obj.userData.label = label;
   shells[key] = obj;
+
+  // camera-facing silhouette: the same boundary, perspective-projected onto
+  // a plane behind the cloud — orbiting changes the outline you see
+  const geoB = new THREE.BufferGeometry();
+  geoB.setAttribute('position', new THREE.BufferAttribute(new Float32Array(512 * 3), 3));
+  geoB.setDrawRange(0, 0);
+  const sil = new THREE.LineLoop(
+    geoB,
+    new THREE.LineBasicMaterial({ color: theme().halo, transparent: true, opacity: 0.3, depthWrite: false })
+  );
+  sil.frustumCulled = false;
+  sil.visible = false;
+  scene.add(sil);
+  backdrops[key] = sil;
 };
+const backdrops = {};
 buildOutline('srgb', S2X, srgbDecode);
 buildOutline('p3', P2X, srgbDecode);
 buildOutline('rec2020', R2X, rec2020Decode);
+
+// the silhouette plane sits just past the far side of the cloud, whichever
+// way the camera looks; these corners bound every gamut sample
+const CLOUD_BOUNDS = [-1, 1].flatMap((x) => [0, 1].flatMap((y) => [-1, 1].map((z) => new THREE.Vector3(x, y, z))));
+let backdropDirty = true;
+controls.addEventListener('change', () => { backdropDirty = true; });
+function updateBackdrops() {
+  const eye = camera.position;
+  const dir = controls.target.clone().sub(eye).normalize();
+  let d = 0;
+  for (const corner of CLOUD_BOUNDS) d = Math.max(d, corner.clone().sub(eye).dot(dir));
+  d += 0.3;
+  const po = eye.clone().add(dir.clone().multiplyScalar(d));
+  const up = Math.abs(dir.y) > 0.97 ? new THREE.Vector3(0, 0, 1) : new THREE.Vector3(0, 1, 0);
+  const right = new THREE.Vector3().crossVectors(dir, up).normalize();
+  const vup = new THREE.Vector3().crossVectors(right, dir);
+  for (const [key, obj] of Object.entries(backdrops)) {
+    if (!obj.visible) continue;
+    const uv = [];
+    for (const p of surfSamples[key]) {
+      const rel = p.clone().sub(eye);
+      const depth = rel.dot(dir);
+      if (depth < 0.05) continue; // behind the eye: no silhouette contribution
+      const q = eye.clone().add(rel.multiplyScalar(d / depth)).sub(po);
+      uv.push([q.dot(right), q.dot(vup)]);
+    }
+    const hull = hull2d(uv).slice(0, 512);
+    const attr = obj.geometry.attributes.position;
+    hull.forEach(([u, v], i) => {
+      const w = po.clone().addScaledVector(right, u).addScaledVector(vup, v);
+      attr.setXYZ(i, w.x, w.y, w.z);
+    });
+    obj.geometry.setDrawRange(0, hull.length);
+    attr.needsUpdate = true;
+  }
+}
 
 let activeTier = 'all';
 function applyShells() {
   for (const [key, obj] of Object.entries(shells)) {
     obj.visible = activeTier === 'all' || key === activeTier;
     obj.userData.label.visible = obj.visible;
+    backdrops[key].visible = obj.visible;
   }
+  backdropDirty = true;
 }
 function applyFilter() {
   applyShells();
@@ -364,6 +426,7 @@ function applyTheme() {
   ring.material.color.set(t.ring);
   halo.material.color.set(t.halo);
   for (const obj of Object.values(shells)) obj.material.color.set(t.halo);
+  for (const obj of Object.values(backdrops)) obj.material.color.set(t.halo);
   for (const { sprite, text, w, font } of labelSprites) {
     const c = sprite.material.map.source.data;
     const g = c.getContext('2d');
@@ -390,6 +453,7 @@ applyShells();
 renderer.setAnimationLoop(() => {
   controls.update();
   updateHover();
+  if (backdropDirty) { backdropDirty = false; updateBackdrops(); }
   renderer.render(scene, camera);
 });
 
