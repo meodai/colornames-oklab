@@ -228,11 +228,16 @@ el.style.background = c.hex;                               <span class="c">// sR
       <tr><td><code>oklab</code></td><td>exact sampled <code>[L, a, b]</code>; OKLCH is <code>hypot(a,b)</code> / <code>atan2(b,a)</code> away</td></tr>
     </table>
   </section>
+
+  <section id="support">
+    <h2>Support</h2>
+    <p>If you find this project useful, please consider <a href="https://ko-fi.com/colorparrot" rel="noopener" target="_blank">buying me a coffee</a>. It keeps my caffeine levels high enough to distinguish between <code>#fafafa</code> and <code>#fbfbfb</code>.</p>
+  </section>
 </main>
 
 <footer>
   <span>MIT · <a href="https://github.com/meodai">meodai</a></span>
-  <span>names by <a href="https://www.anthropic.com/news/claude-fable-5-mythos-5">Claude Fable 5</a></span>
+  <span>names by <a href="https://www.anthropic.com/news/claude-fable-5-mythos-5">Claude Fable 5</a> / <a href="https://github.com/meodai/color-names">color-name-list</a></span>
   <span><a href="https://github.com/meodai/colornames-oklab">source &amp; methodology</a></span>
 </footer>
 

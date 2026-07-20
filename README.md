@@ -107,6 +107,12 @@ Names live in `data/names/batch-*.json` (keyed by stable point id) with `data/na
 npx serve .   # then open /docs/
 ```
 
+## Support
+
+If you find this project useful, please consider [buying me a coffee](https://ko-fi.com/colorparrot). It keeps my caffeine levels high enough to distinguish between `#fafafa` and `#fbfbfb`.
+
 ## License
 
 [MIT](LICENSE)
+
+Names by [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) / [color-name-list](https://github.com/meodai/color-names).
