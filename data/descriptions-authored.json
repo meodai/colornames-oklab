@@ -1198,5 +1198,605 @@
   "0299": {
     "name": "Buttercream",
     "description": "Icing whipped with enough butter to blur the line between frosting and dessert."
+  },
+  "0300": {
+    "name": "Cut the Mustard",
+    "description": "To be good enough — nobody agrees why mustard, but this dark spicy brown-gold qualifies."
+  },
+  "0301": {
+    "name": "Bivouac",
+    "description": "Camp without tents: a groundsheet, a dark olive night, and morale."
+  },
+  "0302": {
+    "name": "Antique Brass",
+    "description": "The doorknob a century of hands has polished dark."
+  },
+  "0303": {
+    "name": "Coyote",
+    "description": "Desert-dog tan — also the military's official name for this exact shade of gear."
+  },
+  "0304": {
+    "name": "Dark Brass",
+    "description": "The band instrument that skipped a few polishings."
+  },
+  "0305": {
+    "name": "Dijon",
+    "description": "The Burgundian mustard city — sharper and browner than the ballpark stuff."
+  },
+  "0306": {
+    "name": "Dusty Khaki",
+    "description": "Khaki after the march, which is arguably the only authentic khaki."
+  },
+  "0307": {
+    "name": "Dukkah",
+    "description": "The Egyptian nut-and-spice blend you dip bread into via olive oil — toasty gold-brown."
+  },
+  "0308": {
+    "name": "Weld",
+    "description": "The oldest European yellow dye plant — mediaeval dyers crossed it with woad to make green."
+  },
+  "0309": {
+    "name": "Curry",
+    "description": "The powder, not any particular curry — turmeric-led and generously gold."
+  },
+  "0310": {
+    "name": "Ochre",
+    "description": "Iron-tinted earth, humanity's longest-serving pigment — this is the golden middle of its range."
+  },
+  "0311": {
+    "name": "Gamboge",
+    "description": "A saffron-yellow resin tapped from Cambodian trees — its name and Cambodia's share a root."
+  },
+  "0312": {
+    "name": "Khaki",
+    "description": "Urdu for dust — adopted by armies when they noticed dust made better camouflage than scarlet."
+  },
+  "0313": {
+    "name": "Honey Gold",
+    "description": "Honey held up to the window."
+  },
+  "0314": {
+    "name": "Hay",
+    "description": "The meadow, cut and dried and stacked — summer stored as colour."
+  },
+  "0315": {
+    "name": "Goldenrod",
+    "description": "The roadside wildflower that yellows entire late-summer fields; a crayon-box regular."
+  },
+  "0316": {
+    "name": "Deadly Mustard",
+    "description": "Mustard with intent — and if you write it in hex, #dead is hiding in the family."
+  },
+  "0317": {
+    "name": "Sandcastle",
+    "description": "Bucket-moulded architecture on a deadline set by the tide."
+  },
+  "0318": {
+    "name": "Yell for Yellow",
+    "description": "Yellow at the volume where a cheer becomes a chant."
+  },
+  "0319": {
+    "name": "Mustard",
+    "description": "The condiment that named the colour — ground seed, vinegar, and confidence."
+  },
+  "0320": {
+    "name": "Sand",
+    "description": "Dune-coloured, obviously — quartz ground down by a patient ocean."
+  },
+  "0321": {
+    "name": "Buddha's Love Handles",
+    "description": "The laughing Budai's generous golden belly — rubbed for luck, dressed in this amber."
+  },
+  "0322": {
+    "name": "Sunflower",
+    "description": "The flower that tracks the sun all day and then, mature, faces east forever."
+  },
+  "0323": {
+    "name": "Midas",
+    "description": "The king whose touch turned everything gold — a blessing for exactly one day."
+  },
+  "0324": {
+    "name": "Champagne",
+    "description": "The pale gold in the flute — technically only from Champagne, colloquially from anywhere celebratory."
+  },
+  "0325": {
+    "name": "Golden Cream",
+    "description": "Cream skimmed from milk that grazed in buttercups."
+  },
+  "0326": {
+    "name": "Golden Aura",
+    "description": "The glow around someone who just got good news."
+  },
+  "0327": {
+    "name": "Candlelight",
+    "description": "The warm radius of a single flame — the original mood lighting."
+  },
+  "0328": {
+    "name": "Sunrise Cream",
+    "description": "The sky's first soft gold, whipped."
+  },
+  "0329": {
+    "name": "Peat",
+    "description": "Compressed bog-plant millennia — the near-black brown that flavours whisky."
+  },
+  "0330": {
+    "name": "Dark Olive",
+    "description": "The olive at the bottom of the jar, steeped darkest."
+  },
+  "0331": {
+    "name": "Olive Drab",
+    "description": "The exact regulation green-brown of mid-century armies — drab by name and by order."
+  },
+  "0332": {
+    "name": "Olive",
+    "description": "The Mediterranean fruit whose green-brown ambiguity named a whole colour family."
+  },
+  "0333": {
+    "name": "Fustic",
+    "description": "A yellow dyewood shipped from the Caribbean to colour Europe's cloth for centuries."
+  },
+  "0334": {
+    "name": "Miso",
+    "description": "Fermented soybean paste — the darker and older, the deeper this gold-brown gets."
+  },
+  "0335": {
+    "name": "Tapenade",
+    "description": "Olives crushed with capers into a spreadable dark gold-green."
+  },
+  "0336": {
+    "name": "Natterjack",
+    "description": "Britain's loudest toad, olive-backed with a racing stripe."
+  },
+  "0337": {
+    "name": "Lost in Time",
+    "description": "The colour of a photograph left in a drawer since a decade nobody labels."
+  },
+  "0338": {
+    "name": "Citron",
+    "description": "The knobbly ancestral citrus — more peel than fruit, all of it this yellow-gold."
+  },
+  "0339": {
+    "name": "Matcha",
+    "description": "Stone-ground shade-grown tea, whisked; green with a golden undertone."
+  },
+  "0340": {
+    "name": "Piccalilli",
+    "description": "The lurid British mustard pickle — a relish that glows in the jar."
+  },
+  "0341": {
+    "name": "Olive or Twist",
+    "description": "The Dickensian question every martini answers — olive-gold either way, please sir."
+  },
+  "0342": {
+    "name": "Split Pea",
+    "description": "The soup legume, dried and halved — a green-gold that thickens on standing."
+  },
+  "0343": {
+    "name": "Lemongrass",
+    "description": "The citrus-scented stalk of Thai kitchens — pale gold-green when bruised."
+  },
+  "0344": {
+    "name": "Straw",
+    "description": "What's left when the grain is gone — pale gold you can weave."
+  },
+  "0345": {
+    "name": "Gold",
+    "description": "The metal that never tarnishes — this is its colour as pigment rather than shine."
+  },
+  "0346": {
+    "name": "Flax",
+    "description": "The plant behind linen and linseed — its dried stalks are exactly this blond."
+  },
+  "0347": {
+    "name": "Parchment",
+    "description": "Prepared skin, scraped thin, holding a thousand years of handwriting."
+  },
+  "0348": {
+    "name": "Maize",
+    "description": "Field corn gold — the Americas' founding grain."
+  },
+  "0349": {
+    "name": "Cadmium Yellow",
+    "description": "The opaque workhorse yellow of oil painting — Monet insisted on it, safety officers negotiate with it."
+  },
+  "0350": {
+    "name": "Vanilla",
+    "description": "The orchid pod's flavour — synonymous with plain, which is unfair to a spice this expensive."
+  },
+  "0351": {
+    "name": "Dandelion",
+    "description": "The lawn rebel — a thousand tiny suns the mower cannot defeat."
+  },
+  "0352": {
+    "name": "Sunburst",
+    "description": "The guitar finish and the actual event, both radiating gold."
+  },
+  "0353": {
+    "name": "Eggnog",
+    "description": "Cream, sugar, egg and dispute — the holiday drink in its pale gold glass."
+  },
+  "0354": {
+    "name": "Spätzle Yellow",
+    "description": "Swabian egg noodles scraped fresh into the pot — comfort in pale yellow."
+  },
+  "0355": {
+    "name": "Cosmic Latte",
+    "description": "The measured average colour of the universe — astronomers surveyed 200,000 galaxies and got a milky beige (this point is the nearest neighbour to the official #fff8e7)."
+  },
+  "0356": {
+    "name": "Bollywood Gold",
+    "description": "The shade of every wedding-scene sari and its two hundred sequinned backup dancers."
+  },
+  "0357": {
+    "name": "Moonbeam",
+    "description": "Moonlight is just sunlight with better PR — pale gold, gently delivered."
+  },
+  "0358": {
+    "name": "Forest Floor",
+    "description": "Leaf litter, moss shadow and things that prefer not to be seen — a green-black compost dark."
+  },
+  "0359": {
+    "name": "Army Green",
+    "description": "The issue colour of fatigues and surplus stores everywhere."
+  },
+  "0360": {
+    "name": "Thyme",
+    "description": "The low herb that survives drought, frost and being stepped on — grey-green and stoic."
+  },
+  "0361": {
+    "name": "Foxhole",
+    "description": "Dug-in dark olive; you and the earth, keeping each other's counsel."
+  },
+  "0362": {
+    "name": "Verdant Bronze",
+    "description": "Bronze going green — the moment before patina fully wins."
+  },
+  "0363": {
+    "name": "Dill Pickle",
+    "description": "The barrel-fermented deli green, briny and dependable."
+  },
+  "0364": {
+    "name": "Camouflage",
+    "description": "The pattern designed to make colour disappear — this is its most common single swatch."
+  },
+  "0365": {
+    "name": "Moss",
+    "description": "The soft green that grows where nothing else volunteers — northside of trees, hearts of shade."
+  },
+  "0366": {
+    "name": "Willow",
+    "description": "Willow leaves silvering in wind — grey-green with a riverbank address."
+  },
+  "0367": {
+    "name": "Wasabi",
+    "description": "The real rhizome is this muted olive-green; the neon paste at most sushi bars is dyed horseradish."
+  },
+  "0368": {
+    "name": "Lichen",
+    "description": "A fungus and an alga in a very long marriage, painting rocks grey-green."
+  },
+  "0369": {
+    "name": "Green Olive",
+    "description": "The martini garnish — picked young, brined bright."
+  },
+  "0370": {
+    "name": "Oregano",
+    "description": "Dried and jarred pizza-herb green."
+  },
+  "0371": {
+    "name": "Kiwi",
+    "description": "The fuzzy fruit's bright interior, black seeds in green flesh — named for a brown flightless bird, confusingly."
+  },
+  "0372": {
+    "name": "Warbler",
+    "description": "Olive-yellow and heard more than seen — the birder's favourite identification headache."
+  },
+  "0373": {
+    "name": "Dirty Martini",
+    "description": "Gin clouded with olive brine — cocktail hour's murkiest green-gold."
+  },
+  "0374": {
+    "name": "Celery",
+    "description": "The stalk that costs more calories to chew than it contains."
+  },
+  "0375": {
+    "name": "Hops",
+    "description": "The bitter green cones that made beer worth arguing about."
+  },
+  "0376": {
+    "name": "Absinthe",
+    "description": "The green fairy of Belle Époque Paris — wormwood, anise, and a century-long ban."
+  },
+  "0377": {
+    "name": "Sweet Pea",
+    "description": "The climbing flower bred for scent, in the gentlest green-adjacent pastel of the trellis."
+  },
+  "0378": {
+    "name": "High-Vis",
+    "description": "Regulation fluorescent yellow-green: the colour of being legally impossible to ignore."
+  },
+  "0379": {
+    "name": "Pear",
+    "description": "Anjou skin green-gold — ripe the moment you stop checking."
+  },
+  "0380": {
+    "name": "Winter Pear",
+    "description": "The late-harvest varieties that sweeten in cold storage while nobody watches."
+  },
+  "0381": {
+    "name": "Pickleball",
+    "description": "The perforated plastic ball of America's fastest-growing racquet argument — optic yellow-green."
+  },
+  "0382": {
+    "name": "Beige and Sage",
+    "description": "The rhyming duo of every calm interior moodboard, meeting in one swatch."
+  },
+  "0383": {
+    "name": "Chartreuse Yellow",
+    "description": "The yellow half of the liqueur's famous ambiguity."
+  },
+  "0384": {
+    "name": "Limoncello",
+    "description": "Amalfi lemon peel steeped in spirit — served freezing, glowing faintly."
+  },
+  "0385": {
+    "name": "Lime Zest",
+    "description": "The oily green shavings that carry all the perfume."
+  },
+  "0386": {
+    "name": "Canary",
+    "description": "The cage-bird bred yellow from a greenish wild finch — also the colour of islands it came from, allegedly."
+  },
+  "0387": {
+    "name": "Tennis Ball",
+    "description": "Optic yellow, adopted in 1972 so television viewers could follow the serve."
+  },
+  "0388": {
+    "name": "Key Lime",
+    "description": "The tiny Florida lime of pie fame — sharper and yellower than its supermarket cousin."
+  },
+  "0389": {
+    "name": "Elderflower",
+    "description": "The hedgerow blossom pressed into cordial — pale green-gold with a June scent."
+  },
+  "0390": {
+    "name": "Appletini",
+    "description": "The 1990s' most chemically green cocktail, served with irony optional."
+  },
+  "0391": {
+    "name": "Electric Lime",
+    "description": "Lime plugged into the mains — a Crayola-era neon."
+  },
+  "0392": {
+    "name": "Winter Melon",
+    "description": "The wax gourd of Cantonese soups — frosted pale green, big as a toddler."
+  },
+  "0393": {
+    "name": "Lemon Posset",
+    "description": "The three-ingredient British dessert: cream, sugar, lemon, and the palest yellow set."
+  },
+  "0394": {
+    "name": "Laser Lemon",
+    "description": "Crayola's fluorescent lemon — the crayon that seemed to emit rather than reflect."
+  },
+  "0395": {
+    "name": "Antifreeze",
+    "description": "Ethylene glycol's warning-bright green — dyed this colour precisely so you notice the leak."
+  },
+  "0396": {
+    "name": "Lemon",
+    "description": "The citrus standard for yellow and for cars that disappoint."
+  },
+  "0397": {
+    "name": "Crème de la Crème",
+    "description": "The cream of the cream — the very best, skimmed twice, appropriately pale and rich."
+  },
+  "0398": {
+    "name": "Honeysuckle",
+    "description": "The hedge climber children learn to sip — one drop of nectar per pale yellow trumpet."
+  },
+  "0399": {
+    "name": "Yellow",
+    "description": "The brightest primary in most people's heads — bee stripes, warning signs, and the sun as drawn by every child."
+  },
+  "0400": {
+    "name": "Safety Vest",
+    "description": "Fluorescent yellow with reflective intentions — the uniform of being seen."
+  },
+  "0401": {
+    "name": "Glowworm",
+    "description": "A beetle, not a worm, running its own pale green lantern on bioluminescence."
+  },
+  "0402": {
+    "name": "Rifle Green",
+    "description": "The near-black green of 19th-century rifle regiments — early camouflage born from Sherwood-style scouting."
+  },
+  "0403": {
+    "name": "Dark Fern",
+    "description": "Fern fronds in the deepest part of the understorey."
+  },
+  "0404": {
+    "name": "Hunter Green",
+    "description": "The traditional deep green of hunting dress — and of every prep-school blazer since."
+  },
+  "0405": {
+    "name": "Sap Green",
+    "description": "Historically made from buckthorn berries — the watercolourist's transparent leafy green."
+  },
+  "0406": {
+    "name": "Fern",
+    "description": "The unfurling frond — a green older than flowers."
+  },
+  "0407": {
+    "name": "Sagebrush",
+    "description": "The silvery scrub of the American West, smelling of rain that rarely comes."
+  },
+  "0408": {
+    "name": "Nettle",
+    "description": "The sting is formic acid; the green is chlorophyll; the soup is surprisingly good."
+  },
+  "0409": {
+    "name": "Bracken",
+    "description": "The fern that owns entire hillsides, green in June, copper by October."
+  },
+  "0410": {
+    "name": "Grasshopper",
+    "description": "The meadow jumper tuned to match its lawn."
+  },
+  "0411": {
+    "name": "Avocado",
+    "description": "The fruit, the toast, the 1970s bathroom suite — one green, three destinies."
+  },
+  "0412": {
+    "name": "Grass Green",
+    "description": "Lawn at regulation height — the green the word green usually means."
+  },
+  "0413": {
+    "name": "Cactus",
+    "description": "Waxy desert green, storing water and holding grudges."
+  },
+  "0414": {
+    "name": "Radium Dial",
+    "description": "The self-luminous watch paint of the 1920s — a glow with a tragic factory history."
+  },
+  "0415": {
+    "name": "Asparagus",
+    "description": "The spring spear, green from tip to snap point."
+  },
+  "0416": {
+    "name": "Venom Green",
+    "description": "Nature's warning label: green that advises against touching."
+  },
+  "0417": {
+    "name": "Eucalyptus",
+    "description": "The koala's entire menu — silvery blue-green leaves full of menthol oil."
+  },
+  "0418": {
+    "name": "Guac and Roll",
+    "description": "Avocado smashed with attitude — the tableside anthem."
+  },
+  "0419": {
+    "name": "Apple Green",
+    "description": "The classic bright green of orchard apples — a colour name since the 1600s."
+  },
+  "0420": {
+    "name": "Pistachio",
+    "description": "The nut whose green means quality — Sicilian growers guard it like a vintage."
+  },
+  "0421": {
+    "name": "Sour Apple",
+    "description": "The candy flavour that puckers — greener than any real apple dares."
+  },
+  "0422": {
+    "name": "Holy Guacamole",
+    "description": "The exclamation and the dip — avocado green elevated to minor miracle."
+  },
+  "0423": {
+    "name": "Parrot Green",
+    "description": "Rainforest-loud feather green."
+  },
+  "0424": {
+    "name": "Toxic Green",
+    "description": "The barrel-with-a-skull-label green of every cartoon hazard."
+  },
+  "0425": {
+    "name": "Celadon",
+    "description": "The jade-toned Asian glaze a millennium of potters chased — named, oddly, after a French stage shepherd."
+  },
+  "0426": {
+    "name": "Leaf Green",
+    "description": "Photosynthesis at standard operating colour."
+  },
+  "0427": {
+    "name": "Snap Pea",
+    "description": "The pod you eat whole — sweet, crisp, audibly green."
+  },
+  "0428": {
+    "name": "Highlighter Green",
+    "description": "The fluorescent marker for text you'll pretend to revisit."
+  },
+  "0429": {
+    "name": "Fiddle-Leaf Fig",
+    "description": "The houseplant influencers made famous — glossy violin-shaped leaves, dramatic about draughts."
+  },
+  "0430": {
+    "name": "Dusty Miller",
+    "description": "The silver-leaved bedding plant — grey-green foliage that reads as moonlight."
+  },
+  "0431": {
+    "name": "Caterpillar",
+    "description": "The leaf-eating machine matching its food — green until further notice (see: butterfly)."
+  },
+  "0432": {
+    "name": "Green Grape",
+    "description": "The seedless supermarket bunch, pale green and refrigerated."
+  },
+  "0433": {
+    "name": "Lime",
+    "description": "The citrus that named a green — sharper than lemon in every sense."
+  },
+  "0434": {
+    "name": "Firefly",
+    "description": "Cold light from a summer beetle — luciferin green, blinking in code."
+  },
+  "0435": {
+    "name": "Tea Green",
+    "description": "Steeped green-tea leaves, soft and yellowed."
+  },
+  "0436": {
+    "name": "Spring Bud",
+    "description": "The first swelling on the branch — a classic name for the year's newest green."
+  },
+  "0437": {
+    "name": "Sour Green",
+    "description": "The candy-aisle green that makes your jaw ache preemptively."
+  },
+  "0438": {
+    "name": "Limelight",
+    "description": "Theatres once spotlit stages by heating lime until it glowed — hence the fame idiom and this green-white."
+  },
+  "0439": {
+    "name": "Celadon Cream",
+    "description": "The famous glaze whipped into something softer."
+  },
+  "0440": {
+    "name": "Lime Rickey",
+    "description": "The soda-fountain classic: lime, fizz, and a colour to match."
+  },
+  "0441": {
+    "name": "Honeydew",
+    "description": "The pale green melon — refreshing in fact and in name."
+  },
+  "0442": {
+    "name": "Katydid",
+    "description": "The leaf-mimic insect that sings its own name all night."
+  },
+  "0443": {
+    "name": "Chartreuse",
+    "description": "The liqueur 130 herbs and two Carthusian monks keep secret — the only colour named after a drink recipe."
+  },
+  "0444": {
+    "name": "Pistachio Cream",
+    "description": "Sicilian pistachio paste folded into sweetness — gelato's palest green."
+  },
+  "0445": {
+    "name": "Gimlet",
+    "description": "Gin and lime cordial, sharp as the tool it's named after."
+  },
+  "0446": {
+    "name": "Green Juice",
+    "description": "Kale, cucumber, apple and optimism, blended."
+  },
+  "0447": {
+    "name": "Springwater",
+    "description": "Cold from the rock, faintly green over stones."
+  },
+  "0448": {
+    "name": "Bear Den",
+    "description": "The dark under the roots where winter is slept through."
+  },
+  "0449": {
+    "name": "Phthalo Green",
+    "description": "The staining modern pigment so intense a fingertip of it tints a whole wash."
   }
 }
