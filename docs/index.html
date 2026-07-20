@@ -87,7 +87,8 @@
   }
   #scrolldown:hover { color: var(--ink); border-color: var(--muted); }
   .card { border: 1px solid var(--line); background: var(--panel); overflow: hidden; }
-  .card .fsw { aspect-ratio: 1; }
+  .card .fsw { aspect-ratio: 1; position: relative; }
+  .card .fsw .fsb { position: absolute; right: 0; bottom: 0; width: 10px; height: 10px; }
   .card .fnm { padding: .45rem .6rem .1rem; font-size: .82rem; font-weight: 600; }
   .card .fmeta { padding: 0 .6rem .5rem; font-size: .7rem; color: var(--faint); font-variant-numeric: tabular-nums; }
   .card .fcss {
@@ -144,7 +145,7 @@
   <div id="hint">drag to orbit · pinch or double-tap to zoom · hover for names</div>
 </div>
 
-<div id="tip" class="card"><div class="fsw"></div><div class="fnm"></div><div class="fmeta"></div><div class="fcss"></div></div>
+<div id="tip" class="card"><div class="fsw"><div class="fsb"></div></div><div class="fnm"></div><div class="fmeta"></div><div class="fcss"></div></div>
 
 <main>
   <section id="about">
@@ -4895,6 +4896,7 @@ function updateHover() {
   halo.position.copy(pos(c));
   halo.visible = true;
   tip.querySelector('.fsw').style.background = oklabCss(c);
+  tip.querySelector('.fsb').style.background = c.hex;
   tip.querySelector('.fnm').textContent = c.name;
   tip.querySelector('.fmeta').textContent = TIER_LABEL[c.tier] + ' · ' + c.hex;
   tip.querySelector('.fcss').textContent = cssLine(c);
@@ -4943,8 +4945,9 @@ FAVES.forEach((n) => {
   if (!c) return;
   const d = document.createElement('div');
   d.className = 'card';
-  d.innerHTML = '<div class="fsw"></div><div class="fnm"></div><div class="fmeta"></div><div class="fcss"></div>';
+  d.innerHTML = '<div class="fsw"><div class="fsb"></div></div><div class="fnm"></div><div class="fmeta"></div><div class="fcss"></div>';
   d.querySelector('.fsw').style.background = oklabCss(c);
+  d.querySelector('.fsb').style.background = c.hex;
   d.querySelector('.fnm').textContent = c.name;
   d.querySelector('.fmeta').textContent = TIER_LABEL[c.tier] + ' · ' + c.hex;
   d.querySelector('.fcss').textContent = cssLine(c);
