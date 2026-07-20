@@ -8599,6 +8599,606 @@
     "name": "Fox",
     "description": "Rust-red with a tail plume — hen-house reputation earned."
   },
+  "3150": {
+    "name": "Kimchi",
+    "description": "Cabbage fermented past politeness — red-orange gochugaru proof."
+  },
+  "3151": {
+    "name": "Cumin",
+    "description": "The seed behind every curry's low note — warm ochre-brown, toasted first."
+  },
+  "3152": {
+    "name": "Fuego",
+    "description": "Fire by its Spanish name — orange-red with rolled R heat."
+  },
+  "3153": {
+    "name": "Magma",
+    "description": "Rock past its melting point — orange-red under a black crust."
+  },
+  "3154": {
+    "name": "Pelati",
+    "description": "The tin of whole peeled tomatoes — red-orange, San Marzano clause."
+  },
+  "3155": {
+    "name": "Chalet",
+    "description": "Timber, snow load and fondue economics — warm brown at altitude."
+  },
+  "3156": {
+    "name": "Arancio",
+    "description": "Orange by its Italian name — arancio, gelato counter spelling."
+  },
+  "3157": {
+    "name": "Oriole",
+    "description": "The blackbird's flame-orange cousin — hanging nest architect."
+  },
+  "3158": {
+    "name": "Bonfire",
+    "description": "The pile that took all autumn to build — orange, one match."
+  },
+  "3159": {
+    "name": "Frappé",
+    "description": "Coffee shaken over ice, or Greece's foam institution — tan-orange either way."
+  },
+  "3160": {
+    "name": "Sheaf",
+    "description": "Wheat bound at harvest — gold-tan, twine included."
+  },
+  "3161": {
+    "name": "Shrimp",
+    "description": "Pink-orange when cooked, argument at the grill — tail on or off."
+  },
+  "3162": {
+    "name": "Candy",
+    "description": "Sugar in its costume department — orange-pink today."
+  },
+  "3163": {
+    "name": "Goldfish",
+    "description": "The fair's orange prize with a three-second memory myth — bowl politics."
+  },
+  "3164": {
+    "name": "Girlie",
+    "description": "Pink-orange with a decade of reclamation behind it."
+  },
+  "3165": {
+    "name": "Sablé",
+    "description": "The French butter biscuit with the crosshatch — sand-gold, Brittany proud."
+  },
+  "3166": {
+    "name": "Taco",
+    "description": "The shell that structurally fails on bite two — orange-tan, worth it."
+  },
+  "3167": {
+    "name": "Malt",
+    "description": "Barley germinated on purpose — tan-gold, beer's first decision."
+  },
+  "3168": {
+    "name": "Meatloaf",
+    "description": "The loaf that isn't bread and the singer who wouldn't do that — brown-orange."
+  },
+  "3169": {
+    "name": "Brisket",
+    "description": "Twelve hours of smoke and the pink ring to prove it — brown bark."
+  },
+  "3170": {
+    "name": "Bison",
+    "description": "The prairie's shaggy tank — brown coat, comeback story."
+  },
+  "3171": {
+    "name": "Sienna",
+    "description": "The Tuscan earth pigment — raw it's ochre-brown, burnt it's auburn."
+  },
+  "3172": {
+    "name": "Olivia",
+    "description": "The olive softened into a name — warm brown-green, signature ready."
+  },
+  "3173": {
+    "name": "Mink",
+    "description": "The coat that outlived its ethics — brown-grey, glossy."
+  },
+  "3174": {
+    "name": "Hazel",
+    "description": "The eye colour that can't decide — brown-green, light dependent."
+  },
+  "3175": {
+    "name": "Meteor",
+    "description": "The streak that outruns its rock — orange-brown, wish pending."
+  },
+  "3176": {
+    "name": "Cajeta",
+    "description": "Goat's milk caramel from Celaya — brown-orange, spoon-resistant."
+  },
+  "3177": {
+    "name": "Bengal",
+    "description": "The tiger's postcode and the cat bred to match — orange-brown rosettes."
+  },
+  "3178": {
+    "name": "Jaffa",
+    "description": "The orange with the chocolate half-time job — Jaffa, cake-or-biscuit case law."
+  },
+  "3179": {
+    "name": "Porcini",
+    "description": "The king bolete — brown cap, risotto destiny."
+  },
+  "3180": {
+    "name": "Cheese",
+    "description": "Milk's leap toward immortality — orange-gold, cave optional."
+  },
+  "3181": {
+    "name": "Laksa",
+    "description": "The coconut-chilli noodle soup — orange-gold broth, bib advised."
+  },
+  "3182": {
+    "name": "Couch",
+    "description": "The brown one that ate every Sunday — cushions holding change."
+  },
+  "3183": {
+    "name": "Buckeye",
+    "description": "Ohio's poisonous good-luck nut — brown with a tan eye."
+  },
+  "3184": {
+    "name": "Bigfoot",
+    "description": "Blurry, brown and briskly walking — the footage never sharpens."
+  },
+  "3185": {
+    "name": "Annatto",
+    "description": "The seed that makes cheddar orange — annatto, lipstick tree freight."
+  },
+  "3186": {
+    "name": "Eagle",
+    "description": "The stare from the top of the food chain — brown-gold, white hood."
+  },
+  "3187": {
+    "name": "Puma",
+    "description": "The cat with a sneaker deal — tan-brown, silent landing."
+  },
+  "3188": {
+    "name": "Hemp",
+    "description": "The fibre that made rope, sails and paper — tan-brown, versatile CV."
+  },
+  "3189": {
+    "name": "Peru",
+    "description": "The CSS colour that's also a country — tan-brown, llama latitude."
+  },
+  "3190": {
+    "name": "Deer",
+    "description": "The tan flank in the headlight math — brown, spring-loaded."
+  },
+  "3191": {
+    "name": "Pizza",
+    "description": "The wheel of consensus — brown-orange crust, topping wars."
+  },
+  "3192": {
+    "name": "Cognac",
+    "description": "Grape spirit aged past its own name — amber-brown, snifter physics."
+  },
+  "3193": {
+    "name": "Beer",
+    "description": "Barley, hops, water, patience — amber-gold with a foam ceiling."
+  },
+  "3194": {
+    "name": "Rajah",
+    "description": "The title above king — amber-gold turban, tiger diplomacy."
+  },
+  "3195": {
+    "name": "Aperol",
+    "description": "The orange aperitivo that colonised summer — spritz arithmetic."
+  },
+  "3196": {
+    "name": "Corona",
+    "description": "The sun's outer atmosphere — gold-orange, visible only when hidden."
+  },
+  "3197": {
+    "name": "Brandy",
+    "description": "Wine distilled to keep — amber-gold, medicinal excuse."
+  },
+  "3198": {
+    "name": "Pasta",
+    "description": "Flour and egg in a thousand shapes — gold-tan, sauce loyalty."
+  },
+  "3199": {
+    "name": "Flan",
+    "description": "Custard under its own caramel roof — gold-tan wobble."
+  },
+  "3200": {
+    "name": "Pita",
+    "description": "The bread with the built-in pocket — tan-gold, oven-inflated."
+  },
+  "3201": {
+    "name": "Cola",
+    "description": "The brown fizz of two rival formulas — caramel colouring, kept secret."
+  },
+  "3202": {
+    "name": "Brownie",
+    "description": "The corner piece is the argument — brown, fudge-adjacent."
+  },
+  "3203": {
+    "name": "Muesli",
+    "description": "Oats, nuts and dried fruit negotiating — tan-brown, Swiss patent."
+  },
+  "3204": {
+    "name": "Nattō",
+    "description": "Soybeans fermented into strings — tan-brown, breakfast courage."
+  },
+  "3205": {
+    "name": "Lion",
+    "description": "The mane that manages the savannah — gold-tan, delegation model."
+  },
+  "3206": {
+    "name": "Pony",
+    "description": "The first wish written to Santa — tan-brown, apple economy."
+  },
+  "3207": {
+    "name": "Another One Bites the Dust",
+    "description": "Queen's bassline in tan-brown — dust, another one gone."
+  },
+  "3208": {
+    "name": "Crepe",
+    "description": "The pancake gone to finishing school — tan-gold, folded twice."
+  },
+  "3209": {
+    "name": "Buzz",
+    "description": "The transmission before the sting — gold-tan, hive gossip."
+  },
+  "3210": {
+    "name": "Broom",
+    "description": "The shrub that yellows whole hillsides — gold-tan besom heritage."
+  },
+  "3211": {
+    "name": "Nacho",
+    "description": "The chip that claimed a name — orange-gold, cheese delivery system."
+  },
+  "3212": {
+    "name": "№5",
+    "description": "The perfume ordered by number — gold-tan, Marilyn's pyjamas."
+  },
+  "3213": {
+    "name": "Limon",
+    "description": "Lemon with a Spanish passport — gold-green zest."
+  },
+  "3214": {
+    "name": "Cameo",
+    "description": "The portrait carved in shell relief — tan-cream profile."
+  },
+  "3215": {
+    "name": "Salt",
+    "description": "The seasoning and the sailor's adjective — white-tan crystals."
+  },
+  "3216": {
+    "name": "Alligator Gladiator",
+    "description": "Swamp combat at championship level — green-brown, undefeated in mud."
+  },
+  "3217": {
+    "name": "Kelp",
+    "description": "The underwater forest that grows half a metre a day — green-brown blades."
+  },
+  "3218": {
+    "name": "Grizzly",
+    "description": "The bear with the salmon franchise — brown-gold hump."
+  },
+  "3219": {
+    "name": "Lizard",
+    "description": "The push-up display on a warm rock — green-brown, tail negotiable."
+  },
+  "3220": {
+    "name": "Capers",
+    "description": "The flower buds brined before blooming — green-brown, scattered stingily."
+  },
+  "3221": {
+    "name": "Teak",
+    "description": "The wood that shrugs off weather — brown-gold, deck aristocracy."
+  },
+  "3222": {
+    "name": "Palm",
+    "description": "The hand's open side and the tree that shades it — green-tan."
+  },
+  "3223": {
+    "name": "Goldie",
+    "description": "Gold with a nickname — tan-gold, first-name basis."
+  },
+  "3224": {
+    "name": "Doubloon",
+    "description": "The Spanish gold piece of every treasure map — chest arithmetic."
+  },
+  "3225": {
+    "name": "Nile",
+    "description": "The river that made a civilisation punctual — green-brown floodline."
+  },
+  "3226": {
+    "name": "Desert",
+    "description": "Sand at planetary scale — tan-gold, water debt."
+  },
+  "3227": {
+    "name": "Crisps",
+    "description": "The bag that's half air — gold-tan, British spelling enforced."
+  },
+  "3228": {
+    "name": "Paella",
+    "description": "Saffron rice with a seafood roll call — gold-orange, socarrat prized."
+  },
+  "3229": {
+    "name": "Wax",
+    "description": "The seal, the candle, the crayon's soul — gold-tan, melts on schedule."
+  },
+  "3230": {
+    "name": "Halo",
+    "description": "The ring above the deserving — gold, hovering."
+  },
+  "3231": {
+    "name": "Yolk",
+    "description": "The egg's golden centre — the toast's whole reason."
+  },
+  "3232": {
+    "name": "Venus",
+    "description": "The morning star by name, furnace by fact — gold-white glare."
+  },
+  "3233": {
+    "name": "Corn",
+    "description": "The grain in everything if you read labels — gold, butter vector."
+  },
+  "3234": {
+    "name": "Star",
+    "description": "The fusion engine rendered five-pointed — gold, wished upon."
+  },
+  "3235": {
+    "name": "Hive",
+    "description": "Hexagon housing at maximum density — gold-brown, queen included."
+  },
+  "3236": {
+    "name": "Diesel",
+    "description": "The fuel with the rattle and the torque — gold-brown, pump mix-up dread."
+  },
+  "3237": {
+    "name": "Olivary",
+    "description": "Olive-shaped by anatomical decree — green-brown, brainstem address."
+  },
+  "3238": {
+    "name": "Bancha",
+    "description": "The everyday Japanese tea — green-brown leaves, late harvest."
+  },
+  "3239": {
+    "name": "Mossy",
+    "description": "Green in its ground-cover tense — softening every stone it meets."
+  },
+  "3240": {
+    "name": "BioShock",
+    "description": "Rapture through a leaking window — green-brown deco, plasmid glow."
+  },
+  "3241": {
+    "name": "Iguana",
+    "description": "The lizard with the third-eye rumour — green, basking rights."
+  },
+  "3242": {
+    "name": "Bonsai",
+    "description": "The tree edited for centuries — green, wire patience."
+  },
+  "3243": {
+    "name": "Lucky",
+    "description": "The clover with the surplus leaf — green odds."
+  },
+  "3244": {
+    "name": "Salvia",
+    "description": "The sage genus at full spike — green with violet intentions."
+  },
+  "3245": {
+    "name": "Martian",
+    "description": "Green by planetary stereotype — antennae assumed."
+  },
+  "3246": {
+    "name": "Lush",
+    "description": "Vegetation past the point of moderation — green, dripping."
+  },
+  "3247": {
+    "name": "Sapling",
+    "description": "The tree at ankle height — green, decades of intent."
+  },
+  "3248": {
+    "name": "Goldzilla",
+    "description": "Gold at kaiju scale — skyline liability."
+  },
+  "3249": {
+    "name": "Woven",
+    "description": "Warp, weft and the green thread that holds the plaid."
+  },
+  "3250": {
+    "name": "Valkyrie",
+    "description": "The chooser of the slain — green-gold wings over the field."
+  },
+  "3251": {
+    "name": "Gin",
+    "description": "Juniper argued into a glass — green-tinged clear, tonic pending."
+  },
+  "3252": {
+    "name": "Aurora",
+    "description": "Dawn by her Roman name — green-gold curtain at the pole."
+  },
+  "3253": {
+    "name": "Dolly",
+    "description": "The first cloned sheep and the country legend — gold-green either way."
+  },
+  "3254": {
+    "name": "Mindaro",
+    "description": "The yellow-green with the Crayola pedigree — mindaro, mid-century optimism."
+  },
+  "3255": {
+    "name": "Xanthic",
+    "description": "Yellow by its Greek root — xanthic, chemistry-paper usage."
+  },
+  "3256": {
+    "name": "Maizena",
+    "description": "Cornflour by its kitchen brand name — gold-white thickening."
+  },
+  "3257": {
+    "name": "Feta",
+    "description": "The brined block that crumbles on cue — white-gold, Greek law."
+  },
+  "3258": {
+    "name": "Sour",
+    "description": "The face lemons legislate — green-gold pucker."
+  },
+  "3259": {
+    "name": "Lit",
+    "description": "The adjective and the ignition — green-gold, both current."
+  },
+  "3260": {
+    "name": "Forestry",
+    "description": "Trees managed at spreadsheet scale — green, rotation planned."
+  },
+  "3261": {
+    "name": "Hōjicha",
+    "description": "Green tea roasted until it forgets it's green — toasty brown-gold."
+  },
+  "3262": {
+    "name": "Godzilla",
+    "description": "The kaiju with seniority — green-grey, atomic exhale."
+  },
+  "3263": {
+    "name": "Himalaya",
+    "description": "The range with the roof-of-the-world title — green foothills, white finals."
+  },
+  "3264": {
+    "name": "Botanical",
+    "description": "The garden pressed and labelled — green in Latin binomials."
+  },
+  "3265": {
+    "name": "Dill",
+    "description": "The feather-leafed herb that owns gravlax — green, pickle adjacent."
+  },
+  "3266": {
+    "name": "Topo Map",
+    "description": "Elevation drawn as green rings — the closer, the steeper."
+  },
+  "3267": {
+    "name": "Ghoul",
+    "description": "The graveyard's green-grey shift worker — appetite specific."
+  },
+  "3268": {
+    "name": "La Palma",
+    "description": "The Canary island still growing — green ridges, lava footnotes."
+  },
+  "3269": {
+    "name": "Toad",
+    "description": "Warty, green-brown and unbothered — princess kisses declined."
+  },
+  "3270": {
+    "name": "Green Envy",
+    "description": "The lawn next door doing better — green with a sting."
+  },
+  "3271": {
+    "name": "Papyrus",
+    "description": "The reed that became the page — green-tan, Nile pressed."
+  },
+  "3272": {
+    "name": "Noxious",
+    "description": "The green-yellow the skull label wears — fumes implied."
+  },
+  "3273": {
+    "name": "Extra Life",
+    "description": "The mushroom's green promise — one more try."
+  },
+  "3274": {
+    "name": "Citrus",
+    "description": "The genus of breakfast juice and zest — green-gold family tree."
+  },
+  "3275": {
+    "name": "In a Pickle",
+    "description": "Brined into a predicament — green, Shakespeare coined it."
+  },
+  "3276": {
+    "name": "Bergamot",
+    "description": "The citrus that flavours Earl Grey — green-gold, Calabrian monopoly."
+  },
+  "3277": {
+    "name": "Pea",
+    "description": "The green that rolls off plates and under fridges — pod economics."
+  },
+  "3278": {
+    "name": "Quince",
+    "description": "The fruit that's inedible until it isn't — green-gold, membrillo destiny."
+  },
+  "3279": {
+    "name": "Gossip",
+    "description": "The green-gold currency of small towns — interest compounds."
+  },
+  "3280": {
+    "name": "Frogger",
+    "description": "Three lanes, one log, no respawns pending — green pixel amphibian."
+  },
+  "3281": {
+    "name": "Overgrown",
+    "description": "What the garden does the year you don't — green, path erased."
+  },
+  "3282": {
+    "name": "Greenivorous",
+    "description": "Diet of pure green — herbivorous with a pun degree."
+  },
+  "3283": {
+    "name": "Feijoa",
+    "description": "The green fruit that tastes like a pineapple and a strawberry conferred."
+  },
+  "3284": {
+    "name": "Conifer",
+    "description": "The cone-bearing delegation — green year-round, needle ballot."
+  },
+  "3285": {
+    "name": "King Lime",
+    "description": "Lime with a coronation — green-gold, zest decree."
+  },
+  "3286": {
+    "name": "Yuzukoshō",
+    "description": "Yuzu zest and chilli fermented — green paste, one dab doctrine."
+  },
+  "3287": {
+    "name": "Inchworm",
+    "description": "The caterpillar that measures by folding — green-yellow, spans certified."
+  },
+  "3288": {
+    "name": "Lima",
+    "description": "The bean and the capital — green-gold, altitude either way."
+  },
+  "3289": {
+    "name": "Lush Green",
+    "description": "Green with the humidity included."
+  },
+  "3290": {
+    "name": "Hippy",
+    "description": "Tie-dye, van, and green politics — flowers in the barrel."
+  },
+  "3291": {
+    "name": "Illuminating",
+    "description": "Pantone's 2021 yellow half — green-gold, optimism by committee."
+  },
+  "3292": {
+    "name": "Pollen",
+    "description": "The gold dust worth a waggle dance — sneeze collateral."
+  },
+  "3293": {
+    "name": "Giraffe",
+    "description": "The neck that solved the canopy — gold-tan patches, no vocal cords to spare."
+  },
+  "3294": {
+    "name": "Blond",
+    "description": "Hair at the gold end of the survey — tan-gold, roots pending."
+  },
+  "3295": {
+    "name": "King Kong",
+    "description": "The ape with the skyline grip — tan-gold, biplane grievance."
+  },
+  "3296": {
+    "name": "PCB Green",
+    "description": "The green of every opened gadget — solder mask, trace maze."
+  },
+  "3297": {
+    "name": "Haunted Hills",
+    "description": "The green-grey ridge where the dare was invented — porch light dead."
+  },
+  "3298": {
+    "name": "O Tannenbaum",
+    "description": "The carol in green-gold — how lovely are thy branches."
+  },
+  "3299": {
+    "name": "Duck Hunt",
+    "description": "The NES dog that laughed at your aim — green-gold marsh, 8-bit ducks."
+  },
   "0000": {
     "name": "Black",
     "description": "The complete absorption of visible light — though this one, like every black a screen can show, keeps a whisper of blue in it."
