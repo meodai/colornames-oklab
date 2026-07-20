@@ -5499,50 +5499,755 @@
     "description": "The pink of painted ceiling babies — Renaissance chub included.",
     "source": "authored"
   },
+  "2100": {
+    "name": "Ink Black",
+    "description": "Black by the bottle — the nib's deepest reserve.",
+    "source": "authored"
+  },
+  "2101": {
+    "name": "Octopus Ink",
+    "description": "The cloud a cephalopod leaves instead of a forwarding address.",
+    "source": "authored"
+  },
+  "2102": {
+    "name": "Jet Black",
+    "description": "The gemstone black of Victorian mourning brooches — fossilised driftwood, polished.",
+    "source": "authored"
+  },
   "2103": {
     "name": "Raven",
-    "description": "A raven is any of several large-bodied passerine bird species in the genus Corvus. These species do not form a single taxonomic group within the genus. There is no consistent distinction between crows and ravens; the two names are assigned to different species mainly by size.",
-    "source": "wikipedia"
+    "description": "Poe's articulate visitor — glossy black, one word vocabulary.",
+    "source": "authored"
+  },
+  "2104": {
+    "name": "Grackle",
+    "description": "The iridescent blackbird of car parks — oil-slick purple in the right light.",
+    "source": "authored"
+  },
+  "2105": {
+    "name": "Moss Shadow",
+    "description": "Moss where the sun forgot.",
+    "source": "authored"
+  },
+  "2106": {
+    "name": "Thicket",
+    "description": "The tangle you go around, not through — green-dark and thorn-adjacent.",
+    "source": "authored"
+  },
+  "2107": {
+    "name": "Leather",
+    "description": "Tanned hide in its saddle-brown maturity — creaks included.",
+    "source": "authored"
+  },
+  "2108": {
+    "name": "Charcoal Grey",
+    "description": "Charcoal in its grey business dress.",
+    "source": "authored"
+  },
+  "2109": {
+    "name": "Iron Grey",
+    "description": "Iron before the forge — grey with weight.",
+    "source": "authored"
+  },
+  "2110": {
+    "name": "Field Mouse",
+    "description": "The hedgerow's smallest tenant — grey-brown fur, permanent hurry.",
+    "source": "authored"
+  },
+  "2111": {
+    "name": "Green Grey",
+    "description": "Grey with a garden past.",
+    "source": "authored"
+  },
+  "2112": {
+    "name": "Slate Grey",
+    "description": "The roofing grey of terraced streets.",
+    "source": "authored"
+  },
+  "2113": {
+    "name": "Lamplighter",
+    "description": "The dusk-shift worker of gas-lit streets — grey coat, long pole, punctual.",
+    "source": "authored"
+  },
+  "2114": {
+    "name": "Violet Grey",
+    "description": "Violet retired into grey.",
+    "source": "authored"
+  },
+  "2115": {
+    "name": "Pebble",
+    "description": "Beach-worn stone in the palm — grey smoothed by argument with the sea.",
+    "source": "authored"
+  },
+  "2116": {
+    "name": "Burnt Marshmallow",
+    "description": "The marshmallow held too close — caramel armour, molten centre.",
+    "source": "authored"
+  },
+  "2117": {
+    "name": "Silver Sage",
+    "description": "Sage dipped in silver.",
+    "source": "authored"
+  },
+  "2118": {
+    "name": "Plaster",
+    "description": "The wall before the paint — pink-beige and porous.",
+    "source": "authored"
+  },
+  "2119": {
+    "name": "Rain Check",
+    "description": "Postponed — the grey-blue of plans moved to another sky.",
+    "source": "authored"
+  },
+  "2120": {
+    "name": "Rice Paper",
+    "description": "The translucent sheet that wraps sweets and paints — pale as diffused light.",
+    "source": "authored"
+  },
+  "2121": {
+    "name": "Rose White",
+    "description": "White with one drop of rose.",
+    "source": "authored"
+  },
+  "2122": {
+    "name": "Glacier White",
+    "description": "Compacted-snow white with a blue undertone of age.",
+    "source": "authored"
+  },
+  "2123": {
+    "name": "Eggshell",
+    "description": "The off-white of the breakfast shell — and of every rental wall.",
+    "source": "authored"
+  },
+  "2124": {
+    "name": "Ghost Mint",
+    "description": "Mint faded to an apparition.",
+    "source": "authored"
+  },
+  "2125": {
+    "name": "Vampire",
+    "description": "The pallor with excellent cheekbones — black-red at the collar.",
+    "source": "authored"
+  },
+  "2126": {
+    "name": "Ebony",
+    "description": "The blackest of woods — piano keys' sharp neighbours.",
+    "source": "authored"
+  },
+  "2127": {
+    "name": "Dark Sangria",
+    "description": "Sangria at the bottom of the pitcher.",
+    "source": "authored"
+  },
+  "2128": {
+    "name": "Crimson Depths",
+    "description": "Crimson below the waterline.",
+    "source": "authored"
+  },
+  "2129": {
+    "name": "Bordeaux",
+    "description": "The claret capital — wine-dark red with a château on the label.",
+    "source": "authored"
+  },
+  "2130": {
+    "name": "Deep Ruby",
+    "description": "Ruby at vault depth.",
+    "source": "authored"
+  },
+  "2131": {
+    "name": "Lac Red",
+    "description": "The insect-resin red of shellac and old varnish — lac by name.",
+    "source": "authored"
+  },
+  "2132": {
+    "name": "Sangria",
+    "description": "Wine, fruit and brandy in a jug — Spanish red with a straw.",
+    "source": "authored"
+  },
+  "2133": {
+    "name": "Rioja",
+    "description": "The Tempranillo heartland — Spanish red with oak and patience.",
+    "source": "authored"
+  },
+  "2134": {
+    "name": "Framboise",
+    "description": "Raspberry by its French name — eau-de-vie red.",
+    "source": "authored"
+  },
+  "2135": {
+    "name": "Cherries Jubilee",
+    "description": "The flambéed cherry dessert — invented for a royal jubilee, still on fire.",
+    "source": "authored"
+  },
+  "2136": {
+    "name": "Cherrywood",
+    "description": "Cherry timber under lacquer — furniture's rosy brown.",
+    "source": "authored"
+  },
+  "2137": {
+    "name": "Pleasure",
+    "description": "The wine-dark of the second glass.",
+    "source": "authored"
+  },
+  "2138": {
+    "name": "Tweed",
+    "description": "The flecked wool of professors' elbows — brown-maroon, thornproof.",
+    "source": "authored"
+  },
+  "2139": {
+    "name": "Rubine Beam",
+    "description": "Rubine cast as a spotlight.",
+    "source": "authored"
+  },
+  "2140": {
+    "name": "Deep Cerise",
+    "description": "Cerise with ballast.",
+    "source": "authored"
+  },
+  "2141": {
+    "name": "Summer Pudding",
+    "description": "Bread, berries and overnight patience — the British dessert that stains its bowl this red.",
+    "source": "authored"
+  },
+  "2142": {
+    "name": "Damask",
+    "description": "The woven rose pattern of curtains and tablecloths — damask by loom.",
+    "source": "authored"
+  },
+  "2143": {
+    "name": "Redsurrection",
+    "description": "Red, risen on the third day — the pun forgives itself.",
+    "source": "authored"
   },
   "2144": {
     "name": "Rhodonite",
-    "description": "A manganese inosilicate, with the formula (Mn, Fe, Mg, Ca)SiO3, and member of the pyroxenoid group of minerals, crystallizing in the triclinic system. The term rhodonite was first introduced by Germar. from Ancient Greek ῥόδον (rhódon) 'rose'.",
-    "source": "wikipedia"
+    "description": "The rose-pink manganese stone with black veins — Russia's other pink mineral.",
+    "source": "authored"
+  },
+  "2145": {
+    "name": "Campari",
+    "description": "The bitter red apéritif — secret recipe, sixty proof, no substitutes.",
+    "source": "authored"
+  },
+  "2146": {
+    "name": "Faded Cerise",
+    "description": "Cerise gone to matte.",
+    "source": "authored"
+  },
+  "2147": {
+    "name": "Amaryllis",
+    "description": "The trumpet bulb that blooms indoors at Christmas — red at windowsill height.",
+    "source": "authored"
+  },
+  "2148": {
+    "name": "Magna Cum Laude",
+    "description": "Highest honours in suggestive Latin — red-pink with a diploma.",
+    "source": "authored"
+  },
+  "2149": {
+    "name": "Dragonfruit",
+    "description": "The neon-pink cactus fruit with the monochrome interior.",
+    "source": "authored"
+  },
+  "2150": {
+    "name": "Rose Bengal",
+    "description": "The magenta stain of laboratory slides — Bengal by name, biology by trade.",
+    "source": "authored"
+  },
+  "2151": {
+    "name": "Radical Red",
+    "description": "The Crayola red that filled every raised hand.",
+    "source": "authored"
+  },
+  "2152": {
+    "name": "Pink Sapphire",
+    "description": "Sapphire in its rare pink career.",
+    "source": "authored"
+  },
+  "2153": {
+    "name": "Fandango",
+    "description": "The proud Spanish dance — and the fandango pink Crayola retired.",
+    "source": "authored"
+  },
+  "2154": {
+    "name": "Hot Rose",
+    "description": "A rose running a fever.",
+    "source": "authored"
+  },
+  "2155": {
+    "name": "Jolly Rancher",
+    "description": "The watermelon hard candy of gas-station childhoods.",
+    "source": "authored"
   },
   "2156": {
     "name": "Camellia",
-    "description": "A genus of flowering plants in the family Theaceae. They are found in tropical and subtropical areas in eastern and southern Asia, from the Himalayas east to Japan and Indonesia. There are more than 220 described species; almost all are found in southern China and Indochina.",
-    "source": "wikipedia"
+    "description": "The waxy winter rose of Southern porches — Chanel's favourite flower.",
+    "source": "authored"
+  },
+  "2157": {
+    "name": "Confetti",
+    "description": "The paper storm after the vows.",
+    "source": "authored"
+  },
+  "2158": {
+    "name": "Guppy",
+    "description": "The beginner's aquarium fish — coral-pink, prolific, forgiving.",
+    "source": "authored"
+  },
+  "2159": {
+    "name": "Juliet",
+    "description": "The balcony half of the balcony scene — pink at wherefore height.",
+    "source": "authored"
+  },
+  "2160": {
+    "name": "Brink Pink",
+    "description": "Pink at the very edge of red.",
+    "source": "authored"
+  },
+  "2161": {
+    "name": "Boutonnière",
+    "description": "The lapel flower at the wedding — pinned pink, slightly crushed by hugs.",
+    "source": "authored"
+  },
+  "2162": {
+    "name": "First Dance",
+    "description": "The floor cleared for two — pink at slow-song tempo.",
+    "source": "authored"
+  },
+  "2163": {
+    "name": "Kisses and Hugs",
+    "description": "XOXO in bloom — sign-off pink, sealed and sent.",
+    "source": "authored"
+  },
+  "2164": {
+    "name": "Blush Hour",
+    "description": "The hour when everything flatters — blush by scheduling.",
+    "source": "authored"
+  },
+  "2165": {
+    "name": "Sockeye",
+    "description": "The Pacific salmon that turns scarlet to spawn — red fish, green river.",
+    "source": "authored"
+  },
+  "2166": {
+    "name": "Krill",
+    "description": "The tiny crustacean that feeds the largest animals — pink by the swarm-ton.",
+    "source": "authored"
+  },
+  "2167": {
+    "name": "Strawberry Dreams",
+    "description": "Strawberries at REM depth.",
+    "source": "authored"
+  },
+  "2168": {
+    "name": "Glowing Petal",
+    "description": "A petal with its own wattage.",
+    "source": "authored"
+  },
+  "2169": {
+    "name": "Rock’n’Rose",
+    "description": "Rock and roll in rose — power chords with petals.",
+    "source": "authored"
+  },
+  "2170": {
+    "name": "Ballet Slipper",
+    "description": "The satin flat of first recitals — ballet pink, ribbon-tied.",
+    "source": "authored"
+  },
+  "2171": {
+    "name": "Ranunculus",
+    "description": "The buttercup's layered cousin — petals packed like crepe paper.",
+    "source": "authored"
+  },
+  "2172": {
+    "name": "Dwarf Fortress",
+    "description": "The ASCII colony sim where losing is fun — dwarven wine-red, struck the earth.",
+    "source": "authored"
+  },
+  "2173": {
+    "name": "Deep Oxblood",
+    "description": "Oxblood at double depth.",
+    "source": "authored"
+  },
+  "2174": {
+    "name": "Barolo",
+    "description": "The fog-aged Nebbiolo of Piedmont — tar, roses, and this garnet.",
+    "source": "authored"
+  },
+  "2175": {
+    "name": "Blood Garnet",
+    "description": "Garnet with a transfusion.",
+    "source": "authored"
+  },
+  "2176": {
+    "name": "Deep Scarlet",
+    "description": "Scarlet under thirty fathoms.",
+    "source": "authored"
+  },
+  "2177": {
+    "name": "Velvet Curtain",
+    "description": "The heavy red drape before the overture — theatre's standing ovation in fabric.",
+    "source": "authored"
+  },
+  "2178": {
+    "name": "Rustic Brick",
+    "description": "Brick with the mortar showing.",
+    "source": "authored"
+  },
+  "2179": {
+    "name": "Crimson Blaze",
+    "description": "Crimson at full burn.",
+    "source": "authored"
+  },
+  "2180": {
+    "name": "Red Garnet",
+    "description": "January's stone in its red majority.",
+    "source": "authored"
   },
   "2181": {
     "name": "Red Clay",
-    "description": "An album recorded in 1970 by jazz trumpeter Freddie Hubbard. It was his first album on Creed Taylor's CTI label and marked a shift toward the soul-jazz fusion sounds that would dominate his recordings in the later part of the decade.",
-    "source": "wikipedia"
+    "description": "The pottery clay that fires to flowerpot red.",
+    "source": "authored"
+  },
+  "2182": {
+    "name": "Roasted Pepper",
+    "description": "The pepper charred until sweet — blistered red.",
+    "source": "authored"
   },
   "2183": {
     "name": "Maraschino",
-    "description": "A liqueur obtained from the distillation of Marasca cherries. The small, slightly sour fruit of the Marasca cherry tree, which grows wild along parts of the Dalmatian coast in Croatia, lends the liqueur its unique aroma.",
-    "source": "wikipedia"
+    "description": "The neon cherry on every sundae — luminous red, stem tied in cocktail legend.",
+    "source": "authored"
+  },
+  "2184": {
+    "name": "RGBBQ",
+    "description": "Red, green and blue walk into a barbecue — the sauce is this colour.",
+    "source": "authored"
   },
   "2185": {
     "name": "Fire Hydrant",
-    "description": "A fire hydrant, fireplug, firecock (archaic), hydrant riser or Johnny Pump is a connection point by which firefighters can tap into a water supply. It is a component of active fire protection. Underground fire hydrants have been used in Europe and Asia since at least the 18th century.",
-    "source": "wikipedia"
+    "description": "The kerbside red nobody may park beside.",
+    "source": "authored"
+  },
+  "2186": {
+    "name": "Cherry Cola",
+    "description": "The float made of two vices — caramel red-brown with bubbles.",
+    "source": "authored"
+  },
+  "2187": {
+    "name": "Terra Blush",
+    "description": "Earth with colour in its cheeks.",
+    "source": "authored"
+  },
+  "2188": {
+    "name": "Them Apples",
+    "description": "How do you like them? — red, polished, rhetorical.",
+    "source": "authored"
+  },
+  "2189": {
+    "name": "Brick Rose",
+    "description": "Brick softened to rose.",
+    "source": "authored"
+  },
+  "2190": {
+    "name": "Ketchup",
+    "description": "The tomato condiment that outsells the tomato — anticipation red.",
+    "source": "authored"
+  },
+  "2191": {
+    "name": "Valentina",
+    "description": "The Mexican hot sauce with the woman on the label — vinegar heat in red.",
+    "source": "authored"
+  },
+  "2192": {
+    "name": "Scarlet Overdrive",
+    "description": "Scarlet past the governor.",
+    "source": "authored"
+  },
+  "2193": {
+    "name": "Torch Red",
+    "description": "The relay flame red — passed hand to hand since Olympia.",
+    "source": "authored"
+  },
+  "2194": {
+    "name": "Jasper",
+    "description": "The spotted red variety of the quartz family — named in scripture, worn in signets.",
+    "source": "authored"
+  },
+  "2195": {
+    "name": "Ladybird",
+    "description": "The garden's politest predator — red dome, black spots, aphid appetite.",
+    "source": "authored"
+  },
+  "2196": {
+    "name": "Ketchup Later",
+    "description": "The condiment's farewell — see you at the next barbecue.",
+    "source": "authored"
+  },
+  "2197": {
+    "name": "Dragon's Breath",
+    "description": "The chilli bred past two million Scoville — and the fire the dragon meant.",
+    "source": "authored"
+  },
+  "2198": {
+    "name": "Infrared",
+    "description": "Below the visible red — the wavelength you feel as warmth.",
+    "source": "authored"
+  },
+  "2199": {
+    "name": "Snapper",
+    "description": "The red fish of fish markets — snapper by name, dinner by fate.",
+    "source": "authored"
   },
   "2200": {
     "name": "Snapdragon",
-    "description": "Antirrhinum is a genus of plants in the Plantaginaceae family, commonly known as dragon flowers or snapdragons because of the flowers' fancied resemblance to the face of a dragon that opens and closes its mouth when laterally squeezed. They are also sometimes called toadflax or dog flower.",
-    "source": "wikipedia"
+    "description": "The flower you pinch to make it talk — red jaws, garden ventriloquism.",
+    "source": "authored"
+  },
+  "2201": {
+    "name": "Clownfish",
+    "description": "The anemone's orange tenant — stripes, fins, and one famous missing son.",
+    "source": "authored"
+  },
+  "2202": {
+    "name": "Canyon Coral",
+    "description": "Coral of the desert rim.",
+    "source": "authored"
+  },
+  "2203": {
+    "name": "Fiery Coral",
+    "description": "Coral with the burner on.",
+    "source": "authored"
+  },
+  "2204": {
+    "name": "Shirley Temple",
+    "description": "The grenadine-and-ginger mocktail named for the curliest star of the 1930s.",
+    "source": "authored"
+  },
+  "2205": {
+    "name": "Prawn Cocktail",
+    "description": "The retro starter in a glass — pink sauce, one brave prawn on the rim.",
+    "source": "authored"
+  },
+  "2206": {
+    "name": "Coral Reef",
+    "description": "The living architecture of warm seas — orange-pink and endangered.",
+    "source": "authored"
+  },
+  "2207": {
+    "name": "Prawn",
+    "description": "The pink crescent of the seafood counter.",
+    "source": "authored"
   },
   "2208": {
     "name": "Melon",
-    "description": "A melon is any of various plants of the family Cucurbitaceae with sweet, edible, and fleshy fruit. It can also specifically refer to Cucumis melo, commonly known as the \"true melon\" or simply \"melon\". The term \"melon\" can apply to both the plant and its fruit.",
-    "source": "wikipedia"
+    "description": "The fruit that is mostly water and entirely summer — flesh in pink-orange.",
+    "source": "authored"
+  },
+  "2209": {
+    "name": "Ikura",
+    "description": "Salmon roe glowing on sushi rice — orange pearls that pop.",
+    "source": "authored"
+  },
+  "2210": {
+    "name": "Musk Stick",
+    "description": "The pink musk-flavoured candy stick of Australian school canteens.",
+    "source": "authored"
+  },
+  "2211": {
+    "name": "Cloudberry",
+    "description": "The Arctic bramble berry — amber-pink and worth the mosquito bites.",
+    "source": "authored"
+  },
+  "2212": {
+    "name": "Salmonberry",
+    "description": "The salmon-coloured bramble of the Pacific Northwest — bear breakfast.",
+    "source": "authored"
+  },
+  "2213": {
+    "name": "Dark Auburn",
+    "description": "Auburn after dark, embers in the brown.",
+    "source": "authored"
+  },
+  "2214": {
+    "name": "Burnt Mahogany",
+    "description": "Mahogany through the kiln twice.",
+    "source": "authored"
+  },
+  "2215": {
+    "name": "Rust Shadow",
+    "description": "Rust in the shadow of the machine.",
+    "source": "authored"
+  },
+  "2216": {
+    "name": "Bark",
+    "description": "The tree's weathered jacket — brown with lichen patches.",
+    "source": "authored"
+  },
+  "2217": {
+    "name": "Mahogany",
+    "description": "The furniture wood empires were shipped for — red-brown with a polish.",
+    "source": "authored"
+  },
+  "2218": {
+    "name": "Fudge",
+    "description": "The square of concentrated brown — butter, sugar, dental risk.",
+    "source": "authored"
+  },
+  "2219": {
+    "name": "Burnt Sienna",
+    "description": "Sienna earth roasted to auburn — on every palette since the Renaissance.",
+    "source": "authored"
+  },
+  "2220": {
+    "name": "Rooibos",
+    "description": "The South African red bush tea — caffeine-free crimson-brown.",
+    "source": "authored"
+  },
+  "2221": {
+    "name": "Rust Fire",
+    "description": "Rust that reignited.",
+    "source": "authored"
+  },
+  "2222": {
+    "name": "Muddy",
+    "description": "Boots by the door, dog unrepentant — brown at splash height.",
+    "source": "authored"
+  },
+  "2223": {
+    "name": "Lava Flow",
+    "description": "The slow orange-red river that makes new coastline.",
+    "source": "authored"
+  },
+  "2224": {
+    "name": "Burnt Tangerine",
+    "description": "Tangerine past the smoke point.",
+    "source": "authored"
+  },
+  "2225": {
+    "name": "Copper Fire",
+    "description": "Copper at the forge's mouth.",
+    "source": "authored"
+  },
+  "2226": {
+    "name": "Scarlet Blaze",
+    "description": "Scarlet with the bellows working.",
+    "source": "authored"
+  },
+  "2227": {
+    "name": "Copper Rose",
+    "description": "Copper and rose alloyed.",
+    "source": "authored"
+  },
+  "2228": {
+    "name": "Burnt Scarlet",
+    "description": "Scarlet caught by the flame.",
+    "source": "authored"
+  },
+  "2229": {
+    "name": "Flame Scarlet",
+    "description": "The fashion-week scarlet with a flame filter.",
+    "source": "authored"
+  },
+  "2230": {
+    "name": "Toasted Orange",
+    "description": "Orange with grill marks.",
+    "source": "authored"
+  },
+  "2231": {
+    "name": "Sunset Flame",
+    "description": "The sky's last flare before the blue hour.",
+    "source": "authored"
+  },
+  "2232": {
+    "name": "Copper Coral",
+    "description": "Coral struck from copper.",
+    "source": "authored"
+  },
+  "2233": {
+    "name": "Burnt Coral",
+    "description": "Coral toasted at the edges.",
+    "source": "authored"
+  },
+  "2234": {
+    "name": "Papaya Punch",
+    "description": "Papaya with a right hook.",
+    "source": "authored"
+  },
+  "2235": {
+    "name": "Sunset Glow",
+    "description": "The sky doing its encore.",
+    "source": "authored"
+  },
+  "2236": {
+    "name": "Membrillo",
+    "description": "Quince paste sliced for the cheese board — Spanish amber-orange.",
+    "source": "authored"
+  },
+  "2237": {
+    "name": "Terracotta Wash",
+    "description": "Terracotta thinned to a watercolour pass.",
+    "source": "authored"
+  },
+  "2238": {
+    "name": "Physalis",
+    "description": "The lantern fruit in its paper cage — orange with wrapping.",
+    "source": "authored"
+  },
+  "2239": {
+    "name": "Sandbar",
+    "description": "The sand ridge that surfaces at low tide — beach by instalments.",
+    "source": "authored"
+  },
+  "2240": {
+    "name": "Copper Orange",
+    "description": "Copper leaning to flame.",
+    "source": "authored"
+  },
+  "2241": {
+    "name": "Martian Colony",
+    "description": "The red planet, terraformed to orange optimism.",
+    "source": "authored"
+  },
+  "2242": {
+    "name": "Stack Overflow",
+    "description": "The site that answered everything — including this exact logo orange.",
+    "source": "authored"
   },
   "2243": {
     "name": "Tiger",
-    "description": "A large cat and a member of the genus Panthera native to Asia. It has a powerful, muscular body with a large head and paws, a long tail and orange fur with black, mostly vertical stripes.",
-    "source": "wikipedia"
+    "description": "The striped apex predator in burning orange — Blake asked who framed it.",
+    "source": "authored"
+  },
+  "2244": {
+    "name": "Kiln",
+    "description": "The oven that turns clay into keeps — orange at firing temperature.",
+    "source": "authored"
+  },
+  "2245": {
+    "name": "Biscotti",
+    "description": "Twice-baked Italian biscuits — dry, golden, built for dunking.",
+    "source": "authored"
+  },
+  "2246": {
+    "name": "Nacho Average Orange",
+    "description": "Cheese-dusted orange with a pun rating of medium-hot.",
+    "source": "authored"
+  },
+  "2247": {
+    "name": "Mango Sorbet",
+    "description": "Mango churned to its softest orange.",
+    "source": "authored"
+  },
+  "2248": {
+    "name": "Caramel Cream",
+    "description": "Caramel folded into cream.",
+    "source": "authored"
+  },
+  "2249": {
+    "name": "Pastel Orange",
+    "description": "Orange in sugared-almond softness.",
+    "source": "authored"
   },
   "2310": {
     "name": "Turmeric",
