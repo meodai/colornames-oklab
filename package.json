@@ -11,10 +11,12 @@
       "require": "./index.cjs",
       "default": "./index.cjs"
     },
-    "./colornames-oklab.json": "./colornames-oklab.json"
+    "./colornames-oklab.json": "./colornames-oklab.json",
+    "./descriptions.json": "./descriptions.json"
   },
   "files": [
     "colornames-oklab.json",
+    "descriptions.json",
     "index.cjs",
     "index.mjs",
     "README.md",
@@ -41,8 +43,8 @@
     "sample": "node scripts/sample-points.mjs",
     "sample:more": "node scripts/sample-more.mjs",
     "worksheet": "node scripts/make-worksheet.mjs",
-    "build": "node scripts/merge-names.mjs && node scripts/audit-basics.mjs && vite build",
-    "validate": "node scripts/merge-names.mjs && node scripts/audit-basics.mjs",
+    "build": "node scripts/merge-names.mjs && node scripts/audit-basics.mjs && node scripts/build-descriptions.mjs && vite build",
+    "validate": "node scripts/merge-names.mjs && node scripts/audit-basics.mjs && node scripts/build-descriptions.mjs",
     "dev": "vite",
     "fetch:descriptions": "node scripts/fetch-descriptions.mjs"
   },

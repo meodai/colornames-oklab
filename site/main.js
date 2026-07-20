@@ -3,7 +3,7 @@ import * as THREE from 'three';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 import { toGamut } from 'culori';
 import COLORS from '../colornames-oklab.json';
-import DESCRIPTIONS from '../data/descriptions.json';
+import DESCRIPTIONS from '../descriptions.json';
 
 const TIERS = ['all', 'srgb', 'p3', 'rec2020'];
 const TIER_LABEL = { srgb: 'sRGB', p3: 'Display P3', rec2020: 'Rec2020' };
@@ -403,8 +403,8 @@ const foldName = (s) => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f
 const sortedNames = COLORS.map((c, idx) => ({ ...c, idx })).sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));
 const listFrag = document.createDocumentFragment();
 const nameRows = sortedNames.map((c) => {
-  const entry = DESCRIPTIONS[String(c.idx).padStart(4, '0')];
-  const hasDesc = entry && entry.name === c.name;
+  const desc = DESCRIPTIONS[c.idx];
+  const hasDesc = Boolean(desc);
   const row = document.createElement(hasDesc ? 'details' : 'div');
   row.className = 'nrow' + (hasDesc ? ' has-desc' : '');
   const line = document.createElement(hasDesc ? 'summary' : 'div');
@@ -428,7 +428,7 @@ const nameRows = sortedNames.map((c) => {
   if (hasDesc) {
     const p = document.createElement('p');
     p.className = 'ndesc';
-    p.textContent = entry.description;
+    p.textContent = desc;
     row.append(p);
   }
   listFrag.appendChild(row);

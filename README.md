@@ -28,6 +28,19 @@ import colors from 'colornames-oklab';        // ESM
 const colors = require('colornames-oklab');   // CJS
 ```
 
+### Descriptions (opt-in)
+
+Every color also has a short authored description — a separate file that
+adds nothing to your bundle unless you import it. It's a plain array of
+4444 strings, index-aligned with the color list:
+
+```js
+import descriptions from 'colornames-oklab/descriptions.json';
+
+descriptions[colors.findIndex((c) => c.name === 'Eigengrau')];
+// "The grey the eyes make in total darkness — intrinsic light, everyone's seen it."
+```
+
 ## Lookup API
 
 A tiny, dependency-free `closest()` ships with the package. It takes raw OKLab values — convert your colors yourself (e.g. with [culori](https://culorijs.org)) so the package stays at zero dependencies:
