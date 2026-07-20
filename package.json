@@ -1,7 +1,7 @@
 {
   "name": "colornames-oklab",
   "version": "0.1.0",
-  "description": "3000 color names blue-noise sampled over the Rec2020 gamut in OKLab — evenly spread perceptually, tiered by gamut (sRGB / Display P3 / Rec2020), named by Claude Fable 5.",
+  "description": "4000 color names blue-noise sampled over the Rec2020 gamut in OKLab — evenly spread perceptually, tiered by gamut (sRGB / Display P3 / Rec2020), named by Claude Fable 5.",
   "license": "MIT",
   "author": "meodai",
   "main": "index.cjs",

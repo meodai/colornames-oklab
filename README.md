@@ -1,6 +1,6 @@
 # colornames-oklab
 
-**3000 color names, evenly spread over the OKLab color space, covering the full Rec2020 gamut.**
+**4000 color names, evenly spread over the OKLab color space, covering the full Rec2020 gamut.**
 
 Most color name lists cluster where humans historically looked: reds, skin tones, sRGB pastels. This list is built the other way around — the *positions* come first. Points are distributed uniformly through perceptual color space, so every region of the gamut (including the wide-gamut colors your screen may only now be learning to show) gets a name, and no two names sit awkwardly close together.
 
@@ -8,7 +8,7 @@ All names were written by **[Claude Fable 5](https://www.anthropic.com/news/clau
 
 ## Data
 
-`colornames-oklab.json` — an array of 3000 entries, 254 kB raw / 60 kB gzipped:
+`colornames-oklab.json` — an array of 4000 entries, 336 kB raw / 81 kB gzipped:
 
 ```json
 { "name": "Emerald", "tier": "srgb", "hex": "#089156", "oklab": [0.577, -0.1257, 0.0551] }
@@ -34,7 +34,7 @@ const colors = require('colornames-oklab');   // CJS
 
 Points are generated with **best-candidate (Mitchell) sampling** in OKLab, rejection-constrained to the Rec2020 gamut: each new point is chosen from dozens of random candidates as the one farthest from all existing points. Because Euclidean distance in OKLab approximates perceptual distance, the result is a set of colors that are *perceptually* evenly spaced — dense nowhere, sparse nowhere.
 
-The list was grown in three deterministic, seeded passes (1500 → 2100 → 3000). Each pass samples against **all** existing points, so extending the list never moves or renames an existing entry: ids and names are stable forever, and every future extension stays blue-noise.
+The list was grown in four deterministic, seeded passes (1500 → 2100 → 3000 → 4000). Each pass samples against **all** existing points, so extending the list never moves or renames an existing entry: ids and names are stable forever, and every future extension stays blue-noise.
 
 ### 2. Gamut tiers
 
@@ -42,15 +42,15 @@ Each point is classified by the smallest standard gamut that contains it:
 
 | tier | count | share | meaning |
 | --- | --- | --- | --- |
-| `srgb` | 1361 | ~45% | displayable everywhere |
-| `p3` | 528 | ~18% | needs a Display P3 screen |
-| `rec2020` | 1111 | ~37% | beyond P3 — the outer shell |
+| `srgb` | 1844 | ~46% | displayable everywhere |
+| `p3` | 682 | ~17% | needs a Display P3 screen |
+| `rec2020` | 1474 | ~37% | beyond P3 — the outer shell |
 
 These are the *natural* volume proportions of the gamuts in OKLab. (Surprise inside: the Rec2020-only shell is enormous, and most of it is hyper-saturated emerald, teal, cyan, and deep blue.)
 
 ### 3. Naming
 
-Every name was written individually by **Claude Fable 5**, working through the list in hue order with each point's OKLCH coordinates and gamut tier in view. The commonness of a name tracks its tier:
+The first 3000 names were written individually by **Claude Fable 5**, working through the list in hue order with each point's OKLCH coordinates and gamut tier in view; the fourth pass drew the 1000 strongest unused names from [color.pizza](https://color.pizza)'s curated *bestOf* list, matched to the new points by OKLab proximity. The commonness of a name tracks its tier:
 
 - **sRGB → the everyday canon.** The colors everyone can see get the names everyone knows: `Moss`, `Denim`, `Terracotta`, `Butter`, `Salmon`, `Charcoal`.
 - **P3 → vivid and recognizable.** One step brighter than sRGB allows, so the vocabulary steps up too: `Electric Blue`, `Neon Carrot`, `Jazzberry Jam`, `Shocking Pink`.
@@ -58,7 +58,7 @@ Every name was written individually by **Claude Fable 5**, working through the l
 
 Two hard guarantees are enforced by scripts:
 
-- **Uniqueness** — all 3000 names are unique (validated on every build), and every `hex` fallback is unique too (colliding wide-gamut clamps are deterministically nudged to the nearest free hex).
+- **Uniqueness** — all 4000 names are unique (validated on every build), and every `hex` fallback is unique too (colliding wide-gamut clamps are deterministically nudged to the nearest free hex).
 - **Basics on solid ground** — ~80 "obvious" names (`Red`, `Blue`, `Green`, `Yellow`, `Orange`, `Navy`, `Pink`, `Brown`, `White`, `Black`, `Teal`, `Cyan`, `Gold`, `Peach`, `Turquoise`, …) are audited to exist **and** to sit on `srgb`-tier points close to their reference colors. Nobody should need a P3 monitor to see "Pink".
 
 ### 4. Reproducibility
