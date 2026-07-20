@@ -162,7 +162,7 @@
   "1838": "Key Largo",
   "1843": "Deep Harbour",
   "1844": "Bathysphere",
-  "1845": "Sapphire Cove",
+  "1845": "Damselfish",
   "1849": "Regatta",
   "1851": "Speedwell",
   "1852": "Giotto",
@@ -389,6 +389,7 @@
   "2636": "Typhoon",
   "2639": "Sextant",
   "2643": "Baltic Storm",
+  "2644": "Bunting",
   "2646": "Fathom",
   "2647": "Humboldt",
   "2648": "Adriatic",
@@ -399,6 +400,7 @@
   "2657": "Deckchair",
   "2659": "Swell",
   "2664": "Chalkhill Blue",
+  "2671": "Stained Glass",
   "2673": "Galleon",
   "2679": "Lobelia",
   "2682": "Starboard",
@@ -552,6 +554,7 @@
   "3538": "Cocktail Umbrella",
   "3541": "Slip 'n Slide",
   "3553": "Leviathan",
+  "3667": "Ulysses",
   "3679": "Europa",
   "3765": "Warlock",
   "3792": "Porphyry",
@@ -745,5 +748,6 @@
   "0390": "Appletini",
   "0488": "Nopal",
   "0446": "Green Juice",
-  "0825": "Skagerrak"
+  "0825": "Skagerrak",
+  "0939": "Bowerbird"
 }
