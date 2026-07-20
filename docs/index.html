@@ -48354,10 +48354,11 @@ const toP3 = (M, lin) => mulM(X2P, mulM(M, lin)).map((x) => clamp01(srgbEncode(x
 // display-ready RGB for the drawing buffer: real P3 / converted sRGB+Rec2020
 // on wide-gamut displays, OKLCH-clamped sRGB fallback everywhere else
 const P3MAP = JSON.parse(document.getElementById('p3map').textContent);
+// display-only formatting: 2 decimals keeps the value on two lines, always
 const cssLine = (c) =>
   c.tier === 'srgb'
-    ? 'color(srgb ' + hexToRgb(c.css).map((v) => +v.toFixed(4)).join(' ') + ')'
-    : c.css;
+    ? 'color(srgb ' + hexToRgb(c.css).map((v) => +v.toFixed(2)).join(' ') + ')'
+    : c.css.replace(/[0-9]*[.][0-9]+/g, (m) => +(+m).toFixed(2));
 const pointColor = (c, i) => {
   if (!P3_OK) return hexToRgb(c.fallbackHex);
   if (c.tier === 'srgb') return toP3(S2X, hexToRgb(c.css).map(srgbDecode));
