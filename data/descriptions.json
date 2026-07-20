@@ -4749,30 +4749,755 @@
     "description": "The union of star systems — violet-blue flag, universal translator.",
     "source": "authored"
   },
+  "1950": {
+    "name": "L'Heure Bleue",
+    "description": "Guerlain's 1912 perfume named for the blue hour — twilight bottled, violet included.",
+    "source": "authored"
+  },
+  "1951": {
+    "name": "Crystal Cave",
+    "description": "The amethyst-lined hollow underground — a cave that grew its own chandeliers.",
+    "source": "authored"
+  },
+  "1952": {
+    "name": "Royal Violet",
+    "description": "Violet with a household guard.",
+    "source": "authored"
+  },
+  "1953": {
+    "name": "Cadbury",
+    "description": "The chocolate wrapper purple so valuable the company litigated to own it.",
+    "source": "authored"
+  },
+  "1954": {
+    "name": "Bearded Iris",
+    "description": "The iris with the fuzzy landing strip — beards for bees.",
+    "source": "authored"
+  },
+  "1955": {
+    "name": "Regal Violet",
+    "description": "Violet holding court.",
+    "source": "authored"
+  },
+  "1956": {
+    "name": "Hyperspace",
+    "description": "The jump past lightspeed — stars stretched to violet lines.",
+    "source": "authored"
+  },
+  "1957": {
+    "name": "Vesper",
+    "description": "The evening star and the twilight prayer — violet-grey at day's official end.",
+    "source": "authored"
+  },
+  "1958": {
+    "name": "Muted Violet",
+    "description": "Violet at library volume.",
+    "source": "authored"
+  },
+  "1959": {
+    "name": "Faded Iris",
+    "description": "Iris pressed between diary pages.",
+    "source": "authored"
+  },
+  "1960": {
+    "name": "Medium Violet",
+    "description": "The X11 violet holding the middle of the road.",
+    "source": "authored"
+  },
+  "1961": {
+    "name": "Catmint",
+    "description": "The nepeta hedge that intoxicates cats and edges cottage borders in soft violet.",
+    "source": "authored"
+  },
+  "1962": {
+    "name": "Soft Violet",
+    "description": "Violet with the corners rounded.",
+    "source": "authored"
+  },
+  "1963": {
+    "name": "Veronica",
+    "description": "The speedwell genus by its saintly name — small violet-blue flowers, big botanical family.",
+    "source": "authored"
+  },
+  "1964": {
+    "name": "Phalaenopsis",
+    "description": "The moth orchid of every supermarket and dentist's reception — elegant on neglect.",
+    "source": "authored"
+  },
+  "1965": {
+    "name": "Provence",
+    "description": "Lavender rows to the horizon and cicadas keeping time — the region as a colour.",
+    "source": "authored"
+  },
+  "1966": {
+    "name": "Moonstone",
+    "description": "The feldspar with the internal glow — adularescence, like moonlight trapped in stone.",
+    "source": "authored"
+  },
+  "1967": {
+    "name": "Void Purple",
+    "description": "Purple at the edge of the map.",
+    "source": "authored"
+  },
+  "1968": {
+    "name": "Dark Aubergine",
+    "description": "The aubergine at the bottom of the ratatouille.",
+    "source": "authored"
+  },
+  "1969": {
+    "name": "Velour",
+    "description": "Crushed-pile fabric of tracksuits and theatre seats — purple by tactile default.",
+    "source": "authored"
+  },
+  "1970": {
+    "name": "Planetarium",
+    "description": "The dome where the stars come indoors — recline, look up, violet dark.",
+    "source": "authored"
+  },
+  "1971": {
+    "name": "Maleficent",
+    "description": "The mistress of all evil, horns and all — her robe exactly this violet-black.",
+    "source": "authored"
+  },
+  "1972": {
+    "name": "Deep Grape",
+    "description": "Grape at cellar depth.",
+    "source": "authored"
+  },
   "1973": {
     "name": "Indigo",
-    "description": "A term used for a number of hues in the region of blue. The word comes from the ancient dye of the same name.",
-    "source": "wikipedia"
+    "description": "The dye plant that clothed the world in blue — and the rainbow band Newton insisted on.",
+    "source": "authored"
+  },
+  "1974": {
+    "name": "Extraviolet",
+    "description": "Violet past the last exit — beyond ultra.",
+    "source": "authored"
+  },
+  "1975": {
+    "name": "Smoky Grape",
+    "description": "Grape seen through the tasting-room haze.",
+    "source": "authored"
+  },
+  "1976": {
+    "name": "Majin Buu",
+    "description": "The pink-purple djinn of Dragon Ball — candy-loving, planet-threatening.",
+    "source": "authored"
+  },
+  "1977": {
+    "name": "Wah Pedal",
+    "description": "The pedal that makes guitars talk — funk's purple vowel.",
+    "source": "authored"
+  },
+  "1978": {
+    "name": "Thundersnow",
+    "description": "Lightning inside a snowstorm — rare, purple-white, meteorologically show-off.",
+    "source": "authored"
   },
   "1979": {
     "name": "Clematis",
-    "description": "A genus of about 380 species within the buttercup family, Ranunculaceae. Their garden hybrids and cultivars have been popular among gardeners, beginning with Clematis 'Jackmanii', a garden staple since 1862. More cultivars are being produced constantly, mainly of Chinese and Japanese origin.",
-    "source": "wikipedia"
+    "description": "The climbing queen of trellises — violet stars by the hundred.",
+    "source": "authored"
+  },
+  "1980": {
+    "name": "Striking Purple",
+    "description": "Purple that files a report.",
+    "source": "authored"
+  },
+  "1981": {
+    "name": "Tilt-a-Whirl",
+    "description": "The spinning teacups' aggressive cousin — centrifugal purple.",
+    "source": "authored"
+  },
+  "1982": {
+    "name": "Faded Grape",
+    "description": "Grape left on the vine past harvest.",
+    "source": "authored"
+  },
+  "1983": {
+    "name": "Cosmic Heart",
+    "description": "A heart at astronomical scale — violet and expanding.",
+    "source": "authored"
+  },
+  "1984": {
+    "name": "Hocus Pocus",
+    "description": "The incantation of every amateur magician — violet smoke optional.",
+    "source": "authored"
+  },
+  "1985": {
+    "name": "Lively Purple",
+    "description": "Purple with somewhere to be.",
+    "source": "authored"
+  },
+  "1986": {
+    "name": "Dark Ride",
+    "description": "The haunted house on rails — animatronic purple dark.",
+    "source": "authored"
+  },
+  "1987": {
+    "name": "Cattleya",
+    "description": "The corsage orchid of debutante balls — Colombia's national flower.",
+    "source": "authored"
+  },
+  "1988": {
+    "name": "Prickly Purple",
+    "description": "Purple with spikes on.",
+    "source": "authored"
+  },
+  "1989": {
+    "name": "Punchy Purple",
+    "description": "Purple that leads with the jab.",
+    "source": "authored"
+  },
+  "1990": {
+    "name": "Synthwave",
+    "description": "Neon grids, chrome sunsets, and a Lamborghini that never existed — the 80s that never happened.",
+    "source": "authored"
+  },
+  "1991": {
+    "name": "Soft Amethyst",
+    "description": "Amethyst in soft focus.",
+    "source": "authored"
+  },
+  "1992": {
+    "name": "Faded Lilac",
+    "description": "Lilac gone to grey gracefully.",
+    "source": "authored"
+  },
+  "1993": {
+    "name": "Dame's Rocket",
+    "description": "The evening-scented wildflower that impersonates phlox — violet by dusk.",
+    "source": "authored"
+  },
+  "1994": {
+    "name": "Fake Love",
+    "description": "Affection at plastic fidelity — violet-pink, batteries not included.",
+    "source": "authored"
+  },
+  "1995": {
+    "name": "Perfumed Letter",
+    "description": "A letter that arrives scented — violet ink, pressed flower enclosed.",
+    "source": "authored"
+  },
+  "1996": {
+    "name": "Taro Milk",
+    "description": "The purple-yam milk tea — taro's pastel violet in a plastic cup.",
+    "source": "authored"
+  },
+  "1997": {
+    "name": "Deep Eggplant",
+    "description": "The aubergine's deepest gloss.",
+    "source": "authored"
+  },
+  "1998": {
+    "name": "Royal Aubergine",
+    "description": "Aubergine elevated to the peerage.",
+    "source": "authored"
+  },
+  "1999": {
+    "name": "Damson",
+    "description": "The small sour plum of hedgerows — jam-dark purple with a stone.",
+    "source": "authored"
+  },
+  "2000": {
+    "name": "Backstage Pass",
+    "description": "The laminate that opens every door in the venue — purple lanyard included.",
+    "source": "authored"
+  },
+  "2001": {
+    "name": "Orcein",
+    "description": "The lichen dye of mediaeval purple — orchil's scientific sibling.",
+    "source": "authored"
+  },
+  "2002": {
+    "name": "Flux Capacitor",
+    "description": "The Y-shaped miracle that makes time travel possible — 1.21 gigawatts, purple glow.",
+    "source": "authored"
+  },
+  "2003": {
+    "name": "Dungeon Master",
+    "description": "Behind the screen, rolling dice that decide fates — purple d20 canon.",
+    "source": "authored"
+  },
+  "2004": {
+    "name": "Carousel",
+    "description": "Painted horses on brass poles, violet in the fairground dusk.",
+    "source": "authored"
+  },
+  "2005": {
+    "name": "Smoky Lilac",
+    "description": "Lilac through pipe smoke.",
+    "source": "authored"
+  },
+  "2006": {
+    "name": "Masquerade",
+    "description": "Venetian masks and violet candlelight — identity checked at the door.",
+    "source": "authored"
+  },
+  "2007": {
+    "name": "Dusky Orchid",
+    "description": "Orchid at dusk, colour banking down with the light.",
+    "source": "authored"
+  },
+  "2008": {
+    "name": "Zumba",
+    "description": "The dance-fitness empire in hot purple lycra.",
+    "source": "authored"
+  },
+  "2009": {
+    "name": "Jelly Shoes",
+    "description": "The translucent PVC sandals of 90s summers — jelly purple, sand included.",
+    "source": "authored"
+  },
+  "2010": {
+    "name": "Moth Orchid",
+    "description": "The phalaenopsis in its purple print.",
+    "source": "authored"
+  },
+  "2011": {
+    "name": "Hot Purple",
+    "description": "Purple with the thermostat cranked.",
+    "source": "authored"
+  },
+  "2012": {
+    "name": "Strobe Light",
+    "description": "The staccato flash of the dance floor — purple in ten-millisecond doses.",
+    "source": "authored"
+  },
+  "2013": {
+    "name": "Rave",
+    "description": "Warehouse, wristbands, and a bassline at dawn — purple in strobe fragments.",
+    "source": "authored"
+  },
+  "2014": {
+    "name": "Lilacquered",
+    "description": "Lilac with a lacquered topcoat — the pun dries glossy.",
+    "source": "authored"
+  },
+  "2015": {
+    "name": "Drunk-Tank Pink",
+    "description": "The pink once painted in holding cells to calm detainees — Baker-Miller's infamous experiment.",
+    "source": "authored"
   },
   "2016": {
     "name": "Fluorite",
-    "description": "Fluorite (also called fluorspar) is the mineral form of calcium fluoride, CaF2. It belongs to the halide minerals. It crystallizes in isometric cubic habit, although octahedral and more complex isometric forms are not uncommon.",
-    "source": "wikipedia"
+    "description": "The mineral that named fluorescence — banded purple, glowing under UV.",
+    "source": "authored"
+  },
+  "2017": {
+    "name": "Crepe Myrtle",
+    "description": "The street tree that blooms crinkled purple through southern summers.",
+    "source": "authored"
+  },
+  "2018": {
+    "name": "Glitter Pen",
+    "description": "The gel pen's purple sparkle — margin doodles at maximum shimmer.",
+    "source": "authored"
   },
   "2019": {
     "name": "Full Bleed",
-    "description": "The debut studio album by the American duo Caught on Tape, a collaborative project by guitarist Thurston Moore and drummer John Moloney. It released on February 10, 2015, by Northern Spy Records.",
-    "source": "wikipedia"
+    "description": "Print to the very edge — no margins, all magenta.",
+    "source": "authored"
+  },
+  "2020": {
+    "name": "Blazing Magenta",
+    "description": "Magenta at house-fire intensity.",
+    "source": "authored"
   },
   "2021": {
     "name": "Sequin",
-    "description": "A sequin is a small, typically shiny, generally disk-shaped ornament.",
-    "source": "wikipedia"
+    "description": "One sequin of the thousand — violet-pink at disco angle.",
+    "source": "authored"
+  },
+  "2022": {
+    "name": "Fleur-De-Lis",
+    "description": "The heraldic lily of French kings — stylised in royal purple-pink.",
+    "source": "authored"
+  },
+  "2023": {
+    "name": "Pasque Flower",
+    "description": "The Easter anemone of chalk meadows — violet cups against grey turf.",
+    "source": "authored"
+  },
+  "2024": {
+    "name": "Silene",
+    "description": "The campion genus in its pink-violet wildflower run.",
+    "source": "authored"
+  },
+  "2025": {
+    "name": "Miltonia",
+    "description": "The pansy orchid — violet-pink faces with painted-on expressions.",
+    "source": "authored"
+  },
+  "2026": {
+    "name": "Crepe Paper",
+    "description": "Party streamers in violet-pink — crinkled, festive, single-use.",
+    "source": "authored"
+  },
+  "2027": {
+    "name": "Fondant",
+    "description": "Icing rolled smooth over the cake — lilac batch.",
+    "source": "authored"
+  },
+  "2028": {
+    "name": "Black Mulberry",
+    "description": "The mulberry at maximum midnight.",
+    "source": "authored"
+  },
+  "2029": {
+    "name": "Dark Sanctuary",
+    "description": "A refuge lit by one violet candle.",
+    "source": "authored"
+  },
+  "2030": {
+    "name": "Dark Boysenberry",
+    "description": "Boysenberry in the cellar dark.",
+    "source": "authored"
+  },
+  "2031": {
+    "name": "Fruitcake",
+    "description": "The dense December brick studded with dark fruit — regifted since Victoria.",
+    "source": "authored"
+  },
+  "2032": {
+    "name": "Purple Shiso",
+    "description": "The purple perilla leaf of Japanese pickles — umeboshi's dye source.",
+    "source": "authored"
+  },
+  "2033": {
+    "name": "Muted Plum",
+    "description": "Plum at a murmur — barely above the grey.",
+    "source": "authored"
+  },
+  "2034": {
+    "name": "Smoky Berry",
+    "description": "Berries through woodsmoke.",
+    "source": "authored"
+  },
+  "2035": {
+    "name": "Mystic Magenta",
+    "description": "Magenta with a tarot deck.",
+    "source": "authored"
+  },
+  "2036": {
+    "name": "Aronia",
+    "description": "The chokeberry — astringent purple-black fruit that puckers before it pleases.",
+    "source": "authored"
+  },
+  "2037": {
+    "name": "Bold Berry",
+    "description": "Berry set in bold type, headline weight.",
+    "source": "authored"
+  },
+  "2038": {
+    "name": "Bane of Royalty",
+    "description": "The curse that comes with the crown — royal purple, uneasy head.",
+    "source": "authored"
+  },
+  "2039": {
+    "name": "Vibrant Plum",
+    "description": "Plum at festival volume.",
+    "source": "authored"
+  },
+  "2040": {
+    "name": "Jealous Jellyfish",
+    "description": "A jellyfish green— no, magenta with envy.",
+    "source": "authored"
+  },
+  "2041": {
+    "name": "Amora Purple",
+    "description": "Purple with amora — love, misspelled beautifully.",
+    "source": "authored"
+  },
+  "2042": {
+    "name": "Loud Magenta",
+    "description": "Magenta with the amp at eleven.",
+    "source": "authored"
+  },
+  "2043": {
+    "name": "Melodramatic Magenta",
+    "description": "Magenta rehearsing its acceptance speech.",
+    "source": "authored"
+  },
+  "2044": {
+    "name": "Jam Session",
+    "description": "Musicians finding the groove uninvited — magenta improvised.",
+    "source": "authored"
+  },
+  "2045": {
+    "name": "Celosia",
+    "description": "The cockscomb flower — velvet magenta combs and plumes.",
+    "source": "authored"
+  },
+  "2046": {
+    "name": "Ice Plant",
+    "description": "The succulent whose petals glitter like frost — magenta stars on gravel.",
+    "source": "authored"
+  },
+  "2047": {
+    "name": "Shocking Fuchsia",
+    "description": "Fuchsia doing shocking pink's job title.",
+    "source": "authored"
+  },
+  "2048": {
+    "name": "Care Bear",
+    "description": "The belly-badge bears of 1980s toy shelves — hugs in this pink.",
+    "source": "authored"
+  },
+  "2049": {
+    "name": "Lady's Eardrops",
+    "description": "The fuchsia flower's folk name — dancing earrings for imaginary grandes dames.",
+    "source": "authored"
+  },
+  "2050": {
+    "name": "Fairy Armadillo",
+    "description": "The palm-sized pink armadillo of Argentina — real, rare, and apparently designed by a toy company.",
+    "source": "authored"
+  },
+  "2051": {
+    "name": "Sticker Bomb",
+    "description": "Every surface of the laptop, covered — vinyl chaos in pink.",
+    "source": "authored"
+  },
+  "2052": {
+    "name": "Lokum",
+    "description": "Turkish delight by its own name — rosewater cubes under powdered sugar.",
+    "source": "authored"
+  },
+  "2053": {
+    "name": "Birdo",
+    "description": "Mario's egg-spitting pink dinosaur of disputed gender — a 1987 controversy that never ended.",
+    "source": "authored"
+  },
+  "2054": {
+    "name": "Rosy Lilac",
+    "description": "Lilac with colour in its cheeks.",
+    "source": "authored"
+  },
+  "2055": {
+    "name": "Mew",
+    "description": "The mythical pink Pokémon under the truck — playground rumour made flesh.",
+    "source": "authored"
+  },
+  "2056": {
+    "name": "Taffy Pull",
+    "description": "Taffy stretched between hooks — pink at maximum elasticity.",
+    "source": "authored"
+  },
+  "2057": {
+    "name": "Candy Lilac",
+    "description": "Lilac from the pick-n-mix.",
+    "source": "authored"
+  },
+  "2058": {
+    "name": "Sugar Mouse",
+    "description": "The fondant rodent of British sweet shops — pink, tailed, string optional.",
+    "source": "authored"
+  },
+  "2059": {
+    "name": "Baby Orchid",
+    "description": "An orchid in its first bloom.",
+    "source": "authored"
+  },
+  "2060": {
+    "name": "Party Balloon",
+    "description": "One balloon that escaped the bunch — pink against the ceiling.",
+    "source": "authored"
+  },
+  "2061": {
+    "name": "Bubblegum Halo",
+    "description": "Bubblegum at the moment of perfect sphere.",
+    "source": "authored"
+  },
+  "2062": {
+    "name": "Fairy Bread",
+    "description": "Buttered bread, hundreds-and-thousands, Australian birthdays — pink by tradition.",
+    "source": "authored"
+  },
+  "2063": {
+    "name": "Magnolia",
+    "description": "The tulip tree's porcelain bloom — pink petals the size of saucers.",
+    "source": "authored"
+  },
+  "2064": {
+    "name": "Vienna Roast",
+    "description": "The Viennese roast — beans taken dark, wine-toned, coffeehouse philosophy included.",
+    "source": "authored"
+  },
+  "2065": {
+    "name": "Claret",
+    "description": "The Bordeaux the British renamed — wine-dark red with a London accent.",
+    "source": "authored"
+  },
+  "2066": {
+    "name": "Amarena",
+    "description": "The Italian sour cherry in syrup — the jar in every gelateria.",
+    "source": "authored"
+  },
+  "2067": {
+    "name": "Damson Gin",
+    "description": "Sloe gin's deeper cousin — damsons drowned in juniper.",
+    "source": "authored"
+  },
+  "2068": {
+    "name": "Teasel",
+    "description": "The spiny seed head that carded wool for centuries — dried purple-brown.",
+    "source": "authored"
+  },
+  "2069": {
+    "name": "Cranberry Bog",
+    "description": "The flooded field at harvest — crimson berries afloat.",
+    "source": "authored"
+  },
+  "2070": {
+    "name": "Romantic Vampire",
+    "description": "A vampire who brings flowers — wine-red, apologetic about the biting.",
+    "source": "authored"
+  },
+  "2071": {
+    "name": "Umeboshi",
+    "description": "The salt-pickled plum of Japanese breakfasts — dusky pink-purple, aggressively sour.",
+    "source": "authored"
+  },
+  "2072": {
+    "name": "Marionberry",
+    "description": "Oregon's marion-county blackberry — cobbler's dark purple-red.",
+    "source": "authored"
+  },
+  "2073": {
+    "name": "Muted Raspberry",
+    "description": "Raspberry with the volume down.",
+    "source": "authored"
+  },
+  "2074": {
+    "name": "Bright Jazzberry",
+    "description": "Jazzberry with the lights on.",
+    "source": "authored"
+  },
+  "2075": {
+    "name": "Corncockle",
+    "description": "The magenta wildflower once in every wheat field — now rare as the meadows.",
+    "source": "authored"
+  },
+  "2076": {
+    "name": "Razzle Dazzle",
+    "description": "The old showbiz one-two — sparkle first, questions later.",
+    "source": "authored"
+  },
+  "2077": {
+    "name": "Neon Jazzberry",
+    "description": "Jazzberry after dark, in neon.",
+    "source": "authored"
+  },
+  "2078": {
+    "name": "Amaranth",
+    "description": "The unfading flower of Greek poetry — love-lies-bleeding in magenta.",
+    "source": "authored"
+  },
+  "2079": {
+    "name": "Eton Mess",
+    "description": "Meringue, cream and strawberries, gloriously collapsed — the Eton dessert.",
+    "source": "authored"
+  },
+  "2080": {
+    "name": "Cosmopolitan",
+    "description": "The cranberry-lime martini of a certain Manhattan series — pink, cosmopolitan.",
+    "source": "authored"
+  },
+  "2081": {
+    "name": "Punch Bowl",
+    "description": "The party's crimson centre of gravity — ladle, floating fruit, regrets.",
+    "source": "authored"
+  },
+  "2082": {
+    "name": "Dusty Cerise",
+    "description": "Cerise gone soft with attic light.",
+    "source": "authored"
+  },
+  "2083": {
+    "name": "Chemical X",
+    "description": "The accidental ingredient that made the Powerpuff Girls — pink science.",
+    "source": "authored"
+  },
+  "2084": {
+    "name": "Pink Eraser",
+    "description": "The pink rubber that forgives in strokes.",
+    "source": "authored"
+  },
+  "2085": {
+    "name": "Aerobics",
+    "description": "Legwarmers, grapevines, and a pink leotard — the 80s at 130 BPM.",
+    "source": "authored"
+  },
+  "2086": {
+    "name": "Vacancy",
+    "description": "The buzzing pink promise of a room for the night.",
+    "source": "authored"
+  },
+  "2087": {
+    "name": "Serenade",
+    "description": "A song under a balcony — pink at courting distance.",
+    "source": "authored"
+  },
+  "2088": {
+    "name": "Heartbeat",
+    "description": "The pulse made visible — pink at seventy a minute.",
+    "source": "authored"
+  },
+  "2089": {
+    "name": "Lip Smacker",
+    "description": "The flavoured balm of school corridors — pink gloss, grape scent.",
+    "source": "authored"
+  },
+  "2090": {
+    "name": "Showgirl",
+    "description": "Feathers, rhinestones, and a staircase entrance — pink at spotlight strength.",
+    "source": "authored"
+  },
+  "2091": {
+    "name": "Arabesque",
+    "description": "The balletic pose — one leg back, arms extended, pink held perfectly.",
+    "source": "authored"
+  },
+  "2092": {
+    "name": "Petticoat",
+    "description": "The rustling layer under the ballgown — pink at one remove.",
+    "source": "authored"
+  },
+  "2093": {
+    "name": "Telenovela",
+    "description": "Betrayal, amnesia and twins — pink at prime time.",
+    "source": "authored"
+  },
+  "2094": {
+    "name": "Radiant Candy",
+    "description": "Candy that glows from within.",
+    "source": "authored"
+  },
+  "2095": {
+    "name": "Paper Lantern",
+    "description": "The paper globe over the porch light — pink through washi.",
+    "source": "authored"
+  },
+  "2096": {
+    "name": "Rosy Pink",
+    "description": "Pink with colour in its cheeks.",
+    "source": "authored"
+  },
+  "2097": {
+    "name": "Blotting Paper",
+    "description": "The pink sheet that drinks spilled ink — stationery's quiet hero.",
+    "source": "authored"
+  },
+  "2098": {
+    "name": "Rose Quartz",
+    "description": "The pink quartz of crystal shops — love's official mineral, allegedly.",
+    "source": "authored"
+  },
+  "2099": {
+    "name": "Cherub Pink",
+    "description": "The pink of painted ceiling babies — Renaissance chub included.",
+    "source": "authored"
   },
   "2103": {
     "name": "Raven",
