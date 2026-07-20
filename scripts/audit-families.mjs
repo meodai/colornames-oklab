@@ -57,6 +57,21 @@ for (const e of list) {
 const over = [...families.entries()].filter(([, names]) => names.length > CAP).sort((a, b) => b[1].length - a[1].length);
 
 const mode = process.argv[2];
+if (mode === '--pairs') {
+  // base + variant scan: a name that is a single (non-hue) word, where that
+  // word also appears inside other names — "Charm" + "Charm Pink" etc.
+  const rows = [];
+  for (const e of list) {
+    const w = words(e.name);
+    if (w.length !== 1 || ALLOWED.has(w[0])) continue;
+    const variants = list.filter((o) => o !== e && words(o.name).includes(w[0])).map((o) => o.name);
+    if (variants.length) rows.push({ base: e.name, variants });
+  }
+  rows.sort((a, b) => b.variants.length - a.variants.length);
+  console.log(`bases with variants: ${rows.length}`);
+  for (const r of rows) console.log(`  ${r.base}: ${r.variants.join(' · ')}`);
+  process.exit(0);
+}
 if (mode === '--report') {
   console.log(`families over cap (${CAP}): ${over.length}`);
   for (const [w, names] of over) {
