@@ -232,27 +232,12 @@ const gamutPoint = (M, decode, rgb) => {
   const [L, A, B] = mulM(LMS2LAB, mulM(XYZ2LMS, xyz).map(Math.cbrt));
   return new THREE.Vector3(A * AB, L, B * AB);
 };
-// projected onto the a-b floor plane as flat outlines: sample the RGB cube
-// boundary, keep the max-chroma point per hue angle, trace a closed loop
-const shells = {};
-const buildOutline = (key, M, decode) => {
-  // convex hull (monotone chain) of the projected cube boundary
-  const S = 48;
-  const raw = [];
-  for (let axis = 0; axis < 3; axis++) {
-    for (const w of [0, 1]) {
-      for (let i = 0; i <= S; i++) {
-        for (let j = 0; j <= S; j++) {
-          const c = [0, 0, 0];
-          c[axis] = w;
-          c[(axis + 1) % 3] = i / S;
-          c[(axis + 2) % 3] = j / S;
-          const v = gamutPoint(M, decode, c);
-          raw.push([v.x, v.z]);
-        }
-      }
-    }
-  }
+// projected from the camera onto a backdrop plane behind the cloud: sample
+// the RGB cube boundary once, then each frame cast every sample from the eye
+// through the scene onto the plane and trace the convex hull — the outline is
+// the true silhouette of the gamut body from wherever you're looking
+const hull2d = (raw) => {
+  // convex hull (monotone chain); mutates raw by sorting
   raw.sort((p, q) => p[0] - q[0] || p[1] - q[1]);
   const cross = (o, a2, b2) => (a2[0] - o[0]) * (b2[1] - o[1]) - (a2[1] - o[1]) * (b2[0] - o[0]);
   const lower = [];
@@ -266,30 +251,102 @@ const buildOutline = (key, M, decode) => {
     while (upper.length >= 2 && cross(upper[upper.length - 2], upper[upper.length - 1], pt) <= 0) upper.pop();
     upper.push(pt);
   }
-  const hull = lower.slice(0, -1).concat(upper.slice(0, -1));
-  const pts = hull.map(([x, z]) => new THREE.Vector3(x, 0.002, z));
+  return lower.slice(0, -1).concat(upper.slice(0, -1));
+};
+const shells = {};
+const SHELL_S = 16;
+const MAX_HULL = 512;
+const buildShell = (key, M, decode) => {
+  const samples = [];
+  for (let axis = 0; axis < 3; axis++) {
+    for (const w of [0, 1]) {
+      for (let i = 0; i <= SHELL_S; i++) {
+        for (let j = 0; j <= SHELL_S; j++) {
+          const c = [0, 0, 0];
+          c[axis] = w;
+          c[(axis + 1) % 3] = i / SHELL_S;
+          c[(axis + 2) % 3] = j / SHELL_S;
+          samples.push(gamutPoint(M, decode, c));
+        }
+      }
+    }
+  }
+  const g = new THREE.BufferGeometry();
+  g.setAttribute('position', new THREE.BufferAttribute(new Float32Array(MAX_HULL * 3), 3));
+  g.setDrawRange(0, 0);
   const obj = new THREE.LineLoop(
-    new THREE.BufferGeometry().setFromPoints(pts),
+    g,
     new THREE.LineBasicMaterial({ color: theme().halo, transparent: true, opacity: 0.8 })
   );
+  obj.frustumCulled = false; // geometry rewritten per frame, drawRange-limited
   obj.visible = false;
   scene.add(obj);
-  const edge = pts.reduce((m, v) => (v.x < m.x ? v : m), pts[0]);
-  const label = makeLabel(TIER_LABEL[key].replace('Display ', ''), new THREE.Vector3(edge.x - 0.07, 0.015, edge.z), 192);
-  label.scale.multiplyScalar(0.65);
+  const label = makeLabel(TIER_LABEL[key].replace('Display ', ''), new THREE.Vector3(0, -9999, 0), 192);
   label.visible = false;
-  obj.userData.label = label;
+  obj.userData = { label, samples };
   shells[key] = obj;
 };
-buildOutline('srgb', S2X, srgbDecode);
-buildOutline('p3', P2X, srgbDecode);
-buildOutline('rec2020', R2X, rec2020Decode);
+buildShell('srgb', S2X, srgbDecode);
+buildShell('p3', P2X, srgbDecode);
+buildShell('rec2020', R2X, rec2020Decode);
 
 let activeTier = 'all';
+let shellsDirty = true;
 function applyShells() {
   for (const [key, obj] of Object.entries(shells)) {
     obj.visible = activeTier === 'all' || key === activeTier;
     obj.userData.label.visible = obj.visible;
+  }
+  shellsDirty = true;
+}
+
+// backdrop plane sits this far past the orbit target, square to the view
+const BACK_DIST = 2.2;
+const _fwd = new THREE.Vector3(), _right = new THREE.Vector3(), _up = new THREE.Vector3();
+const _center = new THREE.Vector3(), _rel = new THREE.Vector3(), _w = new THREE.Vector3();
+const _lastCam = new THREE.Vector3(Infinity, 0, 0);
+function updateShellProjections() {
+  if (!shellsDirty && camera.position.distanceToSquared(_lastCam) < 1e-8) return;
+  shellsDirty = false;
+  _lastCam.copy(camera.position);
+  _fwd.subVectors(controls.target, camera.position).normalize();
+  _right.crossVectors(_fwd, camera.up);
+  if (_right.lengthSq() < 1e-6) _right.set(1, 0, 0);
+  _right.normalize();
+  _up.crossVectors(_right, _fwd);
+  // camera→target is along _fwd, so the plane center is too
+  const planeD = camera.position.distanceTo(controls.target) + BACK_DIST;
+  _center.copy(camera.position).addScaledVector(_fwd, planeD);
+  for (const obj of Object.values(shells)) {
+    if (!obj.visible) continue;
+    const pts = [];
+    for (const p of obj.userData.samples) {
+      _rel.subVectors(p, camera.position);
+      const denom = _rel.dot(_fwd);
+      if (denom < 0.05) continue; // behind or grazing the eye
+      const s = planeD / denom;
+      pts.push([s * _rel.dot(_right), s * _rel.dot(_up)]);
+    }
+    if (pts.length < 3) {
+      obj.geometry.setDrawRange(0, 0);
+      continue;
+    }
+    const hull = hull2d(pts);
+    const n = Math.min(hull.length, MAX_HULL);
+    const attr = obj.geometry.attributes.position;
+    let minX = Infinity, minI = 0;
+    for (let i = 0; i < n; i++) {
+      const [x, y] = hull[i];
+      _w.copy(_center).addScaledVector(_right, x).addScaledVector(_up, y);
+      attr.setXYZ(i, _w.x, _w.y, _w.z);
+      if (x < minX) { minX = x; minI = i; }
+    }
+    attr.needsUpdate = true;
+    obj.geometry.setDrawRange(0, n);
+    obj.userData.label.position
+      .copy(_center)
+      .addScaledVector(_right, hull[minI][0] - 0.16)
+      .addScaledVector(_up, hull[minI][1]);
   }
 }
 function applyFilter() {
@@ -389,6 +446,7 @@ applyShells();
 
 renderer.setAnimationLoop(() => {
   controls.update();
+  updateShellProjections();
   updateHover();
   renderer.render(scene, camera);
 });
