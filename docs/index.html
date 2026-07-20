@@ -4738,19 +4738,21 @@ ring.rotation.x = -Math.PI / 2;
 scene.add(ring);
 
 const labelSprites = [];
-const makeLabel = (text, p) => {
+const makeLabel = (text, p, w = 128) => {
   const c = document.createElement('canvas');
-  c.width = 128; c.height = 64;
+  c.width = w; c.height = 64;
   const g = c.getContext('2d');
-  g.font = '400 40px "Libre Caslon Condensed", Georgia, serif';
+  const font = '400 40px "Libre Caslon Condensed", Georgia, serif';
+  g.font = font;
   g.fillStyle = theme().label;
   g.textAlign = 'center'; g.textBaseline = 'middle';
-  g.fillText(text, 64, 32);
+  g.fillText(text, w / 2, 32);
   const s = new THREE.Sprite(new THREE.SpriteMaterial({ map: new THREE.CanvasTexture(c), transparent: true, depthWrite: false }));
-  s.scale.set(0.14, 0.07, 1);
+  s.scale.set(0.14 * (w / 128), 0.07, 1);
   s.position.copy(p);
-  labelSprites.push({ sprite: s, text });
+  labelSprites.push({ sprite: s, text, w, font });
   scene.add(s);
+  return s;
 };
 makeLabel('L=1', new THREE.Vector3(0, 1.06, 0));
 makeLabel('L=0', new THREE.Vector3(0, -0.06, 0));
@@ -4914,6 +4916,10 @@ const buildOutline = (key, M, decode) => {
   );
   obj.visible = false;
   scene.add(obj);
+  const edge = pts.reduce((m, v) => (v.x < m.x ? v : m), pts[0]);
+  const label = makeLabel(TIER_LABEL[key].replace('Display ', ''), new THREE.Vector3(edge.x - 0.09, 0.02, edge.z), 192);
+  label.visible = false;
+  obj.userData.label = label;
   shells[key] = obj;
 };
 buildOutline('srgb', S2X, srgbDecode);
@@ -4924,7 +4930,7 @@ let activeTier = 'all';
 function applyShells() {
   for (const [key, obj] of Object.entries(shells)) {
     obj.visible = activeTier === 'all' || key === activeTier;
-    obj.material.opacity = activeTier === 'all' || key === activeTier ? 0.8 : 0;
+    obj.userData.label.visible = obj.visible;
   }
 }
 function applyFilter() {
@@ -4996,14 +5002,14 @@ function applyTheme() {
   ring.material.color.set(t.ring);
   halo.material.color.set(t.halo);
   for (const obj of Object.values(shells)) obj.material.color.set(t.halo);
-  for (const { sprite, text } of labelSprites) {
+  for (const { sprite, text, w, font } of labelSprites) {
     const c = sprite.material.map.source.data;
     const g = c.getContext('2d');
     g.clearRect(0, 0, c.width, c.height);
-    g.font = '400 40px "Libre Caslon Condensed", Georgia, serif';
+    g.font = font;
     g.fillStyle = t.label;
     g.textAlign = 'center'; g.textBaseline = 'middle';
-    g.fillText(text, 64, 32);
+    g.fillText(text, (w || 128) / 2, 32);
     sprite.material.map.needsUpdate = true;
   }
 }
