@@ -97,11 +97,6 @@ const html = `<!doctype html>
     position: fixed; z-index: 20; pointer-events: none; display: none;
     width: 220px; box-shadow: 0 8px 30px #0006;
   }
-  #toast {
-    position: fixed; left: 50%; bottom: 1.2rem; transform: translateX(-50%);
-    background: var(--ink); color: var(--bg); border-radius: 999px; padding: .4rem 1rem;
-    font-size: .85rem; opacity: 0; transition: opacity .25s; z-index: 30; pointer-events: none;
-  }
 
   /* ---------- content ---------- */
   main { max-width: 760px; margin: 0 auto; padding: 4.5rem 1.25rem 2rem; }
@@ -144,11 +139,10 @@ const html = `<!doctype html>
     </nav>
   </header>
   <a id="scrolldown" href="#about">what is this? ↓</a>
-  <div id="hint">drag to orbit · pinch or double-tap to zoom · hover for names · click to copy</div>
+  <div id="hint">drag to orbit · pinch or double-tap to zoom · hover for names</div>
 </div>
 
 <div id="tip" class="card"><div class="fsw"></div><div class="fnm"></div><div class="fmeta"></div><div class="fcss"></div></div>
-<div id="toast"></div>
 
 <main>
   <section id="about">
@@ -394,16 +388,6 @@ renderer.domElement.addEventListener('pointermove', (e) => {
   if (tip.style.display === 'block') placeTip();
 });
 renderer.domElement.addEventListener('pointerleave', () => mouse.set(-2, -2));
-renderer.domElement.addEventListener('click', () => {
-  if (hovered < 0) return;
-  const c = COLORS[hovered];
-  navigator.clipboard?.writeText(c.name + ' — ' + c.css);
-  const toast = document.getElementById('toast');
-  toast.textContent = 'Copied: ' + c.name;
-  toast.style.opacity = 1;
-  clearTimeout(toast._t);
-  toast._t = setTimeout(() => (toast.style.opacity = 0), 1400);
-});
 
 function updateHover() {
   ray.setFromCamera(mouse, camera);
@@ -415,7 +399,6 @@ function updateHover() {
     hovered = -1;
     tip.style.display = 'none';
     halo.visible = false;
-    document.body.style.cursor = '';
     return;
   }
   const c = COLORS[id];
@@ -427,7 +410,6 @@ function updateHover() {
   placeTip();
   halo.position.copy(pos(c));
   halo.visible = true;
-  document.body.style.cursor = 'pointer';
 }
 
 function applyTheme() {
