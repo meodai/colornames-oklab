@@ -98,7 +98,6 @@
   #tip {
     position: fixed; left: 1rem; bottom: 1rem; z-index: 20;
     pointer-events: none; display: none; width: 148px;
-    box-shadow: 0 8px 30px #0006;
   }
 
   /* ---------- content ---------- */
@@ -48441,31 +48440,26 @@ renderer.domElement.addEventListener('pointermove', (e) => {
 });
 renderer.domElement.addEventListener('pointerleave', () => mouse.set(-2, -2));
 
-let tipTimer = 0;
 function updateHover() {
   ray.setFromCamera(mouse, camera);
   const hit = ray.intersectObject(mesh)[0];
   const id = hit ? hit.index : -1;
   if (id === hovered) return;
   hovered = id;
-  clearTimeout(tipTimer);
-  tip.style.display = 'none';
   if (id < 0 || (activeTier !== 'all' && COLORS[id].tier !== activeTier)) {
     hovered = -1;
+    tip.style.display = 'none';
     halo.visible = false;
     return;
   }
   const c = COLORS[id];
   halo.position.copy(pos(c));
   halo.visible = true;
-  // ring reacts instantly; the card waits so orbiting stays calm
-  tipTimer = setTimeout(() => {
-    tip.querySelector('.fsw').style.background = c.css;
-    tip.querySelector('.fnm').textContent = c.name;
-    tip.querySelector('.fmeta').textContent = TIER_LABEL[c.tier] + ' · ' + c.fallbackHex;
-    tip.querySelector('.fcss').textContent = c.tier === 'srgb' ? '' : c.css;
-    tip.style.display = 'block';
-  }, 500);
+  tip.querySelector('.fsw').style.background = c.css;
+  tip.querySelector('.fnm').textContent = c.name;
+  tip.querySelector('.fmeta').textContent = TIER_LABEL[c.tier] + ' · ' + c.fallbackHex;
+  tip.querySelector('.fcss').textContent = c.tier === 'srgb' ? '' : c.css;
+  tip.style.display = 'block';
 }
 
 function applyTheme() {
