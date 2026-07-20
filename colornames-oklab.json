@@ -1259,7 +1259,7 @@
 {"name":"Magentleman","tier":"srgb","hex":"#a91fba","oklab":[0.537,0.1871,-0.1417]},
 {"name":"Charoite","tier":"rec2020","hex":"#ae00be","oklab":[0.5377,0.251,-0.1828]},
 {"name":"Dusty Mulberry","tier":"srgb","hex":"#8a5c86","oklab":[0.5395,0.0727,-0.0426]},
-{"name":"Aster Purple","tier":"srgb","hex":"#954ca4","oklab":[0.541,0.1183,-0.0971]},
+{"name":"Liatris","tier":"srgb","hex":"#954ca4","oklab":[0.541,0.1183,-0.0971]},
 {"name":"Vanda","tier":"srgb","hex":"#a23da7","oklab":[0.5419,0.1525,-0.1037]},
 {"name":"Smoke Machine","tier":"rec2020","hex":"#a900d5","oklab":[0.5454,0.2299,-0.222]},
 {"name":"Ube","tier":"p3","hex":"#b100d0","oklab":[0.5544,0.2121,-0.1788]},
