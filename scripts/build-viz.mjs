@@ -156,6 +156,22 @@ const html = `<!doctype html>
     10%, 30%, 50%, 70%, 90% { transform: translateY(-10px) rotate(-6deg); }
     20%, 40%, 60%, 80% { transform: translateY(-8px) rotate(10deg); }
   }
+  #nameFilter {
+    width: 100%; padding: .55rem .8rem; font: inherit; font-size: .95rem;
+    color: var(--ink); background: var(--panel); border: 1px solid var(--line);
+    border-radius: 8px; outline: none; margin: .2rem 0 .55rem;
+  }
+  #nameFilter:focus { border-color: var(--muted); }
+  #nameCount { font-size: .78rem; color: var(--faint); margin-bottom: .55rem; }
+  #namelist {
+    max-height: 60vh; overflow-y: auto; border: 1px solid var(--line); background: var(--panel);
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(215px, 1fr));
+    gap: 0 1.2rem; padding: .4rem .9rem; align-content: start;
+  }
+  .nrow { display: flex; align-items: center; gap: .55rem; padding: .28rem 0; font-size: .85rem; border-bottom: 1px solid var(--row-line); min-width: 0; }
+  .nrow .sw { width: 1.05em; height: 1.05em; border-radius: 4px; flex: none; }
+  .nrow .nm { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .nrow .hx { margin-left: auto; color: var(--faint); font: .68rem ui-monospace, 'SF Mono', Menlo, monospace; }
   footer {
     max-width: 760px; margin: 0 auto; padding: 2rem 1.25rem 3rem;
     border-top: 1px solid var(--foot-line); color: var(--faint); font-size: .82rem;
@@ -243,6 +259,14 @@ el.style.background = c.hex;                               <span class="c">// sR
     <a href="https://ko-fi.com/colorparrot" rel="noopener" target="_blank" class="kofi" aria-label="Support on Ko-fi">
       <img src="https://storage.ko-fi.com/cdn/brandasset/kofi_s_logo_nolabel.png" alt="Ko-fi" />
     </a>
+  </section>
+
+  <section id="all-names">
+    <h2>All ${COUNT} names</h2>
+    <p>The full list, alphabetical (locale-aware — accents sort where you'd expect). Type to filter.</p>
+    <input id="nameFilter" type="search" placeholder="Filter names…" autocomplete="off" spellcheck="false" />
+    <p id="nameCount"></p>
+    <div id="namelist"></div>
   </section>
 </main>
 
@@ -646,6 +670,44 @@ FAVES.forEach((n) => {
   d.querySelector('.fcss').textContent = cssLine(c);
   favEl.appendChild(d);
 });
+
+// full name index — alphabetical via localeCompare, filterable
+const listEl = document.getElementById('namelist');
+const countEl = document.getElementById('nameCount');
+const foldName = (s) => s.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g, '');
+const sortedNames = [...COLORS].sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));
+const listFrag = document.createDocumentFragment();
+const nameRows = sortedNames.map((c) => {
+  const row = document.createElement('div');
+  row.className = 'nrow';
+  const sw = document.createElement('span');
+  sw.className = 'sw';
+  sw.style.background = c.hex;
+  sw.style.background = oklabCss(c);
+  const nm = document.createElement('span');
+  nm.className = 'nm';
+  nm.textContent = c.name;
+  nm.title = c.name;
+  const hx = document.createElement('span');
+  hx.className = 'hx';
+  hx.textContent = c.hex;
+  row.append(sw, nm, hx);
+  listFrag.appendChild(row);
+  return { row, key: foldName(c.name) };
+});
+listEl.appendChild(listFrag);
+const applyNameFilter = (q) => {
+  const needle = foldName(q.trim());
+  let shown = 0;
+  for (const r of nameRows) {
+    const hit = !needle || r.key.includes(needle);
+    r.row.style.display = hit ? '' : 'none';
+    if (hit) shown++;
+  }
+  countEl.textContent = shown + ' / ' + COLORS.length + ' names';
+};
+document.getElementById('nameFilter').addEventListener('input', (e) => applyNameFilter(e.target.value));
+applyNameFilter('');
 </script>
 </body>
 </html>`;
