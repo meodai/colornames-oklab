@@ -7999,6 +7999,606 @@
     "name": "Nosegay",
     "description": "The small bouquet carried at nose height — pink posy, Victorian firmware."
   },
+  "3000": {
+    "name": "Blackout",
+    "description": "The city goes dark on purpose — curtains drawn, one candle rule."
+  },
+  "3001": {
+    "name": "Asphalt",
+    "description": "The road surface fresh from the roller — black going grey by Tuesday."
+  },
+  "3002": {
+    "name": "Sooty",
+    "description": "What the chimney leaves on everything — near-black with a smudge licence."
+  },
+  "3003": {
+    "name": "Umbra",
+    "description": "The full shadow — the cone where the eclipse is total."
+  },
+  "3004": {
+    "name": "Jaguar",
+    "description": "The cat whose rosettes hide inside black — melanistic, still spotted underneath."
+  },
+  "3005": {
+    "name": "Lead",
+    "description": "The metal that made pipes, type and pencils by reputation — dense blue-grey."
+  },
+  "3006": {
+    "name": "Nero",
+    "description": "Black by its Italian name — nero, as the espresso order goes."
+  },
+  "3007": {
+    "name": "Mole",
+    "description": "Velvet-dark and tunnel-employed — lawn opinions vary."
+  },
+  "3008": {
+    "name": "Oil",
+    "description": "The slick that rainbows a puddle — black at depth, iridescent thin."
+  },
+  "3009": {
+    "name": "Tuxedo",
+    "description": "Formal to the studs — black wool, satin lapels, clip-on optional."
+  },
+  "3010": {
+    "name": "Cowboy",
+    "description": "Sun-creased leather and trail dust — near-black hat, few words."
+  },
+  "3011": {
+    "name": "Tuna",
+    "description": "The fish whose deep steel-grey turns ruby when cut — sashimi grade."
+  },
+  "3012": {
+    "name": "Cobblestone",
+    "description": "The street that predates the car — grey stones set by hand, hell on heels."
+  },
+  "3013": {
+    "name": "Liver",
+    "description": "The organ and the colour it lent to paint tubes — dense brown-grey."
+  },
+  "3014": {
+    "name": "Lynx",
+    "description": "The tufted-ear cat nobody sees — grey coat, snowshoe feet."
+  },
+  "3015": {
+    "name": "Iron",
+    "description": "The metal that rusts with enthusiasm — dark grey until oxygen wins."
+  },
+  "3016": {
+    "name": "Batman",
+    "description": "The Dark Knight's working wardrobe — matte black, cape physics."
+  },
+  "3017": {
+    "name": "Morel",
+    "description": "The honeycombed spring mushroom — brown-grey, never washed, always earned."
+  },
+  "3018": {
+    "name": "Wren",
+    "description": "The small brown bird with the outsized voice — loudest song per gram."
+  },
+  "3019": {
+    "name": "Secret Passage",
+    "description": "The bookcase that swings inward — grey-brown dust and candle drafts."
+  },
+  "3020": {
+    "name": "Rum",
+    "description": "Sugar cane by way of the barrel — dark amber-brown, ration tradition."
+  },
+  "3021": {
+    "name": "Sleepy Koala",
+    "description": "Eucalyptus-drunk and twenty hours committed — grey-brown, do not disturb."
+  },
+  "3022": {
+    "name": "Gull",
+    "description": "The chip thief of every seafront — grey mantle, zero remorse."
+  },
+  "3023": {
+    "name": "Tin",
+    "description": "The metal of cans and soldiers — grey with a bend to it."
+  },
+  "3024": {
+    "name": "Cortex",
+    "description": "The grey matter doing the reading right now — folded, thinking."
+  },
+  "3025": {
+    "name": "Dove",
+    "description": "The bird of peace and pavement — grey with an olive branch CV."
+  },
+  "3026": {
+    "name": "Foil",
+    "description": "Kitchen silver by the metre — grey with a crinkle memory."
+  },
+  "3027": {
+    "name": "Dim",
+    "description": "The lights at half — grey by dimmer switch."
+  },
+  "3028": {
+    "name": "Zen",
+    "description": "Raked gravel and one placed stone — grey without argument."
+  },
+  "3029": {
+    "name": "Fog",
+    "description": "The weather that deletes the skyline — grey, visibility advisory."
+  },
+  "3030": {
+    "name": "Milk",
+    "description": "The glass poured before bedtime — white with a cow provenance."
+  },
+  "3031": {
+    "name": "Belladonna",
+    "description": "Deadly nightshade — the beauty in the name, the poison in the berry."
+  },
+  "3032": {
+    "name": "Haunted Library",
+    "description": "Shelved whispers and cold spots between the stacks — grey-violet dust."
+  },
+  "3033": {
+    "name": "Havana",
+    "description": "Cigar smoke and pastel facades ageing together — warm brown-grey."
+  },
+  "3034": {
+    "name": "Merguez",
+    "description": "The North African lamb sausage — harissa-red, char lines mandatory."
+  },
+  "3035": {
+    "name": "Hellbound",
+    "description": "The destination on the ticket nobody bought — ember red, one way."
+  },
+  "3036": {
+    "name": "Jazz",
+    "description": "The music that never plays it the same way twice — smoky red-brown."
+  },
+  "3037": {
+    "name": "Macabre",
+    "description": "Death as an aesthetic choice — dark red velvet lining."
+  },
+  "3038": {
+    "name": "Barbera",
+    "description": "Piedmont's everyday grape — dark cherry red, acid to spare."
+  },
+  "3039": {
+    "name": "Caponata",
+    "description": "Sicily's sweet-sour aubergine stew — dark red-brown, better tomorrow."
+  },
+  "3040": {
+    "name": "Succubus",
+    "description": "The dream you don't report — dark red with a clause."
+  },
+  "3041": {
+    "name": "Vampirella",
+    "description": "The 1969 comic vampire in the barely-there suit — blood red, camp eternal."
+  },
+  "3042": {
+    "name": "Radish",
+    "description": "The breakfast root with the pepper finish — red skin, white bite."
+  },
+  "3043": {
+    "name": "Nippon",
+    "description": "Japan by its own name — the red disc on white."
+  },
+  "3044": {
+    "name": "Poison Apple",
+    "description": "One bite, glossy red, story goes sideways — mirror mirror consequences."
+  },
+  "3045": {
+    "name": "Hot Cuba",
+    "description": "Havana at maximum salsa — red with brass section."
+  },
+  "3046": {
+    "name": "Toreador",
+    "description": "The cape's working side — toreador red, bull's opinion moot."
+  },
+  "3047": {
+    "name": "Hollyhock",
+    "description": "The cottage flower that out-grows fences — red-black blooms up a spire."
+  },
+  "3048": {
+    "name": "Chutney",
+    "description": "Fruit argued into submission — red-brown, vinegar diplomacy."
+  },
+  "3049": {
+    "name": "Pomodoro",
+    "description": "Tomato by its Italian name — golden apple etymology, red result."
+  },
+  "3050": {
+    "name": "Cherryade",
+    "description": "Cherry by way of the soda tap — red fizz, colour first, flavour rumour."
+  },
+  "3051": {
+    "name": "Golem",
+    "description": "Clay given a task list — red-brown, word under the tongue."
+  },
+  "3052": {
+    "name": "Pachinko",
+    "description": "Japan's vertical pinball — red-lit halls, ball bearings by the tray."
+  },
+  "3053": {
+    "name": "Rubylicious",
+    "description": "Ruby with a licious suffix — red past the legal limit."
+  },
+  "3054": {
+    "name": "Anarchist",
+    "description": "The circled A in red spray — no gods, no landlords."
+  },
+  "3055": {
+    "name": "Lollipop",
+    "description": "Sugar on a stick, red by default — the flavour is 'red'."
+  },
+  "3056": {
+    "name": "Amaretto",
+    "description": "Almond liqueur that contains no almonds — apricot kernels, amber-red."
+  },
+  "3057": {
+    "name": "Anger",
+    "description": "The emotion with the shortest fuse — red at the temples."
+  },
+  "3058": {
+    "name": "Morocco",
+    "description": "Leather, spice and medina walls — red earth by trade route."
+  },
+  "3059": {
+    "name": "Sanguinary",
+    "description": "Blood as an adjective — red with a body count."
+  },
+  "3060": {
+    "name": "Gerbera",
+    "description": "The daisy that comes in showroom colours — this one's red."
+  },
+  "3061": {
+    "name": "Lipstick",
+    "description": "The red bullet in every handbag — twist, apply, conquer."
+  },
+  "3062": {
+    "name": "Pimento",
+    "description": "The pepper inside the olive — red plug, briny handshake."
+  },
+  "3063": {
+    "name": "Feverish",
+    "description": "Thirty-nine and rising — red at the thermometer."
+  },
+  "3064": {
+    "name": "Cyberpink",
+    "description": "Pink with a neural uplink — red-pink at render speed."
+  },
+  "3065": {
+    "name": "Pink Peppercorn",
+    "description": "The berry impersonating a spice — pink husk, faint heat."
+  },
+  "3066": {
+    "name": "Radishical",
+    "description": "Radish radicalised — red-pink with a manifesto."
+  },
+  "3067": {
+    "name": "Seahorse",
+    "description": "The fish where fathers do the pregnancy — pink-red, tail moored."
+  },
+  "3068": {
+    "name": "Aphrodisiac",
+    "description": "The menu's red-pink promise — oysters, chilli, plausible deniability."
+  },
+  "3069": {
+    "name": "Love Letter",
+    "description": "Sealed, scented, second-guessed — red-pink ink, first-class stamp."
+  },
+  "3070": {
+    "name": "Old Heart",
+    "description": "The valentine kept in the drawer — red-pink faded honest."
+  },
+  "3071": {
+    "name": "Redstone",
+    "description": "Minecraft's red wiring — dust that thinks, torch logic."
+  },
+  "3072": {
+    "name": "Loveland",
+    "description": "The Colorado town that remails valentines — red-pink postmark, February queue."
+  },
+  "3073": {
+    "name": "Xoxo",
+    "description": "Hugs and kisses in wire-transfer form — red-pink sign-off."
+  },
+  "3074": {
+    "name": "Pinky",
+    "description": "The finger promises are sworn on — pink, smallest, binding."
+  },
+  "3075": {
+    "name": "Piggy",
+    "description": "The bank that eats coins — pink ceramic, hammer clause."
+  },
+  "3076": {
+    "name": "Mortadella",
+    "description": "Bologna's marbled pink slice — pistachios optional, cubes traditional."
+  },
+  "3077": {
+    "name": "Calabrese",
+    "description": "Calabria's heat in sausage form — pink-red, oil that stains."
+  },
+  "3078": {
+    "name": "Chantilly",
+    "description": "Cream whipped with sugar and vanilla — pink-adjacent cloud, spoon politics."
+  },
+  "3079": {
+    "name": "Channel",
+    "description": "The strait swum and the perfume numbered — pink-grey morning water."
+  },
+  "3080": {
+    "name": "Ibis",
+    "description": "The wading bird in scarlet editions — pink-red on stilts."
+  },
+  "3081": {
+    "name": "Dark Veil",
+    "description": "The lace between mourning and the world — red-black, sheer."
+  },
+  "3082": {
+    "name": "Soulless",
+    "description": "The stare with nobody home — dark red, lights off."
+  },
+  "3083": {
+    "name": "Evil Cigar",
+    "description": "The villain's prop between monologues — red-brown ash, slow burn."
+  },
+  "3084": {
+    "name": "Dried Blood",
+    "description": "The stain that dates the accident — red-brown, iron ledger."
+  },
+  "3085": {
+    "name": "Lonestar",
+    "description": "The single star over Texas — red-brown leather and highway."
+  },
+  "3086": {
+    "name": "Salami",
+    "description": "The slice that survives everything — red marbled, deli constant."
+  },
+  "3087": {
+    "name": "Siren",
+    "description": "The song that redirects ships — red warning, rocks included."
+  },
+  "3088": {
+    "name": "Kobe",
+    "description": "The beef massaged into marble — red-pink lace, price per gram."
+  },
+  "3089": {
+    "name": "Tabasco",
+    "description": "The Louisiana bottle with the vinegar snap — red, three drops rule."
+  },
+  "3090": {
+    "name": "Lifeline",
+    "description": "The rope thrown, the monitor's green line — red urgency either way."
+  },
+  "3091": {
+    "name": "Bullseye",
+    "description": "Dead centre, red ring — the throw that ends the round."
+  },
+  "3092": {
+    "name": "Chorizo",
+    "description": "The paprika sausage that dyes the beans — red-orange oil signature."
+  },
+  "3093": {
+    "name": "Cigar",
+    "description": "Rolled leaves and an hour of smoke — red-brown band, cutter ritual."
+  },
+  "3094": {
+    "name": "Kirsch",
+    "description": "Cherry distilled to clarity — the red is in the fruit memory."
+  },
+  "3095": {
+    "name": "Kabuki",
+    "description": "The theatre of poses and painted faces — red kumadori lines."
+  },
+  "3096": {
+    "name": "Redrum",
+    "description": "Murder in the mirror — red, read backwards, Overlook Hotel."
+  },
+  "3097": {
+    "name": "Monza",
+    "description": "The circuit in the royal park — red at 300 through Parabolica."
+  },
+  "3098": {
+    "name": "Acorn",
+    "description": "The oak's down payment — brown cap, cup included."
+  },
+  "3099": {
+    "name": "Cherry",
+    "description": "The fruit that ends sundaes and starts arguments — red, stone in."
+  },
+  "3100": {
+    "name": "Signal",
+    "description": "The red that means something by committee — signal red, standardised."
+  },
+  "3101": {
+    "name": "Stop",
+    "description": "Eight sides, one word, red — the sign that needs no translation."
+  },
+  "3102": {
+    "name": "Mario",
+    "description": "The plumber in the red cap — it's a him."
+  },
+  "3103": {
+    "name": "Lust",
+    "description": "The deadly sin with the best publicist — red, unrepentant."
+  },
+  "3104": {
+    "name": "Blazing",
+    "description": "Fire past the adjective stage — red at full draught."
+  },
+  "3105": {
+    "name": "Rage",
+    "description": "Anger with the safety off — red at the edges of vision."
+  },
+  "3106": {
+    "name": "Hex Appeal",
+    "description": "Six digits of pure charm — the hex code that flirts back."
+  },
+  "3107": {
+    "name": "Firebug",
+    "description": "The beetle that glows and the bug that spreads — red-orange either way."
+  },
+  "3108": {
+    "name": "Spicy",
+    "description": "The scale from mild to regret — red-orange, milk nearby."
+  },
+  "3109": {
+    "name": "Spiced",
+    "description": "Heat folded in at the recipe stage — red-orange, cinnamon diplomacy."
+  },
+  "3110": {
+    "name": "Enraged",
+    "description": "Anger past editing — red-orange, caps lock."
+  },
+  "3111": {
+    "name": "Amour",
+    "description": "Love with a French accent — red-pink, handwritten."
+  },
+  "3112": {
+    "name": "Danger",
+    "description": "The sign on the fence, the tape on the floor — red-orange, noted."
+  },
+  "3113": {
+    "name": "Cascara",
+    "description": "The coffee cherry's husk, brewed — red-brown tea, second harvest."
+  },
+  "3114": {
+    "name": "Hotspot",
+    "description": "The map's red pin and the wifi's promise — orange-red, five bars."
+  },
+  "3115": {
+    "name": "Pulp",
+    "description": "Orange crushed to its honest state — bits and all."
+  },
+  "3116": {
+    "name": "Babe",
+    "description": "The endearment and the pig that herded sheep — pink-orange, that'll do."
+  },
+  "3117": {
+    "name": "Dynamite",
+    "description": "The plunger, the wire, the red sticks — orange-red, cartoon physics."
+  },
+  "3118": {
+    "name": "Sandstone",
+    "description": "The rock that builds cathedrals and erodes into hourglasses — warm tan."
+  },
+  "3119": {
+    "name": "Pastrami",
+    "description": "Brined, smoked, steamed, stacked — pink-red under pepper bark."
+  },
+  "3120": {
+    "name": "Mandarin",
+    "description": "The citrus that peels itself — orange segments, zero resistance."
+  },
+  "3121": {
+    "name": "Gravlax",
+    "description": "Salmon cured in dill and sugar — orange-pink, thin sliced."
+  },
+  "3122": {
+    "name": "Pompelmo",
+    "description": "Grapefruit by its Italian name — pink-orange, aperitivo clearance."
+  },
+  "3123": {
+    "name": "Meat",
+    "description": "The counter's red-pink display — butcher paper, weight by eye."
+  },
+  "3124": {
+    "name": "Lox",
+    "description": "The bagel's orange-pink partner — brined salmon, capers assumed."
+  },
+  "3125": {
+    "name": "Sunburnt Nose",
+    "description": "The stripe the hat should have prevented — pink-red, aloe pending."
+  },
+  "3126": {
+    "name": "Tulip",
+    "description": "The flower that caused a financial crisis — pink-orange, bulb futures."
+  },
+  "3127": {
+    "name": "Soba",
+    "description": "Buckwheat noodles in their grey-brown honesty — dipped, slurped."
+  },
+  "3128": {
+    "name": "Redolence",
+    "description": "Scent as a noun — pink-brown, lingering by definition."
+  },
+  "3129": {
+    "name": "Sakura",
+    "description": "Cherry blossom week — pink confetti with a forecast."
+  },
+  "3130": {
+    "name": "Apricotta",
+    "description": "Apricot folded into ricotta — pink-orange, dessert portmanteau."
+  },
+  "3131": {
+    "name": "Persicus",
+    "description": "The peach by its Latin species — persicus, Persia in the name."
+  },
+  "3132": {
+    "name": "Mothy",
+    "description": "Wing-dust grey with a lamp habit."
+  },
+  "3133": {
+    "name": "Bellini",
+    "description": "Peach purée under prosecco — pink-orange, Venice invoiced."
+  },
+  "3134": {
+    "name": "Piglet",
+    "description": "The smallest of the Hundred Acre anxieties — pink, brave eventually."
+  },
+  "3135": {
+    "name": "Luna",
+    "description": "The moon on her softer nights — pale grey-pink."
+  },
+  "3136": {
+    "name": "Bloodthirsty Beige",
+    "description": "Beige that has seen things — pink-tan with a past."
+  },
+  "3137": {
+    "name": "2AM Breakup",
+    "description": "The text drafted, deleted, sent — grey-pink, read at 2:04."
+  },
+  "3138": {
+    "name": "Noir",
+    "description": "Rain, fedora, one streetlight — grey-black film grammar."
+  },
+  "3139": {
+    "name": "Prune",
+    "description": "The plum with a pension — purple-brown, fibre agenda."
+  },
+  "3140": {
+    "name": "Turtle",
+    "description": "Shell brown, lettuce patience — the pace that wins fables."
+  },
+  "3141": {
+    "name": "Peanut",
+    "description": "The legume impersonating a nut — tan shell, two inside."
+  },
+  "3142": {
+    "name": "Ripasso",
+    "description": "Valpolicella re-passed over amarone skins — red-brown, second wind."
+  },
+  "3143": {
+    "name": "Lobster",
+    "description": "Boiled red with a bib clause — butter economy."
+  },
+  "3144": {
+    "name": "Panela",
+    "description": "Cane juice boiled to a brown brick — panela, grated to order."
+  },
+  "3145": {
+    "name": "Nutmeg",
+    "description": "The seed worth grating and the sea worth crossing — warm brown."
+  },
+  "3146": {
+    "name": "Conker",
+    "description": "The horse chestnut on a string — brown, vinegar-hardened, contested."
+  },
+  "3147": {
+    "name": "Mars",
+    "description": "The red planet by rust — iron oxide with polar ambitions."
+  },
+  "3148": {
+    "name": "Alarm",
+    "description": "The clock's red opinion of morning — orange-red, snooze debt."
+  },
+  "3149": {
+    "name": "Fox",
+    "description": "Rust-red with a tail plume — hen-house reputation earned."
+  },
   "0000": {
     "name": "Black",
     "description": "The complete absorption of visible light — though this one, like every black a screen can show, keeps a whisper of blue in it."

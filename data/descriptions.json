@@ -9999,115 +9999,755 @@
     "description": "The small bouquet carried at nose height — pink posy, Victorian firmware.",
     "source": "authored"
   },
+  "3000": {
+    "name": "Blackout",
+    "description": "The city goes dark on purpose — curtains drawn, one candle rule.",
+    "source": "authored"
+  },
+  "3001": {
+    "name": "Asphalt",
+    "description": "The road surface fresh from the roller — black going grey by Tuesday.",
+    "source": "authored"
+  },
+  "3002": {
+    "name": "Sooty",
+    "description": "What the chimney leaves on everything — near-black with a smudge licence.",
+    "source": "authored"
+  },
   "3003": {
     "name": "Umbra",
-    "description": "The umbra, penumbra and antumbra are three distinct parts of a shadow, created by any light source after impinging on an opaque object of lesser size. In cases of equal or larger impinging objects, only an umbra and penumbra are generated. Assuming no diffraction, for a collimated beam of light, only the umbra is cast.",
-    "source": "wikipedia"
+    "description": "The full shadow — the cone where the eclipse is total.",
+    "source": "authored"
+  },
+  "3004": {
+    "name": "Jaguar",
+    "description": "The cat whose rosettes hide inside black — melanistic, still spotted underneath.",
+    "source": "authored"
   },
   "3005": {
     "name": "Lead",
-    "description": "A chemical element with the symbol Pb and atomic number 82. It is a heavy metal, denser than most common materials. Lead is soft, malleable, and has a relatively low melting point. When freshly cut or melted, it appears shiny silvery with a bluish tint, but tarnishes to dull gray on exposure to air.",
-    "source": "wikipedia"
+    "description": "The metal that made pipes, type and pencils by reputation — dense blue-grey.",
+    "source": "authored"
+  },
+  "3006": {
+    "name": "Nero",
+    "description": "Black by its Italian name — nero, as the espresso order goes.",
+    "source": "authored"
+  },
+  "3007": {
+    "name": "Mole",
+    "description": "Velvet-dark and tunnel-employed — lawn opinions vary.",
+    "source": "authored"
   },
   "3008": {
     "name": "Oil",
-    "description": "A liquid with varying degrees of viscosity depending on temperature. Oil is any nonpolar chemical substance that is composed primarily of hydrocarbons and is hydrophobic and lipophilic. Oils are usually flammable and surface active. Most oils are unsaturated lipids that are liquid at room temperature.",
-    "source": "wikipedia"
+    "description": "The slick that rainbows a puddle — black at depth, iridescent thin.",
+    "source": "authored"
+  },
+  "3009": {
+    "name": "Tuxedo",
+    "description": "Formal to the studs — black wool, satin lapels, clip-on optional.",
+    "source": "authored"
   },
   "3010": {
     "name": "Cowboy",
-    "description": "A cowboy is an animal herder who tends cattle on ranches in North America, traditionally on horseback, and often performs a multitude of other ranch-related tasks.",
-    "source": "wikipedia"
+    "description": "Sun-creased leather and trail dust — near-black hat, few words.",
+    "source": "authored"
   },
   "3011": {
     "name": "Tuna",
-    "description": "A saltwater fish that belongs to the tribe Thunnini, a subgrouping of the Scombridae (mackerel) family. The Thunnini comprise 15 species across five genera, the sizes of which vary from the bullet tuna to the Atlantic bluefin tuna, which averages 2 m (6.6 ft) and is believed to live up to 50 years.",
-    "source": "wikipedia"
+    "description": "The fish whose deep steel-grey turns ruby when cut — sashimi grade.",
+    "source": "authored"
+  },
+  "3012": {
+    "name": "Cobblestone",
+    "description": "The street that predates the car — grey stones set by hand, hell on heels.",
+    "source": "authored"
   },
   "3013": {
     "name": "Liver",
-    "description": "A major metabolic organ exclusively found in vertebrates, which performs many essential biological functions such as detoxification of the organism, and the synthesis of various proteins and various other biochemicals necessary for digestion and growth.",
-    "source": "wikipedia"
+    "description": "The organ and the colour it lent to paint tubes — dense brown-grey.",
+    "source": "authored"
   },
   "3014": {
     "name": "Lynx",
-    "description": "A lynx is any of the four extant species within the medium-sized wild cat genus Lynx. The name originated in Middle English via Latin from the Greek word lynx, derived from the Indo-European root *leuk-, in reference to the luminescence of its reflective eyes.",
-    "source": "wikipedia"
+    "description": "The tufted-ear cat nobody sees — grey coat, snowshoe feet.",
+    "source": "authored"
   },
   "3015": {
     "name": "Iron",
-    "description": "A chemical element; it has symbol Fe and atomic number 26. It is a metal that belongs to the first transition series and group 8 of the periodic table. It is, by mass, the most common element on Earth, forming much of Earth's outer and inner core. It is the fourth most abundant element in the Earth's crust.",
-    "source": "wikipedia"
+    "description": "The metal that rusts with enthusiasm — dark grey until oxygen wins.",
+    "source": "authored"
+  },
+  "3016": {
+    "name": "Batman",
+    "description": "The Dark Knight's working wardrobe — matte black, cape physics.",
+    "source": "authored"
   },
   "3017": {
     "name": "Morel",
-    "description": "Morchella, the true morels, is a genus of edible sac fungi closely related to anatomically simpler cup fungi in the order Pezizales. These distinctive fungi have a honeycomb appearance due to the network of ridges with pits composing their caps.",
-    "source": "wikipedia"
+    "description": "The honeycombed spring mushroom — brown-grey, never washed, always earned.",
+    "source": "authored"
+  },
+  "3018": {
+    "name": "Wren",
+    "description": "The small brown bird with the outsized voice — loudest song per gram.",
+    "source": "authored"
   },
   "3019": {
     "name": "Secret Passage",
-    "description": "A 2004 film directed by Ademir Kenović. It was written by Kenović and Olivier Bonas. The film stars John Turturro, Katherine Borowitz, Tara Fitzgerald, and Hannah Taylor-Gordon. In the United Kingdom, the film is mostly known as The Lion's Mouth.",
-    "source": "wikipedia"
+    "description": "The bookcase that swings inward — grey-brown dust and candle drafts.",
+    "source": "authored"
   },
   "3020": {
     "name": "Rum",
-    "description": "A liquor made by fermenting and then distilling sugarcane molasses or sugarcane juice. The distillate, initially a clear liquid, is often aged in barrels.",
-    "source": "wikipedia"
+    "description": "Sugar cane by way of the barrel — dark amber-brown, ration tradition.",
+    "source": "authored"
+  },
+  "3021": {
+    "name": "Sleepy Koala",
+    "description": "Eucalyptus-drunk and twenty hours committed — grey-brown, do not disturb.",
+    "source": "authored"
   },
   "3022": {
     "name": "Gull",
-    "description": "Gulls, informally called seagulls, are seabirds of the subfamily Larinae. They are most closely related to terns and skimmers, and are placed with them in the family Laridae. They are also related, more distantly, to auks and skuas, and more distantly still to waders.",
-    "source": "wikipedia"
+    "description": "The chip thief of every seafront — grey mantle, zero remorse.",
+    "source": "authored"
   },
   "3023": {
     "name": "Tin",
-    "description": "A chemical element; it has the symbol Sn and atomic number 50. A metallic-gray metal, tin is soft enough to be cut with little force, and a bar of tin can be bent by hand with little effort. When bent, a bar of tin makes a sound, the so-called \"tin cry\", as a result of twinning in tin crystals.",
-    "source": "wikipedia"
+    "description": "The metal of cans and soldiers — grey with a bend to it.",
+    "source": "authored"
+  },
+  "3024": {
+    "name": "Cortex",
+    "description": "The grey matter doing the reading right now — folded, thinking.",
+    "source": "authored"
+  },
+  "3025": {
+    "name": "Dove",
+    "description": "The bird of peace and pavement — grey with an olive branch CV.",
+    "source": "authored"
+  },
+  "3026": {
+    "name": "Foil",
+    "description": "Kitchen silver by the metre — grey with a crinkle memory.",
+    "source": "authored"
+  },
+  "3027": {
+    "name": "Dim",
+    "description": "The lights at half — grey by dimmer switch.",
+    "source": "authored"
+  },
+  "3028": {
+    "name": "Zen",
+    "description": "Raked gravel and one placed stone — grey without argument.",
+    "source": "authored"
+  },
+  "3029": {
+    "name": "Fog",
+    "description": "The weather that deletes the skyline — grey, visibility advisory.",
+    "source": "authored"
   },
   "3030": {
     "name": "Milk",
-    "description": "Usually a white liquid food produced by the mammary glands of lactating mammals. It is the primary source of nutrition for young mammals before they are able to digest solid food.",
-    "source": "wikipedia"
+    "description": "The glass poured before bedtime — white with a cow provenance.",
+    "source": "authored"
+  },
+  "3031": {
+    "name": "Belladonna",
+    "description": "Deadly nightshade — the beauty in the name, the poison in the berry.",
+    "source": "authored"
+  },
+  "3032": {
+    "name": "Haunted Library",
+    "description": "Shelved whispers and cold spots between the stacks — grey-violet dust.",
+    "source": "authored"
+  },
+  "3033": {
+    "name": "Havana",
+    "description": "Cigar smoke and pastel facades ageing together — warm brown-grey.",
+    "source": "authored"
+  },
+  "3034": {
+    "name": "Merguez",
+    "description": "The North African lamb sausage — harissa-red, char lines mandatory.",
+    "source": "authored"
+  },
+  "3035": {
+    "name": "Hellbound",
+    "description": "The destination on the ticket nobody bought — ember red, one way.",
+    "source": "authored"
   },
   "3036": {
     "name": "Jazz",
-    "description": "A music genre that originated in the African-American communities of New Orleans, Louisiana, in the late 19th and early 20th centuries. Its roots are in blues, ragtime, European harmony, African rhythmic rituals, spirituals, hymns, marches, vaudeville song, and dance music.",
-    "source": "wikipedia"
+    "description": "The music that never plays it the same way twice — smoky red-brown.",
+    "source": "authored"
+  },
+  "3037": {
+    "name": "Macabre",
+    "description": "Death as an aesthetic choice — dark red velvet lining.",
+    "source": "authored"
+  },
+  "3038": {
+    "name": "Barbera",
+    "description": "Piedmont's everyday grape — dark cherry red, acid to spare.",
+    "source": "authored"
+  },
+  "3039": {
+    "name": "Caponata",
+    "description": "Sicily's sweet-sour aubergine stew — dark red-brown, better tomorrow.",
+    "source": "authored"
+  },
+  "3040": {
+    "name": "Succubus",
+    "description": "The dream you don't report — dark red with a clause.",
+    "source": "authored"
+  },
+  "3041": {
+    "name": "Vampirella",
+    "description": "The 1969 comic vampire in the barely-there suit — blood red, camp eternal.",
+    "source": "authored"
+  },
+  "3042": {
+    "name": "Radish",
+    "description": "The breakfast root with the pepper finish — red skin, white bite.",
+    "source": "authored"
+  },
+  "3043": {
+    "name": "Nippon",
+    "description": "Japan by its own name — the red disc on white.",
+    "source": "authored"
+  },
+  "3044": {
+    "name": "Poison Apple",
+    "description": "One bite, glossy red, story goes sideways — mirror mirror consequences.",
+    "source": "authored"
+  },
+  "3045": {
+    "name": "Hot Cuba",
+    "description": "Havana at maximum salsa — red with brass section.",
+    "source": "authored"
+  },
+  "3046": {
+    "name": "Toreador",
+    "description": "The cape's working side — toreador red, bull's opinion moot.",
+    "source": "authored"
+  },
+  "3047": {
+    "name": "Hollyhock",
+    "description": "The cottage flower that out-grows fences — red-black blooms up a spire.",
+    "source": "authored"
+  },
+  "3048": {
+    "name": "Chutney",
+    "description": "Fruit argued into submission — red-brown, vinegar diplomacy.",
+    "source": "authored"
+  },
+  "3049": {
+    "name": "Pomodoro",
+    "description": "Tomato by its Italian name — golden apple etymology, red result.",
+    "source": "authored"
+  },
+  "3050": {
+    "name": "Cherryade",
+    "description": "Cherry by way of the soda tap — red fizz, colour first, flavour rumour.",
+    "source": "authored"
+  },
+  "3051": {
+    "name": "Golem",
+    "description": "Clay given a task list — red-brown, word under the tongue.",
+    "source": "authored"
   },
   "3052": {
     "name": "Pachinko",
-    "description": "A mechanical game originating in Japan that is used as an arcade game and, much more frequently, for gambling. Pachinko fills a niche in Japanese gambling comparable to that of the slot machine in the Western world as a form of low-stakes, low-strategy gambling.",
-    "source": "wikipedia"
+    "description": "Japan's vertical pinball — red-lit halls, ball bearings by the tray.",
+    "source": "authored"
+  },
+  "3053": {
+    "name": "Rubylicious",
+    "description": "Ruby with a licious suffix — red past the legal limit.",
+    "source": "authored"
+  },
+  "3054": {
+    "name": "Anarchist",
+    "description": "The circled A in red spray — no gods, no landlords.",
+    "source": "authored"
+  },
+  "3055": {
+    "name": "Lollipop",
+    "description": "Sugar on a stick, red by default — the flavour is 'red'.",
+    "source": "authored"
+  },
+  "3056": {
+    "name": "Amaretto",
+    "description": "Almond liqueur that contains no almonds — apricot kernels, amber-red.",
+    "source": "authored"
+  },
+  "3057": {
+    "name": "Anger",
+    "description": "The emotion with the shortest fuse — red at the temples.",
+    "source": "authored"
+  },
+  "3058": {
+    "name": "Morocco",
+    "description": "Leather, spice and medina walls — red earth by trade route.",
+    "source": "authored"
+  },
+  "3059": {
+    "name": "Sanguinary",
+    "description": "Blood as an adjective — red with a body count.",
+    "source": "authored"
+  },
+  "3060": {
+    "name": "Gerbera",
+    "description": "The daisy that comes in showroom colours — this one's red.",
+    "source": "authored"
+  },
+  "3061": {
+    "name": "Lipstick",
+    "description": "The red bullet in every handbag — twist, apply, conquer.",
+    "source": "authored"
+  },
+  "3062": {
+    "name": "Pimento",
+    "description": "The pepper inside the olive — red plug, briny handshake.",
+    "source": "authored"
+  },
+  "3063": {
+    "name": "Feverish",
+    "description": "Thirty-nine and rising — red at the thermometer.",
+    "source": "authored"
+  },
+  "3064": {
+    "name": "Cyberpink",
+    "description": "Pink with a neural uplink — red-pink at render speed.",
+    "source": "authored"
+  },
+  "3065": {
+    "name": "Pink Peppercorn",
+    "description": "The berry impersonating a spice — pink husk, faint heat.",
+    "source": "authored"
+  },
+  "3066": {
+    "name": "Radishical",
+    "description": "Radish radicalised — red-pink with a manifesto.",
+    "source": "authored"
+  },
+  "3067": {
+    "name": "Seahorse",
+    "description": "The fish where fathers do the pregnancy — pink-red, tail moored.",
+    "source": "authored"
+  },
+  "3068": {
+    "name": "Aphrodisiac",
+    "description": "The menu's red-pink promise — oysters, chilli, plausible deniability.",
+    "source": "authored"
+  },
+  "3069": {
+    "name": "Love Letter",
+    "description": "Sealed, scented, second-guessed — red-pink ink, first-class stamp.",
+    "source": "authored"
+  },
+  "3070": {
+    "name": "Old Heart",
+    "description": "The valentine kept in the drawer — red-pink faded honest.",
+    "source": "authored"
+  },
+  "3071": {
+    "name": "Redstone",
+    "description": "Minecraft's red wiring — dust that thinks, torch logic.",
+    "source": "authored"
+  },
+  "3072": {
+    "name": "Loveland",
+    "description": "The Colorado town that remails valentines — red-pink postmark, February queue.",
+    "source": "authored"
+  },
+  "3073": {
+    "name": "Xoxo",
+    "description": "Hugs and kisses in wire-transfer form — red-pink sign-off.",
+    "source": "authored"
+  },
+  "3074": {
+    "name": "Pinky",
+    "description": "The finger promises are sworn on — pink, smallest, binding.",
+    "source": "authored"
+  },
+  "3075": {
+    "name": "Piggy",
+    "description": "The bank that eats coins — pink ceramic, hammer clause.",
+    "source": "authored"
+  },
+  "3076": {
+    "name": "Mortadella",
+    "description": "Bologna's marbled pink slice — pistachios optional, cubes traditional.",
+    "source": "authored"
+  },
+  "3077": {
+    "name": "Calabrese",
+    "description": "Calabria's heat in sausage form — pink-red, oil that stains.",
+    "source": "authored"
+  },
+  "3078": {
+    "name": "Chantilly",
+    "description": "Cream whipped with sugar and vanilla — pink-adjacent cloud, spoon politics.",
+    "source": "authored"
+  },
+  "3079": {
+    "name": "Channel",
+    "description": "The strait swum and the perfume numbered — pink-grey morning water.",
+    "source": "authored"
+  },
+  "3080": {
+    "name": "Ibis",
+    "description": "The wading bird in scarlet editions — pink-red on stilts.",
+    "source": "authored"
+  },
+  "3081": {
+    "name": "Dark Veil",
+    "description": "The lace between mourning and the world — red-black, sheer.",
+    "source": "authored"
+  },
+  "3082": {
+    "name": "Soulless",
+    "description": "The stare with nobody home — dark red, lights off.",
+    "source": "authored"
+  },
+  "3083": {
+    "name": "Evil Cigar",
+    "description": "The villain's prop between monologues — red-brown ash, slow burn.",
+    "source": "authored"
+  },
+  "3084": {
+    "name": "Dried Blood",
+    "description": "The stain that dates the accident — red-brown, iron ledger.",
+    "source": "authored"
   },
   "3085": {
     "name": "Lonestar",
-    "description": "An American country music band from Nashville, Tennessee. The band consists of Drew Womack, Michael Britt, Dean Sams, and Keech Rainwater (drums). Both Britt and Rainwater formerly recorded in the band Canyon.",
-    "source": "wikipedia"
+    "description": "The single star over Texas — red-brown leather and highway.",
+    "source": "authored"
+  },
+  "3086": {
+    "name": "Salami",
+    "description": "The slice that survives everything — red marbled, deli constant.",
+    "source": "authored"
+  },
+  "3087": {
+    "name": "Siren",
+    "description": "The song that redirects ships — red warning, rocks included.",
+    "source": "authored"
+  },
+  "3088": {
+    "name": "Kobe",
+    "description": "The beef massaged into marble — red-pink lace, price per gram.",
+    "source": "authored"
+  },
+  "3089": {
+    "name": "Tabasco",
+    "description": "The Louisiana bottle with the vinegar snap — red, three drops rule.",
+    "source": "authored"
+  },
+  "3090": {
+    "name": "Lifeline",
+    "description": "The rope thrown, the monitor's green line — red urgency either way.",
+    "source": "authored"
+  },
+  "3091": {
+    "name": "Bullseye",
+    "description": "Dead centre, red ring — the throw that ends the round.",
+    "source": "authored"
+  },
+  "3092": {
+    "name": "Chorizo",
+    "description": "The paprika sausage that dyes the beans — red-orange oil signature.",
+    "source": "authored"
+  },
+  "3093": {
+    "name": "Cigar",
+    "description": "Rolled leaves and an hour of smoke — red-brown band, cutter ritual.",
+    "source": "authored"
+  },
+  "3094": {
+    "name": "Kirsch",
+    "description": "Cherry distilled to clarity — the red is in the fruit memory.",
+    "source": "authored"
+  },
+  "3095": {
+    "name": "Kabuki",
+    "description": "The theatre of poses and painted faces — red kumadori lines.",
+    "source": "authored"
+  },
+  "3096": {
+    "name": "Redrum",
+    "description": "Murder in the mirror — red, read backwards, Overlook Hotel.",
+    "source": "authored"
   },
   "3097": {
     "name": "Monza",
-    "description": "A city and comune (municipality) in the Lombardy region of northern Italy. Situated on the Lambro river about 15 kilometres (9.3 mi) north-northeast of Milan, it is the capital of the Province of Monza and Brianza and the largest city in the Brianza area.",
-    "source": "wikipedia"
+    "description": "The circuit in the royal park — red at 300 through Parabolica.",
+    "source": "authored"
+  },
+  "3098": {
+    "name": "Acorn",
+    "description": "The oak's down payment — brown cap, cup included.",
+    "source": "authored"
+  },
+  "3099": {
+    "name": "Cherry",
+    "description": "The fruit that ends sundaes and starts arguments — red, stone in.",
+    "source": "authored"
   },
   "3100": {
     "name": "Signal",
-    "description": "A signal is both the process and the result of transmission of data over some media accomplished by embedding some variation. Signals are important in multiple subject fields, including signal processing, information theory and biology.",
-    "source": "wikipedia"
+    "description": "The red that means something by committee — signal red, standardised.",
+    "source": "authored"
+  },
+  "3101": {
+    "name": "Stop",
+    "description": "Eight sides, one word, red — the sign that needs no translation.",
+    "source": "authored"
   },
   "3102": {
     "name": "Mario",
-    "description": "A character created by Japanese video game designer Shigeru Miyamoto. He is the star of the Mario franchise, a recurring character in the Donkey Kong franchise, and the mascot of their owner, the Japanese company Nintendo.",
-    "source": "wikipedia"
+    "description": "The plumber in the red cap — it's a him.",
+    "source": "authored"
+  },
+  "3103": {
+    "name": "Lust",
+    "description": "The deadly sin with the best publicist — red, unrepentant.",
+    "source": "authored"
+  },
+  "3104": {
+    "name": "Blazing",
+    "description": "Fire past the adjective stage — red at full draught.",
+    "source": "authored"
+  },
+  "3105": {
+    "name": "Rage",
+    "description": "Anger with the safety off — red at the edges of vision.",
+    "source": "authored"
+  },
+  "3106": {
+    "name": "Hex Appeal",
+    "description": "Six digits of pure charm — the hex code that flirts back.",
+    "source": "authored"
+  },
+  "3107": {
+    "name": "Firebug",
+    "description": "The beetle that glows and the bug that spreads — red-orange either way.",
+    "source": "authored"
+  },
+  "3108": {
+    "name": "Spicy",
+    "description": "The scale from mild to regret — red-orange, milk nearby.",
+    "source": "authored"
+  },
+  "3109": {
+    "name": "Spiced",
+    "description": "Heat folded in at the recipe stage — red-orange, cinnamon diplomacy.",
+    "source": "authored"
+  },
+  "3110": {
+    "name": "Enraged",
+    "description": "Anger past editing — red-orange, caps lock.",
+    "source": "authored"
+  },
+  "3111": {
+    "name": "Amour",
+    "description": "Love with a French accent — red-pink, handwritten.",
+    "source": "authored"
+  },
+  "3112": {
+    "name": "Danger",
+    "description": "The sign on the fence, the tape on the floor — red-orange, noted.",
+    "source": "authored"
+  },
+  "3113": {
+    "name": "Cascara",
+    "description": "The coffee cherry's husk, brewed — red-brown tea, second harvest.",
+    "source": "authored"
+  },
+  "3114": {
+    "name": "Hotspot",
+    "description": "The map's red pin and the wifi's promise — orange-red, five bars.",
+    "source": "authored"
+  },
+  "3115": {
+    "name": "Pulp",
+    "description": "Orange crushed to its honest state — bits and all.",
+    "source": "authored"
+  },
+  "3116": {
+    "name": "Babe",
+    "description": "The endearment and the pig that herded sheep — pink-orange, that'll do.",
+    "source": "authored"
   },
   "3117": {
     "name": "Dynamite",
-    "description": "An explosive made of nitroglycerin, sorbents, and stabilizers. It was invented by the Swedish chemist and engineer Alfred Nobel in Geesthacht, Northern Germany, and was patented in 1867. It rapidly gained wide-scale use as a more robust alternative to the traditional black powder explosives.",
-    "source": "wikipedia"
+    "description": "The plunger, the wire, the red sticks — orange-red, cartoon physics.",
+    "source": "authored"
+  },
+  "3118": {
+    "name": "Sandstone",
+    "description": "The rock that builds cathedrals and erodes into hourglasses — warm tan.",
+    "source": "authored"
+  },
+  "3119": {
+    "name": "Pastrami",
+    "description": "Brined, smoked, steamed, stacked — pink-red under pepper bark.",
+    "source": "authored"
+  },
+  "3120": {
+    "name": "Mandarin",
+    "description": "The citrus that peels itself — orange segments, zero resistance.",
+    "source": "authored"
+  },
+  "3121": {
+    "name": "Gravlax",
+    "description": "Salmon cured in dill and sugar — orange-pink, thin sliced.",
+    "source": "authored"
+  },
+  "3122": {
+    "name": "Pompelmo",
+    "description": "Grapefruit by its Italian name — pink-orange, aperitivo clearance.",
+    "source": "authored"
   },
   "3123": {
     "name": "Meat",
-    "description": "Animal tissue, mostly muscle, that is eaten as food. Humans have hunted and farmed other animals for meat since prehistory. The Neolithic Revolution allowed the domestication of vertebrates, including chickens, sheep, goats, pigs, horses, and cattle, starting around 11,000 years ago.",
-    "source": "wikipedia"
+    "description": "The counter's red-pink display — butcher paper, weight by eye.",
+    "source": "authored"
+  },
+  "3124": {
+    "name": "Lox",
+    "description": "The bagel's orange-pink partner — brined salmon, capers assumed.",
+    "source": "authored"
+  },
+  "3125": {
+    "name": "Sunburnt Nose",
+    "description": "The stripe the hat should have prevented — pink-red, aloe pending.",
+    "source": "authored"
+  },
+  "3126": {
+    "name": "Tulip",
+    "description": "The flower that caused a financial crisis — pink-orange, bulb futures.",
+    "source": "authored"
+  },
+  "3127": {
+    "name": "Soba",
+    "description": "Buckwheat noodles in their grey-brown honesty — dipped, slurped.",
+    "source": "authored"
+  },
+  "3128": {
+    "name": "Redolence",
+    "description": "Scent as a noun — pink-brown, lingering by definition.",
+    "source": "authored"
+  },
+  "3129": {
+    "name": "Sakura",
+    "description": "Cherry blossom week — pink confetti with a forecast.",
+    "source": "authored"
+  },
+  "3130": {
+    "name": "Apricotta",
+    "description": "Apricot folded into ricotta — pink-orange, dessert portmanteau.",
+    "source": "authored"
+  },
+  "3131": {
+    "name": "Persicus",
+    "description": "The peach by its Latin species — persicus, Persia in the name.",
+    "source": "authored"
+  },
+  "3132": {
+    "name": "Mothy",
+    "description": "Wing-dust grey with a lamp habit.",
+    "source": "authored"
+  },
+  "3133": {
+    "name": "Bellini",
+    "description": "Peach purée under prosecco — pink-orange, Venice invoiced.",
+    "source": "authored"
+  },
+  "3134": {
+    "name": "Piglet",
+    "description": "The smallest of the Hundred Acre anxieties — pink, brave eventually.",
+    "source": "authored"
+  },
+  "3135": {
+    "name": "Luna",
+    "description": "The moon on her softer nights — pale grey-pink.",
+    "source": "authored"
+  },
+  "3136": {
+    "name": "Bloodthirsty Beige",
+    "description": "Beige that has seen things — pink-tan with a past.",
+    "source": "authored"
+  },
+  "3137": {
+    "name": "2AM Breakup",
+    "description": "The text drafted, deleted, sent — grey-pink, read at 2:04.",
+    "source": "authored"
+  },
+  "3138": {
+    "name": "Noir",
+    "description": "Rain, fedora, one streetlight — grey-black film grammar.",
+    "source": "authored"
+  },
+  "3139": {
+    "name": "Prune",
+    "description": "The plum with a pension — purple-brown, fibre agenda.",
+    "source": "authored"
+  },
+  "3140": {
+    "name": "Turtle",
+    "description": "Shell brown, lettuce patience — the pace that wins fables.",
+    "source": "authored"
+  },
+  "3141": {
+    "name": "Peanut",
+    "description": "The legume impersonating a nut — tan shell, two inside.",
+    "source": "authored"
+  },
+  "3142": {
+    "name": "Ripasso",
+    "description": "Valpolicella re-passed over amarone skins — red-brown, second wind.",
+    "source": "authored"
+  },
+  "3143": {
+    "name": "Lobster",
+    "description": "Boiled red with a bib clause — butter economy.",
+    "source": "authored"
+  },
+  "3144": {
+    "name": "Panela",
+    "description": "Cane juice boiled to a brown brick — panela, grated to order.",
+    "source": "authored"
+  },
+  "3145": {
+    "name": "Nutmeg",
+    "description": "The seed worth grating and the sea worth crossing — warm brown.",
+    "source": "authored"
+  },
+  "3146": {
+    "name": "Conker",
+    "description": "The horse chestnut on a string — brown, vinegar-hardened, contested.",
+    "source": "authored"
+  },
+  "3147": {
+    "name": "Mars",
+    "description": "The red planet by rust — iron oxide with polar ambitions.",
+    "source": "authored"
+  },
+  "3148": {
+    "name": "Alarm",
+    "description": "The clock's red opinion of morning — orange-red, snooze debt.",
+    "source": "authored"
+  },
+  "3149": {
+    "name": "Fox",
+    "description": "Rust-red with a tail plume — hen-house reputation earned.",
+    "source": "authored"
   },
   "3153": {
     "name": "Magma",
