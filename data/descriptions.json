@@ -13749,55 +13749,755 @@
     "description": "The blue that begs clicking — underline included, history purple pending.",
     "source": "authored"
   },
+  "3750": {
+    "name": "Royal Lavender",
+    "description": "Lavender with a household guard.",
+    "source": "authored"
+  },
+  "3751": {
+    "name": "Prophet Violet",
+    "description": "Violet with a vision to declare — sandals, scroll, certainty.",
+    "source": "authored"
+  },
+  "3752": {
+    "name": "Ninja Princess",
+    "description": "Stealth with a tiara — violet, arcade cabinet pedigree.",
+    "source": "authored"
+  },
+  "3753": {
+    "name": "Slice of Heaven",
+    "description": "The pie chart's best sector — violet, clouds catered.",
+    "source": "authored"
+  },
+  "3754": {
+    "name": "Poisoning Purple",
+    "description": "Purple with a skull on the label — sip declined.",
+    "source": "authored"
+  },
+  "3755": {
+    "name": "Violent Violet",
+    "description": "Violet with the safety filed off — alliteration armed.",
+    "source": "authored"
+  },
+  "3756": {
+    "name": "Wizard’s Potion",
+    "description": "The cauldron's violet special — stir widdershins, results vary.",
+    "source": "authored"
+  },
+  "3757": {
+    "name": "Sumptuous Purple",
+    "description": "Purple with the tasting menu.",
+    "source": "authored"
+  },
+  "3758": {
+    "name": "Majestic Eggplant",
+    "description": "Eggplant with a coronation — glossy violet-black robes.",
+    "source": "authored"
+  },
+  "3759": {
+    "name": "Moonscape",
+    "description": "Craters in grey-violet — flag optional, dust permanent.",
+    "source": "authored"
+  },
+  "3760": {
+    "name": "Studio 54",
+    "description": "The disco behind the velvet rope — violet lights, Bianca's horse.",
+    "source": "authored"
+  },
+  "3761": {
+    "name": "Misty Harbour",
+    "description": "Masts in the grey-violet murk — foghorn conversational.",
+    "source": "authored"
+  },
+  "3762": {
+    "name": "Freshly Purpleized",
+    "description": "Purple straight off the line — paint still tacky.",
+    "source": "authored"
+  },
+  "3763": {
+    "name": "Hibernation",
+    "description": "The season slept through — grey-violet, heart rate quartered.",
+    "source": "authored"
+  },
+  "3764": {
+    "name": "Nocturnal",
+    "description": "Business hours: dusk till dawn — grey-violet, eyeshine included.",
+    "source": "authored"
+  },
+  "3765": {
+    "name": "Warlock",
+    "description": "The pact in violet-black — fine print infernal.",
+    "source": "authored"
+  },
   "3766": {
     "name": "Flood",
-    "description": "A flood is an overflow of water that submerges land that is usually dry. In the sense of \"flowing water\", the word may also be applied to the inflow of the tide. Floods are of significant concern in agriculture, civil engineering and public health.",
-    "source": "wikipedia"
+    "description": "The river past its banks — grey-violet, sandbag arithmetic.",
+    "source": "authored"
+  },
+  "3767": {
+    "name": "Venus Violet",
+    "description": "The morning star in her violet veil.",
+    "source": "authored"
+  },
+  "3768": {
+    "name": "Monument",
+    "description": "Stone with a long memory — grey-violet, wreaths annual.",
+    "source": "authored"
+  },
+  "3769": {
+    "name": "Metal Petal",
+    "description": "The flower from the foundry — grey-violet, welded stem.",
+    "source": "authored"
+  },
+  "3770": {
+    "name": "Tempest",
+    "description": "Prospero's weather — grey-violet, shipwreck scripted.",
+    "source": "authored"
+  },
+  "3771": {
+    "name": "Easter Egg",
+    "description": "The violet one behind the flowerpot — hunt rigged kindly.",
+    "source": "authored"
+  },
+  "3772": {
+    "name": "Walkway",
+    "description": "Paving stones in grey-violet — moss grouting.",
+    "source": "authored"
+  },
+  "3773": {
+    "name": "Wondrous Wisteria",
+    "description": "Wisteria at full gasp.",
+    "source": "authored"
+  },
+  "3774": {
+    "name": "Windfall",
+    "description": "The apples the wind picked for you — violet-grey, ladder refunded.",
+    "source": "authored"
+  },
+  "3775": {
+    "name": "Queer Blue",
+    "description": "Blue that never fit the binary — violet lean, flag adjacent.",
+    "source": "authored"
+  },
+  "3776": {
+    "name": "Dream Vapour",
+    "description": "The dream evaporating on waking — violet-grey, plot escaping.",
+    "source": "authored"
+  },
+  "3777": {
+    "name": "Shark",
+    "description": "The fin that reorganises the beach — grey, theme music implied.",
+    "source": "authored"
   },
   "3778": {
     "name": "Crow",
-    "description": "A crow is a bird of the genus Corvus, or more broadly, a synonym for all of Corvus. The word \"crow\" is used as part of the common name of many species. The related term \"raven\" is not linked scientifically to any certain trait but is rather a general grouping for larger-sized species of Corvus.",
-    "source": "wikipedia"
+    "description": "The corvid that holds grudges and funerals — black with violet gloss.",
+    "source": "authored"
+  },
+  "3779": {
+    "name": "Noir Fiction",
+    "description": "Rain, motive and a narrator lying — violet-black paperbacks.",
+    "source": "authored"
+  },
+  "3780": {
+    "name": "Wicked Purple",
+    "description": "Purple with a defying-gravity solo.",
+    "source": "authored"
   },
   "3781": {
     "name": "Voldemort",
-    "description": "Lord Voldemort is a fictional character and the main antagonist in the Harry Potter series of novels by J. K. Rowling.",
-    "source": "wikipedia"
+    "description": "The name unsaid — violet-black, nose budget zero.",
+    "source": "authored"
+  },
+  "3782": {
+    "name": "Root Cellar",
+    "description": "Earth-cooled shelves of jars — violet-black, potato dark.",
+    "source": "authored"
+  },
+  "3783": {
+    "name": "Carbon Paper",
+    "description": "The sheet that copied by pressure — violet-black, ninth carbon faint.",
+    "source": "authored"
+  },
+  "3784": {
+    "name": "Occult",
+    "description": "The hidden by definition — violet-black, candle sputtering.",
+    "source": "authored"
+  },
+  "3785": {
+    "name": "Sapphire Siren",
+    "description": "Sapphire with a shipping-lane playlist.",
+    "source": "authored"
+  },
+  "3786": {
+    "name": "Magnet",
+    "description": "The pull that files iron — violet-grey, poles opinionated.",
+    "source": "authored"
+  },
+  "3787": {
+    "name": "Intergalactic Settlement",
+    "description": "The colony ship's violet arrival — terraforming pending.",
+    "source": "authored"
+  },
+  "3788": {
+    "name": "Lucid Dreams",
+    "description": "The dream that knows it's dreaming — violet, physics editable.",
+    "source": "authored"
+  },
+  "3789": {
+    "name": "Poppy Pompadour",
+    "description": "The quiff at full violet altitude — comb classified.",
+    "source": "authored"
+  },
+  "3790": {
+    "name": "Eminence",
+    "description": "The purple with a cardinal's calling card.",
+    "source": "authored"
+  },
+  "3791": {
+    "name": "Majesty",
+    "description": "Purple at coronation grade.",
+    "source": "authored"
+  },
+  "3792": {
+    "name": "Porphyry",
+    "description": "The emperor's purple stone — quarried once, guarded since.",
+    "source": "authored"
+  },
+  "3793": {
+    "name": "Purple Emperor",
+    "description": "The butterfly that ignores flowers for oak sap — violet by angle.",
+    "source": "authored"
+  },
+  "3794": {
+    "name": "Pleasant Purple",
+    "description": "Purple with the thermostat right.",
+    "source": "authored"
+  },
+  "3795": {
+    "name": "Dr Who",
+    "description": "Two hearts, one police box — violet vortex commute.",
+    "source": "authored"
+  },
+  "3796": {
+    "name": "Royal Robe",
+    "description": "The robe that outranks the room — violet, train carried.",
+    "source": "authored"
+  },
+  "3797": {
+    "name": "Galactic Grapevine",
+    "description": "The rumour mill at light speed — violet, heard it from a nebula.",
+    "source": "authored"
+  },
+  "3798": {
+    "name": "Magic Magenta",
+    "description": "Magenta with a wand licence.",
+    "source": "authored"
+  },
+  "3799": {
+    "name": "Crown Chakra",
+    "description": "The thousand-petal violet at the crown — om included.",
+    "source": "authored"
+  },
+  "3800": {
+    "name": "Chimaera",
+    "description": "Lion, goat, serpent — violet by committee.",
+    "source": "authored"
+  },
+  "3801": {
+    "name": "The Grape War of '97",
+    "description": "The vintage that started it — violet, treaty signed in juice.",
+    "source": "authored"
+  },
+  "3802": {
+    "name": "Lusty Lavender",
+    "description": "Lavender past the chaperone.",
+    "source": "authored"
+  },
+  "3803": {
+    "name": "Bureaucracy",
+    "description": "Violet in triplicate — window 4, then window 2, then back.",
+    "source": "authored"
+  },
+  "3804": {
+    "name": "Promiscuous Pink",
+    "description": "Pink with a phone that never sleeps.",
+    "source": "authored"
+  },
+  "3805": {
+    "name": "Poison Purple Paradise",
+    "description": "Paradise with a violet warning label — apple lawyers on retainer.",
+    "source": "authored"
+  },
+  "3806": {
+    "name": "Je t’aime",
+    "description": "The three words in French — violet, accent acute.",
+    "source": "authored"
+  },
+  "3807": {
+    "name": "Empress",
+    "description": "The throne without the asterisk — violet, regency declined.",
+    "source": "authored"
+  },
+  "3808": {
+    "name": "Shrine of Pleasures",
+    "description": "The temple with the good incense — violet, offerings tallied.",
+    "source": "authored"
+  },
+  "3809": {
+    "name": "Berries Galore",
+    "description": "Berries past inventory — violet, pails insufficient.",
+    "source": "authored"
+  },
+  "3810": {
+    "name": "Neon Purple",
+    "description": "Purple with the transformer buzzing.",
+    "source": "authored"
+  },
+  "3811": {
+    "name": "Spectacular Purple",
+    "description": "Purple with the house lights up.",
+    "source": "authored"
+  },
+  "3812": {
+    "name": "Magic Carpet",
+    "description": "Tassels, thermals and a whole new world — violet weave.",
+    "source": "authored"
+  },
+  "3813": {
+    "name": "Mithril",
+    "description": "The elven metal light as silk, hard as dragon scale — violet-silver.",
+    "source": "authored"
+  },
+  "3814": {
+    "name": "Rossetti",
+    "description": "The pre-Raphaelite with the wombat — violet, Lizzie's portrait unfinished.",
+    "source": "authored"
+  },
+  "3815": {
+    "name": "La la Love",
+    "description": "Love at chorus repetition — violet, key change pending.",
+    "source": "authored"
+  },
+  "3816": {
+    "name": "Sphinx",
+    "description": "The riddle with a lion's body — violet-grey, wrong answers eaten.",
+    "source": "authored"
+  },
+  "3817": {
+    "name": "Mutabilis",
+    "description": "The rose that changes colour daily — violet today, ask tomorrow.",
+    "source": "authored"
+  },
+  "3818": {
+    "name": "Nirvana",
+    "description": "Enlightenment or the band — violet either way, nevermind.",
+    "source": "authored"
+  },
+  "3819": {
+    "name": "Somewhere in a Fairytale",
+    "description": "Lost between chapters — violet, breadcrumbs eaten.",
+    "source": "authored"
+  },
+  "3820": {
+    "name": "Casper",
+    "description": "The friendly ghost in violet-grey — hauntings apologised for.",
+    "source": "authored"
+  },
+  "3821": {
+    "name": "Cosmic",
+    "description": "The adjective the universe earned — violet, scale non-negotiable.",
+    "source": "authored"
+  },
+  "3822": {
+    "name": "Pinky Swear",
+    "description": "The smallest binding contract — pink-violet, fingers hooked.",
+    "source": "authored"
+  },
+  "3823": {
+    "name": "Testosterose",
+    "description": "Rose with a gym membership — pink-violet, protein shaken.",
+    "source": "authored"
+  },
+  "3824": {
+    "name": "Moonraker",
+    "description": "Bond in orbit — violet, laser dentistry villain.",
+    "source": "authored"
+  },
+  "3825": {
+    "name": "Sugared Wisteria",
+    "description": "Wisteria dusted for dessert.",
+    "source": "authored"
+  },
+  "3826": {
+    "name": "Dark Purple",
+    "description": "Purple with the lights declined.",
+    "source": "authored"
+  },
+  "3827": {
+    "name": "Dark Prom Queen",
+    "description": "The tiara worn to the afterparty — violet-black, corsage wilting.",
+    "source": "authored"
+  },
+  "3828": {
+    "name": "Fabric of Space",
+    "description": "Spacetime by the metre — violet-black, folds included.",
+    "source": "authored"
+  },
+  "3829": {
+    "name": "Darth Vader",
+    "description": "The breathing you hear before you see him — black, redemption pending.",
+    "source": "authored"
+  },
+  "3830": {
+    "name": "Wonka Purple",
+    "description": "The factory's violet secret — golden tickets, questionable boat ride.",
+    "source": "authored"
+  },
+  "3831": {
+    "name": "Fading Horizon",
+    "description": "The line where the day gives up — violet-grey, last ferry gone.",
+    "source": "authored"
+  },
+  "3832": {
+    "name": "Winning Streak",
+    "description": "Violet on a hot hand — chips stacked, exit postponed.",
+    "source": "authored"
+  },
+  "3833": {
+    "name": "Orb of Discord",
+    "description": "The sphere that starts arguments — violet, apple of Eris.",
+    "source": "authored"
   },
   "3834": {
     "name": "Purple Heart",
-    "description": "The Purple Heart (PH) is a United States military decoration awarded in the name of the president to those wounded or killed while serving on or after 5 April 1917, with the U.S. military.",
-    "source": "wikipedia"
+    "description": "The medal for wounds taken — violet ribbon, Washington's profile.",
+    "source": "authored"
+  },
+  "3835": {
+    "name": "Third Eye",
+    "description": "The eye between the eyebrows — violet, sees the bill coming.",
+    "source": "authored"
+  },
+  "3836": {
+    "name": "Sappanwood",
+    "description": "The heartwood that dyed kimonos crimson-violet — mordant decides.",
+    "source": "authored"
+  },
+  "3837": {
+    "name": "Vampiric Bloodlust",
+    "description": "Thirst with a cape budget — violet-black, mirrors useless.",
+    "source": "authored"
+  },
+  "3838": {
+    "name": "Prunella",
+    "description": "Self-heal by its Latin name — violet spikes, hedgerow pharmacy.",
+    "source": "authored"
+  },
+  "3839": {
+    "name": "Velvet Underground",
+    "description": "The band the 30,000 listeners started bands about — violet-black.",
+    "source": "authored"
+  },
+  "3840": {
+    "name": "Gomphrena",
+    "description": "The globe amaranth — violet buttons that dry without fading.",
+    "source": "authored"
   },
   "3841": {
     "name": "Opera",
-    "description": "A form of Western theatre in which music is a fundamental component and dramatic roles are taken by singers. Such a \"work\" is typically a collaboration between a composer and a librettist and incorporates a number of the performing arts, such as acting, scenery, costume, and sometimes dance or ballet.",
-    "source": "wikipedia"
+    "description": "The house where everyone dies singing — violet-black velvet.",
+    "source": "authored"
   },
   "3842": {
     "name": "Nebula",
-    "description": "A nebula is a distinct luminescent part of interstellar medium, which can consist of ionized, neutral, or molecular hydrogen and also cosmic dust. Nebulae are often star-forming regions, such as the Pillars of Creation in the Eagle Nebula.",
-    "source": "wikipedia"
+    "description": "Star nursery in violet — light-years of dust doing its best.",
+    "source": "authored"
+  },
+  "3843": {
+    "name": "Toadflax",
+    "description": "The snapdragon's wild cousin — violet, walls its habitat.",
+    "source": "authored"
+  },
+  "3844": {
+    "name": "Punk Rock Purple",
+    "description": "Purple with three chords and the truth.",
+    "source": "authored"
+  },
+  "3845": {
+    "name": "Berrylicious",
+    "description": "Berry with a licious clause.",
+    "source": "authored"
+  },
+  "3846": {
+    "name": "Chive Blossom",
+    "description": "The chive's violet pompom — snipped over eggs.",
+    "source": "authored"
+  },
+  "3847": {
+    "name": "Mosh Pit",
+    "description": "The polite violence at the barrier — violet bruise pending.",
+    "source": "authored"
   },
   "3848": {
     "name": "Macarena",
-    "description": "\"Macarena\" is a song by Spanish pop duo Los del Río, originally recorded for their 1993 album A mí me gusta. A dance remix by the electropop group Fangoria was a success in Spain, and a soundalike cover version by Los del Mar became popular in Canada.",
-    "source": "wikipedia"
+    "description": "The dance your aunt still does — violet, hands mandatory.",
+    "source": "authored"
+  },
+  "3849": {
+    "name": "Mean Girls Lipstick",
+    "description": "On Wednesdays we wear this — violet-pink, so fetch.",
+    "source": "authored"
+  },
+  "3850": {
+    "name": "Fruit of Passion",
+    "description": "Passion's produce aisle — violet rind, seeds dramatic.",
+    "source": "authored"
+  },
+  "3851": {
+    "name": "Awkward Purple",
+    "description": "Purple at the wrong party — violet, exits mapped.",
+    "source": "authored"
+  },
+  "3852": {
+    "name": "Amorous",
+    "description": "The adjective before the apology — violet-pink, roses invoiced.",
+    "source": "authored"
+  },
+  "3853": {
+    "name": "Whale",
+    "description": "The grey-violet bulk that sings in long distance.",
+    "source": "authored"
+  },
+  "3854": {
+    "name": "Violet Webcap",
+    "description": "The violet mushroom of mossy woods — cortinarius, spore-print rust.",
+    "source": "authored"
+  },
+  "3855": {
+    "name": "Prehistoric Pink",
+    "description": "Pink with a fossil record.",
+    "source": "authored"
+  },
+  "3856": {
+    "name": "Pink Panther",
+    "description": "The cartoon cat in the jewel heist — pink, Mancini horns.",
+    "source": "authored"
+  },
+  "3857": {
+    "name": "Barbecue",
+    "description": "The legacy name on a violet point — smoke long dispersed.",
+    "source": "authored"
+  },
+  "3858": {
+    "name": "Majestic Magenta",
+    "description": "Magenta with the anthem cued.",
+    "source": "authored"
+  },
+  "3859": {
+    "name": "Heart Potion",
+    "description": "The flask that refills the heart bar — pink-violet, quaffed mid-boss.",
+    "source": "authored"
+  },
+  "3860": {
+    "name": "Flirtatious Flamingo",
+    "description": "Flamingo with a cocktail and eye contact.",
+    "source": "authored"
+  },
+  "3861": {
+    "name": "Big Bang Pink",
+    "description": "Pink at t-equals-zero — inflation included.",
+    "source": "authored"
+  },
+  "3862": {
+    "name": "Orchid Mantis",
+    "description": "The mantis dressed as the flower — pink-violet, prayers predatory.",
+    "source": "authored"
   },
   "3863": {
     "name": "Pinkman",
-    "description": "Jesse Bruce Pinkman is a fictional character in the American crime drama television series Breaking Bad, portrayed by Aaron Paul. He is a crystal meth cook and dealer who works with his former high school chemistry teacher, Walter White.",
-    "source": "wikipedia"
+    "description": "Science, Jesse — pink-violet, street name earned.",
+    "source": "authored"
+  },
+  "3864": {
+    "name": "Epink",
+    "description": "Pink with an electronic prefix — inbox at zero.",
+    "source": "authored"
   },
   "3865": {
     "name": "Pride Parade",
-    "description": "A pride parade is an event where lesbian, gay, bisexual, transgender and queer (LGBTQ) people and their allies celebrate LGBTQ social and self-acceptance, achievements, legal rights, and pride. The events sometimes also serve as demonstrations for legal rights such as same-sex marriage.",
-    "source": "wikipedia"
+    "description": "The street the flags own in June — pink-violet, glitter tax.",
+    "source": "authored"
+  },
+  "3866": {
+    "name": "Harajuku",
+    "description": "Tokyo's dress-code-free district — pink-violet, crepes accessorised.",
+    "source": "authored"
+  },
+  "3867": {
+    "name": "Neon Jellyfish",
+    "description": "The jellyfish on neon shift — pink-violet, tentacles backlit.",
+    "source": "authored"
+  },
+  "3868": {
+    "name": "Devilish Diva",
+    "description": "The diva in her villain era — pink-violet, encore withheld.",
+    "source": "authored"
+  },
+  "3869": {
+    "name": "Dripping Wisteria",
+    "description": "Wisteria past saturation — pink-violet, drips scheduled.",
+    "source": "authored"
+  },
+  "3870": {
+    "name": "Candy Dreams",
+    "description": "The dessert REM cycle — pink-violet, calories exempt.",
+    "source": "authored"
+  },
+  "3871": {
+    "name": "Cotton Candy Explosions",
+    "description": "Cotton candy at detonation — pink-violet, fallout sticky.",
+    "source": "authored"
+  },
+  "3872": {
+    "name": "Ms. Pac-Man Kiss",
+    "description": "The bow that changed the sprite — pink kiss, high score.",
+    "source": "authored"
+  },
+  "3873": {
+    "name": "Wisteria Tunnel",
+    "description": "Kawachi Fuji's violet-pink corridor — bloom-week pilgrimage.",
+    "source": "authored"
+  },
+  "3874": {
+    "name": "Lily",
+    "description": "The flower that stains everything it brushes — pink-white pollen writs.",
+    "source": "authored"
+  },
+  "3875": {
+    "name": "Pinkling",
+    "description": "Pink in its larval stage — wings pending.",
+    "source": "authored"
   },
   "3876": {
     "name": "Lychee",
-    "description": "Lychees are the fruit of the tree Litchi chinensis, the sole member of the genus Litchi, part of the soapberry family, Sapindaceae. They are edible, with a sweet, mildly tart flavor, and have a distinctive floral aroma often described as rose-like.",
-    "source": "wikipedia"
+    "description": "The pink rind, the white flesh, the perfumed argument.",
+    "source": "authored"
+  },
+  "3877": {
+    "name": "Diva Mecha",
+    "description": "The diva in powered armour — pink-violet, high notes weaponised.",
+    "source": "authored"
+  },
+  "3878": {
+    "name": "Party Pig",
+    "description": "The pink guest who ate the centrepiece — party unapologetic.",
+    "source": "authored"
+  },
+  "3879": {
+    "name": "Sweetheart",
+    "description": "The candy with the printed proposal — pink, be mine.",
+    "source": "authored"
+  },
+  "3880": {
+    "name": "Kefir",
+    "description": "Milk fermented by committee — pink-white, grains immortal.",
+    "source": "authored"
+  },
+  "3881": {
+    "name": "Eight Ball",
+    "description": "The black ball that ends the frame — pocket called.",
+    "source": "authored"
+  },
+  "3882": {
+    "name": "Matt Black",
+    "description": "Black with the gloss declined — fingerprints forgiven.",
+    "source": "authored"
+  },
+  "3883": {
+    "name": "Melanzane",
+    "description": "Aubergine by its Italian name — violet-black, parmigiana destiny.",
+    "source": "authored"
+  },
+  "3884": {
+    "name": "Black-Hearted",
+    "description": "The cardiogram in violet-black — flatline by choice.",
+    "source": "authored"
+  },
+  "3885": {
+    "name": "Maharaja",
+    "description": "The great king by Sanskrit billing — violet, elephants caparisoned.",
+    "source": "authored"
+  },
+  "3886": {
+    "name": "Royal Crown",
+    "description": "The crown above the crown — violet, vault insured.",
+    "source": "authored"
+  },
+  "3887": {
+    "name": "Crushed Velvet",
+    "description": "Velvet with the nap disturbed — violet-black, handprints legible.",
+    "source": "authored"
+  },
+  "3888": {
+    "name": "Heartless",
+    "description": "The keyhole where the heart was — violet-black, Kingdom Hearts canon.",
+    "source": "authored"
+  },
+  "3889": {
+    "name": "Opulent Purple",
+    "description": "Purple with the suite upgraded.",
+    "source": "authored"
+  },
+  "3890": {
+    "name": "Possessed Purple",
+    "description": "Purple speaking in tongues — violet, heads rotating.",
+    "source": "authored"
+  },
+  "3891": {
+    "name": "Fedora",
+    "description": "The hat tipped by legend — violet-black felt, m'colour.",
+    "source": "authored"
+  },
+  "3892": {
+    "name": "Royal Purpleness",
+    "description": "The purple addressed formally — violet, curtsy expected.",
+    "source": "authored"
+  },
+  "3893": {
+    "name": "Bruise",
+    "description": "The week-long violet souvenir — yellow by Friday.",
+    "source": "authored"
+  },
+  "3894": {
+    "name": "Mosaic",
+    "description": "Tesserae in violet-black — grout as drawing.",
+    "source": "authored"
+  },
+  "3895": {
+    "name": "Haunted Purple",
+    "description": "Purple with a tenant it can't evict.",
+    "source": "authored"
+  },
+  "3896": {
+    "name": "Persian Luxury Purple",
+    "description": "The violet of carpets that outlast empires — knots per inch bragging.",
+    "source": "authored"
+  },
+  "3897": {
+    "name": "Warm Purple",
+    "description": "Purple with the hearth lit.",
+    "source": "authored"
+  },
+  "3898": {
+    "name": "Bloodsport",
+    "description": "Violet with a tournament bracket — Van Damme splits included.",
+    "source": "authored"
+  },
+  "3899": {
+    "name": "Royal Flush",
+    "description": "Ace through ten, one suit — violet felt, table quiet.",
+    "source": "authored"
   },
   "3951": {
     "name": "Tayberry",
