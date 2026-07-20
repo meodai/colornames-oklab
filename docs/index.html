@@ -92,9 +92,9 @@
   .card .fmeta { padding: 0 .6rem .5rem; font-size: .7rem; color: var(--faint); font-variant-numeric: tabular-nums; }
   .card .fcss {
     padding: 0 .6rem .55rem; font: .64rem/1.5 ui-monospace, 'SF Mono', Menlo, monospace;
-    color: var(--muted); overflow-wrap: anywhere;
+    color: var(--muted); overflow-wrap: anywhere; min-height: calc(3em + .55rem);
   }
-  .card .fcss:empty { display: none; }
+  #tip .fnm { line-height: 1.25; min-height: 2.5em; }
   #tip {
     position: fixed; left: 1rem; bottom: 1rem; z-index: 20;
     pointer-events: none; display: none; width: 148px;
@@ -48354,6 +48354,10 @@ const toP3 = (M, lin) => mulM(X2P, mulM(M, lin)).map((x) => clamp01(srgbEncode(x
 // display-ready RGB for the drawing buffer: real P3 / converted sRGB+Rec2020
 // on wide-gamut displays, OKLCH-clamped sRGB fallback everywhere else
 const P3MAP = JSON.parse(document.getElementById('p3map').textContent);
+const cssLine = (c) =>
+  c.tier === 'srgb'
+    ? 'color(srgb ' + hexToRgb(c.css).map((v) => +v.toFixed(4)).join(' ') + ')'
+    : c.css;
 const pointColor = (c, i) => {
   if (!P3_OK) return hexToRgb(c.fallbackHex);
   if (c.tier === 'srgb') return toP3(S2X, hexToRgb(c.css).map(srgbDecode));
@@ -48458,7 +48462,7 @@ function updateHover() {
   tip.querySelector('.fsw').style.background = c.css;
   tip.querySelector('.fnm').textContent = c.name;
   tip.querySelector('.fmeta').textContent = TIER_LABEL[c.tier] + ' · ' + c.fallbackHex;
-  tip.querySelector('.fcss').textContent = c.tier === 'srgb' ? '' : c.css;
+  tip.querySelector('.fcss').textContent = cssLine(c);
   tip.style.display = 'block';
 }
 
@@ -48508,7 +48512,7 @@ FAVES.forEach((n) => {
   d.querySelector('.fsw').style.background = c.css;
   d.querySelector('.fnm').textContent = c.name;
   d.querySelector('.fmeta').textContent = TIER_LABEL[c.tier] + ' · ' + c.fallbackHex;
-  d.querySelector('.fcss').textContent = c.tier === 'srgb' ? '' : c.css;
+  d.querySelector('.fcss').textContent = cssLine(c);
   favEl.appendChild(d);
 });
 </script>
