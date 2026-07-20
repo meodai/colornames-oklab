@@ -297,7 +297,7 @@ const makeLabel = (text, p) => {
   const c = document.createElement('canvas');
   c.width = 128; c.height = 64;
   const g = c.getContext('2d');
-  g.font = '500 40px ui-sans-serif, system-ui';
+  g.font = '300 40px ui-sans-serif, system-ui';
   g.fillStyle = theme().label;
   g.textAlign = 'center'; g.textBaseline = 'middle';
   g.fillText(text, 64, 32);
@@ -422,7 +422,7 @@ function applyTheme() {
     const c = sprite.material.map.source.data;
     const g = c.getContext('2d');
     g.clearRect(0, 0, c.width, c.height);
-    g.font = '500 40px ui-sans-serif, system-ui';
+    g.font = '300 40px ui-sans-serif, system-ui';
     g.fillStyle = t.label;
     g.textAlign = 'center'; g.textBaseline = 'middle';
     g.fillText(text, 64, 32);
