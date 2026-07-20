@@ -58,7 +58,7 @@ Every name was written individually by **Claude Fable 5**, working through the l
 
 Two hard guarantees are enforced by scripts:
 
-- **Uniqueness** — all 3000 names are unique (validated on every build).
+- **Uniqueness** — all 3000 names are unique (validated on every build), and every `hex` fallback is unique too (colliding wide-gamut clamps are deterministically nudged to the nearest free hex).
 - **Basics on solid ground** — ~80 "obvious" names (`Red`, `Blue`, `Green`, `Yellow`, `Orange`, `Navy`, `Pink`, `Brown`, `White`, `Black`, `Teal`, `Cyan`, `Gold`, `Peach`, `Turquoise`, …) are audited to exist **and** to sit on `srgb`-tier points close to their reference colors. Nobody should need a P3 monitor to see "Pink".
 
 ### 4. Reproducibility

@@ -79,7 +79,14 @@ for (const e of list) {
   check(!m, m && `"${e.name}": contains denylisted term "${m[0]}"`);
 }
 
-// 3. structure + value sanity
+// 3. no duplicate hex fallbacks
+const seenHex = new Map();
+for (const e of list) {
+  if (seenHex.has(e.hex)) fail.push(`duplicate hex ${e.hex}: "${seenHex.get(e.hex)}" vs "${e.name}"`);
+  else seenHex.set(e.hex, e.name);
+}
+
+// 4. structure + value sanity
 const TIERS = new Set(['srgb', 'p3', 'rec2020']);
 const inSrgb = inGamut('rgb');
 const inP3 = inGamut('p3');
