@@ -112,7 +112,7 @@
   }
  },
  {
-  "name": "Black Plum",
+  "name": "Bats Cloak",
   "tier": "srgb",
   "css": "#1f121b",
   "fallbackHex": "#1f121b",
@@ -224,7 +224,7 @@
   }
  },
  {
-  "name": "Dusky Plum",
+  "name": "Witches Cauldron",
   "tier": "srgb",
   "css": "#3b303c",
   "fallbackHex": "#3b303c",
@@ -544,7 +544,7 @@
   }
  },
  {
-  "name": "Sea Fog",
+  "name": "Wild Life",
   "tier": "srgb",
   "css": "#aec3c3",
   "fallbackHex": "#aec3c3",
@@ -560,7 +560,7 @@
   }
  },
  {
-  "name": "Lilac Ash",
+  "name": "Mecha Kitty",
   "tier": "srgb",
   "css": "#c9c3d3",
   "fallbackHex": "#c9c3d3",
@@ -576,7 +576,7 @@
   }
  },
  {
-  "name": "Sea Glass",
+  "name": "Windy",
   "tier": "srgb",
   "css": "#b6d1ce",
   "fallbackHex": "#b6d1ce",
@@ -608,7 +608,7 @@
   }
  },
  {
-  "name": "Rose Mist",
+  "name": "Ephemeral Red",
   "tier": "srgb",
   "css": "#e9ceda",
   "fallbackHex": "#e9ceda",
@@ -640,7 +640,7 @@
   }
  },
  {
-  "name": "Pale Lilac",
+  "name": "Velvet Scarf",
   "tier": "srgb",
   "css": "#e3dcf0",
   "fallbackHex": "#e3dcf0",
@@ -672,7 +672,7 @@
   }
  },
  {
-  "name": "Orchid White",
+  "name": "Perfume Haze",
   "tier": "srgb",
   "css": "#f4e8fe",
   "fallbackHex": "#f4e8fe",
@@ -1072,7 +1072,7 @@
   }
  },
  {
-  "name": "Raspberry Punch",
+  "name": "Yearning Desire",
   "tier": "p3",
   "css": "color(display-p3 0.7485 0.0654 0.3517)",
   "fallbackHex": "#ca005b",
@@ -1136,7 +1136,7 @@
   }
  },
  {
-  "name": "Dusty Rose",
+  "name": "Cinnapink",
   "tier": "srgb",
   "css": "#a25c67",
   "fallbackHex": "#a25c67",
@@ -1264,7 +1264,7 @@
   }
  },
  {
-  "name": "Rose Smoke",
+  "name": "Opium",
   "tier": "srgb",
   "css": "#9a7b7f",
   "fallbackHex": "#9a7b7f",
@@ -1344,7 +1344,7 @@
   }
  },
  {
-  "name": "Rose Pink",
+  "name": "Peppermint Swirl",
   "tier": "srgb",
   "css": "#ca6585",
   "fallbackHex": "#ca6585",
@@ -1424,7 +1424,7 @@
   }
  },
  {
-  "name": "French Rose",
+  "name": "Hindu Lotus",
   "tier": "srgb",
   "css": "#f24980",
   "fallbackHex": "#f24980",
@@ -1504,7 +1504,7 @@
   }
  },
  {
-  "name": "Pink Pop",
+  "name": "Diva Pink",
   "tier": "p3",
   "css": "color(display-p3 0.9351 0.3322 0.5302)",
   "fallbackHex": "#ff4a88",
@@ -1760,7 +1760,7 @@
   }
  },
  {
-  "name": "Flamingo Glow",
+  "name": "Fruity Licious",
   "tier": "rec2020",
   "css": "color(rec2020 0.993 0.4465 0.5029)",
   "fallbackHex": "#ff929f",
@@ -1840,7 +1840,7 @@
   }
  },
  {
-  "name": "Backlit Rose",
+  "name": "Pink Blush",
   "tier": "rec2020",
   "css": "color(rec2020 0.9339 0.6307 0.6717)",
   "fallbackHex": "#ffabb8",
@@ -1856,7 +1856,7 @@
   }
  },
  {
-  "name": "Ballerina Glow",
+  "name": "Poodle Skirt",
   "tier": "rec2020",
   "css": "color(rec2020 0.9956 0.6054 0.694)",
   "fallbackHex": "#ffb0c1",
@@ -2192,7 +2192,7 @@
   }
  },
  {
-  "name": "Ruby Laser",
+  "name": "Hot Lava",
   "tier": "rec2020",
   "css": "color(rec2020 0.5652 0.0043 0.0911)",
   "fallbackHex": "#ae0033",
@@ -2560,7 +2560,7 @@
   }
  },
  {
-  "name": "Canyon Rose",
+  "name": "Nipple",
   "tier": "srgb",
   "css": "#b97471",
   "fallbackHex": "#b97471",
@@ -2704,7 +2704,7 @@
   }
  },
  {
-  "name": "Scarlet Beam",
+  "name": "Red Mana",
   "tier": "rec2020",
   "css": "color(rec2020 0.9121 0.2257 0.2075)",
   "fallbackHex": "#ff535c",
@@ -2720,7 +2720,7 @@
   }
  },
  {
-  "name": "Adobe Rose",
+  "name": "Muted Clay",
   "tier": "srgb",
   "css": "#cb897e",
   "fallbackHex": "#cb897e",
@@ -2768,7 +2768,7 @@
   }
  },
  {
-  "name": "Cerise Flash",
+  "name": "Fusion Red",
   "tier": "rec2020",
   "css": "color(rec2020 0.9361 0.2502 0.3227)",
   "fallbackHex": "#ff6075",
@@ -2816,7 +2816,7 @@
   }
  },
  {
-  "name": "Salmon Rose",
+  "name": "Georgia Peach",
   "tier": "srgb",
   "css": "#f6756e",
   "fallbackHex": "#f6756e",
@@ -2992,7 +2992,7 @@
   }
  },
  {
-  "name": "Coral Glow",
+  "name": "Mad Pinker",
   "tier": "rec2020",
   "css": "color(rec2020 0.9211 0.5313 0.4649)",
   "fallbackHex": "#ff948f",
@@ -3008,7 +3008,7 @@
   }
  },
  {
-  "name": "Peach Blush",
+  "name": "Perfect Pink",
   "tier": "srgb",
   "css": "#e1b2ac",
   "fallbackHex": "#e1b2ac",
@@ -3040,7 +3040,7 @@
   }
  },
  {
-  "name": "Melon Glow",
+  "name": "Apricot Haze",
   "tier": "rec2020",
   "css": "color(rec2020 0.9514 0.6353 0.5509)",
   "fallbackHex": "#ffafa5",
@@ -3056,7 +3056,7 @@
   }
  },
  {
-  "name": "Tea Rose",
+  "name": "Young Salmon",
   "tier": "srgb",
   "css": "#feafab",
   "fallbackHex": "#feafab",
@@ -3088,7 +3088,7 @@
   }
  },
  {
-  "name": "Seashell Glow",
+  "name": "We Peep",
   "tier": "rec2020",
   "css": "color(rec2020 0.992 0.8196 0.7803)",
   "fallbackHex": "#ffd9d6",
@@ -3696,7 +3696,7 @@
   }
  },
  {
-  "name": "Tangerine Glow",
+  "name": "Tiger of Mysore",
   "tier": "rec2020",
   "css": "color(rec2020 0.9346 0.4454 0.0384)",
   "fallbackHex": "#ff8550",
@@ -3728,7 +3728,7 @@
   }
  },
  {
-  "name": "Sea Fan",
+  "name": "Coralistic",
   "tier": "rec2020",
   "css": "color(rec2020 0.9995 0.4584 0.2359)",
   "fallbackHex": "#ff947d",
@@ -3824,7 +3824,7 @@
   }
  },
  {
-  "name": "Peach Glow",
+  "name": "Discreet Orange",
   "tier": "rec2020",
   "css": "color(rec2020 0.9841 0.6157 0.3634)",
   "fallbackHex": "#ffaf8f",
@@ -4224,7 +4224,7 @@
   }
  },
  {
-  "name": "Orange Pop",
+  "name": "Burning Orange",
   "tier": "p3",
   "css": "color(display-p3 0.9701 0.4567 0.1282)",
   "fallbackHex": "#ff7525",
@@ -4288,7 +4288,7 @@
   }
  },
  {
-  "name": "Apricot Blaze",
+  "name": "Tangerine Tango",
   "tier": "rec2020",
   "css": "color(rec2020 0.9245 0.5668 0.0955)",
   "fallbackHex": "#ff9d4f",
@@ -4320,7 +4320,7 @@
   }
  },
  {
-  "name": "Creamsicle Glow",
+  "name": "Butternut",
   "tier": "rec2020",
   "css": "color(rec2020 0.9928 0.5889 0.2261)",
   "fallbackHex": "#ffab80",
@@ -4336,7 +4336,7 @@
   }
  },
  {
-  "name": "Cantaloupe Glow",
+  "name": "Blushing Cinnamon",
   "tier": "rec2020",
   "css": "color(rec2020 0.9969 0.6865 0.3223)",
   "fallbackHex": "#ffbf92",
@@ -4352,7 +4352,7 @@
   }
  },
  {
-  "name": "Nectar Glow",
+  "name": "Polly",
   "tier": "rec2020",
   "css": "color(rec2020 0.9902 0.7407 0.4652)",
   "fallbackHex": "#ffc9a4",
@@ -4368,7 +4368,7 @@
   }
  },
  {
-  "name": "Warm Glow",
+  "name": "Gentle Caress",
   "tier": "rec2020",
   "css": "color(rec2020 0.9873 0.7895 0.5907)",
   "fallbackHex": "#ffd2b8",
@@ -4688,7 +4688,7 @@
   }
  },
  {
-  "name": "Golden Glow",
+  "name": "Burning Flame",
   "tier": "rec2020",
   "css": "color(rec2020 0.9791 0.6283 0.0393)",
   "fallbackHex": "#ffb16b",
@@ -5056,7 +5056,7 @@
   }
  },
  {
-  "name": "Turmeric Glow",
+  "name": "Deadly Mustard",
   "tier": "rec2020",
   "css": "color(rec2020 0.7657 0.627 0.0057)",
   "fallbackHex": "#d8a800",
@@ -5648,7 +5648,7 @@
   }
  },
  {
-  "name": "Butter Glow",
+  "name": "Eggnog",
   "tier": "rec2020",
   "css": "color(rec2020 0.9852 0.909 0.4394)",
   "fallbackHex": "#ffea9e",
@@ -5664,7 +5664,7 @@
   }
  },
  {
-  "name": "Lemon Beam",
+  "name": "Spätzle Yellow",
   "tier": "rec2020",
   "css": "color(rec2020 0.9971 0.9317 0.1772)",
   "fallbackHex": "#fff08b",
@@ -5680,7 +5680,7 @@
   }
  },
  {
-  "name": "Custard Glow",
+  "name": "Sun-Kissed Sands",
   "tier": "rec2020",
   "css": "color(rec2020 0.9854 0.9214 0.5947)",
   "fallbackHex": "#ffedb7",
@@ -5696,7 +5696,7 @@
   }
  },
  {
-  "name": "Lemon Glow",
+  "name": "Bollywood Gold",
   "tier": "rec2020",
   "css": "color(rec2020 0.9987 0.975 0.4023)",
   "fallbackHex": "#fff8a6",
@@ -6864,7 +6864,7 @@
   }
  },
  {
-  "name": "Spring Meadow",
+  "name": "Fiddle-Leaf Fig",
   "tier": "srgb",
   "css": "#9ac76f",
   "fallbackHex": "#9ac76f",
@@ -6992,7 +6992,7 @@
   }
  },
  {
-  "name": "Lime Pop",
+  "name": "Sour Green",
   "tier": "p3",
   "css": "color(display-p3 0.7823 0.8906 0.2492)",
   "fallbackHex": "#c1e400",
@@ -7584,7 +7584,7 @@
   }
  },
  {
-  "name": "Green Flash",
+  "name": "Pestering Pesto",
   "tier": "rec2020",
   "css": "color(rec2020 0.2082 0.5637 0.0194)",
   "fallbackHex": "#009833",
@@ -7936,7 +7936,7 @@
   }
  },
  {
-  "name": "Emerald Pop",
+  "name": "Battletoad",
   "tier": "p3",
   "css": "color(display-p3 0.2316 0.8227 0.3041)",
   "fallbackHex": "#00cf55",
@@ -8128,7 +8128,7 @@
   }
  },
  {
-  "name": "Green Burst",
+  "name": "Out of Left Field",
   "tier": "srgb",
   "css": "#4ae640",
   "fallbackHex": "#4ae640",
@@ -8224,7 +8224,7 @@
   }
  },
  {
-  "name": "Pale Jade",
+  "name": "Frosted Fir",
   "tier": "srgb",
   "css": "#afd5b4",
   "fallbackHex": "#afd5b4",
@@ -8416,7 +8416,7 @@
   }
  },
  {
-  "name": "Green Glow",
+  "name": "Poisonous Dart",
   "tier": "rec2020",
   "css": "color(rec2020 0.6453 0.9898 0.3433)",
   "fallbackHex": "#81ff69",
@@ -8464,7 +8464,7 @@
   }
  },
  {
-  "name": "Mint Glow",
+  "name": "Creamy Mint",
   "tier": "rec2020",
   "css": "color(rec2020 0.6979 0.9996 0.5894)",
   "fallbackHex": "#9cffa8",
@@ -8624,7 +8624,7 @@
   }
  },
  {
-  "name": "Emerald Depths",
+  "name": "Deep Pond",
   "tier": "rec2020",
   "css": "color(rec2020 0.0122 0.2326 0.0261)",
   "fallbackHex": "#004624",
@@ -8688,7 +8688,7 @@
   }
  },
  {
-  "name": "Dark Jade",
+  "name": "Moor-Monster",
   "tier": "rec2020",
   "css": "color(rec2020 0.0355 0.2891 0.0962)",
   "fallbackHex": "#005434",
@@ -8720,7 +8720,7 @@
   }
  },
  {
-  "name": "Emerald Isle",
+  "name": "Ficus Elastica",
   "tier": "rec2020",
   "css": "color(rec2020 0.0381 0.3366 0.0295)",
   "fallbackHex": "#005f2e",
@@ -8912,7 +8912,7 @@
   }
  },
  {
-  "name": "Emerald Green",
+  "name": "Woodland Soul",
   "tier": "p3",
   "css": "color(display-p3 0.1736 0.4879 0.3154)",
   "fallbackHex": "#007d4f",
@@ -8976,7 +8976,7 @@
   }
  },
  {
-  "name": "Emerald Flash",
+  "name": "Later Gator",
   "tier": "rec2020",
   "css": "color(rec2020 0.0481 0.5273 0.1439)",
   "fallbackHex": "#008951",
@@ -8992,7 +8992,7 @@
   }
  },
  {
-  "name": "Jade Green",
+  "name": "Monster Monstera",
   "tier": "p3",
   "css": "color(display-p3 0.1067 0.5604 0.347)",
   "fallbackHex": "#008c5c",
@@ -9056,7 +9056,7 @@
   }
  },
  {
-  "name": "Sea Moss",
+  "name": "Beanpole",
   "tier": "srgb",
   "css": "#418c63",
   "fallbackHex": "#418c63",
@@ -9088,7 +9088,7 @@
   }
  },
  {
-  "name": "Vibrant Emerald",
+  "name": "Green Revolution",
   "tier": "rec2020",
   "css": "color(rec2020 0.1097 0.5788 0.0912)",
   "fallbackHex": "#00964e",
@@ -9136,7 +9136,7 @@
   }
  },
  {
-  "name": "Faded Jade",
+  "name": "Kashmir",
   "tier": "srgb",
   "css": "#618b6e",
   "fallbackHex": "#618b6e",
@@ -9184,7 +9184,7 @@
   }
  },
  {
-  "name": "Fresh Emerald",
+  "name": "Fennel Fiasco",
   "tier": "p3",
   "css": "color(display-p3 0.1684 0.6447 0.277)",
   "fallbackHex": "#00a24c",
@@ -9200,7 +9200,7 @@
   }
  },
  {
-  "name": "Jade Blaze",
+  "name": "Prairie",
   "tier": "rec2020",
   "css": "color(rec2020 0.0014 0.6393 0.2391)",
   "fallbackHex": "#00a068",
@@ -9232,7 +9232,7 @@
   }
  },
  {
-  "name": "Emerald Burst",
+  "name": "Jungle",
   "tier": "rec2020",
   "css": "color(rec2020 0.2228 0.6288 0.2502)",
   "fallbackHex": "#00a65f",
@@ -9312,7 +9312,7 @@
   }
  },
  {
-  "name": "Emerald Beam",
+  "name": "Secret Garden",
   "tier": "rec2020",
   "css": "color(rec2020 0.1616 0.6875 0.2815)",
   "fallbackHex": "#00af6e",
@@ -9328,7 +9328,7 @@
   }
  },
  {
-  "name": "Emerald Glow",
+  "name": "Intoxicate",
   "tier": "rec2020",
   "css": "color(rec2020 0.267 0.6939 0.2153)",
   "fallbackHex": "#00b65a",
@@ -9408,7 +9408,7 @@
   }
  },
  {
-  "name": "Dusty Jade",
+  "name": "Catnip",
   "tier": "srgb",
   "css": "#7aab8f",
   "fallbackHex": "#7aab8f",
@@ -9440,7 +9440,7 @@
   }
  },
  {
-  "name": "Glowing Jade",
+  "name": "Turtle Warrior",
   "tier": "rec2020",
   "css": "color(rec2020 0.2505 0.7468 0.3078)",
   "fallbackHex": "#00c071",
@@ -9456,7 +9456,7 @@
   }
  },
  {
-  "name": "Sea Green",
+  "name": "Frog Pond",
   "tier": "srgb",
   "css": "#4cbd8e",
   "fallbackHex": "#4cbd8e",
@@ -9472,7 +9472,7 @@
   }
  },
  {
-  "name": "Spring Emerald",
+  "name": "Alienated",
   "tier": "p3",
   "css": "color(display-p3 0.23 0.7855 0.3889)",
   "fallbackHex": "#00c667",
@@ -9504,7 +9504,7 @@
   }
  },
  {
-  "name": "Emerald Surf",
+  "name": "Magical Malachite",
   "tier": "rec2020",
   "css": "color(rec2020 0.1836 0.7927 0.386)",
   "fallbackHex": "#00c685",
@@ -9520,7 +9520,7 @@
   }
  },
  {
-  "name": "Soft Jade",
+  "name": "Verde",
   "tier": "srgb",
   "css": "#7db98c",
   "fallbackHex": "#7db98c",
@@ -9552,7 +9552,7 @@
   }
  },
  {
-  "name": "Peak Emerald",
+  "name": "Bermudagrass",
   "tier": "rec2020",
   "css": "color(rec2020 0.0057 0.834 0.2102)",
   "fallbackHex": "#00ca79",
@@ -9632,7 +9632,7 @@
   }
  },
  {
-  "name": "Jade Beam",
+  "name": "Seaweed",
   "tier": "rec2020",
   "css": "color(rec2020 0.3426 0.817 0.4044)",
   "fallbackHex": "#00d380",
@@ -9760,7 +9760,7 @@
   }
  },
  {
-  "name": "Spring Pop",
+  "name": "Koopa Green Shell",
   "tier": "p3",
   "css": "color(display-p3 0.3511 0.861 0.4441)",
   "fallbackHex": "#00dd6b",
@@ -9792,7 +9792,7 @@
   }
  },
  {
-  "name": "Emerald Ray",
+  "name": "Limonana",
   "tier": "rec2020",
   "css": "color(rec2020 0.2526 0.9001 0.3165)",
   "fallbackHex": "#00df82",
@@ -9808,7 +9808,7 @@
   }
  },
  {
-  "name": "Mint Beam",
+  "name": "Fluorescence",
   "tier": "rec2020",
   "css": "color(rec2020 0.3745 0.8699 0.5163)",
   "fallbackHex": "#00df97",
@@ -9888,7 +9888,7 @@
   }
  },
  {
-  "name": "Seafoam Glow",
+  "name": "Envy’s Love",
   "tier": "rec2020",
   "css": "color(rec2020 0.2875 0.9062 0.5488)",
   "fallbackHex": "#00e2a3",
@@ -10016,7 +10016,7 @@
   }
  },
  {
-  "name": "Sea Sparkle",
+  "name": "The Matrix",
   "tier": "rec2020",
   "css": "color(rec2020 0.3592 0.9435 0.2951)",
   "fallbackHex": "#00ed79",
@@ -10032,7 +10032,7 @@
   }
  },
  {
-  "name": "Emerald Overdrive",
+  "name": "Grotesque Green",
   "tier": "rec2020",
   "css": "color(rec2020 0.0866 0.9933 0.2727)",
   "fallbackHex": "#00ed8d",
@@ -10160,7 +10160,7 @@
   }
  },
  {
-  "name": "Sea Mist",
+  "name": "Bay",
   "tier": "srgb",
   "css": "#b8dfcb",
   "fallbackHex": "#b8dfcb",
@@ -10224,7 +10224,7 @@
   }
  },
  {
-  "name": "Mint Flash",
+  "name": "Illicit Green",
   "tier": "rec2020",
   "css": "color(rec2020 0.5289 0.9946 0.5928)",
   "fallbackHex": "#3cffa5",
@@ -10416,7 +10416,7 @@
   }
  },
  {
-  "name": "Emerald Pool",
+  "name": "Philodendron",
   "tier": "rec2020",
   "css": "color(rec2020 0.014 0.3389 0.2153)",
   "fallbackHex": "#005e4a",
@@ -10496,7 +10496,7 @@
   }
  },
  {
-  "name": "Sea Emerald",
+  "name": "Tropical Rainforest",
   "tier": "rec2020",
   "css": "color(rec2020 0.1222 0.441 0.3164)",
   "fallbackHex": "#007a61",
@@ -10528,7 +10528,7 @@
   }
  },
  {
-  "name": "Emerald Teal",
+  "name": "Elf",
   "tier": "p3",
   "css": "color(display-p3 0.0806 0.5354 0.4046)",
   "fallbackHex": "#008668",
@@ -10560,7 +10560,7 @@
   }
  },
  {
-  "name": "Sea Fern",
+  "name": "Pearl Green",
   "tier": "srgb",
   "css": "#48826e",
   "fallbackHex": "#48826e",
@@ -10576,7 +10576,7 @@
   }
  },
  {
-  "name": "Deep Sea Green",
+  "name": "Go Go Green",
   "tier": "rec2020",
   "css": "color(rec2020 0.1624 0.5087 0.3342)",
   "fallbackHex": "#008a68",
@@ -10656,7 +10656,7 @@
   }
  },
  {
-  "name": "Jade Lagoon",
+  "name": "Bulma Hair",
   "tier": "rec2020",
   "css": "color(rec2020 0.2419 0.5982 0.4079)",
   "fallbackHex": "#00a178",
@@ -10672,7 +10672,7 @@
   }
  },
  {
-  "name": "Sea Jade",
+  "name": "Natural Orchestra",
   "tier": "srgb",
   "css": "#459d84",
   "fallbackHex": "#459d84",
@@ -10704,7 +10704,7 @@
   }
  },
  {
-  "name": "Jade Flash",
+  "name": "Cosmic Green",
   "tier": "rec2020",
   "css": "color(rec2020 0.202 0.6344 0.3968)",
   "fallbackHex": "#00a67a",
@@ -10720,7 +10720,7 @@
   }
  },
  {
-  "name": "Viridian Glow",
+  "name": "Herbal",
   "tier": "rec2020",
   "css": "color(rec2020 0.1942 0.6367 0.4988)",
   "fallbackHex": "#00a78b",
@@ -10768,7 +10768,7 @@
   }
  },
  {
-  "name": "Tropical Jade",
+  "name": "Slime Girl",
   "tier": "p3",
   "css": "color(display-p3 0.2167 0.698 0.5491)",
   "fallbackHex": "#00b18c",
@@ -10784,7 +10784,7 @@
   }
  },
  {
-  "name": "Jade Mask",
+  "name": "Electra",
   "tier": "rec2020",
   "css": "color(rec2020 0.008 0.7196 0.4284)",
   "fallbackHex": "#00b287",
@@ -10848,7 +10848,7 @@
   }
  },
  {
-  "name": "Mint Jade",
+  "name": "Bleached Olive",
   "tier": "p3",
   "css": "color(display-p3 0.1045 0.7596 0.5558)",
   "fallbackHex": "#00be90",
@@ -10864,7 +10864,7 @@
   }
  },
  {
-  "name": "Sea Stone",
+  "name": "Ninja Turtle",
   "tier": "srgb",
   "css": "#8eaca2",
   "fallbackHex": "#8eaca2",
@@ -10976,7 +10976,7 @@
   }
  },
  {
-  "name": "Sea Sage",
+  "name": "Seaborn",
   "tier": "srgb",
   "css": "#8dbcaa",
   "fallbackHex": "#8dbcaa",
@@ -11008,7 +11008,7 @@
   }
  },
  {
-  "name": "Fresh Jade",
+  "name": "Mermaid’s Kiss",
   "tier": "p3",
   "css": "color(display-p3 0.3529 0.8117 0.6329)",
   "fallbackHex": "#00d19f",
@@ -11024,7 +11024,7 @@
   }
  },
  {
-  "name": "Aqua Flash",
+  "name": "Minted Elegance",
   "tier": "rec2020",
   "css": "color(rec2020 0.2581 0.8297 0.5821)",
   "fallbackHex": "#00d1a4",
@@ -11088,7 +11088,7 @@
   }
  },
  {
-  "name": "Caribbean Glow",
+  "name": "Pristine Oceanic",
   "tier": "rec2020",
   "css": "color(rec2020 0.139 0.8753 0.6671)",
   "fallbackHex": "#00d7b4",
@@ -11136,7 +11136,7 @@
   }
  },
  {
-  "name": "Sea Spray",
+  "name": "Mint Twist",
   "tier": "srgb",
   "css": "#98cdbc",
   "fallbackHex": "#98cdbc",
@@ -11184,7 +11184,7 @@
   }
  },
  {
-  "name": "Tropical Glow",
+  "name": "Ice Climber",
   "tier": "rec2020",
   "css": "color(rec2020 0.2638 0.9321 0.7298)",
   "fallbackHex": "#00e7c1",
@@ -11200,7 +11200,7 @@
   }
  },
  {
-  "name": "Lagoon Laser",
+  "name": "Near Moon",
   "tier": "rec2020",
   "css": "color(rec2020 0.0145 0.9626 0.7173)",
   "fallbackHex": "#00e7c1",
@@ -11216,7 +11216,7 @@
   }
  },
  {
-  "name": "Spearmint Beam",
+  "name": "Hyperpop Green",
   "tier": "rec2020",
   "css": "color(rec2020 0.3767 0.9286 0.6147)",
   "fallbackHex": "#00ebad",
@@ -11280,7 +11280,7 @@
   }
  },
  {
-  "name": "Milky Seas",
+  "name": "Onsen",
   "tier": "rec2020",
   "css": "color(rec2020 0.2696 0.984 0.66)",
   "fallbackHex": "#00f1ba",
@@ -11312,7 +11312,7 @@
   }
  },
  {
-  "name": "Turquoise Glow",
+  "name": "Aphrodite Aqua",
   "tier": "rec2020",
   "css": "color(rec2020 0.343 0.9799 0.7712)",
   "fallbackHex": "#00f4cb",
@@ -11344,7 +11344,7 @@
   }
  },
  {
-  "name": "Mint Surge",
+  "name": "Minty Paradise",
   "tier": "rec2020",
   "css": "color(rec2020 0.412 0.9954 0.685)",
   "fallbackHex": "#00fabc",
@@ -11728,7 +11728,7 @@
   }
  },
  {
-  "name": "Sea Teal",
+  "name": "Martian Cerulean",
   "tier": "p3",
   "css": "color(display-p3 0.2019 0.6133 0.5493)",
   "fallbackHex": "#009c8b",
@@ -11760,7 +11760,7 @@
   }
  },
  {
-  "name": "Sea Lantern",
+  "name": "Teal Me No Lies",
   "tier": "rec2020",
   "css": "color(rec2020 0.1719 0.6283 0.6196)",
   "fallbackHex": "#00a59d",
@@ -12144,7 +12144,7 @@
   }
  },
  {
-  "name": "Turquoise Flash",
+  "name": "Frozen Boubble",
   "tier": "rec2020",
   "css": "color(rec2020 0.4104 0.9279 0.8469)",
   "fallbackHex": "#00edd7",
@@ -12304,7 +12304,7 @@
   }
  },
  {
-  "name": "Aqua Glow",
+  "name": "Hello Winter",
   "tier": "rec2020",
   "css": "color(rec2020 0.6745 0.9911 0.9238)",
   "fallbackHex": "#88ffec",
@@ -12640,7 +12640,7 @@
   }
  },
  {
-  "name": "Cyan Blaze",
+  "name": "Oasis",
   "tier": "rec2020",
   "css": "color(rec2020 0.0171 0.6028 0.6971)",
   "fallbackHex": "#009ca2",
@@ -12704,7 +12704,7 @@
   }
  },
  {
-  "name": "Cyan Surge",
+  "name": "Baltic",
   "tier": "rec2020",
   "css": "color(rec2020 0.0655 0.6267 0.7979)",
   "fallbackHex": "#00a4b3",
@@ -12864,7 +12864,7 @@
   }
  },
  {
-  "name": "Cyan Beam",
+  "name": "Treasured Teal",
   "tier": "rec2020",
   "css": "color(rec2020 0.056 0.7648 0.9673)",
   "fallbackHex": "#00c2d3",
@@ -12944,7 +12944,7 @@
   }
  },
  {
-  "name": "Aqua Sky",
+  "name": "Neon Blue",
   "tier": "p3",
   "css": "color(display-p3 0.2456 0.8193 0.9135)",
   "fallbackHex": "#00d1e5",
@@ -13520,7 +13520,7 @@
   }
  },
  {
-  "name": "Cerulean Flash",
+  "name": "Mermaid Dreams",
   "tier": "rec2020",
   "css": "color(rec2020 0.2239 0.5335 0.7768)",
   "fallbackHex": "#0094b8",
@@ -13552,7 +13552,7 @@
   }
  },
  {
-  "name": "Pacific Beam",
+  "name": "Blue Moon",
   "tier": "rec2020",
   "css": "color(rec2020 0.0776 0.58 0.8351)",
   "fallbackHex": "#009bb5",
@@ -13680,7 +13680,7 @@
   }
  },
  {
-  "name": "Laser Sky",
+  "name": "Aquarius",
   "tier": "rec2020",
   "css": "color(rec2020 0.067 0.657 0.9946)",
   "fallbackHex": "#00adcf",
@@ -13712,7 +13712,7 @@
   }
  },
  {
-  "name": "Turquoise Sky",
+  "name": "Viking",
   "tier": "rec2020",
   "css": "color(rec2020 0.243 0.6803 0.8754)",
   "fallbackHex": "#00b4cc",
@@ -13728,7 +13728,7 @@
   }
  },
  {
-  "name": "Summer Sky",
+  "name": "Blue Bobbin",
   "tier": "srgb",
   "css": "#4bb6d2",
   "fallbackHex": "#4bb6d2",
@@ -13744,7 +13744,7 @@
   }
  },
  {
-  "name": "Neon Sky",
+  "name": "High Dive",
   "tier": "rec2020",
   "css": "color(rec2020 0.304 0.7208 0.9854)",
   "fallbackHex": "#00bfe4",
@@ -13760,7 +13760,7 @@
   }
  },
  {
-  "name": "Electric Sky",
+  "name": "Glassmith",
   "tier": "rec2020",
   "css": "color(rec2020 0.2367 0.7564 0.9701)",
   "fallbackHex": "#00c4dc",
@@ -13776,7 +13776,7 @@
   }
  },
  {
-  "name": "Bright Sky",
+  "name": "Megaman",
   "tier": "srgb",
   "css": "#0fc2e6",
   "fallbackHex": "#0fc2e6",
@@ -13808,7 +13808,7 @@
   }
  },
  {
-  "name": "Glowing Sky",
+  "name": "Thor’s Thunder",
   "tier": "rec2020",
   "css": "color(rec2020 0.3375 0.7955 0.9969)",
   "fallbackHex": "#00d0ea",
@@ -13840,7 +13840,7 @@
   }
  },
  {
-  "name": "Light Sky Blue",
+  "name": "Winter Wizard",
   "tier": "srgb",
   "css": "#97e7fe",
   "fallbackHex": "#97e7fe",
@@ -13920,7 +13920,7 @@
   }
  },
  {
-  "name": "Polar Night",
+  "name": "Nordic Noir",
   "tier": "rec2020",
   "css": "color(rec2020 0.0414 0.1568 0.286)",
   "fallbackHex": "#00394d",
@@ -14032,7 +14032,7 @@
   }
  },
  {
-  "name": "Cerulean Night",
+  "name": "Blue-Collar",
   "tier": "rec2020",
   "css": "color(rec2020 0.0835 0.3085 0.5681)",
   "fallbackHex": "#005f82",
@@ -14048,7 +14048,7 @@
   }
  },
  {
-  "name": "Sapphire Sea",
+  "name": "Blue Velvet",
   "tier": "rec2020",
   "css": "color(rec2020 0.0343 0.3183 0.6493)",
   "fallbackHex": "#006286",
@@ -14096,7 +14096,7 @@
   }
  },
  {
-  "name": "Cobalt Sea",
+  "name": "Hydra",
   "tier": "rec2020",
   "css": "color(rec2020 0.1564 0.3361 0.611)",
   "fallbackHex": "#006797",
@@ -14240,7 +14240,7 @@
   }
  },
  {
-  "name": "Blue Bolt",
+  "name": "Neptune",
   "tier": "rec2020",
   "css": "color(rec2020 0.2046 0.4567 0.7165)",
   "fallbackHex": "#0083ad",
@@ -14272,7 +14272,7 @@
   }
  },
  {
-  "name": "Ocean Beam",
+  "name": "Ahoy! Blue",
   "tier": "rec2020",
   "css": "color(rec2020 0.1255 0.4656 0.7838)",
   "fallbackHex": "#0084ab",
@@ -14320,7 +14320,7 @@
   }
  },
  {
-  "name": "Azure Flash",
+  "name": "Way Beyond the Blue",
   "tier": "rec2020",
   "css": "color(rec2020 0.1601 0.4614 0.9506)",
   "fallbackHex": "#0088c6",
@@ -14336,7 +14336,7 @@
   }
  },
  {
-  "name": "Cerulean Blaze",
+  "name": "Munsell Blue",
   "tier": "rec2020",
   "css": "color(rec2020 0.1228 0.5219 0.8593)",
   "fallbackHex": "#0091b8",
@@ -14368,7 +14368,7 @@
   }
  },
  {
-  "name": "Hyper Sky",
+  "name": "Swimmer",
   "tier": "rec2020",
   "css": "color(rec2020 0.115 0.524 0.9903)",
   "fallbackHex": "#0095c8",
@@ -14416,7 +14416,7 @@
   }
  },
  {
-  "name": "Cerulean Surge",
+  "name": "Mystic Blue",
   "tier": "rec2020",
   "css": "color(rec2020 0.1987 0.5802 0.9809)",
   "fallbackHex": "#00a1d4",
@@ -14432,7 +14432,7 @@
   }
  },
  {
-  "name": "Azure Beam",
+  "name": "Blue Bay",
   "tier": "rec2020",
   "css": "color(rec2020 0.2836 0.5687 0.9936)",
   "fallbackHex": "#00a0e5",
@@ -14464,7 +14464,7 @@
   }
  },
  {
-  "name": "Fluorescent Sky",
+  "name": "High Blue",
   "tier": "rec2020",
   "css": "color(rec2020 0.2965 0.6528 0.9964)",
   "fallbackHex": "#00b2e5",
@@ -14480,7 +14480,7 @@
   }
  },
  {
-  "name": "Cyan Sky",
+  "name": "Hawaii Morning",
   "tier": "p3",
   "css": "color(display-p3 0.1943 0.7069 0.9458)",
   "fallbackHex": "#00b5ea",
@@ -14512,7 +14512,7 @@
   }
  },
  {
-  "name": "Faded Sky",
+  "name": "Crystal Lake",
   "tier": "srgb",
   "css": "#91b4c8",
   "fallbackHex": "#91b4c8",
@@ -14672,7 +14672,7 @@
   }
  },
  {
-  "name": "Midnight Abyss",
+  "name": "Corbeau",
   "tier": "rec2020",
   "css": "color(rec2020 0.0014 0.0022 0.2115)",
   "fallbackHex": "#001122",
@@ -14768,7 +14768,7 @@
   }
  },
  {
-  "name": "Midnight Sapphire",
+  "name": "Nightwalker",
   "tier": "rec2020",
   "css": "color(rec2020 0.0025 0.042 0.3668)",
   "fallbackHex": "#002540",
@@ -14848,7 +14848,7 @@
   }
  },
  {
-  "name": "Night Tide",
+  "name": "Space Cadet",
   "tier": "rec2020",
   "css": "color(rec2020 0.0135 0.0733 0.3998)",
   "fallbackHex": "#002c4e",
@@ -14880,7 +14880,7 @@
   }
  },
  {
-  "name": "Sapphire Night",
+  "name": "Beyond the Stars",
   "tier": "rec2020",
   "css": "color(rec2020 0.0174 0.0598 0.4981)",
   "fallbackHex": "#003159",
@@ -15056,7 +15056,7 @@
   }
  },
  {
-  "name": "Ocean Night",
+  "name": "Aegean Blue",
   "tier": "rec2020",
   "css": "color(rec2020 0.0809 0.1867 0.4142)",
   "fallbackHex": "#00426d",
@@ -15072,7 +15072,7 @@
   }
  },
  {
-  "name": "Cobalt Shadow",
+  "name": "Napoleonic Blue",
   "tier": "rec2020",
   "css": "color(rec2020 0.0033 0.1146 0.6781)",
   "fallbackHex": "#00436d",
@@ -15136,7 +15136,7 @@
   }
  },
  {
-  "name": "Cobalt Night",
+  "name": "Maritime Outpost",
   "tier": "rec2020",
   "css": "color(rec2020 0.0608 0.1859 0.6212)",
   "fallbackHex": "#004a7f",
@@ -15216,7 +15216,7 @@
   }
  },
  {
-  "name": "Cobalt Storm",
+  "name": "3AM in Shibuya",
   "tier": "rec2020",
   "css": "color(rec2020 0.0279 0.235 0.638)",
   "fallbackHex": "#00537c",
@@ -15312,7 +15312,7 @@
   }
  },
  {
-  "name": "Cobalt Overdrive",
+  "name": "Whale’s Tale",
   "tier": "rec2020",
   "css": "color(rec2020 0.0006 0.1579 0.9653)",
   "fallbackHex": "#005b91",
@@ -15376,7 +15376,7 @@
   }
  },
  {
-  "name": "Cerulean Storm",
+  "name": "Mississippi River",
   "tier": "rec2020",
   "css": "color(rec2020 0.0121 0.294 0.8537)",
   "fallbackHex": "#006698",
@@ -15392,7 +15392,7 @@
   }
  },
  {
-  "name": "Sapphire Beam",
+  "name": "Hyper Blue",
   "tier": "rec2020",
   "css": "color(rec2020 0.133 0.2711 0.8293)",
   "fallbackHex": "#0061ad",
@@ -15408,7 +15408,7 @@
   }
  },
  {
-  "name": "Cobalt Flash",
+  "name": "Fist of the North Star",
   "tier": "rec2020",
   "css": "color(rec2020 0.0903 0.2576 0.8962)",
   "fallbackHex": "#0063a8",
@@ -15424,7 +15424,7 @@
   }
  },
  {
-  "name": "Cobalt Blaze",
+  "name": "Wavy Navy",
   "tier": "rec2020",
   "css": "color(rec2020 0.0405 0.2611 0.9695)",
   "fallbackHex": "#0067a5",
@@ -15472,7 +15472,7 @@
   }
  },
  {
-  "name": "Sapphire Glow",
+  "name": "Wing Commander",
   "tier": "rec2020",
   "css": "color(rec2020 0.1824 0.3114 0.7857)",
   "fallbackHex": "#0065ba",
@@ -15728,7 +15728,7 @@
   }
  },
  {
-  "name": "Postcard Sky",
+  "name": "Out of the Blue",
   "tier": "p3",
   "css": "color(display-p3 0.1465 0.5865 0.9186)",
   "fallbackHex": "#0098e1",
@@ -15776,7 +15776,7 @@
   }
  },
  {
-  "name": "Brilliant Sky",
+  "name": "Fresh Blue of Bel Air",
   "tier": "rec2020",
   "css": "color(rec2020 0.3871 0.6106 0.9987)",
   "fallbackHex": "#08aaff",
@@ -16608,7 +16608,7 @@
   }
  },
  {
-  "name": "Denim Sky",
+  "name": "Winter Lake",
   "tier": "srgb",
   "css": "#618dd0",
   "fallbackHex": "#618dd0",
@@ -16672,7 +16672,7 @@
   }
  },
  {
-  "name": "Periwinkle Glow",
+  "name": "Fennel Flower",
   "tier": "rec2020",
   "css": "color(rec2020 0.4823 0.541 0.998)",
   "fallbackHex": "#7197ff",
@@ -16832,7 +16832,7 @@
   }
  },
  {
-  "name": "Indigo Night",
+  "name": "Dark Eclipse",
   "tier": "srgb",
   "css": "#171d45",
   "fallbackHex": "#171d45",
@@ -17280,7 +17280,7 @@
   }
  },
  {
-  "name": "Indigo Burst",
+  "name": "Blustering Blue",
   "tier": "srgb",
   "css": "#4736ed",
   "fallbackHex": "#4736ed",
@@ -17328,7 +17328,7 @@
   }
  },
  {
-  "name": "Violet Surge",
+  "name": "Meteor Shower",
   "tier": "rec2020",
   "css": "color(rec2020 0.3124 0.0649 0.9809)",
   "fallbackHex": "#5b12ff",
@@ -17488,7 +17488,7 @@
   }
  },
  {
-  "name": "Violet Beam",
+  "name": "Arcane Brew",
   "tier": "rec2020",
   "css": "color(rec2020 0.3654 0.2407 0.9926)",
   "fallbackHex": "#644bff",
@@ -17552,7 +17552,7 @@
   }
  },
  {
-  "name": "Violet Pop",
+  "name": "Candy Grape Fizz",
   "tier": "p3",
   "css": "color(display-p3 0.4501 0.384 0.983)",
   "fallbackHex": "#7664ff",
@@ -18000,7 +18000,7 @@
   }
  },
  {
-  "name": "Purple Surge",
+  "name": "Wild Violet",
   "tier": "rec2020",
   "css": "color(rec2020 0.3041 0.0382 0.6756)",
   "fallbackHex": "#6700b7",
@@ -18032,7 +18032,7 @@
   }
  },
  {
-  "name": "Violet Overdrive",
+  "name": "Voluptuous Violet",
   "tier": "rec2020",
   "css": "color(rec2020 0.3149 0.004 0.7717)",
   "fallbackHex": "#6700c7",
@@ -18256,7 +18256,7 @@
   }
  },
  {
-  "name": "Purple Burst",
+  "name": "Purple Rain",
   "tier": "srgb",
   "css": "#7046dc",
   "fallbackHex": "#7046dc",
@@ -18528,7 +18528,7 @@
   }
  },
  {
-  "name": "Lavender Pop",
+  "name": "Matt Purple",
   "tier": "p3",
   "css": "color(display-p3 0.5741 0.4458 0.9999)",
   "fallbackHex": "#9874ff",
@@ -18576,7 +18576,7 @@
   }
  },
  {
-  "name": "Dusty Lilac",
+  "name": "Wizard’s Brew",
   "tier": "srgb",
   "css": "#a799ca",
   "fallbackHex": "#a799ca",
@@ -18608,7 +18608,7 @@
   }
  },
  {
-  "name": "Lavender Sky",
+  "name": "Cold Lips",
   "tier": "p3",
   "css": "color(display-p3 0.6123 0.5821 0.9959)",
   "fallbackHex": "#9e96ff",
@@ -18640,7 +18640,7 @@
   }
  },
  {
-  "name": "Lilac Breeze",
+  "name": "Diva",
   "tier": "p3",
   "css": "color(display-p3 0.7135 0.6658 0.9912)",
   "fallbackHex": "#b8aaff",
@@ -18704,7 +18704,7 @@
   }
  },
  {
-  "name": "Midnight Plum",
+  "name": "Coal Mine",
   "tier": "srgb",
   "css": "#1a052e",
   "fallbackHex": "#1a052e",
@@ -18752,7 +18752,7 @@
   }
  },
  {
-  "name": "Plum Pudding",
+  "name": "Romanic Scene",
   "tier": "srgb",
   "css": "#340c4c",
   "fallbackHex": "#340c4c",
@@ -18992,7 +18992,7 @@
   }
  },
  {
-  "name": "Purple Pop",
+  "name": "Violet Poison",
   "tier": "p3",
   "css": "color(display-p3 0.457 0.0019 0.7053)",
   "fallbackHex": "#7e00b6",
@@ -19040,7 +19040,7 @@
   }
  },
  {
-  "name": "Smoky Plum",
+  "name": "Plummy",
   "tier": "srgb",
   "css": "#6e5a79",
   "fallbackHex": "#6e5a79",
@@ -19184,7 +19184,7 @@
   }
  },
  {
-  "name": "Dark Orchid",
+  "name": "Dreamscape Purple",
   "tier": "srgb",
   "css": "#9932cb",
   "fallbackHex": "#9932cb",
@@ -19248,7 +19248,7 @@
   }
  },
  {
-  "name": "Purple Orchid",
+  "name": "Vicious Violet",
   "tier": "srgb",
   "css": "#984fbf",
   "fallbackHex": "#984fbf",
@@ -19280,7 +19280,7 @@
   }
  },
  {
-  "name": "Deep Lilac",
+  "name": "Prom Queen",
   "tier": "srgb",
   "css": "#9b4dda",
   "fallbackHex": "#9b4dda",
@@ -19376,7 +19376,7 @@
   }
  },
  {
-  "name": "Lilac Bloom",
+  "name": "Viola",
   "tier": "srgb",
   "css": "#a06cd5",
   "fallbackHex": "#a06cd5",
@@ -19440,7 +19440,7 @@
   }
  },
  {
-  "name": "Orchid Mantis",
+  "name": "Magento",
   "tier": "p3",
   "css": "color(display-p3 0.7001 0.3349 0.9913)",
   "fallbackHex": "#bd56ff",
@@ -19520,7 +19520,7 @@
   }
  },
  {
-  "name": "Lavender Burst",
+  "name": "Gloxinia",
   "tier": "p3",
   "css": "color(display-p3 0.6769 0.4464 0.9807)",
   "fallbackHex": "#b671ff",
@@ -19552,7 +19552,7 @@
   }
  },
  {
-  "name": "Lilac Pop",
+  "name": "Illicit Purple",
   "tier": "p3",
   "css": "color(display-p3 0.7406 0.5111 0.9717)",
   "fallbackHex": "#c77fff",
@@ -19584,7 +19584,7 @@
   }
  },
  {
-  "name": "Soft Lilac",
+  "name": "Turnip Crown",
   "tier": "srgb",
   "css": "#c0a1d3",
   "fallbackHex": "#c0a1d3",
@@ -19744,7 +19744,7 @@
   }
  },
  {
-  "name": "Dark Plum",
+  "name": "Clairvoyant",
   "tier": "srgb",
   "css": "#460c44",
   "fallbackHex": "#460c44",
@@ -19760,7 +19760,7 @@
   }
  },
  {
-  "name": "Plum Shadow",
+  "name": "Murasaki",
   "tier": "srgb",
   "css": "#402445",
   "fallbackHex": "#402445",
@@ -19936,7 +19936,7 @@
   }
  },
  {
-  "name": "Purple Blaze",
+  "name": "Ultraberry",
   "tier": "rec2020",
   "css": "color(rec2020 0.3735 0.002 0.5864)",
   "fallbackHex": "#7b0099",
@@ -20112,7 +20112,7 @@
   }
  },
  {
-  "name": "Vibrant Orchid",
+  "name": "Magentleman",
   "tier": "srgb",
   "css": "#a91fba",
   "fallbackHex": "#a91fba",
@@ -20240,7 +20240,7 @@
   }
  },
  {
-  "name": "Orchid Haze",
+  "name": "Bermuda Onion",
   "tier": "srgb",
   "css": "#9561a5",
   "fallbackHex": "#9561a5",
@@ -20288,7 +20288,7 @@
   }
  },
  {
-  "name": "Radiant Orchid",
+  "name": "Magenta Memoir",
   "tier": "srgb",
   "css": "#b24bb0",
   "fallbackHex": "#b24bb0",
@@ -20368,7 +20368,7 @@
   }
  },
  {
-  "name": "Dusty Orchid",
+  "name": "Drama Queen",
   "tier": "srgb",
   "css": "#9a70a8",
   "fallbackHex": "#9a70a8",
@@ -20384,7 +20384,7 @@
   }
  },
  {
-  "name": "Orchid Bloom",
+  "name": "Love Priestess",
   "tier": "srgb",
   "css": "#ab59c9",
   "fallbackHex": "#ab59c9",
@@ -20496,7 +20496,7 @@
   }
  },
  {
-  "name": "Medium Orchid",
+  "name": "Barbiecore",
   "tier": "srgb",
   "css": "#c35cc9",
   "fallbackHex": "#c35cc9",
@@ -20592,7 +20592,7 @@
   }
  },
  {
-  "name": "Lilac Orchid",
+  "name": "Lavendless",
   "tier": "srgb",
   "css": "#be72d5",
   "fallbackHex": "#be72d5",
@@ -20704,7 +20704,7 @@
   }
  },
  {
-  "name": "Orchid Pop",
+  "name": "Flaming Flamingo",
   "tier": "p3",
   "css": "color(display-p3 0.8419 0.352 0.9795)",
   "fallbackHex": "#e653ff",
@@ -20800,7 +20800,7 @@
   }
  },
  {
-  "name": "Lilac Flash",
+  "name": "Flamazing Pink",
   "tier": "p3",
   "css": "color(display-p3 0.8387 0.4349 0.9929)",
   "fallbackHex": "#e26eff",
@@ -20880,7 +20880,7 @@
   }
  },
  {
-  "name": "Orchid Blush",
+  "name": "Love Dust",
   "tier": "srgb",
   "css": "#e693e0",
   "fallbackHex": "#e693e0",
@@ -20928,7 +20928,7 @@
   }
  },
  {
-  "name": "Blushing Orchid",
+  "name": "Hottest of Pinks",
   "tier": "p3",
   "css": "color(display-p3 0.9463 0.5512 0.987)",
   "fallbackHex": "#fe8aff",
@@ -21008,7 +21008,7 @@
   }
  },
  {
-  "name": "Lilac Halo",
+  "name": "Strawberry Buttercream",
   "tier": "rec2020",
   "css": "color(rec2020 0.8938 0.6943 0.9981)",
   "fallbackHex": "#f7b5ff",
@@ -21104,7 +21104,7 @@
   }
  },
  {
-  "name": "Crushed Berry",
+  "name": "Cosmic Explorer",
   "tier": "srgb",
   "css": "#5c074b",
   "fallbackHex": "#5c074b",
@@ -21392,7 +21392,7 @@
   }
  },
  {
-  "name": "Berry Purple",
+  "name": "Violet Vixen",
   "tier": "srgb",
   "css": "#90337e",
   "fallbackHex": "#90337e",
@@ -21456,7 +21456,7 @@
   }
  },
  {
-  "name": "Magenta Blaze",
+  "name": "Vibrant Velvet",
   "tier": "rec2020",
   "css": "color(rec2020 0.5743 0.0277 0.4798)",
   "fallbackHex": "#b30085",
@@ -21472,7 +21472,7 @@
   }
  },
  {
-  "name": "Rose Violet",
+  "name": "Grape Riot",
   "tier": "srgb",
   "css": "#a13b8a",
   "fallbackHex": "#a13b8a",
@@ -21568,7 +21568,7 @@
   }
  },
  {
-  "name": "Mauve Rose",
+  "name": "Feminism",
   "tier": "srgb",
   "css": "#9c6085",
   "fallbackHex": "#9c6085",
@@ -21712,7 +21712,7 @@
   }
  },
  {
-  "name": "Fuchsia Surge",
+  "name": "Explosive Purple",
   "tier": "rec2020",
   "css": "color(rec2020 0.7184 0.0092 0.7181)",
   "fallbackHex": "#d700b8",
@@ -21728,7 +21728,7 @@
   }
  },
  {
-  "name": "Berry Magenta",
+  "name": "Loudicious Pink",
   "tier": "srgb",
   "css": "#c933c0",
   "fallbackHex": "#c933c0",
@@ -21744,7 +21744,7 @@
   }
  },
  {
-  "name": "Magenta Rose",
+  "name": "Lustful Wishes",
   "tier": "srgb",
   "css": "#c843ab",
   "fallbackHex": "#c843ab",
@@ -21808,7 +21808,7 @@
   }
  },
  {
-  "name": "Orchid Magenta",
+  "name": "Twinkly Pinkily",
   "tier": "srgb",
   "css": "#c359b1",
   "fallbackHex": "#c359b1",
@@ -21872,7 +21872,7 @@
   }
  },
  {
-  "name": "Miami Nights",
+  "name": "Mademoiselle Pink",
   "tier": "p3",
   "css": "color(display-p3 0.8835 0.1551 0.7841)",
   "fallbackHex": "#f300cc",
@@ -21888,7 +21888,7 @@
   }
  },
  {
-  "name": "Lively Orchid",
+  "name": "Death of a Star",
   "tier": "srgb",
   "css": "#d753cd",
   "fallbackHex": "#d753cd",
@@ -21984,7 +21984,7 @@
   }
  },
  {
-  "name": "Rosy Orchid",
+  "name": "Fugitive Flamingo",
   "tier": "srgb",
   "css": "#ce6dbb",
   "fallbackHex": "#ce6dbb",
@@ -22000,7 +22000,7 @@
   }
  },
  {
-  "name": "Magenta Pop",
+  "name": "Pink Glamour",
   "tier": "p3",
   "css": "color(display-p3 0.9333 0.0385 0.8399)",
   "fallbackHex": "#fc00d7",
@@ -22016,7 +22016,7 @@
   }
  },
  {
-  "name": "Razzle Dazzle Rose",
+  "name": "Cupid’s Eye",
   "tier": "srgb",
   "css": "#f530e2",
   "fallbackHex": "#f530e2",
@@ -22176,7 +22176,7 @@
   }
  },
  {
-  "name": "Pink Punch",
+  "name": "Eosin Pink",
   "tier": "p3",
   "css": "color(display-p3 0.9689 0.3326 0.7883)",
   "fallbackHex": "#ff5bc8",
@@ -22192,7 +22192,7 @@
   }
  },
  {
-  "name": "Light Orchid",
+  "name": "Violaceous",
   "tier": "srgb",
   "css": "#d585ce",
   "fallbackHex": "#d585ce",
@@ -22288,7 +22288,7 @@
   }
  },
  {
-  "name": "Pink Voltage",
+  "name": "Illicit Pink",
   "tier": "p3",
   "css": "color(display-p3 0.9763 0.3162 0.989)",
   "fallbackHex": "#ff60f5",
@@ -22384,7 +22384,7 @@
   }
  },
  {
-  "name": "Orchid Glow",
+  "name": "Avant-Garde Pink",
   "tier": "rec2020",
   "css": "color(rec2020 0.9194 0.3942 0.9149)",
   "fallbackHex": "#ff79e2",
@@ -22464,7 +22464,7 @@
   }
  },
  {
-  "name": "Candy Glow",
+  "name": "Pink Elephants",
   "tier": "rec2020",
   "css": "color(rec2020 0.9393 0.5043 0.9354)",
   "fallbackHex": "#ff94e6",
@@ -22496,7 +22496,7 @@
   }
  },
  {
-  "name": "Pink Glow",
+  "name": "Fresh Gum",
   "tier": "rec2020",
   "css": "color(rec2020 0.999 0.5585 0.9257)",
   "fallbackHex": "#ffabe0",
@@ -22560,7 +22560,7 @@
   }
  },
  {
-  "name": "Petal Glow",
+  "name": "Puff of Pink",
   "tier": "rec2020",
   "css": "color(rec2020 0.9855 0.7272 0.9924)",
   "fallbackHex": "#ffc8f2",
@@ -22608,7 +22608,7 @@
   }
  },
  {
-  "name": "Black Rose",
+  "name": "Glossy Black",
   "tier": "rec2020",
   "css": "color(rec2020 0.0161 0.0001 0.0105)",
   "fallbackHex": "#0f0007",
@@ -22672,7 +22672,7 @@
   }
  },
  {
-  "name": "Deep Berry",
+  "name": "Nightly Voyager",
   "tier": "srgb",
   "css": "#43082c",
   "fallbackHex": "#43082c",
@@ -22704,7 +22704,7 @@
   }
  },
  {
-  "name": "Berry Crush",
+  "name": "Her Fierceness",
   "tier": "srgb",
   "css": "#6d1043",
   "fallbackHex": "#6d1043",
@@ -22800,7 +22800,7 @@
   }
  },
  {
-  "name": "Berry Mauve",
+  "name": "Magician’s Cloak",
   "tier": "srgb",
   "css": "#733c59",
   "fallbackHex": "#733c59",
@@ -22832,7 +22832,7 @@
   }
  },
  {
-  "name": "Raspberry Rose",
+  "name": "Vertigo Cherry",
   "tier": "srgb",
   "css": "#961558",
   "fallbackHex": "#961558",
@@ -22848,7 +22848,7 @@
   }
  },
  {
-  "name": "Berry Pop",
+  "name": "8 Bit Eggplant",
   "tier": "p3",
   "css": "color(display-p3 0.5639 0.1 0.4097)",
   "fallbackHex": "#9d006b",
@@ -22880,7 +22880,7 @@
   }
  },
  {
-  "name": "Dusky Berry",
+  "name": "Grape Kiss",
   "tier": "srgb",
   "css": "#88446c",
   "fallbackHex": "#88446c",
@@ -22896,7 +22896,7 @@
   }
  },
  {
-  "name": "Rose Garnet",
+  "name": "Plastic Lips",
   "tier": "srgb",
   "css": "#a91962",
   "fallbackHex": "#a91962",
@@ -22944,7 +22944,7 @@
   }
  },
  {
-  "name": "Faded Berry",
+  "name": "Velour Scar",
   "tier": "srgb",
   "css": "#885671",
   "fallbackHex": "#885671",
@@ -22992,7 +22992,7 @@
   }
  },
  {
-  "name": "Rose Wine",
+  "name": "Our Little Secret",
   "tier": "srgb",
   "css": "#9e4971",
   "fallbackHex": "#9e4971",
@@ -23008,7 +23008,7 @@
   }
  },
  {
-  "name": "Berry Smoothie",
+  "name": "Rrosy-Fingered Dawn",
   "tier": "srgb",
   "css": "#bb1180",
   "fallbackHex": "#bb1180",
@@ -23024,7 +23024,7 @@
   }
  },
  {
-  "name": "Fuchsia Blaze",
+  "name": "Infectious Love",
   "tier": "rec2020",
   "css": "color(rec2020 0.6124 0.0532 0.4336)",
   "fallbackHex": "#bf007c",
@@ -23264,7 +23264,7 @@
   }
  },
  {
-  "name": "Magenta Punch",
+  "name": "Feasty Fuchsia",
   "tier": "p3",
   "css": "color(display-p3 0.8777 0.138 0.5285)",
   "fallbackHex": "#f00089",
@@ -23296,7 +23296,7 @@
   }
  },
  {
-  "name": "Rose Laser",
+  "name": "Fancy Fuchsia",
   "tier": "rec2020",
   "css": "color(rec2020 0.8249 0.1683 0.4704)",
   "fallbackHex": "#fd0088",
@@ -23344,7 +23344,7 @@
   }
  },
  {
-  "name": "Vintage Rose",
+  "name": "Super Pink",
   "tier": "srgb",
   "css": "#cb6a9f",
   "fallbackHex": "#cb6a9f",
@@ -23376,7 +23376,7 @@
   }
  },
  {
-  "name": "Rose Taupe",
+  "name": "Punched Pink",
   "tier": "srgb",
   "css": "#b28493",
   "fallbackHex": "#b28493",
@@ -23392,7 +23392,7 @@
   }
  },
  {
-  "name": "Wild Rose",
+  "name": "Major Magenta",
   "tier": "srgb",
   "css": "#f53f9e",
   "fallbackHex": "#f53f9e",
@@ -23520,7 +23520,7 @@
   }
  },
  {
-  "name": "Rose Bonbon",
+  "name": "Stellar Strawberry",
   "tier": "srgb",
   "css": "#f85799",
   "fallbackHex": "#f85799",
@@ -23552,7 +23552,7 @@
   }
  },
  {
-  "name": "Pink Blaze",
+  "name": "Flamboyant Flamingo",
   "tier": "rec2020",
   "css": "color(rec2020 0.931 0.1875 0.5323)",
   "fallbackHex": "#ff5499",
@@ -23616,7 +23616,7 @@
   }
  },
  {
-  "name": "Cottage Rose",
+  "name": "Primrose",
   "tier": "srgb",
   "css": "#d484ab",
   "fallbackHex": "#d484ab",
@@ -23760,7 +23760,7 @@
   }
  },
  {
-  "name": "Rose Petal",
+  "name": "Pomelo Red",
   "tier": "srgb",
   "css": "#ec8eb2",
   "fallbackHex": "#ec8eb2",
@@ -23792,7 +23792,7 @@
   }
  },
  {
-  "name": "Powder Rose",
+  "name": "Sweet Perfume",
   "tier": "srgb",
   "css": "#daa0bd",
   "fallbackHex": "#daa0bd",
@@ -23808,7 +23808,7 @@
   }
  },
  {
-  "name": "Bubblegum Burst",
+  "name": "Dream Setting",
   "tier": "p3",
   "css": "color(display-p3 0.975 0.51 0.7575)",
   "fallbackHex": "#ff85c1",
@@ -23840,7 +23840,7 @@
   }
  },
  {
-  "name": "Bubblegum Glow",
+  "name": "Shimmering Love",
   "tier": "rec2020",
   "css": "color(rec2020 0.9789 0.4265 0.8382)",
   "fallbackHex": "#ff8ed0",
@@ -23984,7 +23984,7 @@
   }
  },
  {
-  "name": "Rose Quartz",
+  "name": "Light Pink",
   "tier": "rec2020",
   "css": "color(rec2020 0.9778 0.7516 0.8271)",
   "fallbackHex": "#ffcbd9",
@@ -24288,7 +24288,7 @@
   }
  },
  {
-  "name": "Rose Ash",
+  "name": "Nebulous",
   "tier": "srgb",
   "css": "#c6b5bf",
   "fallbackHex": "#c6b5bf",
@@ -24496,7 +24496,7 @@
   }
  },
  {
-  "name": "Summer Rose",
+  "name": "Dark Pink",
   "tier": "srgb",
   "css": "#ce4377",
   "fallbackHex": "#ce4377",
@@ -24512,7 +24512,7 @@
   }
  },
  {
-  "name": "Rose Punch",
+  "name": "Strawberry Moon",
   "tier": "srgb",
   "css": "#d6496a",
   "fallbackHex": "#d6496a",
@@ -24592,7 +24592,7 @@
   }
  },
  {
-  "name": "Blush Rose",
+  "name": "Rosa Chinensis",
   "tier": "srgb",
   "css": "#c27d85",
   "fallbackHex": "#c27d85",
@@ -24640,7 +24640,7 @@
   }
  },
  {
-  "name": "Impossible Rose",
+  "name": "Warm Pink",
   "tier": "rec2020",
   "css": "color(rec2020 0.9678 0.0611 0.4938)",
   "fallbackHex": "#ff5393",
@@ -24720,7 +24720,7 @@
   }
  },
  {
-  "name": "Soft Rose",
+  "name": "Foxy Pink",
   "tier": "srgb",
   "css": "#df90a0",
   "fallbackHex": "#df90a0",
@@ -24784,7 +24784,7 @@
   }
  },
  {
-  "name": "Coral Halo",
+  "name": "Vinaceous",
   "tier": "rec2020",
   "css": "color(rec2020 0.9129 0.5503 0.5616)",
   "fallbackHex": "#ff96a0",
@@ -24912,7 +24912,7 @@
   }
  },
  {
-  "name": "Scarlet Surge",
+  "name": "Untamed Red",
   "tier": "rec2020",
   "css": "color(rec2020 0.6977 0.0939 0.062)",
   "fallbackHex": "#d80029",
@@ -24928,7 +24928,7 @@
   }
  },
  {
-  "name": "Cherry Punch",
+  "name": "Smooch Rouge",
   "tier": "srgb",
   "css": "#cd4054",
   "fallbackHex": "#cd4054",
@@ -24960,7 +24960,7 @@
   }
  },
  {
-  "name": "Clay Rose",
+  "name": "Rustling Leaves",
   "tier": "srgb",
   "css": "#a26d68",
   "fallbackHex": "#a26d68",
@@ -24992,7 +24992,7 @@
   }
  },
  {
-  "name": "Terra Rose",
+  "name": "Pimm’s",
   "tier": "srgb",
   "css": "#c75457",
   "fallbackHex": "#c75457",
@@ -25120,7 +25120,7 @@
   }
  },
  {
-  "name": "Coral Burst",
+  "name": "Sunset Orange",
   "tier": "p3",
   "css": "color(display-p3 0.9928 0.3483 0.3002)",
   "fallbackHex": "#ff6358",
@@ -25136,7 +25136,7 @@
   }
  },
  {
-  "name": "Coral Punch",
+  "name": "Embarrassment",
   "tier": "p3",
   "css": "color(display-p3 0.9526 0.4502 0.4737)",
   "fallbackHex": "#ff6f79",
@@ -25168,7 +25168,7 @@
   }
  },
  {
-  "name": "Coral Beam",
+  "name": "Light Red",
   "tier": "rec2020",
   "css": "color(rec2020 0.9192 0.4376 0.4127)",
   "fallbackHex": "#ff8084",
@@ -25504,7 +25504,7 @@
   }
  },
  {
-  "name": "Papaya Glow",
+  "name": "Slippery Salmon",
   "tier": "rec2020",
   "css": "color(rec2020 0.9015 0.447 0.2224)",
   "fallbackHex": "#ff7e5b",
@@ -25520,7 +25520,7 @@
   }
  },
  {
-  "name": "Peach Coral",
+  "name": "Salmon Nigiri",
   "tier": "srgb",
   "css": "#f59474",
   "fallbackHex": "#f59474",
@@ -25856,7 +25856,7 @@
   }
  },
  {
-  "name": "Almond Glow",
+  "name": "Glazed Sugar",
   "tier": "rec2020",
   "css": "color(rec2020 0.9949 0.8447 0.6716)",
   "fallbackHex": "#ffdec8",
@@ -25872,7 +25872,7 @@
   }
  },
  {
-  "name": "Linen Glow",
+  "name": "Blossom",
   "tier": "rec2020",
   "css": "color(rec2020 0.9837 0.8973 0.8046)",
   "fallbackHex": "#ffe8da",
@@ -25984,7 +25984,7 @@
   }
  },
  {
-  "name": "Amber Glow",
+  "name": "Peanut Butter Chicken",
   "tier": "rec2020",
   "css": "color(rec2020 0.9432 0.663 0.1455)",
   "fallbackHex": "#ffb35f",
@@ -26480,7 +26480,7 @@
   }
  },
  {
-  "name": "Wasabi Pop",
+  "name": "Leafy Canopy",
   "tier": "p3",
   "css": "color(display-p3 0.7122 0.7954 0.1716)",
   "fallbackHex": "#b1cb00",
@@ -26560,7 +26560,7 @@
   }
  },
  {
-  "name": "Chartreuse Glow",
+  "name": "Green Ooze",
   "tier": "rec2020",
   "css": "color(rec2020 0.8931 0.9993 0.3298)",
   "fallbackHex": "#e1ff74",
@@ -26880,7 +26880,7 @@
   }
  },
  {
-  "name": "Dark Emerald",
+  "name": "Melancholia",
   "tier": "p3",
   "css": "color(display-p3 0.0498 0.2295 0.0118)",
   "fallbackHex": "#003a04",
@@ -26896,7 +26896,7 @@
   }
  },
  {
-  "name": "Forest Night",
+  "name": "Darkest Forest",
   "tier": "srgb",
   "css": "#223917",
   "fallbackHex": "#223917",
@@ -27072,7 +27072,7 @@
   }
  },
  {
-  "name": "Clover Pop",
+  "name": "Green Goblin",
   "tier": "p3",
   "css": "color(display-p3 0.2552 0.7511 0.2336)",
   "fallbackHex": "#00be3c",
@@ -27152,7 +27152,7 @@
   }
  },
  {
-  "name": "Spring Surge",
+  "name": "Green Priestess",
   "tier": "rec2020",
   "css": "color(rec2020 0.3575 0.8178 0.2268)",
   "fallbackHex": "#00d45d",
@@ -27200,7 +27200,7 @@
   }
  },
  {
-  "name": "Beyond Emerald",
+  "name": "Radiant Hulk",
   "tier": "rec2020",
   "css": "color(rec2020 0.2969 0.995 0.0057)",
   "fallbackHex": "#00f46c",
@@ -27264,7 +27264,7 @@
   }
  },
  {
-  "name": "Alien Glow",
+  "name": "Cathode Green",
   "tier": "rec2020",
   "css": "color(rec2020 0.5591 0.9782 0.2982)",
   "fallbackHex": "#3cff50",
@@ -27280,7 +27280,7 @@
   }
  },
  {
-  "name": "Pale Emerald",
+  "name": "Ultra Mint",
   "tier": "srgb",
   "css": "#a6ecb3",
   "fallbackHex": "#a6ecb3",
@@ -27408,7 +27408,7 @@
   }
  },
  {
-  "name": "Emerald Voltage",
+  "name": "Enchanted Glen",
   "tier": "rec2020",
   "css": "color(rec2020 0.0089 0.4154 0.0096)",
   "fallbackHex": "#006f38",
@@ -27456,7 +27456,7 @@
   }
  },
  {
-  "name": "Emerald Blaze",
+  "name": "Broccoli Paradise",
   "tier": "rec2020",
   "css": "color(rec2020 0.0642 0.5237 0.0169)",
   "fallbackHex": "#008942",
@@ -27488,7 +27488,7 @@
   }
  },
  {
-  "name": "Jade Surge",
+  "name": "Center Field",
   "tier": "rec2020",
   "css": "color(rec2020 0.1391 0.5235 0.2102)",
   "fallbackHex": "#008c55",
@@ -27520,7 +27520,7 @@
   }
  },
  {
-  "name": "Jade Wave",
+  "name": "Illuminati Green",
   "tier": "rec2020",
   "css": "color(rec2020 0.1776 0.5975 0.3006)",
   "fallbackHex": "#009d68",
@@ -27536,7 +27536,7 @@
   }
  },
  {
-  "name": "Emerald Pulse",
+  "name": "Militant Vegan",
   "tier": "rec2020",
   "css": "color(rec2020 0.0501 0.627 0.1201)",
   "fallbackHex": "#009f59",
@@ -27600,7 +27600,7 @@
   }
  },
  {
-  "name": "Jade Radiance",
+  "name": "Devil’s Grass",
   "tier": "rec2020",
   "css": "color(rec2020 0.2243 0.7101 0.3591)",
   "fallbackHex": "#00b778",
@@ -27632,7 +27632,7 @@
   }
  },
  {
-  "name": "Emerald Splash",
+  "name": "Fennel Fiesta",
   "tier": "p3",
   "css": "color(display-p3 0.1378 0.7525 0.4398)",
   "fallbackHex": "#00bc76",
@@ -27760,7 +27760,7 @@
   }
  },
  {
-  "name": "Spearmint Pop",
+  "name": "Electric Lettuce",
   "tier": "p3",
   "css": "color(display-p3 0.2894 0.8328 0.5021)",
   "fallbackHex": "#00d480",
@@ -27984,7 +27984,7 @@
   }
  },
  {
-  "name": "Midnight Jade",
+  "name": "Pitch-Black Forests",
   "tier": "rec2020",
   "css": "color(rec2020 0.0206 0.1195 0.0708)",
   "fallbackHex": "#002d22",
@@ -28080,7 +28080,7 @@
   }
  },
  {
-  "name": "Emerald Lagoon",
+  "name": "Pool Table",
   "tier": "rec2020",
   "css": "color(rec2020 0.0618 0.5718 0.3401)",
   "fallbackHex": "#00946e",
@@ -28144,7 +28144,7 @@
   }
  },
  {
-  "name": "Teal Surge",
+  "name": "Java",
   "tier": "rec2020",
   "css": "color(rec2020 0.0283 0.6209 0.5143)",
   "fallbackHex": "#009e8a",
@@ -28160,7 +28160,7 @@
   }
  },
  {
-  "name": "Sea Glow",
+  "name": "Hobgoblin",
   "tier": "rec2020",
   "css": "color(rec2020 0.262 0.6204 0.5007)",
   "fallbackHex": "#00a78b",
@@ -28320,7 +28320,7 @@
   }
  },
  {
-  "name": "Spearmint Glow",
+  "name": "Shivering Green",
   "tier": "rec2020",
   "css": "color(rec2020 0.3848 0.8692 0.612)",
   "fallbackHex": "#00e0a9",
@@ -28480,7 +28480,7 @@
   }
  },
  {
-  "name": "Teal Night",
+  "name": "Rich Black",
   "tier": "rec2020",
   "css": "color(rec2020 0.0033 0.1873 0.1752)",
   "fallbackHex": "#003c37",
@@ -28592,7 +28592,7 @@
   }
  },
  {
-  "name": "Teal Blaze",
+  "name": "Highlands",
   "tier": "rec2020",
   "css": "color(rec2020 0.0225 0.5828 0.5018)",
   "fallbackHex": "#009686",
@@ -28608,7 +28608,7 @@
   }
  },
  {
-  "name": "Turquoise Surge",
+  "name": "Green Dynasty",
   "tier": "rec2020",
   "css": "color(rec2020 0.1123 0.6014 0.5666)",
   "fallbackHex": "#009d92",
@@ -28672,7 +28672,7 @@
   }
  },
  {
-  "name": "Turquoise Beam",
+  "name": "Waterfall",
   "tier": "rec2020",
   "css": "color(rec2020 0.0359 0.7303 0.7158)",
   "fallbackHex": "#00b7ae",
@@ -28832,7 +28832,7 @@
   }
  },
  {
-  "name": "Ocean Abyss",
+  "name": "Ruined Smores",
   "tier": "rec2020",
   "css": "color(rec2020 0.0067 0.0322 0.044)",
   "fallbackHex": "#001417",
@@ -29024,7 +29024,7 @@
   }
  },
  {
-  "name": "Pacific Flash",
+  "name": "Thalassa",
   "tier": "rec2020",
   "css": "color(rec2020 0.1834 0.7382 0.8948)",
   "fallbackHex": "#00becd",
@@ -29088,7 +29088,7 @@
   }
  },
  {
-  "name": "Sky Surge",
+  "name": "Fish Boy",
   "tier": "rec2020",
   "css": "color(rec2020 0.272 0.8321 0.9949)",
   "fallbackHex": "#00d5e5",
@@ -29200,7 +29200,7 @@
   }
  },
  {
-  "name": "Nordic Night",
+  "name": "Elite Teal",
   "tier": "rec2020",
   "css": "color(rec2020 0.0009 0.146 0.2431)",
   "fallbackHex": "#00333d",
@@ -29312,7 +29312,7 @@
   }
  },
  {
-  "name": "Pacific Surge",
+  "name": "Enchanted Well",
   "tier": "rec2020",
   "css": "color(rec2020 0.1903 0.5654 0.8736)",
   "fallbackHex": "#009bc3",
@@ -29328,7 +29328,7 @@
   }
  },
  {
-  "name": "Cerulean Sea",
+  "name": "Rainy Mood",
   "tier": "p3",
   "css": "color(display-p3 0.2582 0.6119 0.7194)",
   "fallbackHex": "#009eb9",
@@ -29360,7 +29360,7 @@
   }
  },
  {
-  "name": "Cerulean Glow",
+  "name": "Gummy Dolphins",
   "tier": "rec2020",
   "css": "color(rec2020 0.2951 0.6374 0.8791)",
   "fallbackHex": "#00add2",
@@ -29392,7 +29392,7 @@
   }
  },
  {
-  "name": "Cerulean Beam",
+  "name": "Frozen Wave",
   "tier": "rec2020",
   "css": "color(rec2020 0.2007 0.6802 0.9933)",
   "fallbackHex": "#00b5d9",
@@ -29408,7 +29408,7 @@
   }
  },
  {
-  "name": "Sky Pop",
+  "name": "Caribbean Blue",
   "tier": "p3",
   "css": "color(display-p3 0.1068 0.7527 0.9452)",
   "fallbackHex": "#00c0e6",
@@ -29440,7 +29440,7 @@
   }
  },
  {
-  "name": "Winter Sky",
+  "name": "Splashing Wave",
   "tier": "p3",
   "css": "color(display-p3 0.4513 0.8443 0.9974)",
   "fallbackHex": "#54d9ff",
@@ -29472,7 +29472,7 @@
   }
  },
  {
-  "name": "Storm Sapphire",
+  "name": "Nightlife",
   "tier": "rec2020",
   "css": "color(rec2020 0.0071 0.1837 0.5676)",
   "fallbackHex": "#00476b",
@@ -29568,7 +29568,7 @@
   }
  },
  {
-  "name": "Ocean Blaze",
+  "name": "Jacuzzi",
   "tier": "rec2020",
   "css": "color(rec2020 0.1469 0.4188 0.7541)",
   "fallbackHex": "#007ba9",
@@ -29712,7 +29712,7 @@
   }
  },
  {
-  "name": "Sapphire Abyss",
+  "name": "Subnautical",
   "tier": "rec2020",
   "css": "color(rec2020 0.0237 0.0647 0.2797)",
   "fallbackHex": "#002447",
@@ -29728,7 +29728,7 @@
   }
  },
  {
-  "name": "Prussian Night",
+  "name": "Poseidon",
   "tier": "rec2020",
   "css": "color(rec2020 0.0052 0.1265 0.4828)",
   "fallbackHex": "#00395a",
@@ -29760,7 +29760,7 @@
   }
  },
  {
-  "name": "Midnight Cobalt",
+  "name": "Lost in Space",
   "tier": "rec2020",
   "css": "color(rec2020 0.0496 0.0731 0.6504)",
   "fallbackHex": "#003c77",
@@ -29808,7 +29808,7 @@
   }
  },
  {
-  "name": "Nautical Night",
+  "name": "Mermaid Blues",
   "tier": "rec2020",
   "css": "color(rec2020 0.0502 0.2012 0.5152)",
   "fallbackHex": "#004871",
@@ -29840,7 +29840,7 @@
   }
  },
  {
-  "name": "Harbour Night",
+  "name": "Nautical",
   "tier": "p3",
   "css": "color(display-p3 0.0689 0.2887 0.5113)",
   "fallbackHex": "#004c7f",
@@ -29968,7 +29968,7 @@
   }
  },
  {
-  "name": "Sapphire Surge",
+  "name": "Blasphemous Blue",
   "tier": "rec2020",
   "css": "color(rec2020 0.1516 0.2734 0.7275)",
   "fallbackHex": "#005caa",
@@ -29984,7 +29984,7 @@
   }
  },
  {
-  "name": "Ocean Sapphire",
+  "name": "Starstruck",
   "tier": "rec2020",
   "css": "color(rec2020 0.172 0.3176 0.6808)",
   "fallbackHex": "#0064a8",
@@ -30000,7 +30000,7 @@
   }
  },
  {
-  "name": "Cobalt Voltage",
+  "name": "Matt Blue",
   "tier": "rec2020",
   "css": "color(rec2020 0.1224 0.203 0.9978)",
   "fallbackHex": "#0060b6",
@@ -30016,7 +30016,7 @@
   }
  },
  {
-  "name": "Ocean Surge",
+  "name": "Cloisonné",
   "tier": "rec2020",
   "css": "color(rec2020 0.0553 0.3263 0.9102)",
   "fallbackHex": "#006ea8",
@@ -30048,7 +30048,7 @@
   }
  },
  {
-  "name": "Ocean Cobalt",
+  "name": "Campanula",
   "tier": "p3",
   "css": "color(display-p3 0.1622 0.4261 0.6719)",
   "fallbackHex": "#006fad",
@@ -30064,7 +30064,7 @@
   }
  },
  {
-  "name": "Cobalt Pulse",
+  "name": "Haddock’s Sweater",
   "tier": "rec2020",
   "css": "color(rec2020 0.0812 0.3163 0.9921)",
   "fallbackHex": "#0070b4",
@@ -30080,7 +30080,7 @@
   }
  },
  {
-  "name": "Azure Surge",
+  "name": "Star of Life",
   "tier": "rec2020",
   "css": "color(rec2020 0.2152 0.3923 0.9037)",
   "fallbackHex": "#0079cf",
@@ -30176,7 +30176,7 @@
   }
  },
  {
-  "name": "Sky Cobalt",
+  "name": "Homeworld",
   "tier": "srgb",
   "css": "#3d95e0",
   "fallbackHex": "#3d95e0",
@@ -30368,7 +30368,7 @@
   }
  },
  {
-  "name": "Sapphire Shadow",
+  "name": "Tardis Blue",
   "tier": "rec2020",
   "css": "color(rec2020 0.0757 0.142 0.4523)",
   "fallbackHex": "#003975",
@@ -30416,7 +30416,7 @@
   }
  },
  {
-  "name": "Sapphire Overdrive",
+  "name": "Nuit Blanche",
   "tier": "rec2020",
   "css": "color(rec2020 0.086 0.0029 0.8375)",
   "fallbackHex": "#004291",
@@ -30496,7 +30496,7 @@
   }
  },
  {
-  "name": "Cobalt Laser",
+  "name": "Once in a Blue Moon",
   "tier": "rec2020",
   "css": "color(rec2020 0.1428 0.0192 0.9658)",
   "fallbackHex": "#0048bb",
@@ -30560,7 +30560,7 @@
   }
  },
  {
-  "name": "Sapphire Bolt",
+  "name": "Frosted Blueberries",
   "tier": "rec2020",
   "css": "color(rec2020 0.1659 0.2533 0.8991)",
   "fallbackHex": "#005fc2",
@@ -30592,7 +30592,7 @@
   }
  },
  {
-  "name": "Cobalt Beam",
+  "name": "God of Rain",
   "tier": "rec2020",
   "css": "color(rec2020 0.1887 0.3028 0.9709)",
   "fallbackHex": "#006ad0",
@@ -30736,7 +30736,7 @@
   }
  },
  {
-  "name": "Cornflower Glow",
+  "name": "Kitten’s Eye",
   "tier": "rec2020",
   "css": "color(rec2020 0.4932 0.6114 0.9967)",
   "fallbackHex": "#6aa8ff",
@@ -30768,7 +30768,7 @@
   }
  },
  {
-  "name": "Sky Halo",
+  "name": "Pastel Blue",
   "tier": "rec2020",
   "css": "color(rec2020 0.6033 0.7014 0.9975)",
   "fallbackHex": "#8ebdff",
@@ -30832,7 +30832,7 @@
   }
  },
  {
-  "name": "Ultramarine Night",
+  "name": "Dramatic Blue",
   "tier": "srgb",
   "css": "#231199",
   "fallbackHex": "#231199",
@@ -30960,7 +30960,7 @@
   }
  },
  {
-  "name": "Ultraviolet Surge",
+  "name": "Space Opera",
   "tier": "rec2020",
   "css": "color(rec2020 0.2954 0.0262 0.9044)",
   "fallbackHex": "#5a00eb",
@@ -31072,7 +31072,7 @@
   }
  },
  {
-  "name": "Periwinkle Punch",
+  "name": "Skinny Jeans",
   "tier": "p3",
   "css": "color(display-p3 0.4603 0.525 0.9754)",
   "fallbackHex": "#7287ff",
@@ -31136,7 +31136,7 @@
   }
  },
  {
-  "name": "Midnight Amethyst",
+  "name": "Cotinga Purple",
   "tier": "srgb",
   "css": "#2c0458",
   "fallbackHex": "#2c0458",
@@ -31184,7 +31184,7 @@
   }
  },
  {
-  "name": "Ultraviolet Night",
+  "name": "Galactic Federation",
   "tier": "rec2020",
   "css": "color(rec2020 0.1355 0.0129 0.4041)",
   "fallbackHex": "#370077",
@@ -31408,7 +31408,7 @@
   }
  },
  {
-  "name": "Purple Punch",
+  "name": "Veronica",
   "tier": "p3",
   "css": "color(display-p3 0.5309 0.3725 0.9872)",
   "fallbackHex": "#8e60ff",
@@ -31584,7 +31584,7 @@
   }
  },
  {
-  "name": "Violet Blaze",
+  "name": "Extraviolet",
   "tier": "rec2020",
   "css": "color(rec2020 0.3217 0.0029 0.5676)",
   "fallbackHex": "#6d0095",
@@ -31616,7 +31616,7 @@
   }
  },
  {
-  "name": "Royal Orchid",
+  "name": "Fuchsia Nebula",
   "tier": "srgb",
   "css": "#7723aa",
   "fallbackHex": "#7723aa",
@@ -31728,7 +31728,7 @@
   }
  },
  {
-  "name": "Purple Voltage",
+  "name": "Cosmic Heart",
   "tier": "rec2020",
   "css": "color(rec2020 0.4593 0.0038 0.9406)",
   "fallbackHex": "#8f00ea",
@@ -31808,7 +31808,7 @@
   }
  },
  {
-  "name": "Amethyst Orchid",
+  "name": "Prickly Purple",
   "tier": "srgb",
   "css": "#9860ba",
   "fallbackHex": "#9860ba",
@@ -31840,7 +31840,7 @@
   }
  },
  {
-  "name": "Lavender Bolt",
+  "name": "Magenta Affair",
   "tier": "srgb",
   "css": "#9e5bf5",
   "fallbackHex": "#9e5bf5",
@@ -31904,7 +31904,7 @@
   }
  },
  {
-  "name": "Orchid Burst",
+  "name": "Fake Love",
   "tier": "p3",
   "css": "color(display-p3 0.7814 0.4204 0.9917)",
   "fallbackHex": "#d26bff",
@@ -32048,7 +32048,7 @@
   }
  },
  {
-  "name": "Orchid Plum",
+  "name": "Purple Excellency",
   "tier": "srgb",
   "css": "#913f93",
   "fallbackHex": "#913f93",
@@ -32224,7 +32224,7 @@
   }
  },
  {
-  "name": "Orchid Mauve",
+  "name": "Llilacquered",
   "tier": "srgb",
   "css": "#bc69b7",
   "fallbackHex": "#bc69b7",
@@ -32240,7 +32240,7 @@
   }
  },
  {
-  "name": "Orchid Punch",
+  "name": "Drunk-Tank Pink",
   "tier": "srgb",
   "css": "#d344d6",
   "fallbackHex": "#d344d6",
@@ -32288,7 +32288,7 @@
   }
  },
  {
-  "name": "Heliotrope Glow",
+  "name": "Bubblegum Baby Girl",
   "tier": "rec2020",
   "css": "color(rec2020 0.6983 0.3213 0.9995)",
   "fallbackHex": "#d056ff",
@@ -32352,7 +32352,7 @@
   }
  },
  {
-  "name": "Lilac Mauve",
+  "name": "Fleur-De-Lis",
   "tier": "srgb",
   "css": "#bf89c7",
   "fallbackHex": "#bf89c7",
@@ -32464,7 +32464,7 @@
   }
  },
  {
-  "name": "Mulberry Night",
+  "name": "Dark Sanctuary",
   "tier": "rec2020",
   "css": "color(rec2020 0.16 0.0068 0.1702)",
   "fallbackHex": "#42003a",
@@ -32608,7 +32608,7 @@
   }
  },
  {
-  "name": "Raspberry Plum",
+  "name": "Bane of Royalty",
   "tier": "srgb",
   "css": "#8f246b",
   "fallbackHex": "#8f246b",
@@ -32640,7 +32640,7 @@
   }
  },
  {
-  "name": "Fuchsia Punch",
+  "name": "Jealous Jellyfish",
   "tier": "p3",
   "css": "color(display-p3 0.7133 0.1322 0.5561)",
   "fallbackHex": "#c50091",
@@ -32656,7 +32656,7 @@
   }
  },
  {
-  "name": "Berry Orchid",
+  "name": "Amora Purple",
   "tier": "srgb",
   "css": "#bd369c",
   "fallbackHex": "#bd369c",
@@ -32688,7 +32688,7 @@
   }
  },
  {
-  "name": "Magenta Voltage",
+  "name": "Melodramatic Magenta",
   "tier": "rec2020",
   "css": "color(rec2020 0.7309 0.0162 0.632)",
   "fallbackHex": "#da00a7",
@@ -32880,7 +32880,7 @@
   }
  },
  {
-  "name": "Bubblegum Pop",
+  "name": "Frail Fuchsia",
   "tier": "p3",
   "css": "color(display-p3 0.9671 0.4635 0.9053)",
   "fallbackHex": "#ff7ae5",
@@ -33024,7 +33024,7 @@
   }
  },
  {
-  "name": "Cherry Night",
+  "name": "Vienna Roast",
   "tier": "rec2020",
   "css": "color(rec2020 0.1467 0.0015 0.0558)",
   "fallbackHex": "#3d001e",
@@ -33120,7 +33120,7 @@
   }
  },
  {
-  "name": "Raspberry Blaze",
+  "name": "Romantic Vampire",
   "tier": "rec2020",
   "css": "color(rec2020 0.4769 0.0463 0.3474)",
   "fallbackHex": "#9c0068",
@@ -33136,7 +33136,7 @@
   }
  },
  {
-  "name": "Berry Rose",
+  "name": "Pink Horror",
   "tier": "srgb",
   "css": "#8d356b",
   "fallbackHex": "#8d356b",
@@ -33216,7 +33216,7 @@
   }
  },
  {
-  "name": "Berry Punch",
+  "name": "Razzle Dazzle",
   "tier": "srgb",
   "css": "#bb498b",
   "fallbackHex": "#bb498b",
@@ -34192,7 +34192,7 @@
   }
  },
  {
-  "name": "Plum Rose",
+  "name": "Pleasure",
   "tier": "srgb",
   "css": "#81384f",
   "fallbackHex": "#81384f",
@@ -34288,7 +34288,7 @@
   }
  },
  {
-  "name": "Ruby Surge",
+  "name": "Rural Red",
   "tier": "rec2020",
   "css": "color(rec2020 0.6108 0.0168 0.1643)",
   "fallbackHex": "#bb0043",
@@ -34368,7 +34368,7 @@
   }
  },
  {
-  "name": "Cherry Pop",
+  "name": "Magna Cum Laude",
   "tier": "p3",
   "css": "color(display-p3 0.7876 0.1309 0.4018)",
   "fallbackHex": "#d80067",
@@ -34432,7 +34432,7 @@
   }
  },
  {
-  "name": "Rose Overdrive",
+  "name": "Ruby Fire",
   "tier": "rec2020",
   "css": "color(rec2020 0.8605 0.0058 0.3347)",
   "fallbackHex": "#fa006d",
@@ -34560,7 +34560,7 @@
   }
  },
  {
-  "name": "Watermelon Pop",
+  "name": "Brink Pink",
   "tier": "p3",
   "css": "color(display-p3 0.9336 0.3958 0.4929)",
   "fallbackHex": "#ff5c7d",
@@ -34608,7 +34608,7 @@
   }
  },
  {
-  "name": "Coral Rose",
+  "name": "Kisses and Hugs",
   "tier": "rec2020",
   "css": "color(rec2020 0.903 0.3702 0.4213)",
   "fallbackHex": "#ff6e83",
@@ -34624,7 +34624,7 @@
   }
  },
  {
-  "name": "Rose Glow",
+  "name": "Blush Hour",
   "tier": "rec2020",
   "css": "color(rec2020 0.9434 0.3189 0.5084)",
   "fallbackHex": "#ff6f97",
@@ -34672,7 +34672,7 @@
   }
  },
  {
-  "name": "Peony Pop",
+  "name": "Strawberry Dreams",
   "tier": "p3",
   "css": "color(display-p3 0.9647 0.5453 0.6828)",
   "fallbackHex": "#ff8baf",
@@ -34704,7 +34704,7 @@
   }
  },
  {
-  "name": "Carnation Glow",
+  "name": "Rock’n’Rose",
   "tier": "rec2020",
   "css": "color(rec2020 0.9336 0.5061 0.6449)",
   "fallbackHex": "#ff91b2",
@@ -34752,7 +34752,7 @@
   }
  },
  {
-  "name": "Garnet Night",
+  "name": "Dwarf Fortress",
   "tier": "rec2020",
   "css": "color(rec2020 0.0471 0.0011 0.0036)",
   "fallbackHex": "#200004",
@@ -35008,7 +35008,7 @@
   }
  },
  {
-  "name": "Crimson Surge",
+  "name": "Them Apples",
   "tier": "rec2020",
   "css": "color(rec2020 0.6927 0.0551 0.1445)",
   "fallbackHex": "#d4003f",
@@ -35152,7 +35152,7 @@
   }
  },
  {
-  "name": "Tomato Pop",
+  "name": "Pumping Spice",
   "tier": "p3",
   "css": "color(display-p3 0.974 0.2834 0.2453)",
   "fallbackHex": "#ff4e46",
@@ -35168,7 +35168,7 @@
   }
  },
  {
-  "name": "Grenadine Glow",
+  "name": "Infrared",
   "tier": "rec2020",
   "css": "color(rec2020 0.9233 0.1768 0.2709)",
   "fallbackHex": "#ff4e69",
@@ -35264,7 +35264,7 @@
   }
  },
  {
-  "name": "Watermelon Glow",
+  "name": "Grenadine Pink",
   "tier": "rec2020",
   "css": "color(rec2020 0.9319 0.321 0.3631)",
   "fallbackHex": "#ff6c7c",
@@ -35360,7 +35360,7 @@
   }
  },
  {
-  "name": "Coral Mist",
+  "name": "Strawberry Frappé",
   "tier": "rec2020",
   "css": "color(rec2020 0.9341 0.595 0.5753)",
   "fallbackHex": "#ffa4a6",
@@ -35552,7 +35552,7 @@
   }
  },
  {
-  "name": "Copper Blaze",
+  "name": "Muddy",
   "tier": "p3",
   "css": "color(display-p3 0.6039 0.2443 0.015)",
   "fallbackHex": "#a03d00",
@@ -35856,7 +35856,7 @@
   }
  },
  {
-  "name": "Amber Blaze",
+  "name": "Martian Colony",
   "tier": "rec2020",
   "css": "color(rec2020 0.7547 0.4533 0.0035)",
   "fallbackHex": "#e07b00",
@@ -35984,7 +35984,7 @@
   }
  },
  {
-  "name": "Apricot Pop",
+  "name": "Pastel Orange",
   "tier": "p3",
   "css": "color(display-p3 0.9923 0.5915 0.2875)",
   "fallbackHex": "#ff9a56",
@@ -36336,7 +36336,7 @@
   }
  },
  {
-  "name": "Amber Pop",
+  "name": "Elden Ring Orange",
   "tier": "p3",
   "css": "color(display-p3 0.8957 0.5555 0.0836)",
   "fallbackHex": "#ec8d00",
@@ -36848,7 +36848,7 @@
   }
  },
  {
-  "name": "Olive Night",
+  "name": "Wasabi Nori",
   "tier": "srgb",
   "css": "#3d330a",
   "fallbackHex": "#3d330a",
@@ -37168,7 +37168,7 @@
   }
  },
  {
-  "name": "Olive Surge",
+  "name": "Topiary Green",
   "tier": "rec2020",
   "css": "color(rec2020 0.3815 0.3854 0.004)",
   "fallbackHex": "#717000",
@@ -37680,7 +37680,7 @@
   }
  },
  {
-  "name": "Chartreuse Surge",
+  "name": "Jubilant Meadow",
   "tier": "rec2020",
   "css": "color(rec2020 0.5122 0.6895 0.0031)",
   "fallbackHex": "#7cba00",
@@ -38176,7 +38176,7 @@
   }
  },
  {
-  "name": "Green Surge",
+  "name": "Botanical Garden",
   "tier": "rec2020",
   "css": "color(rec2020 0.3561 0.6087 0.0223)",
   "fallbackHex": "#3fa700",
@@ -38224,7 +38224,7 @@
   }
  },
  {
-  "name": "Shamrock Surge",
+  "name": "Try Your Luck",
   "tier": "rec2020",
   "css": "color(rec2020 0.2221 0.7074 0.0004)",
   "fallbackHex": "#00b649",
@@ -38256,7 +38256,7 @@
   }
  },
  {
-  "name": "Emerald Bolt",
+  "name": "Whole Nine Yards",
   "tier": "rec2020",
   "css": "color(rec2020 0.2891 0.7468 0.1682)",
   "fallbackHex": "#00c256",
@@ -38352,7 +38352,7 @@
   }
  },
  {
-  "name": "Emerald Rush",
+  "name": "Walled Garden",
   "tier": "rec2020",
   "css": "color(rec2020 0.3088 0.7896 0.0992)",
   "fallbackHex": "#00cc50",
@@ -38448,7 +38448,7 @@
   }
  },
  {
-  "name": "Emerald Laser",
+  "name": "Alarming Slime",
   "tier": "rec2020",
   "css": "color(rec2020 0.3742 0.9107 0.0343)",
   "fallbackHex": "#00e84f",
@@ -38592,7 +38592,7 @@
   }
  },
  {
-  "name": "Spring Halo",
+  "name": "Flora",
   "tier": "rec2020",
   "css": "color(rec2020 0.6138 0.9934 0.4551)",
   "fallbackHex": "#74ff87",
@@ -38704,7 +38704,7 @@
   }
  },
  {
-  "name": "Evergreen Night",
+  "name": "Nightmare",
   "tier": "rec2020",
   "css": "color(rec2020 0.007 0.0919 0.0292)",
   "fallbackHex": "#002517",
@@ -38720,7 +38720,7 @@
   }
  },
  {
-  "name": "Emerald Void",
+  "name": "Lindworm Green",
   "tier": "rec2020",
   "css": "color(rec2020 0.0056 0.1 0.0004)",
   "fallbackHex": "#00270d",
@@ -38800,7 +38800,7 @@
   }
  },
  {
-  "name": "Jade Night",
+  "name": "Lost in the Woods",
   "tier": "rec2020",
   "css": "color(rec2020 0.0012 0.2083 0.0793)",
   "fallbackHex": "#00402b",
@@ -38832,7 +38832,7 @@
   }
  },
  {
-  "name": "Emerald Shadow",
+  "name": "Zucchini",
   "tier": "rec2020",
   "css": "color(rec2020 0.008 0.2468 0.0915)",
   "fallbackHex": "#004930",
@@ -38944,7 +38944,7 @@
   }
  },
  {
-  "name": "Shamrock Blaze",
+  "name": "Bold Irish",
   "tier": "rec2020",
   "css": "color(rec2020 0.1099 0.4914 0.1186)",
   "fallbackHex": "#008446",
@@ -38960,7 +38960,7 @@
   }
  },
  {
-  "name": "Jade Voltage",
+  "name": "Primal Green",
   "tier": "rec2020",
   "css": "color(rec2020 0.0193 0.5431 0.2401)",
   "fallbackHex": "#008c5f",
@@ -38992,7 +38992,7 @@
   }
  },
  {
-  "name": "Jade Rush",
+  "name": "Paolo Veronese Green",
   "tier": "rec2020",
   "css": "color(rec2020 0.0366 0.6351 0.3294)",
   "fallbackHex": "#00a073",
@@ -39056,7 +39056,7 @@
   }
  },
  {
-  "name": "Jade Overdrive",
+  "name": "Bejewelled",
   "tier": "rec2020",
   "css": "color(rec2020 0.0054 0.6956 0.2832)",
   "fallbackHex": "#00ac73",
@@ -39072,7 +39072,7 @@
   }
  },
  {
-  "name": "Emerald Storm",
+  "name": "Matt Green",
   "tier": "rec2020",
   "css": "color(rec2020 0.1825 0.6808 0.1305)",
   "fallbackHex": "#00af58",
@@ -39104,7 +39104,7 @@
   }
  },
  {
-  "name": "Jade Splash",
+  "name": "Green Mana",
   "tier": "p3",
   "css": "color(display-p3 0.2084 0.6976 0.4768)",
   "fallbackHex": "#00b07a",
@@ -39120,7 +39120,7 @@
   }
  },
  {
-  "name": "Caribbean Blaze",
+  "name": "Hole in One",
   "tier": "rec2020",
   "css": "color(rec2020 0.0176 0.7293 0.3574)",
   "fallbackHex": "#00b47f",
@@ -39280,7 +39280,7 @@
   }
  },
  {
-  "name": "Jade Mist",
+  "name": "Vegetation",
   "tier": "srgb",
   "css": "#5ac693",
   "fallbackHex": "#5ac693",
@@ -39600,7 +39600,7 @@
   }
  },
  {
-  "name": "Spring Voltage",
+  "name": "Experimintal Green",
   "tier": "p3",
   "css": "color(display-p3 0.2775 0.9729 0.4596)",
   "fallbackHex": "#00f57c",
@@ -39744,7 +39744,7 @@
   }
  },
  {
-  "name": "Jade Abyss",
+  "name": "Blackn’t",
   "tier": "rec2020",
   "css": "color(rec2020 0.0051 0.0274 0.0159)",
   "fallbackHex": "#00120c",
@@ -39760,7 +39760,7 @@
   }
  },
  {
-  "name": "Viridian Night",
+  "name": "Queen of Trees",
   "tier": "rec2020",
   "css": "color(rec2020 0.0062 0.1846 0.117)",
   "fallbackHex": "#003b2f",
@@ -39824,7 +39824,7 @@
   }
  },
  {
-  "name": "Jade Depths",
+  "name": "Jewel",
   "tier": "rec2020",
   "css": "color(rec2020 0.0665 0.362 0.237)",
   "fallbackHex": "#00664f",
@@ -39840,7 +39840,7 @@
   }
  },
  {
-  "name": "Viridian Blaze",
+  "name": "Into the Green",
   "tier": "rec2020",
   "css": "color(rec2020 0.0103 0.3811 0.234)",
   "fallbackHex": "#006850",
@@ -40144,7 +40144,7 @@
   }
  },
  {
-  "name": "Lagoon Surge",
+  "name": "Macau",
   "tier": "rec2020",
   "css": "color(rec2020 0.0502 0.7688 0.6413)",
   "fallbackHex": "#00bfa7",
@@ -40288,7 +40288,7 @@
   }
  },
  {
-  "name": "Turquoise Voltage",
+  "name": "Peppy Peacock",
   "tier": "rec2020",
   "css": "color(rec2020 0.0147 0.9122 0.7203)",
   "fallbackHex": "#00ddbd",
@@ -40480,7 +40480,7 @@
   }
  },
  {
-  "name": "Petrol Night",
+  "name": "Tropical Forest",
   "tier": "rec2020",
   "css": "color(rec2020 0.0532 0.2186 0.2327)",
   "fallbackHex": "#004646",
@@ -40704,7 +40704,7 @@
   }
  },
  {
-  "name": "Turquoise Blaze",
+  "name": "Billiard",
   "tier": "rec2020",
   "css": "color(rec2020 0.0005 0.6773 0.5713)",
   "fallbackHex": "#00aa96",
@@ -41008,7 +41008,7 @@
   }
  },
  {
-  "name": "Turquoise Laser",
+  "name": "Cold Light of Day",
   "tier": "rec2020",
   "css": "color(rec2020 0.3715 0.9509 0.8282)",
   "fallbackHex": "#00f0d4",
@@ -41280,7 +41280,7 @@
   }
  },
  {
-  "name": "Lagoon Beam",
+  "name": "Waikiki",
   "tier": "rec2020",
   "css": "color(rec2020 0.1893 0.5526 0.6413)",
   "fallbackHex": "#00969f",
@@ -41296,7 +41296,7 @@
   }
  },
  {
-  "name": "Pacific Voltage",
+  "name": "Corfu Waters",
   "tier": "rec2020",
   "css": "color(rec2020 0.0042 0.5732 0.7598)",
   "fallbackHex": "#0097a7",
@@ -41360,7 +41360,7 @@
   }
  },
  {
-  "name": "Pacific Bolt",
+  "name": "Surgical",
   "tier": "rec2020",
   "css": "color(rec2020 0.1038 0.6642 0.8634)",
   "fallbackHex": "#00adc0",
@@ -41392,7 +41392,7 @@
   }
  },
  {
-  "name": "Lagoon Flash",
+  "name": "Finnish Fiord",
   "tier": "rec2020",
   "css": "color(rec2020 0.1839 0.6805 0.8042)",
   "fallbackHex": "#00b1bd",
@@ -41504,7 +41504,7 @@
   }
  },
  {
-  "name": "Sky Splash",
+  "name": "Petrichor",
   "tier": "p3",
   "css": "color(display-p3 0.3414 0.7859 0.8729)",
   "fallbackHex": "#00cbe0",
@@ -41632,7 +41632,7 @@
   }
  },
  {
-  "name": "Storm Abyss",
+  "name": "Royal Neptune",
   "tier": "rec2020",
   "css": "color(rec2020 0.002 0.1633 0.3149)",
   "fallbackHex": "#003949",
@@ -41648,7 +41648,7 @@
   }
  },
  {
-  "name": "Storm Depths",
+  "name": "Nocturnal Expedition",
   "tier": "rec2020",
   "css": "color(rec2020 0.0009 0.2285 0.4009)",
   "fallbackHex": "#00495a",
@@ -41680,7 +41680,7 @@
   }
  },
  {
-  "name": "Baltic Night",
+  "name": "Plunge",
   "tier": "rec2020",
   "css": "color(rec2020 0.0937 0.277 0.392)",
   "fallbackHex": "#005668",
@@ -41696,7 +41696,7 @@
   }
  },
  {
-  "name": "Pacific Blaze",
+  "name": "Waterworld",
   "tier": "rec2020",
   "css": "color(rec2020 0.0192 0.4131 0.5951)",
   "fallbackHex": "#007385",
@@ -41728,7 +41728,7 @@
   }
  },
  {
-  "name": "Cerulean Bolt",
+  "name": "Celestial",
   "tier": "rec2020",
   "css": "color(rec2020 0.0074 0.4349 0.6753)",
   "fallbackHex": "#007990",
@@ -41744,7 +41744,7 @@
   }
  },
  {
-  "name": "Cerulean Voltage",
+  "name": "Pacific Pleasure",
   "tier": "rec2020",
   "css": "color(rec2020 0.1317 0.4521 0.7044)",
   "fallbackHex": "#0080a0",
@@ -41840,7 +41840,7 @@
   }
  },
  {
-  "name": "Cerulean Overdrive",
+  "name": "Underwater Moonlight",
   "tier": "rec2020",
   "css": "color(rec2020 0.0389 0.5538 0.8901)",
   "fallbackHex": "#0096b8",
@@ -41872,7 +41872,7 @@
   }
  },
  {
-  "name": "Pacific Laser",
+  "name": "Blue Ocean",
   "tier": "rec2020",
   "css": "color(rec2020 0.0091 0.6047 0.8342)",
   "fallbackHex": "#009fb3",
@@ -41936,7 +41936,7 @@
   }
  },
  {
-  "name": "Sky Voltage",
+  "name": "Laguna",
   "tier": "rec2020",
   "css": "color(rec2020 0.1935 0.6333 0.9875)",
   "fallbackHex": "#00abd6",
@@ -41984,7 +41984,7 @@
   }
  },
  {
-  "name": "Sky Rush",
+  "name": "Blue Martini",
   "tier": "rec2020",
   "css": "color(rec2020 0.2098 0.7096 0.9578)",
   "fallbackHex": "#00bad6",
@@ -42016,7 +42016,7 @@
   }
  },
  {
-  "name": "Sky Mist",
+  "name": "Skydive",
   "tier": "srgb",
   "css": "#68bed8",
   "fallbackHex": "#68bed8",
@@ -42032,7 +42032,7 @@
   }
  },
  {
-  "name": "Sky Burst",
+  "name": "Blue Bikini",
   "tier": "p3",
   "css": "color(display-p3 0.3144 0.7633 0.9556)",
   "fallbackHex": "#00c5f5",
@@ -42256,7 +42256,7 @@
   }
  },
  {
-  "name": "Storm Surge",
+  "name": "Moroccan Blue",
   "tier": "rec2020",
   "css": "color(rec2020 0.0008 0.2715 0.6101)",
   "fallbackHex": "#005878",
@@ -42320,7 +42320,7 @@
   }
  },
  {
-  "name": "Ocean Voltage",
+  "name": "Copacabana",
   "tier": "rec2020",
   "css": "color(rec2020 0.002 0.3272 0.7139)",
   "fallbackHex": "#00668a",
@@ -42432,7 +42432,7 @@
   }
  },
  {
-  "name": "Pacific Overdrive",
+  "name": "King Triton",
   "tier": "rec2020",
   "css": "color(rec2020 0.0198 0.5344 0.9983)",
   "fallbackHex": "#0095c2",
@@ -42480,7 +42480,7 @@
   }
  },
  {
-  "name": "Ocean Sky",
+  "name": "Magical Merlin",
   "tier": "p3",
   "css": "color(display-p3 0.2122 0.5806 0.8389)",
   "fallbackHex": "#0096d5",
@@ -42528,7 +42528,7 @@
   }
  },
  {
-  "name": "Sky Bolt",
+  "name": "Thalassophile",
   "tier": "rec2020",
   "css": "color(rec2020 0.2706 0.6065 0.9614)",
   "fallbackHex": "#00a7dc",
@@ -42784,7 +42784,7 @@
   }
  },
  {
-  "name": "Cobalt Abyss",
+  "name": "Pacific Navy",
   "tier": "rec2020",
   "css": "color(rec2020 0.0664 0.1293 0.7334)",
   "fallbackHex": "#004889",
@@ -42816,7 +42816,7 @@
   }
  },
  {
-  "name": "Sapphire Blaze",
+  "name": "Olympian Blue",
   "tier": "rec2020",
   "css": "color(rec2020 0.0899 0.1742 0.7246)",
   "fallbackHex": "#004c93",
@@ -42832,7 +42832,7 @@
   }
  },
  {
-  "name": "Deep Sea Sapphire",
+  "name": "Grand Bleu",
   "tier": "rec2020",
   "css": "color(rec2020 0.0928 0.2385 0.5856)",
   "fallbackHex": "#005285",
@@ -42896,7 +42896,7 @@
   }
  },
  {
-  "name": "Sapphire Voltage",
+  "name": "Blue Chip",
   "tier": "rec2020",
   "css": "color(rec2020 0.1149 0.2299 0.8034)",
   "fallbackHex": "#0059a4",
@@ -42928,7 +42928,7 @@
   }
  },
  {
-  "name": "Ocean Bolt",
+  "name": "Oceanic Motion",
   "tier": "rec2020",
   "css": "color(rec2020 0.1154 0.3034 0.6718)",
   "fallbackHex": "#006196",
@@ -42976,7 +42976,7 @@
   }
  },
  {
-  "name": "Ocean Pulse",
+  "name": "Muted Blue",
   "tier": "rec2020",
   "css": "color(rec2020 0.1496 0.3712 0.7607)",
   "fallbackHex": "#0071aa",
@@ -43344,7 +43344,7 @@
   }
  },
  {
-  "name": "Sapphire Pulse",
+  "name": "Smalt",
   "tier": "rec2020",
   "css": "color(rec2020 0.091 0.0942 0.6445)",
   "fallbackHex": "#003891",
@@ -43520,7 +43520,7 @@
   }
  },
  {
-  "name": "Sapphire Punch",
+  "name": "Flying Fish Blue",
   "tier": "p3",
   "css": "color(display-p3 0.042 0.2419 0.8167)",
   "fallbackHex": "#0048c6",
@@ -43744,7 +43744,7 @@
   }
  },
  {
-  "name": "Periwinkle Sky",
+  "name": "Olympic Blue",
   "tier": "srgb",
   "css": "#6d92f4",
   "fallbackHex": "#6d92f4",
@@ -43872,7 +43872,7 @@
   }
  },
  {
-  "name": "Midnight Iris",
+  "name": "Fly-by-Night",
   "tier": "srgb",
   "css": "#181a54",
   "fallbackHex": "#181a54",
@@ -44000,7 +44000,7 @@
   }
  },
  {
-  "name": "Iris Shadow",
+  "name": "Evening Magic",
   "tier": "srgb",
   "css": "#3b3d7d",
   "fallbackHex": "#3b3d7d",
@@ -44048,7 +44048,7 @@
   }
  },
  {
-  "name": "Iris Burst",
+  "name": "Blurple",
   "tier": "srgb",
   "css": "#4f33ca",
   "fallbackHex": "#4f33ca",
@@ -44192,7 +44192,7 @@
   }
  },
  {
-  "name": "Periwinkle Bolt",
+  "name": "Blue Öyster Cult",
   "tier": "srgb",
   "css": "#6662f4",
   "fallbackHex": "#6662f4",
@@ -44224,7 +44224,7 @@
   }
  },
  {
-  "name": "Periwinkle Voltage",
+  "name": "Secret of Mana",
   "tier": "p3",
   "css": "color(display-p3 0.3839 0.3661 0.9894)",
   "fallbackHex": "#6360ff",
@@ -44256,7 +44256,7 @@
   }
  },
  {
-  "name": "Periwinkle Burst",
+  "name": "Pan Purple",
   "tier": "p3",
   "css": "color(display-p3 0.4063 0.424 0.9957)",
   "fallbackHex": "#686fff",
@@ -44320,7 +44320,7 @@
   }
  },
  {
-  "name": "Periwinkle Beam",
+  "name": "Widowmaker",
   "tier": "rec2020",
   "css": "color(rec2020 0.5338 0.5678 0.9987)",
   "fallbackHex": "#849dff",
@@ -44464,7 +44464,7 @@
   }
  },
  {
-  "name": "Iris Night",
+  "name": "Galactic Purple",
   "tier": "srgb",
   "css": "#462e91",
   "fallbackHex": "#462e91",
@@ -44528,7 +44528,7 @@
   }
  },
  {
-  "name": "Amethyst Shadow",
+  "name": "Ruthless Empress",
   "tier": "srgb",
   "css": "#584495",
   "fallbackHex": "#584495",
@@ -44720,7 +44720,7 @@
   }
  },
  {
-  "name": "Amethyst Burst",
+  "name": "Lavish Spending",
   "tier": "srgb",
   "css": "#8561dc",
   "fallbackHex": "#8561dc",
@@ -44848,7 +44848,7 @@
   }
  },
  {
-  "name": "Amethyst Night",
+  "name": "Hollow Knight",
   "tier": "p3",
   "css": "color(display-p3 0.1589 0.01 0.2712)",
   "fallbackHex": "#2d0048",
@@ -44864,7 +44864,7 @@
   }
  },
  {
-  "name": "Plum Night",
+  "name": "Plunged Into Darkness",
   "tier": "srgb",
   "css": "#3b164b",
   "fallbackHex": "#3b164b",
@@ -45248,7 +45248,7 @@
   }
  },
  {
-  "name": "Amethyst Pop",
+  "name": "Orion Nebula",
   "tier": "p3",
   "css": "color(display-p3 0.6327 0.2689 0.9962)",
   "fallbackHex": "#ab47ff",
@@ -45264,7 +45264,7 @@
   }
  },
  {
-  "name": "Lavender Voltage",
+  "name": "Sweet Desire",
   "tier": "p3",
   "css": "color(display-p3 0.6403 0.336 0.9773)",
   "fallbackHex": "#ae53ff",
@@ -45776,7 +45776,7 @@
   }
  },
  {
-  "name": "Orchid Blaze",
+  "name": "Magentle",
   "tier": "srgb",
   "css": "#9e2ea7",
   "fallbackHex": "#9e2ea7",
@@ -45808,7 +45808,7 @@
   }
  },
  {
-  "name": "Orchid Storm",
+  "name": "Fuchsia Pheromone",
   "tier": "srgb",
   "css": "#9940b8",
   "fallbackHex": "#9940b8",
@@ -46000,7 +46000,7 @@
   }
  },
  {
-  "name": "Orchid Mist",
+  "name": "Fading Love",
   "tier": "srgb",
   "css": "#c679c3",
   "fallbackHex": "#c679c3",
@@ -46096,7 +46096,7 @@
   }
  },
  {
-  "name": "Orchid Beam",
+  "name": "Violet Pink",
   "tier": "rec2020",
   "css": "color(rec2020 0.8154 0.4104 0.9958)",
   "fallbackHex": "#f06bff",
@@ -46208,7 +46208,7 @@
   }
  },
  {
-  "name": "Berry Night",
+  "name": "Velvet Cosmos",
   "tier": "p3",
   "css": "color(display-p3 0.2846 0.0124 0.2456)",
   "fallbackHex": "#4e0040",
@@ -46288,7 +46288,7 @@
   }
  },
  {
-  "name": "Berry Blaze",
+  "name": "Grapest",
   "tier": "rec2020",
   "css": "color(rec2020 0.414 0.0041 0.3703)",
   "fallbackHex": "#87006a",
@@ -46352,7 +46352,7 @@
   }
  },
  {
-  "name": "Berry Voltage",
+  "name": "Fabric of Love",
   "tier": "rec2020",
   "css": "color(rec2020 0.5307 0.0764 0.4851)",
   "fallbackHex": "#ac0089",
@@ -46512,7 +46512,7 @@
   }
  },
  {
-  "name": "Berry Overdrive",
+  "name": "Mystifying Magenta",
   "tier": "rec2020",
   "css": "color(rec2020 0.6566 0.0121 0.6141)",
   "fallbackHex": "#c700a2",
@@ -46544,7 +46544,7 @@
   }
  },
  {
-  "name": "Berry Laser",
+  "name": "Aphroditean Fuchsia",
   "tier": "rec2020",
   "css": "color(rec2020 0.6915 0.0546 0.6016)",
   "fallbackHex": "#d300a2",
@@ -47104,7 +47104,7 @@
   }
  },
  {
-  "name": "Orchid Halo",
+  "name": "Technolust",
   "tier": "rec2020",
   "css": "color(rec2020 0.9322 0.3901 0.9948)",
   "fallbackHex": "#ff7dee",
@@ -47408,7 +47408,7 @@
   }
  },
  {
-  "name": "Raspberry Surge",
+  "name": "Morbid Princess",
   "tier": "rec2020",
   "css": "color(rec2020 0.5535 0.0134 0.3277)",
   "fallbackHex": "#ac0064",
@@ -47472,7 +47472,7 @@
   }
  },
  {
-  "name": "Raspberry Voltage",
+  "name": "Botticelli",
   "tier": "rec2020",
   "css": "color(rec2020 0.5891 0.0004 0.3903)",
   "fallbackHex": "#b40072",
