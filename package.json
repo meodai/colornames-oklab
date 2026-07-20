@@ -37,7 +37,7 @@
     "url": "git+https://github.com/meodai/colornames-oklab.git"
   },
   "scripts": {
-    "test": "node scripts/test.mjs && node scripts/test-api.mjs && node scripts/audit-basics.mjs",
+    "test": "node scripts/test.mjs && node scripts/test-api.mjs && node scripts/audit-basics.mjs && node scripts/audit-families.mjs",
     "sample": "node scripts/sample-points.mjs",
     "sample:more": "node scripts/sample-more.mjs",
     "worksheet": "node scripts/make-worksheet.mjs",
