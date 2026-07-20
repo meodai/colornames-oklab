@@ -17,7 +17,7 @@ for (const p of points) {
   const key = String(p.id).padStart(4, '0');
   const name = names[key];
   if (!name) { errors.push(`missing name for ${key}`); continue; }
-  const norm = name.toLowerCase().replace(/[^a-z]/g, '');
+  const norm = name.toLowerCase().replace(/[^a-z0-9]/g, ''); // digits are significant (24 Carrot != Carrot)
   if (seen.has(norm)) errors.push(`duplicate: "${name}" (${key}) vs "${seen.get(norm)[0]}" (${seen.get(norm)[1]})`);
   else seen.set(norm, [name, key]);
 }
