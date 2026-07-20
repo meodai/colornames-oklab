@@ -48261,11 +48261,6 @@ renderer.domElement.addEventListener('dblclick', () => {
   controls.enableZoom = zoomArmed;
 });
 
-scene.add(new THREE.AmbientLight(0xffffff, 1.6));
-const key = new THREE.DirectionalLight(0xffffff, 1.4);
-key.position.set(2, 4, 3);
-scene.add(key);
-
 // OKLab frame: x = a, y = L, z = b — a/b scaled so the gamut body reads well
 const AB = 2.2;
 const pos = (c) => new THREE.Vector3(c.oklab.a * AB, c.oklab.l, c.oklab.b * AB);
@@ -48305,38 +48300,70 @@ makeLabel('+b', new THREE.Vector3(0, 0.02, 1.0));
 makeLabel('−b', new THREE.Vector3(0, 0.02, -1.0));
 
 const R = 0.0115;
-const geo = new THREE.SphereGeometry(R, 12, 10);
-const mat = new THREE.MeshLambertMaterial();
-const mesh = new THREE.InstancedMesh(geo, mat, COLORS.length);
-const m4 = new THREE.Matrix4();
+// each color is a flat circular sprite, camera-facing, unlit
+const dotTex = (() => {
+  const c = document.createElement('canvas');
+  c.width = c.height = 128;
+  const g = c.getContext('2d');
+  g.fillStyle = '#ffffff';
+  g.beginPath();
+  g.arc(64, 64, 60, 0, Math.PI * 2);
+  g.fill();
+  return new THREE.CanvasTexture(c);
+})();
+const positions = new Float32Array(COLORS.length * 3);
+const colors = new Float32Array(COLORS.length * 3);
 const col = new THREE.Color();
 COLORS.forEach((c, i) => {
-  m4.setPosition(pos(c));
-  mesh.setMatrixAt(i, m4);
-  mesh.setColorAt(i, col.set(c.fallbackHex));
+  const v = pos(c);
+  positions.set([v.x, v.y, v.z], i * 3);
+  col.set(c.fallbackHex);
+  colors.set([col.r, col.g, col.b], i * 3);
 });
-mesh.instanceColor.needsUpdate = true;
+const geo = new THREE.BufferGeometry();
+geo.setAttribute('position', new THREE.BufferAttribute(positions, 3));
+geo.setAttribute('color', new THREE.BufferAttribute(colors, 3));
+const mat = new THREE.PointsMaterial({
+  size: R * 2.2,
+  map: dotTex,
+  vertexColors: true,
+  transparent: true,
+  alphaTest: 0.5,
+  sizeAttenuation: true,
+});
+const mesh = new THREE.Points(geo, mat);
 scene.add(mesh);
 
-const halo = new THREE.Mesh(
-  new THREE.SphereGeometry(R * 1.9, 16, 12),
-  new THREE.MeshBasicMaterial({ color: theme().halo, wireframe: true, transparent: true, opacity: 0.5 })
+// flat ring, always facing the camera; white in dark mode, black in light
+const ringTex = (() => {
+  const c = document.createElement('canvas');
+  c.width = c.height = 128;
+  const g = c.getContext('2d');
+  g.strokeStyle = '#ffffff';
+  g.lineWidth = 8;
+  g.beginPath();
+  g.arc(64, 64, 52, 0, Math.PI * 2);
+  g.stroke();
+  return new THREE.CanvasTexture(c);
+})();
+const halo = new THREE.Sprite(
+  new THREE.SpriteMaterial({ map: ringTex, transparent: true, depthTest: false, color: theme().halo })
 );
+halo.scale.set(R * 4.6, R * 4.6, 1);
+halo.renderOrder = 2;
 halo.visible = false;
 scene.add(halo);
 
 let activeTier = 'all';
 function applyFilter() {
-  const zero = new THREE.Matrix4().makeScale(0, 0, 0);
+  const attr = mesh.geometry.attributes.position;
   COLORS.forEach((c, i) => {
-    if (activeTier === 'all' || c.tier === activeTier) {
-      m4.identity().setPosition(pos(c));
-      mesh.setMatrixAt(i, m4);
-    } else {
-      mesh.setMatrixAt(i, zero);
-    }
+    const v = pos(c);
+    const show = activeTier === 'all' || c.tier === activeTier;
+    attr.setXYZ(i, v.x, show ? v.y : -9999, v.z);
   });
-  mesh.instanceMatrix.needsUpdate = true;
+  attr.needsUpdate = true;
+  mesh.geometry.computeBoundingSphere();
 }
 
 const counts = COLORS.reduce((m, c) => ((m[c.tier] = (m[c.tier] ?? 0) + 1), m), {});
@@ -48356,6 +48383,7 @@ TIERS.forEach((t) => {
 });
 
 const ray = new THREE.Raycaster();
+ray.params.Points.threshold = R * 1.3;
 const mouse = new THREE.Vector2(-2, -2);
 let hovered = -1;
 const tip = document.getElementById('tip');
@@ -48382,7 +48410,7 @@ renderer.domElement.addEventListener('pointerleave', () => mouse.set(-2, -2));
 function updateHover() {
   ray.setFromCamera(mouse, camera);
   const hit = ray.intersectObject(mesh)[0];
-  const id = hit ? hit.instanceId : -1;
+  const id = hit ? hit.index : -1;
   if (id === hovered) return;
   hovered = id;
   if (id < 0 || (activeTier !== 'all' && COLORS[id].tier !== activeTier)) {
