@@ -132,7 +132,13 @@
     max-height: 60vh; overflow-y: auto; border: 1px solid var(--line); background: var(--panel);
     padding: .2rem .9rem;
   }
-  .nrow { display: flex; align-items: center; gap: .55rem; padding: .28rem 0; font-size: .85rem; border-bottom: 1px solid var(--row-line); min-width: 0; }
+  .nrow { padding: 0; border-bottom: 1px solid var(--row-line); min-width: 0; }
+  .nline { display: flex; align-items: center; gap: .55rem; padding: .28rem 0; font-size: .85rem; min-width: 0; }
+  details.nrow > summary.nline { cursor: pointer; list-style: none; }
+  details.nrow > summary.nline::-webkit-details-marker { display: none; }
+  details.nrow > summary.nline .nm::after { content: ' +'; color: var(--faint); }
+  details.nrow[open] > summary.nline .nm::after { content: ' −'; }
+  .ndesc { margin: 0 0 .55rem 1.6em; font-size: .8rem; color: var(--muted); max-width: 60ch; }
   .nrow .sw { width: 1.05em; height: 1.05em; border-radius: 4px; flex: none; }
   .nrow .nm { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
   .nrow .ok { margin-left: auto; color: var(--muted); font: .68rem ui-monospace, 'SF Mono', Menlo, monospace; white-space: nowrap; }

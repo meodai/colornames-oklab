@@ -3,6 +3,7 @@ import * as THREE from 'three';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 import { toGamut } from 'culori';
 import COLORS from '../colornames-oklab.json';
+import DESCRIPTIONS from '../data/descriptions.json';
 
 const TIERS = ['all', 'srgb', 'p3', 'rec2020'];
 const TIER_LABEL = { srgb: 'sRGB', p3: 'Display P3', rec2020: 'Rec2020' };
@@ -399,11 +400,15 @@ FAVES.forEach((n) => {
 const listEl = document.getElementById('namelist');
 const countEl = document.getElementById('nameCount');
 const foldName = (s) => s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-const sortedNames = [...COLORS].sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));
+const sortedNames = COLORS.map((c, idx) => ({ ...c, idx })).sort((a, b) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' }));
 const listFrag = document.createDocumentFragment();
 const nameRows = sortedNames.map((c) => {
-  const row = document.createElement('div');
-  row.className = 'nrow';
+  const entry = DESCRIPTIONS[String(c.idx).padStart(4, '0')];
+  const hasDesc = entry && entry.name === c.name;
+  const row = document.createElement(hasDesc ? 'details' : 'div');
+  row.className = 'nrow' + (hasDesc ? ' has-desc' : '');
+  const line = document.createElement(hasDesc ? 'summary' : 'div');
+  line.className = 'nline';
   const sw = document.createElement('span');
   sw.className = 'sw';
   sw.style.background = c.hex;
@@ -418,7 +423,14 @@ const nameRows = sortedNames.map((c) => {
   const hx = document.createElement('span');
   hx.className = 'hx';
   hx.textContent = c.hex;
-  row.append(sw, nm, ok, hx);
+  line.append(sw, nm, ok, hx);
+  row.append(line);
+  if (hasDesc) {
+    const p = document.createElement('p');
+    p.className = 'ndesc';
+    p.textContent = entry.description;
+    row.append(p);
+  }
   listFrag.appendChild(row);
   return { row, key: foldName(c.name) };
 });
