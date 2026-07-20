@@ -1470,7 +1470,7 @@
 {"name":"Flash Mob","tier":"rec2020","hex":"#ff31bc","oklab":[0.6821,0.3626,-0.0953]},
 {"name":"Safety Pink","tier":"rec2020","hex":"#ff3cad","oklab":[0.6832,0.3655,-0.0606]},
 {"name":"Stellar Strawberry","tier":"srgb","hex":"#f85799","oklab":[0.6895,0.2034,-0.004]},
-{"name":"Charm Pink","tier":"srgb","hex":"#dd75a5","oklab":[0.6939,0.139,-0.0184]},
+{"name":"Sweetbriar","tier":"srgb","hex":"#dd75a5","oklab":[0.6939,0.139,-0.0184]},
 {"name":"Flamboyant Flamingo","tier":"rec2020","hex":"#ff5499","oklab":[0.6963,0.3224,-0.0016]},
 {"name":"Go-Kart","tier":"rec2020","hex":"#ff529f","oklab":[0.6968,0.3748,-0.0176]},
 {"name":"Galah","tier":"rec2020","hex":"#ff4eb5","oklab":[0.7,0.3234,-0.063]},
