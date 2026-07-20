@@ -84,7 +84,7 @@ body {
   background: var(--bg);
   color: var(--ink);
   font:
-    16px/1.55 "Valley Sans",
+    16px/1.7 "Valley Sans",
     system-ui,
     sans-serif;
 }
@@ -275,6 +275,9 @@ p {
   max-width: 50ch;
   margin-left: 2em;
 }
+p + p {
+  margin-top: 3em;
+}
 p strong {
   color: var(--ink);
 }
@@ -299,7 +302,7 @@ pre {
   border: 1px solid var(--line);
   padding: 0.9rem 1.1rem;
   overflow-x: auto;
-  margin: 0.9rem 0 1.2rem;
+  margin: 3rem 0;
 }
 pre code {
   background: none;
