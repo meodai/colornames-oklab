@@ -375,11 +375,23 @@ const ray = new THREE.Raycaster();
 const mouse = new THREE.Vector2(-2, -2);
 let hovered = -1;
 const tip = document.getElementById('tip');
+let lastClient = { x: -100, y: -100 };
+// open the card toward the side/half of the viewport with the most space
+function placeTip() {
+  const w = tip.offsetWidth || 220;
+  const h = tip.offsetHeight || 320;
+  const pad = 18;
+  const { x, y } = lastClient;
+  const left = x < innerWidth / 2 ? x + pad : x - pad - w;
+  const top = y < innerHeight / 2 ? y + pad : y - pad - h;
+  tip.style.left = Math.max(8, Math.min(left, innerWidth - w - 8)) + 'px';
+  tip.style.top = Math.max(8, Math.min(top, innerHeight - h - 8)) + 'px';
+}
 renderer.domElement.addEventListener('pointermove', (e) => {
   const r = box();
   mouse.set(((e.clientX - r.left) / r.width) * 2 - 1, -((e.clientY - r.top) / r.height) * 2 + 1);
-  tip.style.left = Math.min(e.clientX + 16, innerWidth - 230) + 'px';
-  tip.style.top = Math.min(e.clientY + 16, innerHeight - 150) + 'px';
+  lastClient = { x: e.clientX, y: e.clientY };
+  if (tip.style.display === 'block') placeTip();
 });
 renderer.domElement.addEventListener('pointerleave', () => mouse.set(-2, -2));
 renderer.domElement.addEventListener('click', () => {
@@ -412,6 +424,7 @@ function updateHover() {
   tip.querySelector('.fmeta').textContent = TIER_LABEL[c.tier] + ' · ' + c.fallbackHex;
   tip.querySelector('.fcss').textContent = c.tier === 'srgb' ? '' : c.css;
   tip.style.display = 'block';
+  placeTip();
   halo.position.copy(pos(c));
   halo.visible = true;
   document.body.style.cursor = 'pointer';
