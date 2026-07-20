@@ -399,7 +399,7 @@
 {"name":"Crème de la Crème","tier":"srgb","hex":"#f3f1b4","oklab":[0.9455,-0.0221,0.0754]},
 {"name":"Honeysuckle","tier":"p3","hex":"#ecff91","oklab":[0.9629,-0.0627,0.1234]},
 {"name":"Yellow","tier":"srgb","hex":"#faff17","oklab":[0.9644,-0.0753,0.1953]},
-{"name":"Bat-Signal","tier":"rec2020","hex":"#fcff32","oklab":[0.9664,-0.0869,0.2307]},
+{"name":"Safety Vest","tier":"rec2020","hex":"#fcff32","oklab":[0.9664,-0.0869,0.2307]},
 {"name":"Glowworm","tier":"rec2020","hex":"#f0ffb8","oklab":[0.9724,-0.0456,0.0873]},
 {"name":"Rifle Green","tier":"rec2020","hex":"#223800","oklab":[0.3094,-0.062,0.0755]},
 {"name":"Dark Fern","tier":"srgb","hex":"#33410e","oklab":[0.3518,-0.0422,0.0631]},
