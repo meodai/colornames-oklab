@@ -4841,8 +4841,94 @@ halo.renderOrder = 2;
 halo.visible = false;
 scene.add(halo);
 
+// gamut boundary shells: each gamut is the RGB cube pushed through its
+// transfer + matrices into OKLab — drawn as light wireframes over the faces
+const P2X = [
+  [0.4865709486482162, 0.26566769316909306, 0.19821728523436247],
+  [0.2289745640697488, 0.6917385218365064, 0.079286914093745],
+  [0, 0.04511338185890264, 1.043944368900976],
+];
+const R2X = [
+  [0.6369580483012914, 0.14461690358620832, 0.16888097516417205],
+  [0.2627002120112671, 0.6779980715188708, 0.05930171646986196],
+  [0, 0.028072693049087428, 1.060985057710791],
+];
+const XYZ2LMS = [
+  [0.8189330101, 0.3618667424, -0.1288597137],
+  [0.0329845436, 0.9293118715, 0.0361456387],
+  [0.0482003018, 0.2643662691, 0.633851707],
+];
+const LMS2LAB = [
+  [0.2104542553, 0.793617785, -0.0040720468],
+  [1.9779984951, -2.428592205, 0.4505937099],
+  [0.0259040371, 0.7827717662, -0.808675766],
+];
+const rec2020Decode = (e) => {
+  const a = 1.09929682680944, b = 0.018053968510807;
+  return e < b * 4.5 ? e / 4.5 : Math.pow((e + a - 1) / a, 1 / 0.45);
+};
+const gamutPoint = (M, decode, rgb) => {
+  const xyz = mulM(M, rgb.map(decode));
+  const [L, A, B] = mulM(LMS2LAB, mulM(XYZ2LMS, xyz).map(Math.cbrt));
+  return new THREE.Vector3(A * AB, L, B * AB);
+};
+// projected onto the a-b floor plane as flat outlines: sample the RGB cube
+// boundary, keep the max-chroma point per hue angle, trace a closed loop
+const shells = {};
+const buildOutline = (key, M, decode) => {
+  // convex hull (monotone chain) of the projected cube boundary
+  const S = 48;
+  const raw = [];
+  for (let axis = 0; axis < 3; axis++) {
+    for (const w of [0, 1]) {
+      for (let i = 0; i <= S; i++) {
+        for (let j = 0; j <= S; j++) {
+          const c = [0, 0, 0];
+          c[axis] = w;
+          c[(axis + 1) % 3] = i / S;
+          c[(axis + 2) % 3] = j / S;
+          const v = gamutPoint(M, decode, c);
+          raw.push([v.x, v.z]);
+        }
+      }
+    }
+  }
+  raw.sort((p, q) => p[0] - q[0] || p[1] - q[1]);
+  const cross = (o, a2, b2) => (a2[0] - o[0]) * (b2[1] - o[1]) - (a2[1] - o[1]) * (b2[0] - o[0]);
+  const lower = [];
+  for (const pt of raw) {
+    while (lower.length >= 2 && cross(lower[lower.length - 2], lower[lower.length - 1], pt) <= 0) lower.pop();
+    lower.push(pt);
+  }
+  const upper = [];
+  for (let i = raw.length - 1; i >= 0; i--) {
+    const pt = raw[i];
+    while (upper.length >= 2 && cross(upper[upper.length - 2], upper[upper.length - 1], pt) <= 0) upper.pop();
+    upper.push(pt);
+  }
+  const hull = lower.slice(0, -1).concat(upper.slice(0, -1));
+  const pts = hull.map(([x, z]) => new THREE.Vector3(x, 0.002, z));
+  const obj = new THREE.LineLoop(
+    new THREE.BufferGeometry().setFromPoints(pts),
+    new THREE.LineBasicMaterial({ color: theme().halo, transparent: true, opacity: 0.8 })
+  );
+  obj.visible = false;
+  scene.add(obj);
+  shells[key] = obj;
+};
+buildOutline('srgb', S2X, srgbDecode);
+buildOutline('p3', P2X, srgbDecode);
+buildOutline('rec2020', R2X, rec2020Decode);
+
 let activeTier = 'all';
+function applyShells() {
+  for (const [key, obj] of Object.entries(shells)) {
+    obj.visible = activeTier === 'all' || key === activeTier;
+    obj.material.opacity = activeTier === 'all' || key === activeTier ? 0.8 : 0;
+  }
+}
 function applyFilter() {
+  applyShells();
   const attr = mesh.geometry.attributes.position;
   COLORS.forEach((c, i) => {
     const v = pos(c);
@@ -4909,6 +4995,7 @@ function applyTheme() {
   spine.material.color.set(t.spine);
   ring.material.color.set(t.ring);
   halo.material.color.set(t.halo);
+  for (const obj of Object.values(shells)) obj.material.color.set(t.halo);
   for (const { sprite, text } of labelSprites) {
     const c = sprite.material.map.source.data;
     const g = c.getContext('2d');
@@ -4929,6 +5016,8 @@ addEventListener('resize', () => {
   camera.updateProjectionMatrix();
   renderer.setSize(r.width, r.height);
 });
+
+applyShells();
 
 renderer.setAnimationLoop(() => {
   controls.update();
