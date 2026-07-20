@@ -2543,7 +2543,7 @@
 {"name":"Undine","tier":"srgb","hex":"#2b9b97","oklab":[0.629,-0.0953,-0.0182]},
 {"name":"Majolica","tier":"rec2020","hex":"#00a098","oklab":[0.6359,-0.1768,-0.0273]},
 {"name":"Preen","tier":"rec2020","hex":"#00a09e","oklab":[0.6389,-0.2135,-0.0484]},
-{"name":"Billiard","tier":"rec2020","hex":"#00aa96","oklab":[0.6613,-0.258,-0.0031]},
+{"name":"Cue Chalk","tier":"rec2020","hex":"#00aa96","oklab":[0.6613,-0.258,-0.0031]},
 {"name":"Island Teal","tier":"p3","hex":"#00b2ac","oklab":[0.6892,-0.1432,-0.027]},
 {"name":"Faded Aqua","tier":"srgb","hex":"#70aeac","oklab":[0.7077,-0.0618,-0.0144]},
 {"name":"Flume","tier":"rec2020","hex":"#00bbb5","oklab":[0.7144,-0.2215,-0.0435]},
