@@ -1399,6 +1399,606 @@
     "name": "Pinball",
     "description": "Bumpers, bells and a tilt warning — arcade magenta at 10,000 points."
   },
+  "1350": {
+    "name": "Flamenco",
+    "description": "Stamping heels, a spread fan, and a dress in exactly this magenta."
+  },
+  "1351": {
+    "name": "Pickled Onion",
+    "description": "The Levantine pickle trick — turnips dyed shocking pink by a single beet."
+  },
+  "1352": {
+    "name": "Cyclamen",
+    "description": "The winter-flowering houseplant with swept-back magenta petals — reflexed, like it walked into wind."
+  },
+  "1353": {
+    "name": "Impatiens",
+    "description": "The shade-bed busy lizzie, blooming without permission or pause."
+  },
+  "1354": {
+    "name": "Bougainvillea",
+    "description": "The paper flowers smothering Mediterranean walls — the colour is in the bracts, the real flowers are tiny and white."
+  },
+  "1355": {
+    "name": "Erica",
+    "description": "The heather genus by its Latin name — moorland pink by the hectare."
+  },
+  "1356": {
+    "name": "Hollywood Cerise",
+    "description": "The premiere-carpet cerise of studio-era glamour."
+  },
+  "1357": {
+    "name": "Explosive Purple",
+    "description": "Purple past its safe storage temperature."
+  },
+  "1358": {
+    "name": "Loudicious Pink",
+    "description": "Pink at a volume that isn't a real word either."
+  },
+  "1359": {
+    "name": "Lustful Wishes",
+    "description": "Wishes of the unadvisable kind — magenta, obviously."
+  },
+  "1360": {
+    "name": "Jazzercise",
+    "description": "Legwarmers, synths, and a magenta leotard — fitness as choreography, 1982."
+  },
+  "1361": {
+    "name": "Dusty Fuchsia",
+    "description": "Fuchsia with the bloom rubbed off."
+  },
+  "1362": {
+    "name": "Fainting Couch",
+    "description": "The Victorian sofa built for dramatic collapse — upholstered in dusty rose."
+  },
+  "1363": {
+    "name": "Twinkly Pinkily",
+    "description": "Pink twinkling at maximum whimsy."
+  },
+  "1364": {
+    "name": "Fuchsia",
+    "description": "The flower named for botanist Leonhart Fuchs — and the pink-purple that made his name immortal and misspelled."
+  },
+  "1365": {
+    "name": "Rambutan",
+    "description": "The hairy lychee cousin — magenta spikes around white sweetness."
+  },
+  "1366": {
+    "name": "Pezzottaite",
+    "description": "The rare raspberry beryl found in Madagascar in 2002 — caesium in its bones."
+  },
+  "1367": {
+    "name": "Mademoiselle Pink",
+    "description": "Pink with a Parisian curtsy."
+  },
+  "1368": {
+    "name": "Death of a Star",
+    "description": "A stellar collapse in magenta — matter's last colourful argument."
+  },
+  "1369": {
+    "name": "Nudibranch",
+    "description": "The sea slug family that dresses better than most vertebrates — neon magenta gills worn externally."
+  },
+  "1370": {
+    "name": "Mauve It",
+    "description": "Mauve, but make it a command — as the movers said."
+  },
+  "1371": {
+    "name": "Pink Katydid",
+    "description": "The rare pink katydid — a genetic one-in-five-hundred flourish on an otherwise green insect."
+  },
+  "1372": {
+    "name": "Watermelon Radish",
+    "description": "The unassuming radish hiding a magenta mandala inside."
+  },
+  "1373": {
+    "name": "Jukebox",
+    "description": "Five cents a song, bubble lights, and magenta neon trim."
+  },
+  "1374": {
+    "name": "Fugitive Flamingo",
+    "description": "A flamingo on the run — last seen heading south in this pink."
+  },
+  "1375": {
+    "name": "Rhinestone",
+    "description": "Costume sparkle by the gross — pink under stage light."
+  },
+  "1376": {
+    "name": "Cupid’s Eye",
+    "description": "Cupid's aim, checked at the iris — pink with an arrow's certainty."
+  },
+  "1377": {
+    "name": "Rocky Horror",
+    "description": "The midnight-movie lips — a jump to the left, a step into this pink."
+  },
+  "1378": {
+    "name": "Electric Boogaloo",
+    "description": "The sequel subtitle that became the joke template — electric pink, part two."
+  },
+  "1379": {
+    "name": "Lip Gloss",
+    "description": "The sticky pink shine of a 2000s makeup bag."
+  },
+  "1380": {
+    "name": "Beyond Magenta",
+    "description": "Magenta past the last exit — wide-gamut territory."
+  },
+  "1381": {
+    "name": "Mexican Pink",
+    "description": "Rosa mexicano — the bougainvillea pink of Luis Barragán's walls and every papel picado."
+  },
+  "1382": {
+    "name": "Taffy",
+    "description": "Salt-water taffy mid-pull — pink stretched glossy."
+  },
+  "1383": {
+    "name": "Neon Candy",
+    "description": "Candy that glows in the jar after hours."
+  },
+  "1384": {
+    "name": "Troll Doll",
+    "description": "The naked plastic prophet with the gem navel and the vertical magenta hair."
+  },
+  "1385": {
+    "name": "Knockout Pink",
+    "description": "The pink that wins by decision in the first round."
+  },
+  "1386": {
+    "name": "Eosin Pink",
+    "description": "The lab stain's pink, off duty."
+  },
+  "1387": {
+    "name": "Violaceous",
+    "description": "The adjective for violet-tinged — botany's way of saying purplish with tenure."
+  },
+  "1388": {
+    "name": "Gumball Machine",
+    "description": "A quarter turns the crank — pink gum in a glass globe."
+  },
+  "1389": {
+    "name": "Pinata",
+    "description": "Papier-mâché, blindfolds, and structural candy failure — party pink."
+  },
+  "1390": {
+    "name": "Pinkest Pink",
+    "description": "The superlative settled — all other pinks may go home."
+  },
+  "1391": {
+    "name": "Rosy Maple Moth",
+    "description": "The moth dressed as dessert — pink and yellow fluff, entirely real, entirely North American."
+  },
+  "1392": {
+    "name": "Candy Pink",
+    "description": "The candy aisle's official pink."
+  },
+  "1393": {
+    "name": "Illicit Pink",
+    "description": "Pink that travels under a false name."
+  },
+  "1394": {
+    "name": "Quinceañera",
+    "description": "The fifteenth-birthday ballgown — pink tulle, chandelier earrings, family photographers."
+  },
+  "1395": {
+    "name": "Sock Hop",
+    "description": "Bobby socks on a gym floor — the 1950s dance in pink."
+  },
+  "1396": {
+    "name": "Party Pink",
+    "description": "The pink of balloons that arrive by the dozen."
+  },
+  "1397": {
+    "name": "Cherry Shrimp",
+    "description": "The freshwater aquarium shrimp bred to this exact pink-red — beloved algae janitor."
+  },
+  "1398": {
+    "name": "Purikura",
+    "description": "The Japanese photo-sticker booth — filters at maximum, eyes enlarged, pink guaranteed."
+  },
+  "1399": {
+    "name": "Avant-Garde Pink",
+    "description": "Pink the gallery wall text calls 'challenging'."
+  },
+  "1400": {
+    "name": "Pink Frosting",
+    "description": "The swirl on the cupcake that outweighs the cake."
+  },
+  "1401": {
+    "name": "Sweet Pink",
+    "description": "Pink with dessert manners."
+  },
+  "1402": {
+    "name": "Dragée",
+    "description": "The sugar-shelled almond of weddings and christenings — pastel pink, porcelain crunch."
+  },
+  "1403": {
+    "name": "Princess Pink",
+    "description": "The pink of canopy beds and non-negotiable bedtime tiaras."
+  },
+  "1404": {
+    "name": "Pink Elephants",
+    "description": "The parade Dumbo hallucinated — pachyderms in improbable pink."
+  },
+  "1405": {
+    "name": "Carnation Pink",
+    "description": "The Crayola pink named for the buttonhole flower."
+  },
+  "1406": {
+    "name": "Marshmallow",
+    "description": "The toasted cylinder of campfire diplomacy — pale pink before the flames."
+  },
+  "1407": {
+    "name": "Fairy Tale Pink",
+    "description": "Once upon a time, everything was this pink."
+  },
+  "1408": {
+    "name": "Powder Pink",
+    "description": "Pink applied with a powder puff."
+  },
+  "1409": {
+    "name": "Conch Pearl",
+    "description": "The rare porcelain-pink pearl of the queen conch — no oyster involved."
+  },
+  "1410": {
+    "name": "Puff of Pink",
+    "description": "A single exhale of pink."
+  },
+  "1411": {
+    "name": "Piggy Pink",
+    "description": "The Crayola pink named after a piggy bank."
+  },
+  "1412": {
+    "name": "First Blush",
+    "description": "The first time cheeks give the game away."
+  },
+  "1413": {
+    "name": "Glossy Black",
+    "description": "Black with a fresh coat of lacquer."
+  },
+  "1414": {
+    "name": "Speakeasy",
+    "description": "The password, the peephole, the wine-dark room behind the bookshelf."
+  },
+  "1415": {
+    "name": "Dark Wine",
+    "description": "Wine at the bottom of the cellar list."
+  },
+  "1416": {
+    "name": "Tannin",
+    "description": "The grip in the wine — the mouth-drying compound that stains barrels and teeth."
+  },
+  "1417": {
+    "name": "Nightly Voyager",
+    "description": "Out in the small hours, wine-dark coat, unknown errand."
+  },
+  "1418": {
+    "name": "Tyrian Wine",
+    "description": "Imperial purple decanted — the snail dye at wine strength."
+  },
+  "1419": {
+    "name": "Her Fierceness",
+    "description": "Her Fierceness will see you now — wine-red with a throne."
+  },
+  "1420": {
+    "name": "Bramble",
+    "description": "The blackberry's armed guard — sweet fruit behind wine-dark wire."
+  },
+  "1421": {
+    "name": "Umeshu",
+    "description": "Japanese plum liqueur — ume steeped in shochu until it pours this red-amber-wine."
+  },
+  "1422": {
+    "name": "Lambic",
+    "description": "The spontaneously fermented Belgian beer — wild yeasts, raspberry editions in this red."
+  },
+  "1423": {
+    "name": "Sumac",
+    "description": "The crimson spice of za'atar and fattoush — ground berries with a lemon attitude."
+  },
+  "1424": {
+    "name": "Mulled Wine",
+    "description": "Wine ruined or improved with cinnamon and cloves, depending who you ask — December in a mug."
+  },
+  "1425": {
+    "name": "Magician’s Cloak",
+    "description": "The lining flash of a stage cape — wine-dark with secrets sewn in."
+  },
+  "1426": {
+    "name": "Chambord",
+    "description": "The raspberry liqueur in the globe bottle with the gold crown."
+  },
+  "1427": {
+    "name": "Vertigo Cherry",
+    "description": "The Hitchcock spiral in cherry red."
+  },
+  "1428": {
+    "name": "8 Bit Eggplant",
+    "description": "An aubergine rendered at 8 bits — NES purple-red, blocky and proud."
+  },
+  "1429": {
+    "name": "Mothwing",
+    "description": "The dusty maroon of a moth's forewing — camouflage for curtains."
+  },
+  "1430": {
+    "name": "Sugarbeet",
+    "description": "The beet bred for sugar, coloured for borscht."
+  },
+  "1431": {
+    "name": "Plastic Lips",
+    "description": "Doll-grade lips — moulded, glossy, permanently magenta-red."
+  },
+  "1432": {
+    "name": "Anthurium",
+    "description": "The heart-shaped flower with a plastic sheen so convincing people squeeze it to check."
+  },
+  "1433": {
+    "name": "Razzmatazz",
+    "description": "The Crayola with the jazz-hands name — red-pink, syllables first."
+  },
+  "1434": {
+    "name": "Velour Scar",
+    "description": "A scar with a velvet finish — maroon, healed, storied."
+  },
+  "1435": {
+    "name": "Bramble Jelly",
+    "description": "Blackberries boiled to setting point — dark jelly on toast."
+  },
+  "1436": {
+    "name": "Red Campion",
+    "description": "The hedgerow pink of British lanes — campion's red variety, out from May."
+  },
+  "1437": {
+    "name": "Our Little Secret",
+    "description": "A secret kept in maroon — between us, always."
+  },
+  "1438": {
+    "name": "Rosy-Fingered Dawn",
+    "description": "Homer's dawn epithet — rhododaktylos, the goddess reaching over the sea in pink."
+  },
+  "1439": {
+    "name": "Infectious Love",
+    "description": "Love that spreads on contact — magenta, incubation period nil."
+  },
+  "1440": {
+    "name": "Raspberry Beret",
+    "description": "The Prince single — the girl, the beret, the second-hand store, this raspberry."
+  },
+  "1441": {
+    "name": "Coulis",
+    "description": "Fruit forced through a sieve into pure sauce — dessert-plate crimson."
+  },
+  "1442": {
+    "name": "Faded Raspberry",
+    "description": "Raspberry with a season's fade."
+  },
+  "1443": {
+    "name": "Water Lily",
+    "description": "Monet's pond subject — pink cups on green mirrors, painted 250 times."
+  },
+  "1444": {
+    "name": "Borscht",
+    "description": "The beet soup of Eastern Europe — magenta in a bowl, sour cream spiral."
+  },
+  "1445": {
+    "name": "Hibiscus Tea",
+    "description": "Dried hibiscus steeped crimson — agua de jamaica's hot cousin."
+  },
+  "1446": {
+    "name": "Bleeding Heart",
+    "description": "The heart-shaped flower that hangs in pink rows — botanical honesty about romance."
+  },
+  "1447": {
+    "name": "Raspberry",
+    "description": "The berry that comes apart in drupelets — summer's stain."
+  },
+  "1448": {
+    "name": "Rhubarb",
+    "description": "The vegetable that pretends to be fruit every spring — crumble's pink backbone."
+  },
+  "1449": {
+    "name": "Betta",
+    "description": "The Siamese fighting fish flaring fins in showroom pink-red."
+  },
+  "1450": {
+    "name": "Loganberry",
+    "description": "The raspberry-blackberry cross found by Judge Logan in 1881 — tart, dark red, his accidental legacy."
+  },
+  "1451": {
+    "name": "Trapper Keeper",
+    "description": "The velcro-flapped binder of 1980s homework — magenta geometry on the cover."
+  },
+  "1452": {
+    "name": "Berry Good",
+    "description": "A berry pun performing adequately — berry, berry good."
+  },
+  "1453": {
+    "name": "Pink Dahlia",
+    "description": "The dinner-plate dahlia in pink — petals with a seating plan."
+  },
+  "1454": {
+    "name": "Feather Boa",
+    "description": "Marabou by the metre — the boa that sheds glamour on everything."
+  },
+  "1455": {
+    "name": "Rose",
+    "description": "The flower that runs the whole colour category — this is its official pink-red."
+  },
+  "1456": {
+    "name": "Ovation",
+    "description": "The audience on its feet — pink-red curtain calls."
+  },
+  "1457": {
+    "name": "Vegas Pink",
+    "description": "The Strip's neon pink — open 24 hours, no clocks."
+  },
+  "1458": {
+    "name": "Valentine",
+    "description": "February the fourteenth's official pink-red — card, roses, restaurant markup."
+  },
+  "1459": {
+    "name": "Super Pink",
+    "description": "Pink with the cape on."
+  },
+  "1460": {
+    "name": "Dianthus",
+    "description": "The genus of carnations and sweet williams — the pinks that named pink."
+  },
+  "1461": {
+    "name": "Punched Pink",
+    "description": "Pink with a boxing licence."
+  },
+  "1462": {
+    "name": "Major Magenta",
+    "description": "Magenta with the rank to prove it."
+  },
+  "1463": {
+    "name": "Samba",
+    "description": "Rio's drumline dance — feathers, sequins, this pink at 104 BPM."
+  },
+  "1464": {
+    "name": "Ragged Robin",
+    "description": "The tattered pink wildflower of wet meadows — petals like torn ribbons, on purpose."
+  },
+  "1465": {
+    "name": "Oleander",
+    "description": "The Mediterranean shrub that is entirely poisonous and entirely covered in pink."
+  },
+  "1466": {
+    "name": "Electric Pink",
+    "description": "Pink with the transformer humming."
+  },
+  "1467": {
+    "name": "Neon Pink",
+    "description": "The sign-glow pink of after-dark storefronts."
+  },
+  "1468": {
+    "name": "Flash Mob",
+    "description": "Choreography that ambushes a food court — pink, synchronised, filmed vertically."
+  },
+  "1469": {
+    "name": "Safety Pink",
+    "description": "Hi-vis pink — regulation cheerfulness for roadworks."
+  },
+  "1470": {
+    "name": "Stellar Strawberry",
+    "description": "A strawberry gone supernova — pink at stellar magnitude."
+  },
+  "1471": {
+    "name": "Sweetbriar",
+    "description": "The wild rose of hedgerows — five pink petals, apple-scented leaves, thorns on principle."
+  },
+  "1472": {
+    "name": "Flamboyant Flamingo",
+    "description": "A flamingo that reads its own press."
+  },
+  "1473": {
+    "name": "Go-Kart",
+    "description": "Lawnmower engine, no brakes to speak of, pink helmet mandatory."
+  },
+  "1474": {
+    "name": "Galah",
+    "description": "The pink-and-grey cockatoo of Australia — also Australian for a lovable fool."
+  },
+  "1475": {
+    "name": "Pomegranate Seed",
+    "description": "One garnet aril held to the light."
+  },
+  "1476": {
+    "name": "Primrose",
+    "description": "The pale spring flower whose name literally means first rose."
+  },
+  "1477": {
+    "name": "Lipstick Palm",
+    "description": "The palm with the lipstick-red crownshaft — botany wearing makeup."
+  },
+  "1478": {
+    "name": "Pink Iguana",
+    "description": "The pink iguana of one Galápagos volcano — discovered in 1986, still baffling herpetologists."
+  },
+  "1479": {
+    "name": "Glowing Pink",
+    "description": "Pink with its own light source."
+  },
+  "1480": {
+    "name": "Neon Watermelon",
+    "description": "Watermelon plugged into the arcade."
+  },
+  "1481": {
+    "name": "Playful Pink",
+    "description": "Pink that starts the game of tag."
+  },
+  "1482": {
+    "name": "Popstar Pink",
+    "description": "The pink of stage outfits designed to be seen from the cheap seats."
+  },
+  "1483": {
+    "name": "Claw Machine",
+    "description": "Three claws, one plush prize, endless quarters — arcade pink."
+  },
+  "1484": {
+    "name": "Axolotl",
+    "description": "The eternally smiling Mexican salamander that never grows up — pink gills and all."
+  },
+  "1485": {
+    "name": "Pomelo Red",
+    "description": "The giant citrus in its rosiest cultivar."
+  },
+  "1486": {
+    "name": "Bazooka",
+    "description": "The bubblegum that came with a comic — pink by the brick."
+  },
+  "1487": {
+    "name": "Grandma's Perfume",
+    "description": "Powder, violets and press-powder compacts — the hug's lingering pink-mauve."
+  },
+  "1488": {
+    "name": "Dream Setting",
+    "description": "The dream sequence's soft pink lighting rig."
+  },
+  "1489": {
+    "name": "Pink Lemonade",
+    "description": "The stand's pink upgrade — lemons plus a single strawberry of commerce."
+  },
+  "1490": {
+    "name": "Shimmering Love",
+    "description": "Love with a shimmer setting."
+  },
+  "1491": {
+    "name": "Rosebud",
+    "description": "The rose before the reveal — petals still furled."
+  },
+  "1492": {
+    "name": "Dawn Pink",
+    "description": "The sky's first pink memo of the day."
+  },
+  "1493": {
+    "name": "Candy Floss",
+    "description": "The British fairground's spun pink — candy floss by the stick."
+  },
+  "1494": {
+    "name": "Sweetheart Pink",
+    "description": "The pink of signatures with hearts over the i."
+  },
+  "1495": {
+    "name": "Blush",
+    "description": "The X11 blush — pink caught being modest."
+  },
+  "1496": {
+    "name": "Apple Blossom",
+    "description": "Orchard blossom week — pink confetti with a bee schedule."
+  },
+  "1497": {
+    "name": "Baby Pink",
+    "description": "The nursery pink of first blankets."
+  },
+  "1498": {
+    "name": "Cherry Blossom",
+    "description": "Sakura season — Japan's national picnic under falling pink."
+  },
+  "1499": {
+    "name": "Light Pink",
+    "description": "The X11 pastel that ends the pink row gently."
+  },
   "0000": {
     "name": "Black",
     "description": "The complete absorption of visible light — though this one, like every black a screen can show, keeps a whisper of blue in it."
