@@ -17221,7 +17221,7 @@
   },
   "0000": {
     "name": "Black",
-    "description": "The complete absorption of visible light — though this one, like every black a screen can show, keeps a whisper of blue in it.",
+    "description": "The complete absorption of visible light, though this one, like every black a screen can show, keeps a whisper of blue in it.",
     "source": "authored"
   },
   "0001": {
@@ -17231,12 +17231,12 @@
   },
   "0002": {
     "name": "Soot",
-    "description": "Unburnt carbon settling out of a flame — the first black pigment humans ever put on a cave wall.",
+    "description": "Unburnt carbon settling out of a flame: the first black pigment humans ever put on a cave wall.",
     "source": "authored"
   },
   "0003": {
     "name": "Cosmic Bit Flip",
-    "description": "When a stray cosmic ray strikes a memory cell and flips a 0 to a 1 — near-black with a single green bit set.",
+    "description": "When a stray cosmic ray strikes a memory cell and flips a 0 to a 1. Near-black, with a single green bit set.",
     "source": "authored"
   },
   "0004": {
@@ -17246,7 +17246,7 @@
   },
   "0005": {
     "name": "Black Olive",
-    "description": "Brine-cured and glistening on the antipasti plate — a black that leans quietly toward its green past.",
+    "description": "Brine-cured and glistening on the antipasti plate, a black that leans quietly toward its green past.",
     "source": "authored"
   },
   "0006": {
@@ -17256,7 +17256,7 @@
   },
   "0007": {
     "name": "Bats Cloak",
-    "description": "The soft dark of folded wings in a cave roof — black with a purple flicker when it moves.",
+    "description": "The soft dark of folded wings in a cave roof; black with a purple flicker when it moves.",
     "source": "authored"
   },
   "0008": {
@@ -17266,7 +17266,7 @@
   },
   "0009": {
     "name": "Espresso",
-    "description": "A shot pulled short — crema-brown crossing over into black.",
+    "description": "A shot pulled short, crema-brown crossing over into black.",
     "source": "authored"
   },
   "0010": {
@@ -17281,7 +17281,7 @@
   },
   "0012": {
     "name": "Starling",
-    "description": "Not truly black at all — starling feathers are iridescent, flashing blue-violet when the murmuration turns.",
+    "description": "Not truly black at all: starling feathers are iridescent, flashing blue-violet when the murmuration turns.",
     "source": "authored"
   },
   "0013": {
@@ -17301,7 +17301,7 @@
   },
   "0016": {
     "name": "Charcoal",
-    "description": "Wood baked without air until only carbon remains — the sketcher's black that is really a deep grey-teal.",
+    "description": "Wood baked without air until only carbon remains. The sketcher's black, which up close is a deep grey-teal.",
     "source": "authored"
   },
   "0017": {
@@ -17316,7 +17316,7 @@
   },
   "0019": {
     "name": "Dusty Mauve",
-    "description": "Mauve after decades in the attic — the first aniline-dye colour, faded to a murmur.",
+    "description": "Mauve after decades in the attic; the first aniline-dye colour, faded to a murmur.",
     "source": "authored"
   },
   "0020": {
@@ -17326,7 +17326,7 @@
   },
   "0021": {
     "name": "Heather",
-    "description": "Moorland heather between blooms — grey until the light warms it purple.",
+    "description": "Moorland heather between blooms, grey until the light warms it purple.",
     "source": "authored"
   },
   "0022": {
@@ -17346,12 +17346,12 @@
   },
   "0025": {
     "name": "Harbour",
-    "description": "Harbour water on an overcast morning — grey-green, patient, smelling of rope and diesel.",
+    "description": "Harbour water on an overcast morning: grey-green, patient, smelling of rope and diesel.",
     "source": "authored"
   },
   "0026": {
     "name": "Lavender Grey",
-    "description": "Lavender with the scent faded out of it; grey with a floral memory.",
+    "description": "Lavender with the scent faded out of it, leaving grey with a floral memory.",
     "source": "authored"
   },
   "0027": {
@@ -17361,7 +17361,7 @@
   },
   "0028": {
     "name": "Grey",
-    "description": "The exact midpoint of indifference — neither warm nor cool, and content with it.",
+    "description": "The exact midpoint between black and white, neither warm nor cool.",
     "source": "authored"
   },
   "0029": {
@@ -17381,7 +17381,7 @@
   },
   "0032": {
     "name": "Silver",
-    "description": "Polished-metal grey — the matte version, before the mirror finish.",
+    "description": "Polished-metal grey in its matte version, before the mirror finish.",
     "source": "authored"
   },
   "0033": {
@@ -17396,12 +17396,12 @@
   },
   "0035": {
     "name": "Mecha Kitty",
-    "description": "Pastel armour plating for a robot cat — lilac-grey chrome from a Saturday-morning anime.",
+    "description": "Pastel armour plating for a robot cat: lilac-grey chrome from a Saturday-morning anime.",
     "source": "authored"
   },
   "0036": {
     "name": "Windy",
-    "description": "The sky on a day that can't sit still — pale grey-cyan with weather in it.",
+    "description": "The sky on a day that can't sit still, pale grey-cyan with weather in it.",
     "source": "authored"
   },
   "0037": {
@@ -17411,7 +17411,7 @@
   },
   "0038": {
     "name": "Sugared Almond",
-    "description": "Dragée-coated almonds in pale pink — the confetti candy handed out at weddings.",
+    "description": "Dragée-coated almonds in pale pink, the confetti candy handed out at weddings.",
     "source": "authored"
   },
   "0039": {
@@ -17436,22 +17436,22 @@
   },
   "0043": {
     "name": "Frost",
-    "description": "First frost on a window — white with the faintest blue instruction to stay inside.",
+    "description": "First frost on a window, white with the faintest blue cast.",
     "source": "authored"
   },
   "0044": {
     "name": "White",
-    "description": "All wavelengths at once — here with the warm cast of paper rather than the cold of a screen.",
+    "description": "All wavelengths at once; here with the warm cast of paper rather than the cold of a screen.",
     "source": "authored"
   },
   "0045": {
     "name": "Black Cherry",
-    "description": "Cherries cooked down to their darkest; the sundae flavour and the near-black red.",
+    "description": "Cherries cooked down to their darkest: the sundae flavour and the near-black red.",
     "source": "authored"
   },
   "0046": {
     "name": "Kermes",
-    "description": "The ancient scarlet dye crushed from scale insects on Mediterranean oaks — crimson's oldest ancestor.",
+    "description": "The ancient scarlet dye crushed from scale insects on Mediterranean oaks, crimson's oldest ancestor.",
     "source": "authored"
   },
   "0047": {
@@ -17461,7 +17461,7 @@
   },
   "0048": {
     "name": "Cochineal",
-    "description": "Carmine's source: cactus-dwelling insects, dried and crushed — still colouring lipsticks and aperitifs.",
+    "description": "Carmine's source: cactus-dwelling insects, dried and crushed, still colouring lipsticks and aperitifs.",
     "source": "authored"
   },
   "0049": {
@@ -17471,7 +17471,7 @@
   },
   "0050": {
     "name": "Wine",
-    "description": "Red wine at table depth — the glass half-empty of light.",
+    "description": "Red wine at table depth, the glass half-empty of light.",
     "source": "authored"
   },
   "0051": {
@@ -17491,7 +17491,7 @@
   },
   "0054": {
     "name": "Alizarin",
-    "description": "The red of madder root and the first natural dye ever synthesised in a lab (1868); beloved of watercolourists since.",
+    "description": "The red of madder root, and the first natural dye ever synthesised in a lab (1868); beloved of watercolourists since.",
     "source": "authored"
   },
   "0055": {
@@ -17501,12 +17501,12 @@
   },
   "0056": {
     "name": "Cranberry",
-    "description": "Bog-grown and sharp — the sauce, not the juice.",
+    "description": "Bog-grown and sharp: the sauce, not the juice.",
     "source": "authored"
   },
   "0057": {
     "name": "Rubine",
-    "description": "Printer's process red from the rubine pigment family — magenta's punchier cousin.",
+    "description": "Printer's process red from the rubine pigment family; magenta's punchier cousin.",
     "source": "authored"
   },
   "0058": {
@@ -17526,12 +17526,12 @@
   },
   "0061": {
     "name": "Rhodamine",
-    "description": "The fluorescent dye that makes safety pink glow under UV; beloved of microscopists and highlighter engineers.",
+    "description": "The fluorescent dye that makes safety pink glow under UV, beloved of microscopists and highlighter engineers.",
     "source": "authored"
   },
   "0062": {
     "name": "Ruby",
-    "description": "Corundum with chromium in it — the red that made crowns worth stealing.",
+    "description": "Corundum with chromium in it: the red that made crowns worth stealing.",
     "source": "authored"
   },
   "0063": {
@@ -17541,7 +17541,7 @@
   },
   "0064": {
     "name": "Crimson Lake",
-    "description": "A 'lake' is a dye fixed onto powder to make paint — this one is cochineal crimson, a watercolour-box staple.",
+    "description": "A 'lake' is a dye fixed onto powder to make paint; this one is cochineal crimson, a watercolour-box staple.",
     "source": "authored"
   },
   "0065": {
@@ -17561,7 +17561,7 @@
   },
   "0068": {
     "name": "Fuchsine",
-    "description": "The 1858 aniline dye named after the fuchsia flower — magenta's original trade name.",
+    "description": "The 1858 aniline dye named after the fuchsia flower; magenta's original trade name.",
     "source": "authored"
   },
   "0069": {
@@ -17571,7 +17571,7 @@
   },
   "0070": {
     "name": "Incarnadine",
-    "description": "Shakespeare's verb — 'the multitudinous seas incarnadine' — for turning things blood-red.",
+    "description": "Shakespeare's verb for turning things blood-red: 'the multitudinous seas incarnadine'.",
     "source": "authored"
   },
   "0071": {
@@ -17581,7 +17581,7 @@
   },
   "0072": {
     "name": "Rouge",
-    "description": "The compact in every 1940s handbag — cheek-red by way of Paris.",
+    "description": "The compact in every 1940s handbag, cheek-red by way of Paris.",
     "source": "authored"
   },
   "0073": {
@@ -17596,7 +17596,7 @@
   },
   "0075": {
     "name": "Rosella",
-    "description": "The crimson-splashed Australian parrot — and the hibiscus cordial that borrows its name.",
+    "description": "The crimson-splashed Australian parrot, and the hibiscus cordial that borrows its name.",
     "source": "authored"
   },
   "0076": {
@@ -17636,7 +17636,7 @@
   },
   "0083": {
     "name": "Erythrine",
-    "description": "From the Greek erythros, red — an old mineralogist's word for cobalt bloom.",
+    "description": "From the Greek erythros, red: an old mineralogist's word for cobalt bloom.",
     "source": "authored"
   },
   "0084": {
@@ -17646,7 +17646,7 @@
   },
   "0085": {
     "name": "Hot Pink",
-    "description": "Pink past the thermostat's limit — the shade that made shocking pink jealous.",
+    "description": "Pink past the thermostat's limit; the shade that made shocking pink jealous.",
     "source": "authored"
   },
   "0086": {
@@ -17661,17 +17661,17 @@
   },
   "0088": {
     "name": "Solferino",
-    "description": "Named for the 1859 battle whose carnage inspired the Red Cross — and, in the same year, a magenta dye.",
+    "description": "Named for the 1859 battle whose carnage inspired the Red Cross, and, in the same year, a magenta dye.",
     "source": "authored"
   },
   "0089": {
     "name": "Hindu Lotus",
-    "description": "The sacred pink lotus of South Asia, rising unstained from muddy water — a symbol of purity across traditions.",
+    "description": "The sacred pink lotus of South Asia, rising unstained from muddy water; a symbol of purity across traditions.",
     "source": "authored"
   },
   "0090": {
     "name": "Flamingo",
-    "description": "Pink on one leg — the bird dyes itself with the carotenoids in its shrimp dinner.",
+    "description": "Pink on one leg: the bird dyes itself with the carotenoids in its shrimp dinner.",
     "source": "authored"
   },
   "0091": {
@@ -17686,7 +17686,7 @@
   },
   "0093": {
     "name": "Pink Clay",
-    "description": "Rosy kaolin — spa-mask pink.",
+    "description": "Rosy kaolin, the pink of spa masks.",
     "source": "authored"
   },
   "0094": {
@@ -17716,27 +17716,27 @@
   },
   "0099": {
     "name": "Highlighter Pink",
-    "description": "The pink marker — for passages you'll definitely read again.",
+    "description": "The pink marker, for passages you'll definitely read again.",
     "source": "authored"
   },
   "0100": {
     "name": "Wallflower",
-    "description": "The quiet dusty pink at the edge of the dance floor — also a real flower that thrives in old walls.",
+    "description": "The quiet dusty pink at the edge of the dance floor; also a real flower that thrives in old walls.",
     "source": "authored"
   },
   "0101": {
     "name": "Phlox",
-    "description": "From the Greek for flame — a wildflower that burns pink.",
+    "description": "From the Greek for flame: a wildflower that burns pink.",
     "source": "authored"
   },
   "0102": {
     "name": "Peaches of Immortality",
-    "description": "In Chinese myth, the peaches in Xi Wangmu's garden ripen once every few thousand years and grant eternal life — rosy fruit worth the wait.",
+    "description": "In Chinese myth, the peaches in Xi Wangmu's garden ripen once every few thousand years and grant eternal life. Rosy fruit worth the wait.",
     "source": "authored"
   },
   "0103": {
     "name": "Strawberry Taffy",
-    "description": "Pulled candy, strawberry flavour — pink stretched until it goes pale at the folds.",
+    "description": "Pulled candy, strawberry flavour: pink stretched until it goes pale at the folds.",
     "source": "authored"
   },
   "0104": {
@@ -17781,7 +17781,7 @@
   },
   "0112": {
     "name": "Upstream",
-    "description": "The direction salmon insist on — pink against the current.",
+    "description": "The direction salmon insist on: pink against the current.",
     "source": "authored"
   },
   "0113": {
@@ -17816,7 +17816,7 @@
   },
   "0119": {
     "name": "Gossamer Pink",
-    "description": "Spider silk at sunrise — pink you can see through.",
+    "description": "Spider silk at sunrise, pink you can see through.",
     "source": "authored"
   },
   "0120": {
@@ -17831,12 +17831,12 @@
   },
   "0122": {
     "name": "Sang de Boeuf",
-    "description": "'Ox blood' — the perilous copper-red glaze Chinese potters perfected in the Kangxi era.",
+    "description": "'Ox blood': the perilous copper-red glaze Chinese potters perfected in the Kangxi era.",
     "source": "authored"
   },
   "0123": {
     "name": "Oxblood",
-    "description": "Deep red leather with brown intentions — the classic boot colourway.",
+    "description": "Deep red leather with brown intentions; the classic boot colourway.",
     "source": "authored"
   },
   "0124": {
@@ -17846,12 +17846,12 @@
   },
   "0125": {
     "name": "Dragon's Blood",
-    "description": "A real resin from Dracaena trees, sold as incense and varnish since antiquity — allegedly dragon, actually tree.",
+    "description": "A real resin from Dracaena trees, sold as incense and varnish since antiquity: allegedly dragon, actually tree.",
     "source": "authored"
   },
   "0126": {
     "name": "Maroon",
-    "description": "From the French marron, chestnut — the dark red of school uniforms everywhere.",
+    "description": "From the French marron, chestnut: the dark red of school uniforms everywhere.",
     "source": "authored"
   },
   "0127": {
@@ -17866,12 +17866,12 @@
   },
   "0129": {
     "name": "Redwood",
-    "description": "Sequoia heartwood — the red of two-thousand-year patience.",
+    "description": "Sequoia heartwood, the red of two-thousand-year patience.",
     "source": "authored"
   },
   "0130": {
     "name": "Sanguine",
-    "description": "Blood-red in Latin, cheerful in temperament — the old theory of humours let it be both.",
+    "description": "Blood-red in Latin, cheerful in temperament; the old theory of humours let it be both.",
     "source": "authored"
   },
   "0131": {
@@ -17886,7 +17886,7 @@
   },
   "0133": {
     "name": "Cherry Bomb",
-    "description": "The firework and the Runaways song — both this red.",
+    "description": "The firework and the Runaways song, both this red.",
     "source": "authored"
   },
   "0134": {
@@ -17896,7 +17896,7 @@
   },
   "0135": {
     "name": "Cardinal",
-    "description": "The red of the songbird and the robe — the bird was named after the cleric, not the other way round.",
+    "description": "The red of the songbird and the robe; the bird was named after the cleric, not the other way round.",
     "source": "authored"
   },
   "0136": {
@@ -17906,7 +17906,7 @@
   },
   "0137": {
     "name": "Hot Lava",
-    "description": "Molten rock where the crust splits — a red that means don't.",
+    "description": "Molten rock where the crust splits, a red that means don't.",
     "source": "authored"
   },
   "0138": {
@@ -17916,7 +17916,7 @@
   },
   "0139": {
     "name": "Auburn",
-    "description": "Red-brown hair colour — from the Latin alburnus, 'whitish', which drifted over centuries to mean nearly the opposite.",
+    "description": "Red-brown hair colour, from the Latin alburnus, 'whitish', which drifted over centuries to mean nearly the opposite.",
     "source": "authored"
   },
   "0140": {
@@ -17926,12 +17926,12 @@
   },
   "0141": {
     "name": "Barn Red",
-    "description": "The classic barn — red because iron-oxide paint was the cheapest thing that lasted.",
+    "description": "The classic barn, red because iron-oxide paint was the cheapest thing that lasted.",
     "source": "authored"
   },
   "0142": {
     "name": "Lipstick Red",
-    "description": "The bullet in the golden tube — a red engineered for confidence.",
+    "description": "The bullet in the golden tube, a red engineered for confidence.",
     "source": "authored"
   },
   "0143": {
@@ -17946,7 +17946,7 @@
   },
   "0145": {
     "name": "Amaranthine",
-    "description": "Unfading, like the mythical amaranth flower — a red-pink that refuses to wilt.",
+    "description": "Unfading, like the mythical amaranth flower: a red-pink that refuses to wilt.",
     "source": "authored"
   },
   "0146": {
@@ -17971,7 +17971,7 @@
   },
   "0150": {
     "name": "Safranin",
-    "description": "The biologist's counterstain — it turns cell nuclei this alarming red under the microscope.",
+    "description": "The biologist's counterstain; it turns cell nuclei this alarming red under the microscope.",
     "source": "authored"
   },
   "0151": {
@@ -17981,7 +17981,7 @@
   },
   "0152": {
     "name": "Firebird",
-    "description": "The phoenix of Slavic folklore — and the Pontiac with one painted across the bonnet.",
+    "description": "The phoenix of Slavic folklore, and the Pontiac with one painted across the bonnet.",
     "source": "authored"
   },
   "0153": {
@@ -17991,7 +17991,7 @@
   },
   "0154": {
     "name": "Fireweed",
-    "description": "The first flower to bloom on burnt ground — magenta-red rising out of ash.",
+    "description": "The first flower to bloom on burnt ground, magenta-red rising out of ash.",
     "source": "authored"
   },
   "0155": {
@@ -18001,17 +18001,17 @@
   },
   "0156": {
     "name": "Red",
-    "description": "The first colour language names after black and white, in culture after culture — blood, fire, stop.",
+    "description": "The first colour language names after black and white, in culture after culture: blood, fire, stop.",
     "source": "authored"
   },
   "0157": {
     "name": "Marsala",
-    "description": "The fortified Sicilian wine — and a divisive Pantone Colour of the Year 2015.",
+    "description": "The fortified Sicilian wine, and a divisive Pantone Colour of the Year 2015.",
     "source": "authored"
   },
   "0158": {
     "name": "Signal Red",
-    "description": "The exact red of official warnings — engineered to be seen, not admired.",
+    "description": "The exact red of official warnings, engineered to be seen, not admired.",
     "source": "authored"
   },
   "0159": {
@@ -18021,7 +18021,7 @@
   },
   "0160": {
     "name": "Nipple",
-    "description": "Anatomically honest rosy brown — the colour list equivalent of a life-drawing class.",
+    "description": "Anatomically honest rosy brown; the colour list's life-drawing class.",
     "source": "authored"
   },
   "0161": {
@@ -18031,12 +18031,12 @@
   },
   "0162": {
     "name": "Erythrosine",
-    "description": "Food colouring E127 — the red of glacé cherries and dental disclosing tablets.",
+    "description": "Food colouring E127, the red of glacé cherries and dental disclosing tablets.",
     "source": "authored"
   },
   "0163": {
     "name": "Scarlet",
-    "description": "The red of cardinals' robes, letter-A infamy and military coats — dyed with kermes, then cochineal.",
+    "description": "The red of cardinals' robes, letter-A infamy and military coats; dyed with kermes, then cochineal.",
     "source": "authored"
   },
   "0164": {
@@ -18046,7 +18046,7 @@
   },
   "0165": {
     "name": "Impossible Red",
-    "description": "Redder than an sRGB screen can render — this one lives in the Rec2020 gamut's outer shell.",
+    "description": "Redder than an sRGB screen can render; this one lives in the Rec2020 gamut's outer shell.",
     "source": "authored"
   },
   "0166": {
@@ -18066,7 +18066,7 @@
   },
   "0169": {
     "name": "Red Mana",
-    "description": "The colour you tap for direct damage — mountains, dragons, impulse decisions.",
+    "description": "The colour you tap for direct damage: mountains, dragons, impulse decisions.",
     "source": "authored"
   },
   "0170": {
@@ -18076,17 +18076,17 @@
   },
   "0171": {
     "name": "Cinnabar",
-    "description": "Mercury sulphide, the toxic ore behind vermilion — beautiful and historically hazardous to its miners.",
+    "description": "Mercury sulphide, the toxic ore behind vermilion; beautiful, and historically hazardous to its miners.",
     "source": "authored"
   },
   "0172": {
     "name": "Lifebuoy",
-    "description": "The ring on the pier rail — orange-red kept bright so it can be found in a grey sea.",
+    "description": "The ring on the pier rail, orange-red kept bright so it can be found in a grey sea.",
     "source": "authored"
   },
   "0173": {
     "name": "Robot Heart",
-    "description": "The warning-lamp red that blinks where a heart would be — feelings, but printed on a circuit board.",
+    "description": "The warning-lamp red that blinks where a heart would be: feelings, printed on a circuit board.",
     "source": "authored"
   },
   "0174": {
@@ -18096,12 +18096,12 @@
   },
   "0175": {
     "name": "Nemo",
-    "description": "The clownfish who got found — orange-red with cartilage-white stripes implied.",
+    "description": "The clownfish who got found: orange-red between white stripes.",
     "source": "authored"
   },
   "0176": {
     "name": "Georgia Peach",
-    "description": "The state fruit at full blush — more red than a peach has any right to be.",
+    "description": "The state fruit at full blush, more red than a peach has any right to be.",
     "source": "authored"
   },
   "0177": {
@@ -18126,12 +18126,12 @@
   },
   "0181": {
     "name": "Koi",
-    "description": "The orange-red flash under the pond surface — ornamental carp bred for centuries in Japan.",
+    "description": "The orange-red flash under the pond surface; ornamental carp bred for centuries in Japan.",
     "source": "authored"
   },
   "0182": {
     "name": "Ceviche",
-    "description": "Citrus-cured fish blushing pink in lime juice — cooked by acid, not fire.",
+    "description": "Citrus-cured fish blushing pink in lime juice, cooked by acid instead of fire.",
     "source": "authored"
   },
   "0183": {
@@ -18151,7 +18151,7 @@
   },
   "0186": {
     "name": "Poke Bowl",
-    "description": "Cubed raw salmon over rice — Hawaiian lunch counter pink-orange.",
+    "description": "Cubed raw salmon over rice, Hawaiian lunch-counter pink-orange.",
     "source": "authored"
   },
   "0187": {
@@ -18166,12 +18166,12 @@
   },
   "0189": {
     "name": "Conch",
-    "description": "The shell's flared lip — pale coral-pink, ocean-polished; hold it up and hear the sea.",
+    "description": "The shell's flared lip, pale coral-pink and ocean-polished; hold it up and hear the sea.",
     "source": "authored"
   },
   "0190": {
     "name": "Angel Wing",
-    "description": "Named for the delicate pink begonia — and the paired seashells that open like wings.",
+    "description": "Named for the delicate pink begonia, and the paired seashells that open like wings.",
     "source": "authored"
   },
   "0191": {
@@ -18186,7 +18186,7 @@
   },
   "0193": {
     "name": "Ephemeral Red",
-    "description": "The palest tint in the red row — a red at the exact moment of vanishing.",
+    "description": "The palest tint in the red row, a red at the exact moment of vanishing.",
     "source": "authored"
   },
   "0194": {
@@ -18206,12 +18206,12 @@
   },
   "0197": {
     "name": "Henna",
-    "description": "The bridal dye — lawsone from crushed leaves, staining skin and hair red-brown for weeks.",
+    "description": "The bridal dye: lawsone from crushed leaves, staining skin and hair red-brown for weeks.",
     "source": "authored"
   },
   "0198": {
     "name": "Red Ochre",
-    "description": "Iron-rich earth, humanity's first paint — the red of Lascaux and every ochre pit since.",
+    "description": "Iron-rich earth, humanity's first paint; the red of Lascaux and every ochre pit since.",
     "source": "authored"
   },
   "0199": {
