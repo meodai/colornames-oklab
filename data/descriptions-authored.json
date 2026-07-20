@@ -1,4 +1,204 @@
 {
+  "1000": {
+    "name": "First Star",
+    "description": "The first star out — wish protocol applies."
+  },
+  "1001": {
+    "name": "Phthalo Blue",
+    "description": "The staining monster of modern palettes — phthalocyanine blue, one drop rules a wash."
+  },
+  "1002": {
+    "name": "Dusk Blue",
+    "description": "The blue hour between sunset and streetlights."
+  },
+  "1003": {
+    "name": "Sapphire",
+    "description": "September's stone — corundum in its blue career."
+  },
+  "1004": {
+    "name": "Ultramarine",
+    "description": "Ground lapis lazuli, once pricier than gold — Renaissance patrons specified it by contract for Mary's robe."
+  },
+  "1005": {
+    "name": "Royal Blue",
+    "description": "The bright royal standard — regal since Queen Charlotte's dressmakers coined it."
+  },
+  "1006": {
+    "name": "Klein Blue",
+    "description": "Yves Klein's patented ultramarine — IKB, the blue he claimed as artwork itself."
+  },
+  "1007": {
+    "name": "Beyond the Sea",
+    "description": "Bobby Darin's horizon — somewhere beyond it, somebody waits."
+  },
+  "1008": {
+    "name": "Regal Blue",
+    "description": "Blue with letters patent."
+  },
+  "1009": {
+    "name": "Blue Giant",
+    "description": "The stellar class of enormous hot stars — blue because they burn too hard to last."
+  },
+  "1010": {
+    "name": "Blueberry",
+    "description": "The muffin-studding berry that is secretly purple until you crush it."
+  },
+  "1011": {
+    "name": "Thunderbolt",
+    "description": "Zeus's delivery mechanism — voltage with mythology."
+  },
+  "1012": {
+    "name": "Blue",
+    "description": "The primary the sky and sea both claim — humanity's favourite colour in nearly every survey."
+  },
+  "1013": {
+    "name": "True Blue",
+    "description": "Loyalty as a pigment — true blue since the dyers of Coventry made fast dye a virtue."
+  },
+  "1014": {
+    "name": "Blue Iris",
+    "description": "The bearded iris in its blue-violet cultivar."
+  },
+  "1015": {
+    "name": "Maximum Blue",
+    "description": "Blue at the limiter."
+  },
+  "1016": {
+    "name": "Ion Thruster",
+    "description": "The faint blue thrust of spacecraft engines — efficiency you can see."
+  },
+  "1017": {
+    "name": "Persian Blue",
+    "description": "The lapis-tiled blue of Isfahan's domes."
+  },
+  "1018": {
+    "name": "Bluebonnet",
+    "description": "Texas's state flower painting the highway verges blue every April."
+  },
+  "1019": {
+    "name": "Electric Blue",
+    "description": "The buzzing sign-blue of arcades and tattoo parlours."
+  },
+  "1020": {
+    "name": "Royal Azure",
+    "description": "Azure with a coronation."
+  },
+  "1021": {
+    "name": "Lapis Lazuli",
+    "description": "The Afghan stone ground into ultramarine — six thousand years of blue from one valley."
+  },
+  "1022": {
+    "name": "Brilliant Blue",
+    "description": "Blue at full brilliance."
+  },
+  "1023": {
+    "name": "Star Sapphire",
+    "description": "The star effect in a cabochon sapphire — six rays of caught light."
+  },
+  "1024": {
+    "name": "Blue Screen",
+    "description": "The old friend with bad news — the reboot-blue every Windows user recognises on sight."
+  },
+  "1025": {
+    "name": "Blue Grey",
+    "description": "Blue and grey settling their differences."
+  },
+  "1026": {
+    "name": "Celtic Blue",
+    "description": "The blue of illuminated manuscripts and rugby jerseys."
+  },
+  "1027": {
+    "name": "Blue Ribbon",
+    "description": "First prize, pinned to the winner — blue by tradition since county fairs began."
+  },
+  "1028": {
+    "name": "Sapphire Blue",
+    "description": "Sapphire's brighter public appearance."
+  },
+  "1029": {
+    "name": "Brilliant Azure",
+    "description": "Azure with the exposure turned up."
+  },
+  "1030": {
+    "name": "Gale",
+    "description": "Wind at force eight — the grey-blue of a sky with somewhere to be."
+  },
+  "1031": {
+    "name": "Blue Flame",
+    "description": "The hottest part of the fire, moved to a colour chart."
+  },
+  "1032": {
+    "name": "French Blue",
+    "description": "The blue of French workwear and Sèvres porcelain — bleu by appellation."
+  },
+  "1033": {
+    "name": "Bellflower",
+    "description": "The harebell's taller garden cousin, ringing silently in blue-violet."
+  },
+  "1034": {
+    "name": "Hydrangea",
+    "description": "The shrub whose flowers read the soil — blue in acid, pink in alkaline, undecided in between."
+  },
+  "1035": {
+    "name": "Brandeis Blue",
+    "description": "The vivid blue of the Boston university — louder than Yale's, calmer than Dodger."
+  },
+  "1036": {
+    "name": "Drizzle",
+    "description": "Rain too light to cancel anything, persistent enough to grey the afternoon."
+  },
+  "1037": {
+    "name": "Dusty Periwinkle",
+    "description": "Periwinkle after a season in the garden."
+  },
+  "1038": {
+    "name": "Glaucous",
+    "description": "The botanist's word for that blue-grey bloom on plums and cabbage leaves — from the Greek for gleaming."
+  },
+  "1039": {
+    "name": "Cloudless",
+    "description": "Zenith blue on a day with zero per cent cloud."
+  },
+  "1040": {
+    "name": "Cornflower Blue",
+    "description": "The X11 classic named for the bachelor-button flower in the wheat."
+  },
+  "1041": {
+    "name": "Clear Blue",
+    "description": "Blue with unlimited visibility."
+  },
+  "1042": {
+    "name": "Fennel Flower",
+    "description": "The blue-flowered fennel lookalike of old cottage gardens."
+  },
+  "1043": {
+    "name": "Forget-Me-Not",
+    "description": "The tiny blue flower of remembrance — its name is the same sentence in most languages."
+  },
+  "1044": {
+    "name": "Periwinkle Blue",
+    "description": "Periwinkle leaning properly blue."
+  },
+  "1045": {
+    "name": "Something Blue",
+    "description": "The bride's borrowed blue — tradition's smallest required accessory."
+  },
+  "1046": {
+    "name": "Pale Blue",
+    "description": "Blue with milk, no sugar."
+  },
+  "1047": {
+    "name": "Starlight",
+    "description": "Photons that left before your grandparents were born, arriving as pale blue."
+  },
+  "1048": {
+    "name": "Observatory",
+    "description": "The dome on the dark hill — where night is a workplace."
+  },
+  "1049": {
+    "name": "Night",
+    "description": "The sky's off-shift — deep blue-black with administrative stars."
+  },
   "0000": {
     "name": "Black",
     "description": "The complete absorption of visible light — though this one, like every black a screen can show, keeps a whisper of blue in it."
@@ -3598,5 +3798,405 @@
   "0899": {
     "name": "Swimming Pool",
     "description": "The specific turquoise-blue of painted concrete underwater — chlorine's favourite colour."
+  },
+  "0900": {
+    "name": "Crayon Blue",
+    "description": "The blue every child reaches for first — sky duty, sea duty, standard issue."
+  },
+  "0901": {
+    "name": "Mystic Blue",
+    "description": "Blue with incense in the room."
+  },
+  "0902": {
+    "name": "Speedboat",
+    "description": "Bow up, wake white, lake postponed behind you."
+  },
+  "0903": {
+    "name": "Dusty Blue",
+    "description": "Denim-adjacent blue gone soft with wear and weather."
+  },
+  "0904": {
+    "name": "Cabana",
+    "description": "The striped beach hut where the afternoon keeps its shade."
+  },
+  "0905": {
+    "name": "Hawaii Morning",
+    "description": "Waking to Pacific light before the surf report."
+  },
+  "0906": {
+    "name": "Capri",
+    "description": "The island off Naples — the Blue Grotto's home address."
+  },
+  "0907": {
+    "name": "Crystal Lake",
+    "description": "Mirror-still water and a camp with a rowboat — horror-film optional."
+  },
+  "0908": {
+    "name": "Clear Sky",
+    "description": "Ceiling unlimited, visibility forever — aviation's favourite forecast."
+  },
+  "0909": {
+    "name": "Powder Blue",
+    "description": "The talc-soft blue of nurseries and 1950s Cadillacs — an X11 classic."
+  },
+  "0910": {
+    "name": "Skylight",
+    "description": "The window in the roof doing its one blue job."
+  },
+  "0911": {
+    "name": "Weather Balloon",
+    "description": "The instrument-laden balloon climbing toward pale stratosphere at dawn."
+  },
+  "0912": {
+    "name": "Baby Blue",
+    "description": "Nursery-issue blue, delivered with balloons."
+  },
+  "0913": {
+    "name": "Cloudy Blue",
+    "description": "Blue with a forecast attached."
+  },
+  "0914": {
+    "name": "Skating Rink",
+    "description": "Fresh ice under fluorescent light, one Zamboni pass ago."
+  },
+  "0915": {
+    "name": "Event Horizon",
+    "description": "The point of no return around a black hole — the last blue anything emits before silence."
+  },
+  "0916": {
+    "name": "Deep Space",
+    "description": "Past the last streetlight of the atmosphere — where blue runs out of air."
+  },
+  "0917": {
+    "name": "Corbeau",
+    "description": "French for raven — couturier's code for blue-black."
+  },
+  "0918": {
+    "name": "Starless Night",
+    "description": "Overcast midnight: the stars are there, the paperwork isn't."
+  },
+  "0919": {
+    "name": "Hadal",
+    "description": "The hadal zone — ocean deeper than the abyssal, named for Hades, floored by trenches."
+  },
+  "0920": {
+    "name": "Nocturne Blue",
+    "description": "Chopin by lamplight — night music in blue."
+  },
+  "0921": {
+    "name": "Midnight Oil",
+    "description": "Burning it — the small hours' official fuel."
+  },
+  "0922": {
+    "name": "Oxford Blue",
+    "description": "The dark blue of the older university — rowed against Cambridge's lighter stripe since 1829."
+  },
+  "0923": {
+    "name": "Nightwalker",
+    "description": "Out past curfew with a coat collar up."
+  },
+  "0924": {
+    "name": "Dark Sapphire",
+    "description": "Sapphire in a vault with the lights off."
+  },
+  "0925": {
+    "name": "Midnight Blue",
+    "description": "The X11 midnight — the sky at the hour named after it."
+  },
+  "0926": {
+    "name": "Moonless Sky",
+    "description": "The night the moon called in sick — stars doing overtime."
+  },
+  "0927": {
+    "name": "Electric Midnight",
+    "description": "Midnight with the mains still humming."
+  },
+  "0928": {
+    "name": "Space Cadet",
+    "description": "The X11 blue named for military-school newcomers — space optional, cadet mandatory."
+  },
+  "0929": {
+    "name": "Maritime Blue",
+    "description": "Signal-flag navy, ready for inspection."
+  },
+  "0930": {
+    "name": "Beyond the Stars",
+    "description": "Past the constellations you can name."
+  },
+  "0931": {
+    "name": "Raw Denim",
+    "description": "Unwashed selvedge, stiff as cardboard, faded by nothing yet."
+  },
+  "0932": {
+    "name": "Hyper Navy",
+    "description": "Navy with the prefix engaged."
+  },
+  "0933": {
+    "name": "Ultra Navy",
+    "description": "Navy past regulation."
+  },
+  "0934": {
+    "name": "Berlin Blue",
+    "description": "Prussian blue's hometown alias — the Berlin pigment under its civic name."
+  },
+  "0935": {
+    "name": "Electric Prussian",
+    "description": "The old pigment rewired."
+  },
+  "0936": {
+    "name": "Dark Denim",
+    "description": "Denim in its evening register."
+  },
+  "0937": {
+    "name": "Maximum Navy",
+    "description": "The most navy allowed by law."
+  },
+  "0938": {
+    "name": "Deep Baltic",
+    "description": "The Baltic where it stops being brackish and starts being serious."
+  },
+  "0939": {
+    "name": "Bowerbird",
+    "description": "The bird that decorates its bower with anything blue it can steal — bottle caps, pegs, ballpoint caps."
+  },
+  "0940": {
+    "name": "Royal Night",
+    "description": "The palace after the state dinner — navy halls, one lit window."
+  },
+  "0941": {
+    "name": "Aegean Blue",
+    "description": "Homer's sea in its darker mood."
+  },
+  "0942": {
+    "name": "Napoleonic Blue",
+    "description": "The Emperor's livery blue — Austerlitz skies and bicorne felt."
+  },
+  "0943": {
+    "name": "Deep Cobalt",
+    "description": "Cobalt with draught marks."
+  },
+  "0944": {
+    "name": "Regalia",
+    "description": "The crown-jewel regalia case — velvet, gilt edges, guards."
+  },
+  "0945": {
+    "name": "Deep Field",
+    "description": "Hubble's Deep Field — the patch of nothing that turned out to be ten thousand galaxies."
+  },
+  "0946": {
+    "name": "Pirate's Life",
+    "description": "A pirate's life for me — dark sea, black flag, questionable dental plan."
+  },
+  "0947": {
+    "name": "Plasma Navy",
+    "description": "Navy in its ionised state."
+  },
+  "0948": {
+    "name": "Dress Blues",
+    "description": "The parade uniform navy — creases sharp enough to salute."
+  },
+  "0949": {
+    "name": "Woad",
+    "description": "The Celtic indigo plant — Britons reportedly painted themselves with it before battle."
+  },
+  "0950": {
+    "name": "Vivianite",
+    "description": "The phosphate mineral that starts colourless and turns deep blue as light oxidises it — a gem that develops."
+  },
+  "0951": {
+    "name": "3AM in Shibuya",
+    "description": "Tokyo's neon district in the smallest hours — blue signage, empty crossings."
+  },
+  "0952": {
+    "name": "Impossible Blue",
+    "description": "Blue beyond the sRGB fence — wide-gamut screens only."
+  },
+  "0953": {
+    "name": "Tanzanite",
+    "description": "The violet-blue zoisite found only near Mount Kilimanjaro — named by Tiffany, mined by lottery."
+  },
+  "0954": {
+    "name": "Yale Blue",
+    "description": "The other university's blue — older than the American republic it decorates."
+  },
+  "0955": {
+    "name": "Sodalite",
+    "description": "The royal-blue mineral in lapis lazuli's supporting cast."
+  },
+  "0956": {
+    "name": "Bright Navy",
+    "description": "Navy with its high beams on."
+  },
+  "0957": {
+    "name": "Whale’s Tale",
+    "description": "The fluke lifting before the dive — a tale told in blue."
+  },
+  "0958": {
+    "name": "Fountain Pen",
+    "description": "Iron-gall blue-black from a proper nib — signatures with weight."
+  },
+  "0959": {
+    "name": "Denim",
+    "description": "The warp-faced cotton of Nîmes — de Nîmes, hence the name — that dressed the working world."
+  },
+  "0960": {
+    "name": "Lazulite",
+    "description": "The deep azure phosphate often mistaken for lapis — collectors know by the sparkle."
+  },
+  "0961": {
+    "name": "Mississippi River",
+    "description": "Old Man River in his blue-grey Sunday best."
+  },
+  "0962": {
+    "name": "CTRL+Alt+Delight",
+    "description": "The three-finger salute that fixes everything — reboot as a small delight."
+  },
+  "0963": {
+    "name": "Fist of the North Star",
+    "description": "The post-apocalyptic martial epic — you are already blue."
+  },
+  "0964": {
+    "name": "Wavy Navy",
+    "description": "Navy at sea state four."
+  },
+  "0965": {
+    "name": "Astrolabe",
+    "description": "The brass instrument that found latitude by the stars — navigation before satellites."
+  },
+  "0966": {
+    "name": "Denim Blue",
+    "description": "Denim's dressier cousin."
+  },
+  "0967": {
+    "name": "Wing Commander",
+    "description": "The squadron-leader blue of flight sims and epaulettes."
+  },
+  "0968": {
+    "name": "Arc Welder",
+    "description": "The blinding blue-white of a welding arc — do not look, everyone looks."
+  },
+  "0969": {
+    "name": "Cobalt Blue",
+    "description": "The pigment of Delft tiles and dinner plates — cobalt aluminate, kiln-proof since the Ming trade."
+  },
+  "0970": {
+    "name": "Chambray",
+    "description": "The soft-washed shirting fabric — denim's gentler sibling."
+  },
+  "0971": {
+    "name": "Kyanite",
+    "description": "The blue blade-shaped crystal with two hardnesses at once — geology's trick question."
+  },
+  "0972": {
+    "name": "Willow Pattern",
+    "description": "The blue-on-white china pattern with the doomed lovers and the bridge — every grandmother owned it."
+  },
+  "0973": {
+    "name": "Gulf Stream",
+    "description": "The warm Atlantic conveyor that keeps northern Europe wearing lighter coats than it should."
+  },
+  "0974": {
+    "name": "Classic Blue",
+    "description": "Pantone's 2020 Colour of the Year — chosen, presciently, for calm."
+  },
+  "0975": {
+    "name": "Bristol Blue",
+    "description": "The cobalt glass of Georgian Bristol — decanters in this exact blue."
+  },
+  "0976": {
+    "name": "Hyperlink",
+    "description": "Unvisited-link blue — the web's default invitation since 1993."
+  },
+  "0977": {
+    "name": "Blue Poppy",
+    "description": "The Himalayan blue poppy — proof that nature occasionally does true blue."
+  },
+  "0978": {
+    "name": "Blue Raspberry",
+    "description": "The slush flavour found nowhere in nature, beloved everywhere in childhood."
+  },
+  "0979": {
+    "name": "Blue Topaz",
+    "description": "December's pale-blue birthstone — topaz with a sky agreement."
+  },
+  "0980": {
+    "name": "Azure",
+    "description": "The heraldic sky-blue — azur in blazon, cloudless by definition."
+  },
+  "0981": {
+    "name": "Bluebird Day",
+    "description": "Powder-day slang: fresh snow, no clouds, first chair."
+  },
+  "0982": {
+    "name": "Stone Blue",
+    "description": "Blue with mineral patience."
+  },
+  "0983": {
+    "name": "Out of the Blue",
+    "description": "Where the unexpected arrives from — clear sky, no warning."
+  },
+  "0984": {
+    "name": "Dodger Blue",
+    "description": "The Brooklyn-then-LA baseball blue — trademarked optimism."
+  },
+  "0985": {
+    "name": "Bluebird",
+    "description": "The backyard herald of spring — bluer than it has pigment for, like all blue birds."
+  },
+  "0986": {
+    "name": "Fresh Blue of Bel Air",
+    "description": "A fresh prince's westward relocation — the Bel Air sky on arrival."
+  },
+  "0987": {
+    "name": "Plumbago",
+    "description": "The powder-blue flower wall of Mediterranean gardens — leadwort, to its friends."
+  },
+  "0988": {
+    "name": "Malibu",
+    "description": "Surf-brand blue with a rum sponsorship."
+  },
+  "0989": {
+    "name": "Daydream Blue",
+    "description": "The blue behind unfocused eyes in a Tuesday meeting."
+  },
+  "0990": {
+    "name": "Blue Black",
+    "description": "Blue so dark it files as black."
+  },
+  "0991": {
+    "name": "Deep Ultramarine",
+    "description": "Ultramarine descending."
+  },
+  "0992": {
+    "name": "Dark Royal Blue",
+    "description": "Royal blue after the abdication."
+  },
+  "0993": {
+    "name": "Night Sky",
+    "description": "The astronomer's office ceiling."
+  },
+  "0994": {
+    "name": "Cosmic Cobalt",
+    "description": "Cobalt among the constellations — a Crayola deep-space blue."
+  },
+  "0995": {
+    "name": "Navy Blue",
+    "description": "The uniform dark blue that named itself after an entire armed service."
+  },
+  "0996": {
+    "name": "Quasar",
+    "description": "The active galactic nucleus outshining its whole galaxy — deep blue at impossible wattage."
+  },
+  "0997": {
+    "name": "Royal Navy",
+    "description": "The Senior Service's blue — older than the colour's own name."
+  },
+  "0998": {
+    "name": "Curfew",
+    "description": "The hour the streetlights take over enforcement."
+  },
+  "0999": {
+    "name": "Admiral Blue",
+    "description": "Flag-rank navy with gold braid implied."
   }
 }
