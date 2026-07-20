@@ -92,7 +92,7 @@
   .card .fmeta { padding: 0 .6rem .5rem; font-size: .7rem; color: var(--faint); font-variant-numeric: tabular-nums; }
   .card .fcss {
     padding: 0 .6rem .55rem; font: .64rem/1.5 ui-monospace, 'SF Mono', Menlo, monospace;
-    color: var(--muted); white-space: pre-line; min-height: calc(3em + .55rem);
+    color: var(--muted); white-space: nowrap; min-height: calc(1.5em + .55rem);
   }
   #tip .fnm { line-height: 1.25; min-height: 2.5em; }
   #tip {
@@ -3349,9 +3349,8 @@ const toP3 = (M, lin) => mulM(X2P, mulM(M, lin)).map((x) => clamp01(srgbEncode(x
 const P3MAP = JSON.parse(document.getElementById('p3map').textContent);
 // the data ships oklab only; css is spelled oklab() and browsers gamut-map it
 const oklabCss = (c) => 'oklab(' + c.oklab.join(' ') + ')';
-// display-only formatting: 2 decimals, numbers always on their own line
-const NL = String.fromCharCode(10);
-const cssLine = (c) => 'oklab(' + NL + c.oklab.map((v) => v.toFixed(2)).join(' ') + ')';
+// display-only formatting: 2 decimals — oklab() is short enough for one line
+const cssLine = (c) => 'oklab(' + c.oklab.map((v) => v.toFixed(2)).join(' ') + ')';
 const pointColor = (c, i) => {
   if (!P3_OK) return hexToRgb(c.hex);
   if (c.tier === 'srgb') return toP3(S2X, hexToRgb(c.hex).map(srgbDecode));
