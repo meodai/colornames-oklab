@@ -8499,25 +8499,755 @@
     "description": "Ink with a royal warrant.",
     "source": "authored"
   },
+  "2700": {
+    "name": "Semaphore",
+    "description": "Two flags spelling the alphabet at sea — navy signals, arm by arm.",
+    "source": "authored"
+  },
+  "2701": {
+    "name": "Deep Royal Navy",
+    "description": "Navy with a double coronation.",
+    "source": "authored"
+  },
+  "2702": {
+    "name": "Night Denim",
+    "description": "Jeans after the streetlights come on.",
+    "source": "authored"
+  },
+  "2703": {
+    "name": "Peacoat",
+    "description": "The double-breasted wool of every navy since sail — collar up against the North Atlantic.",
+    "source": "authored"
+  },
+  "2704": {
+    "name": "Sistine",
+    "description": "The chapel ceiling Michelangelo painted lying down — this blue between the fingertips.",
+    "source": "authored"
+  },
+  "2705": {
+    "name": "Royal Voltage",
+    "description": "Royalty at full charge.",
+    "source": "authored"
+  },
+  "2706": {
+    "name": "Royal Depths",
+    "description": "The crown at ocean-floor pressure.",
+    "source": "authored"
+  },
+  "2707": {
+    "name": "Star Chart",
+    "description": "The constellations flattened to paper — navigate by the printed sky.",
+    "source": "authored"
+  },
   "2708": {
     "name": "Chefchaouen",
-    "description": "A city in northwest Morocco. It is the chief town of the province of the same name and is noted for its buildings in shades of blue, for which it is nicknamed the \"Blue City\". It is situated in a mountainous region in northern Morocco, between Tétouan and Ouazzane.",
-    "source": "wikipedia"
+    "description": "The Moroccan mountain town painted entirely blue — every wall, stair and doorway.",
+    "source": "authored"
+  },
+  "2709": {
+    "name": "Smalt",
+    "description": "Ground cobalt glass — the pigment that blued Renaissance skies on a budget.",
+    "source": "authored"
+  },
+  "2710": {
+    "name": "Royal Sapphire",
+    "description": "Sapphire with a household guard.",
+    "source": "authored"
+  },
+  "2711": {
+    "name": "Heritage Blue",
+    "description": "Blue with a plaque on the wall.",
+    "source": "authored"
+  },
+  "2712": {
+    "name": "Dumortierite",
+    "description": "The blue mineral that helps make porcelain white — quietly essential, itself denim-blue.",
+    "source": "authored"
+  },
+  "2713": {
+    "name": "Royal Surge",
+    "description": "Royalty in the surge tank.",
+    "source": "authored"
+  },
+  "2714": {
+    "name": "YInMn Blue",
+    "description": "The first new blue pigment in two centuries — discovered by accident at Oregon State in 2009.",
+    "source": "authored"
+  },
+  "2715": {
+    "name": "Live Wire",
+    "description": "The cable you check twice — voltage in visible blue.",
+    "source": "authored"
+  },
+  "2716": {
+    "name": "Muscari",
+    "description": "The grape hyacinth — cobalt beads on a spring spike.",
+    "source": "authored"
+  },
+  "2717": {
+    "name": "Midshipman",
+    "description": "The junior officer's navy — all brass buttons and hope.",
+    "source": "authored"
+  },
+  "2718": {
+    "name": "Eventide",
+    "description": "The tide of evening coming in.",
+    "source": "authored"
+  },
+  "2719": {
+    "name": "Royal Cobalt",
+    "description": "Cobalt with court appointment.",
+    "source": "authored"
+  },
+  "2720": {
+    "name": "Flying Fish Blue",
+    "description": "The fish that glides forty seconds between waves — Crayola blue with wings.",
+    "source": "authored"
+  },
+  "2721": {
+    "name": "Nazar",
+    "description": "The blue glass eye against the evil eye — stitched, hung and worn across the Levant.",
+    "source": "authored"
+  },
+  "2722": {
+    "name": "Bounce House",
+    "description": "Inflatable blue physics — socks mandatory, dignity optional.",
+    "source": "authored"
+  },
+  "2723": {
+    "name": "Denim Sapphire",
+    "description": "Denim cut on the sapphire bias.",
+    "source": "authored"
+  },
+  "2724": {
+    "name": "Royal Iris",
+    "description": "Iris with a household guard.",
+    "source": "authored"
+  },
+  "2725": {
+    "name": "Thunderstruck",
+    "description": "AC/DC's opening riff in electric blue — thun-der.",
+    "source": "authored"
+  },
+  "2726": {
+    "name": "Scilla",
+    "description": "The early spring squill — small stars of intense blue under bare trees.",
+    "source": "authored"
+  },
+  "2727": {
+    "name": "Dusty Cobalt",
+    "description": "Cobalt gone soft with wear.",
+    "source": "authored"
+  },
+  "2728": {
+    "name": "Jet Ski",
+    "description": "Throttle, spray and a rented grin — lake blue at speed.",
+    "source": "authored"
+  },
+  "2729": {
+    "name": "Button Blue",
+    "description": "The blue of buttons that want pressing.",
+    "source": "authored"
+  },
+  "2730": {
+    "name": "Summer Cornflower",
+    "description": "Cornflower in its July prime.",
+    "source": "authored"
+  },
+  "2731": {
+    "name": "Morpho",
+    "description": "The Amazon butterfly whose blue is pure structure — no pigment, all physics.",
+    "source": "authored"
+  },
+  "2732": {
+    "name": "Da Ba Dee",
+    "description": "Eiffel 65's 1999 earworm — da ba dee da ba di, this exact blue.",
+    "source": "authored"
+  },
+  "2733": {
+    "name": "Himmelblau",
+    "description": "Sky blue by its German name — himmel, heaven included.",
+    "source": "authored"
+  },
+  "2734": {
+    "name": "Olympic Blue",
+    "description": "The five-ring blue of the flag's first circle.",
+    "source": "authored"
+  },
+  "2735": {
+    "name": "Blue Slushie",
+    "description": "The gas-station slush that dyes tongues federal blue.",
+    "source": "authored"
+  },
+  "2736": {
+    "name": "Soft Cornflower",
+    "description": "Cornflower with the edges felted.",
+    "source": "authored"
+  },
+  "2737": {
+    "name": "Powder Cornflower",
+    "description": "Cornflower ground to face powder.",
+    "source": "authored"
+  },
+  "2738": {
+    "name": "Nemophila",
+    "description": "Baby blue eyes, the flower — a Californian carpet of exactly that.",
+    "source": "authored"
+  },
+  "2739": {
+    "name": "Black Hole",
+    "description": "The point past the event horizon — blue-black by information loss.",
+    "source": "authored"
+  },
+  "2740": {
+    "name": "Deepest Night",
+    "description": "Night with the depth gauge pinned.",
+    "source": "authored"
+  },
+  "2741": {
+    "name": "Dark Energy",
+    "description": "The 68% of the universe pushing everything apart — violet-black by artist's impression.",
+    "source": "authored"
+  },
+  "2742": {
+    "name": "Fly-by-Night",
+    "description": "Operating strictly after dusk — violet-navy, no fixed address.",
+    "source": "authored"
+  },
+  "2743": {
+    "name": "Bilberry",
+    "description": "The wild European blueberry — smaller, darker, stains twice as hard.",
+    "source": "authored"
+  },
+  "2744": {
+    "name": "Dark Nebula",
+    "description": "The dust cloud that blocks the starlight — violet-black nursery of suns.",
+    "source": "authored"
+  },
+  "2745": {
+    "name": "Nightcap",
+    "description": "The last small drink before sleep — indigo in a short glass.",
+    "source": "authored"
+  },
+  "2746": {
+    "name": "Penumbra",
+    "description": "The half-shadow around the total dark — eclipse's soft violet edge.",
+    "source": "authored"
+  },
+  "2747": {
+    "name": "Deep Dusk",
+    "description": "Dusk with the bass turned down.",
+    "source": "authored"
+  },
+  "2748": {
+    "name": "Purple Martin",
+    "description": "North America's largest swallow — glossy violet-black, apartment-house nester.",
+    "source": "authored"
+  },
+  "2749": {
+    "name": "Sashiko",
+    "description": "White running stitches on indigo — Japanese mending as geometry.",
+    "source": "authored"
+  },
+  "2750": {
+    "name": "Evening Magic",
+    "description": "The hour when streetlights and fireflies negotiate.",
+    "source": "authored"
+  },
+  "2751": {
+    "name": "Pelagic",
+    "description": "The open-ocean zone — blue-violet water with no floor in sight.",
+    "source": "authored"
+  },
+  "2752": {
+    "name": "Maelstrom",
+    "description": "Poe's whirlpool — the spiral that swallows ships, indigo at the rim.",
+    "source": "authored"
+  },
+  "2753": {
+    "name": "Blurple",
+    "description": "Blue and purple's merger — the colour Discord made famous.",
+    "source": "authored"
+  },
+  "2754": {
+    "name": "Supersonic",
+    "description": "Past the sound barrier — blue-violet with a sonic boom receipt.",
+    "source": "authored"
+  },
+  "2755": {
+    "name": "Lightspeed",
+    "description": "The universal speed limit — violet-blue at 299,792,458 metres per second.",
+    "source": "authored"
+  },
+  "2756": {
+    "name": "Half Light",
+    "description": "The light that hasn't decided between day and night.",
+    "source": "authored"
+  },
+  "2757": {
+    "name": "Bold Iris",
+    "description": "Iris set in bold type, stems straightened.",
+    "source": "authored"
+  },
+  "2758": {
+    "name": "Hyacinth Macaw",
+    "description": "The metre-long cobalt parrot of the Pantanal — largest flying parrot, feather to feather.",
+    "source": "authored"
+  },
+  "2759": {
+    "name": "Blue Flag",
+    "description": "The wild iris of wet meadows — blue flag flying at ditch height.",
+    "source": "authored"
+  },
+  "2760": {
+    "name": "Blue Spruce",
+    "description": "The silvery-blue conifer of front lawns — Colorado's contribution to landscaping.",
+    "source": "authored"
+  },
+  "2761": {
+    "name": "Morning Glory",
+    "description": "The dawn-opening climber — blue trumpets that close by lunch.",
+    "source": "authored"
   },
   "2762": {
     "name": "Blue Öyster Cult",
-    "description": "An American rock band formed on Long Island, New York, in the hamlet of Stony Brook, in 1967. They have sold 25 million records worldwide, including 7 million in the United States.",
-    "source": "wikipedia"
+    "description": "The umlaut-bearing rockers of Don't Fear the Reaper — more cowbell, more blue-violet.",
+    "source": "authored"
+  },
+  "2763": {
+    "name": "Owl Light",
+    "description": "The dialect word for dusk — when owls take the shift.",
+    "source": "authored"
+  },
+  "2764": {
+    "name": "Secret of Mana",
+    "description": "The 1993 action RPG with the whip and the cannon travel — mana-blue nostalgia.",
+    "source": "authored"
+  },
+  "2765": {
+    "name": "Nigella",
+    "description": "Love-in-a-mist — blue flowers in a fennel-fine haze.",
+    "source": "authored"
+  },
+  "2766": {
+    "name": "Pan Purple",
+    "description": "The god of wild places in his violet-blue hour.",
+    "source": "authored"
+  },
+  "2767": {
+    "name": "Perovskia",
+    "description": "Russian sage — silver stems, violet-blue spires, drought-proof.",
+    "source": "authored"
+  },
+  "2768": {
+    "name": "Paper Kite",
+    "description": "The rice-paper butterfly gliding like a kite — and the violet-blue sky it hangs in.",
+    "source": "authored"
+  },
+  "2769": {
+    "name": "Dusty Iris",
+    "description": "Iris in the attic light.",
+    "source": "authored"
+  },
+  "2770": {
+    "name": "Widowmaker",
+    "description": "The overwatch sniper's violet — one shot, one blue-violet trace.",
+    "source": "authored"
+  },
+  "2771": {
+    "name": "Bedtime Story",
+    "description": "One more chapter — violet-blue at reading-lamp hour.",
+    "source": "authored"
+  },
+  "2772": {
+    "name": "Aquilegia",
+    "description": "The columbine by its Latin name — bonneted blue-violet nodding in shade.",
+    "source": "authored"
+  },
+  "2773": {
+    "name": "Nether Portal",
+    "description": "The purple-on-black gateway of Minecraft — obsidian frame, particle hum.",
+    "source": "authored"
+  },
+  "2774": {
+    "name": "Velvet Night",
+    "description": "Night in crushed pile.",
+    "source": "authored"
+  },
+  "2775": {
+    "name": "Subwoofer",
+    "description": "The cabinet that moves air you feel before you hear — violet-black bass.",
+    "source": "authored"
+  },
+  "2776": {
+    "name": "Night Violet",
+    "description": "Violet on the night shift.",
+    "source": "authored"
+  },
+  "2777": {
+    "name": "Royal Nightshade",
+    "description": "Nightshade with a crown.",
+    "source": "authored"
+  },
+  "2778": {
+    "name": "Evensong",
+    "description": "The sung close of the day — violet vespers in harmony.",
+    "source": "authored"
+  },
+  "2779": {
+    "name": "Galactic Purple",
+    "description": "Purple at galactic scale.",
+    "source": "authored"
+  },
+  "2780": {
+    "name": "Keepsake",
+    "description": "The small violet thing kept for remembering.",
+    "source": "authored"
+  },
+  "2781": {
+    "name": "Warp Core",
+    "description": "The engine room's violet-blue pulse — matter and antimatter on speaking terms.",
+    "source": "authored"
+  },
+  "2782": {
+    "name": "Whetstone",
+    "description": "The stone that keeps the edge honest — grey-violet with a grind.",
+    "source": "authored"
+  },
+  "2783": {
+    "name": "Ruthless Empress",
+    "description": "The empress with no forwarding sympathy — violet by decree.",
+    "source": "authored"
+  },
+  "2784": {
+    "name": "Passionflower",
+    "description": "The intricate flower of impossible geometry — missionaries read the crucifixion into it.",
+    "source": "authored"
+  },
+  "2785": {
+    "name": "Smoky Iris",
+    "description": "Iris through the haze.",
+    "source": "authored"
+  },
+  "2786": {
+    "name": "Bold Violet",
+    "description": "Violet in bold type.",
+    "source": "authored"
+  },
+  "2787": {
+    "name": "Moody Purple",
+    "description": "Purple with weather in it.",
+    "source": "authored"
+  },
+  "2788": {
+    "name": "Iolite",
+    "description": "The Viking compass stone, maybe — violet-blue cordierite that polarises light.",
+    "source": "authored"
+  },
+  "2789": {
+    "name": "Enchanter",
+    "description": "One who enchants professionally — violet robes, reasonable rates.",
+    "source": "authored"
+  },
+  "2790": {
+    "name": "Royal Lilac",
+    "description": "Lilac with a household guard.",
+    "source": "authored"
+  },
+  "2791": {
+    "name": "Sceptre",
+    "description": "The rod of office — violet velvet, gold trim, non-negotiable.",
+    "source": "authored"
+  },
+  "2792": {
+    "name": "Photon",
+    "description": "One particle of light — violet-blue at quantum scale.",
+    "source": "authored"
+  },
+  "2793": {
+    "name": "Twitch",
+    "description": "The streamer purple of live chat — buffering hearts and raid trains.",
+    "source": "authored"
+  },
+  "2794": {
+    "name": "Muted Amethyst",
+    "description": "Amethyst at murmur volume.",
+    "source": "authored"
+  },
+  "2795": {
+    "name": "Lavish Spending",
+    "description": "The receipt you hide — violet with a limit warning.",
+    "source": "authored"
+  },
+  "2796": {
+    "name": "Andromeda",
+    "description": "The galaxy on a collision course with ours — violet spiral, four billion year ETA.",
+    "source": "authored"
+  },
+  "2797": {
+    "name": "Grey Iris",
+    "description": "Iris gone to grey, petals still holding shape.",
+    "source": "authored"
+  },
+  "2798": {
+    "name": "Heather Violet",
+    "description": "Heather in its violet hour.",
+    "source": "authored"
+  },
+  "2799": {
+    "name": "Lavandin",
+    "description": "The lavender hybrid actually farmed in Provence — more oil, same violet rows.",
+    "source": "authored"
+  },
+  "2800": {
+    "name": "Vervain",
+    "description": "The herb of prophecy and altar-sweeping — pale violet spikes with a druid clientele.",
+    "source": "authored"
+  },
+  "2801": {
+    "name": "Hyssop",
+    "description": "The biblical cleansing herb — violet-blue spikes, psalm-adjacent.",
+    "source": "authored"
+  },
+  "2802": {
+    "name": "Blackened Plum",
+    "description": "Plum past the last light.",
+    "source": "authored"
+  },
+  "2803": {
+    "name": "Hollow Knight",
+    "description": "The sorrowful knight of Hallownest — void-dark with a broken nail.",
+    "source": "authored"
+  },
+  "2804": {
+    "name": "Plunged Into Darkness",
+    "description": "The lights went, the violet stayed.",
+    "source": "authored"
+  },
+  "2805": {
+    "name": "Dusky Aubergine",
+    "description": "Aubergine at dusk, skin losing its shine.",
+    "source": "authored"
   },
   "2806": {
     "name": "Tarot",
-    "description": "A set of playing cards used in Tarot card games and fortune-telling or divination. From at least the mid-15th century, the tarot was used to play trick-taking card games such as Tarocchini.",
-    "source": "wikipedia"
+    "description": "The deck that answers sideways — violet-black cards, drawn three.",
+    "source": "authored"
+  },
+  "2807": {
+    "name": "Velvet Violet",
+    "description": "Violet in crushed pile.",
+    "source": "authored"
+  },
+  "2808": {
+    "name": "Dark Clematis",
+    "description": "Clematis in its darkest cultivar.",
+    "source": "authored"
+  },
+  "2809": {
+    "name": "Dusky Royal Purple",
+    "description": "Royalty at twilight.",
+    "source": "authored"
+  },
+  "2810": {
+    "name": "Amethyst Deceiver",
+    "description": "The lilac mushroom that looks poisonous and isn't — the deceit is being delicious.",
+    "source": "authored"
   },
   "2811": {
     "name": "Verbena",
-    "description": "A genus in the family Verbenaceae. It contains about 150 species of annual and perennial herbaceous or semi-woody flowering plants.",
-    "source": "wikipedia"
+    "description": "The lemon-scented herb of teas and rituals — violet flower spikes included.",
+    "source": "authored"
+  },
+  "2812": {
+    "name": "Regal Amethyst",
+    "description": "Amethyst holding court.",
+    "source": "authored"
+  },
+  "2813": {
+    "name": "Mana Potion",
+    "description": "The blue flask on the hotbar — mana restored, violet glow.",
+    "source": "authored"
+  },
+  "2814": {
+    "name": "Sorcery",
+    "description": "Spellwork as a career — violet with incantations.",
+    "source": "authored"
+  },
+  "2815": {
+    "name": "Muted Grape",
+    "description": "Grape at murmur volume.",
+    "source": "authored"
+  },
+  "2816": {
+    "name": "Rollercoaster",
+    "description": "Clank-clank-clank up, scream down — violet at 4g.",
+    "source": "authored"
+  },
+  "2817": {
+    "name": "Van de Graaff",
+    "description": "The dome that makes your hair testify — violet sparks at a fingertip.",
+    "source": "authored"
+  },
+  "2818": {
+    "name": "Gladiolus",
+    "description": "The sword lily in violet — gladiator's flower by etymology.",
+    "source": "authored"
+  },
+  "2819": {
+    "name": "Fuzz Pedal",
+    "description": "The pedal that turns guitars to velvet sandpaper — violet fuzz since 1966.",
+    "source": "authored"
+  },
+  "2820": {
+    "name": "Bumper Car",
+    "description": "Licensed collisions in violet — rubber ring included.",
+    "source": "authored"
+  },
+  "2821": {
+    "name": "Ferris Wheel",
+    "description": "The wheel Mr Ferris built to out-Eiffel Eiffel — violet gondolas at apogee.",
+    "source": "authored"
+  },
+  "2822": {
+    "name": "Taaffeite",
+    "description": "The gem so rare it was discovered in a bought ring — mauve-violet, one per million beryls.",
+    "source": "authored"
+  },
+  "2823": {
+    "name": "Tie-Dye",
+    "description": "Rubber bands, dye bath, and the spiral everyone does — violet edition.",
+    "source": "authored"
+  },
+  "2824": {
+    "name": "Lively Amethyst",
+    "description": "Amethyst with somewhere to be.",
+    "source": "authored"
+  },
+  "2825": {
+    "name": "Static Cling",
+    "description": "The sock stuck to the jumper — violet with charge.",
+    "source": "authored"
+  },
+  "2826": {
+    "name": "Window Box",
+    "description": "Geraniums at sill height — violet spilling over civic railings.",
+    "source": "authored"
+  },
+  "2827": {
+    "name": "Joy Buzzer",
+    "description": "The handshake with a secret — violet jolt, vaudeville patent.",
+    "source": "authored"
+  },
+  "2828": {
+    "name": "Orion Nebula",
+    "description": "The stellar nursery below Orion's belt — violet dust birthing suns.",
+    "source": "authored"
+  },
+  "2829": {
+    "name": "Sweet Desire",
+    "description": "Desire with a sugar rim — violet, over ice.",
+    "source": "authored"
+  },
+  "2830": {
+    "name": "Hellebore",
+    "description": "The Christmas rose in its dusky violet cultivar — blooms through snow.",
+    "source": "authored"
+  },
+  "2831": {
+    "name": "Borealis",
+    "description": "The northern lights by their Latin name — violet curtain, solar wind.",
+    "source": "authored"
+  },
+  "2832": {
+    "name": "Séance",
+    "description": "Hands on the table, candles low — violet contact requested.",
+    "source": "authored"
+  },
+  "2833": {
+    "name": "Chalk Pastel",
+    "description": "Violet drawn in soft pastel and smudged with a thumb.",
+    "source": "authored"
+  },
+  "2834": {
+    "name": "Honesty",
+    "description": "The lunaria plant — violet flowers, then silver coin pods; honesty pays twice.",
+    "source": "authored"
+  },
+  "2835": {
+    "name": "Bath Bomb",
+    "description": "The fizzing sphere that dyes the bath violet — lush by brand and adjective.",
+    "source": "authored"
+  },
+  "2836": {
+    "name": "Misty Lilac",
+    "description": "Lilac behind mist, one garden over.",
+    "source": "authored"
+  },
+  "2837": {
+    "name": "Bubble Bath",
+    "description": "Foam to the taps, violet by candlelight.",
+    "source": "authored"
+  },
+  "2838": {
+    "name": "Blackberry Night",
+    "description": "Blackberries after closing.",
+    "source": "authored"
+  },
+  "2839": {
+    "name": "Sloe Berry",
+    "description": "The blackthorn's bitter fruit — violet-black, gin's favourite excuse.",
+    "source": "authored"
+  },
+  "2840": {
+    "name": "Chokecherry",
+    "description": "The astringent wild cherry — violet-black clusters birds strip in a day.",
+    "source": "authored"
+  },
+  "2841": {
+    "name": "Damson Skin",
+    "description": "The plum's violet jacket, worn with bloom.",
+    "source": "authored"
+  },
+  "2842": {
+    "name": "Purple Fig",
+    "description": "The fig in its violet vestment.",
+    "source": "authored"
+  },
+  "2843": {
+    "name": "Dusky Eggplant",
+    "description": "Eggplant at dusk, glossy going matte.",
+    "source": "authored"
+  },
+  "2844": {
+    "name": "Smoky Aubergine",
+    "description": "Aubergine through woodsmoke.",
+    "source": "authored"
+  },
+  "2845": {
+    "name": "Jaboticaba",
+    "description": "The Brazilian tree that fruits directly from its trunk — violet-black grapes on bark.",
+    "source": "authored"
+  },
+  "2846": {
+    "name": "Bold Plum",
+    "description": "Plum set in bold type, juice included.",
+    "source": "authored"
+  },
+  "2847": {
+    "name": "Cudbear",
+    "description": "The lichen purple dye of Scottish crofts — cudbear, patented 1758, violet by fermentation.",
+    "source": "authored"
+  },
+  "2848": {
+    "name": "Velvet Rope",
+    "description": "The barrier between you and the after-party — violet, unhooked for few.",
+    "source": "authored"
+  },
+  "2849": {
+    "name": "Faded Aubergine",
+    "description": "Aubergine gone soft with years.",
+    "source": "authored"
   },
   "2856": {
     "name": "Beetroot",
