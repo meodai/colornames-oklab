@@ -3025,7 +3025,7 @@
 {"name":"Tin","tier":"srgb","hex":"#90998b","oklab":[0.6718,-0.0164,0.0167]},
 {"name":"Cortex","tier":"srgb","hex":"#aa9b9e","oklab":[0.7031,0.0188,0.0017]},
 {"name":"Dove","tier":"srgb","hex":"#b8a3b3","oklab":[0.7392,0.0286,-0.0138]},
-{"name":"404 Colour Not Found","tier":"srgb","hex":"#b9c3b2","oklab":[0.8054,-0.0175,0.0193]},
+{"name":"Foil","tier":"srgb","hex":"#b9c3b2","oklab":[0.8054,-0.0175,0.0193]},
 {"name":"Dim","tier":"srgb","hex":"#c6c6c1","oklab":[0.8242,-0.0013,0.0058]},
 {"name":"Zen","tier":"srgb","hex":"#c9d2d4","oklab":[0.857,-0.0085,-0.0062]},
 {"name":"Fog","tier":"srgb","hex":"#dcd6df","oklab":[0.884,0.01,-0.0094]},
