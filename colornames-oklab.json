@@ -1319,7 +1319,7 @@
 {"name":"Dark Fig","tier":"srgb","hex":"#361f34","oklab":[0.2782,0.0439,-0.0251]},
 {"name":"Wineberry","tier":"rec2020","hex":"#510047","oklab":[0.2976,0.1428,-0.068]},
 {"name":"Cosmic Explorer","tier":"srgb","hex":"#5c074b","oklab":[0.3264,0.1252,-0.0503]},
-{"name":"Blackcurrant Jam","tier":"rec2020","hex":"#5f004a","oklab":[0.3279,0.1695,-0.0582]},
+{"name":"Inkberry","tier":"rec2020","hex":"#5f004a","oklab":[0.3279,0.1695,-0.0582]},
 {"name":"Aubergine","tier":"srgb","hex":"#53264a","oklab":[0.3456,0.0769,-0.0355]},
 {"name":"Dark Magenta","tier":"srgb","hex":"#6a075b","oklab":[0.3619,0.1402,-0.0615]},
 {"name":"Purple Carrot","tier":"rec2020","hex":"#710051","oklab":[0.366,0.1881,-0.0516]},
