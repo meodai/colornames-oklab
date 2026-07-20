@@ -9249,45 +9249,755 @@
     "description": "Aubergine gone soft with years.",
     "source": "authored"
   },
+  "2850": {
+    "name": "Ursula",
+    "description": "The sea witch with the contract and the shell necklace — tentacle purple, poor unfortunate soul.",
+    "source": "authored"
+  },
+  "2851": {
+    "name": "Callicarpa",
+    "description": "The beautyberry shrub — violet-magenta beads so bright they look lacquered on.",
+    "source": "authored"
+  },
+  "2852": {
+    "name": "Erythrite",
+    "description": "Cobalt bloom, the mineral — crimson-violet crusts flagging ore below.",
+    "source": "authored"
+  },
+  "2853": {
+    "name": "Wild Plum",
+    "description": "Plums the orchard never claimed — small, tart, hedgerow purple.",
+    "source": "authored"
+  },
+  "2854": {
+    "name": "Music Box",
+    "description": "The ballerina turns, the tune plinks — purple velvet lining under the lid.",
+    "source": "authored"
+  },
+  "2855": {
+    "name": "Bold Mulberry",
+    "description": "Mulberry set in bold type, juice warnings apply.",
+    "source": "authored"
+  },
   "2856": {
     "name": "Beetroot",
-    "description": "Beetroot or beet is the taproot portion of a Beta vulgaris subsp. vulgaris plant in the Conditiva Group. The plant is a root vegetable also known as the table beet, garden beet, or dinner beet, or else categorized by color as red beet or golden beet. Its leaves constitute a leaf vegetable called beet greens.",
-    "source": "wikipedia"
+    "description": "The taproot that dyes everything it touches — boards, fingers, risotto, all this purple-red.",
+    "source": "authored"
+  },
+  "2857": {
+    "name": "Burlesque",
+    "description": "The tease of the reveal — feathers, sequins and a magenta spotlight.",
+    "source": "authored"
+  },
+  "2858": {
+    "name": "Midway",
+    "description": "The carnival strip between the rides — magenta bulbs, ring-toss odds.",
+    "source": "authored"
+  },
+  "2859": {
+    "name": "Blewit",
+    "description": "The lilac-fleshed mushroom that fruits with the frosts — wood blewit, violet all through.",
+    "source": "authored"
+  },
+  "2860": {
+    "name": "Joker",
+    "description": "The clown prince's suit — purple with a punchline you won't like.",
+    "source": "authored"
+  },
+  "2861": {
+    "name": "Magentle",
+    "description": "Magenta with the volume eased down — a portmanteau at half chroma.",
+    "source": "authored"
   },
   "2862": {
     "name": "Paisley Park",
-    "description": "A 65,000-square-foot (6,000 m2) estate in Chanhassen, Minnesota, United States, once owned by American musician Prince. It was opened to the public as a museum in October 2016. Many of Prince’s later albums would be recorded at the estate.",
-    "source": "wikipedia"
+    "description": "Prince's studio and the funk address of 1985 — paisley by name, purple by law.",
+    "source": "authored"
+  },
+  "2863": {
+    "name": "Musk Mallow",
+    "description": "The mallow that smells faintly of musk — pink-violet saucers on a soft stem.",
+    "source": "authored"
   },
   "2864": {
     "name": "Rhododendron",
-    "description": "Rhododendron, from Ancient Greek ῥόδον (rhódon), meaning \"rose\", and δένδρον (déndron), meaning \"tree\", is a very large genus of about 1,024 species of woody plants in the heath family (Ericaceae). They can be either evergreen or deciduous.",
-    "source": "wikipedia"
+    "description": "The shrub whose name means rose-tree — magenta trusses swallowing whole hillsides.",
+    "source": "authored"
   },
   "2865": {
     "name": "Portulaca",
-    "description": "A genus of flowering plants in the family Portulacaceae, and is the type genus of the family. With over 100 species, it is found in the tropics and warm temperate regions. Portulacas are also known as the purslanes.",
-    "source": "wikipedia"
+    "description": "The moss rose that only opens for sun — magenta silk on succulent stems.",
+    "source": "authored"
+  },
+  "2866": {
+    "name": "Redbud",
+    "description": "The tree that blooms straight from its bark — magenta-pink before a single leaf.",
+    "source": "authored"
+  },
+  "2867": {
+    "name": "Discotheque",
+    "description": "Mirror ball, magenta gels, and a floor that expects commitment.",
+    "source": "authored"
+  },
+  "2868": {
+    "name": "Aubrieta",
+    "description": "The rock-garden cascade — purple falling over a wall every April.",
+    "source": "authored"
+  },
+  "2869": {
+    "name": "Gamma Ray",
+    "description": "The most energetic light there is — rendered magenta because eyes weren't invited.",
+    "source": "authored"
+  },
+  "2870": {
+    "name": "Candytuft",
+    "description": "The cottage-garden edging flower — domes of magenta-lilac at ankle height.",
+    "source": "authored"
+  },
+  "2871": {
+    "name": "Beyond Purple",
+    "description": "Purple past the last named stop.",
+    "source": "authored"
+  },
+  "2872": {
+    "name": "Michaelmas Daisy",
+    "description": "The daisy that saves autumn — violet-magenta stars for the feast of the archangel.",
+    "source": "authored"
+  },
+  "2873": {
+    "name": "Heliotrope Burst",
+    "description": "Heliotrope at detonation.",
+    "source": "authored"
+  },
+  "2874": {
+    "name": "Glow Bracelet",
+    "description": "Crack, shake, glow — magenta chemistry rationed to one night.",
+    "source": "authored"
+  },
+  "2875": {
+    "name": "Fading Love",
+    "description": "The photograph of the feeling, slightly overexposed — magenta going quiet.",
+    "source": "authored"
+  },
+  "2876": {
+    "name": "Lip Sync",
+    "description": "Every word mouthed perfectly — magenta performance, borrowed voice.",
+    "source": "authored"
+  },
+  "2877": {
+    "name": "Lively Heliotrope",
+    "description": "Heliotrope with somewhere to be.",
+    "source": "authored"
+  },
+  "2878": {
+    "name": "Sashay",
+    "description": "The walk that knows it's being watched — magenta with hip articulation.",
+    "source": "authored"
+  },
+  "2879": {
+    "name": "Soft Heliotrope",
+    "description": "Heliotrope with the edges felted.",
+    "source": "authored"
+  },
+  "2880": {
+    "name": "Cineraria",
+    "description": "The florist's daisy in its magenta velvet run — winter windowsill royalty.",
+    "source": "authored"
+  },
+  "2881": {
+    "name": "Waluigi",
+    "description": "The inverted-L antihero Nintendo keeps in the wings — wah, purple, chaos.",
+    "source": "authored"
+  },
+  "2882": {
+    "name": "Four O'Clock",
+    "description": "The flower that keeps office hours — magenta trumpets opening at four sharp.",
+    "source": "authored"
+  },
+  "2883": {
+    "name": "Soft Mallow",
+    "description": "Mallow with the edges felted.",
+    "source": "authored"
   },
   "2884": {
     "name": "Kunzite",
-    "description": "Spodumene is a pyroxene mineral consisting of lithium aluminium inosilicate, LiAl(SiO3)2, and is a commercially important source of lithium.",
-    "source": "wikipedia"
+    "description": "The lilac-pink gem named for the man who named morganite — spodumene in evening dress.",
+    "source": "authored"
+  },
+  "2885": {
+    "name": "Starburst",
+    "description": "The candy square that unwraps in slow motion — magenta chew, citrus argument.",
+    "source": "authored"
+  },
+  "2886": {
+    "name": "Sweet Nothings",
+    "description": "The things whispered that mean everything and parse to nothing — magenta at ear level.",
+    "source": "authored"
+  },
+  "2887": {
+    "name": "Port",
+    "description": "The fortified wine passed left around the table — magenta-dark, decades patient.",
+    "source": "authored"
+  },
+  "2888": {
+    "name": "Velvet Cosmos",
+    "description": "Cosmos flowers after the lamps go on — magenta pile, garden velvet.",
+    "source": "authored"
+  },
+  "2889": {
+    "name": "Vimto",
+    "description": "The purple cordial of British childhoods — grape, raspberry and blackcurrant in a trench coat.",
+    "source": "authored"
+  },
+  "2890": {
+    "name": "Chicha Morada",
+    "description": "Peru's purple corn drink — boiled with pineapple and cinnamon, magenta in a glass.",
+    "source": "authored"
+  },
+  "2891": {
+    "name": "Orchil",
+    "description": "The lichen purple older than empire — urine-vat fermentation, cathedral results.",
+    "source": "authored"
+  },
+  "2892": {
+    "name": "Rich Mulberry",
+    "description": "Mulberry banking its harvest.",
+    "source": "authored"
+  },
+  "2893": {
+    "name": "Grapest",
+    "description": "The superlative nobody asked grapes to earn — magenta, grapest of all.",
+    "source": "authored"
+  },
+  "2894": {
+    "name": "Passiflora",
+    "description": "The passionflower genus — magenta filaments arranged like a clockface with opinions.",
+    "source": "authored"
+  },
+  "2895": {
+    "name": "Antique Plum",
+    "description": "Plum with a provenance paper.",
+    "source": "authored"
+  },
+  "2896": {
+    "name": "Grimace",
+    "description": "McDonald's purple enigma — shape unclear, magenta, beloved.",
+    "source": "authored"
+  },
+  "2897": {
+    "name": "Fabric of Love",
+    "description": "Love by the metre — magenta velvet, cut to fit.",
+    "source": "authored"
+  },
+  "2898": {
+    "name": "Roselle",
+    "description": "The hibiscus behind every red-purple agua fresca — sour, floral, magenta-staining.",
+    "source": "authored"
+  },
+  "2899": {
+    "name": "Huckleberry",
+    "description": "The berry Mark Twain rated above all others — wild purple, bear-approved.",
+    "source": "authored"
+  },
+  "2900": {
+    "name": "Bold Magenta",
+    "description": "Magenta set in bold type.",
+    "source": "authored"
+  },
+  "2901": {
+    "name": "Juneberry",
+    "description": "The serviceberry by its prettier name — purple-red fruit gone before July.",
+    "source": "authored"
+  },
+  "2902": {
+    "name": "Rosebay",
+    "description": "The willowherb of railway banks and bomb sites — magenta spires on disturbed ground.",
+    "source": "authored"
+  },
+  "2903": {
+    "name": "Orchis",
+    "description": "The orchid genus of chalk downs — magenta spikes with a Greek root best not translated.",
+    "source": "authored"
+  },
+  "2904": {
+    "name": "Red Cabbage",
+    "description": "Sliced, it's a magenta mandala — cooked with vinegar, it stays one.",
+    "source": "authored"
+  },
+  "2905": {
+    "name": "Night Market",
+    "description": "Lanterns, grill smoke and haggling after dark — magenta neon over everything.",
+    "source": "authored"
+  },
+  "2906": {
+    "name": "Lively Mulberry",
+    "description": "Mulberry with somewhere to be.",
+    "source": "authored"
+  },
+  "2907": {
+    "name": "Mystifying Magenta",
+    "description": "Magenta doing the misdirection.",
+    "source": "authored"
+  },
+  "2908": {
+    "name": "Gel Pen",
+    "description": "The magenta one from the pencil case — glitter optional, smudge guaranteed.",
+    "source": "authored"
+  },
+  "2909": {
+    "name": "Venus Flytrap",
+    "description": "The trap that counts to two before closing — magenta-throated, patient.",
+    "source": "authored"
+  },
+  "2910": {
+    "name": "Compote",
+    "description": "Fruit surrendered to sugar and low heat — magenta in a preserving jar.",
+    "source": "authored"
+  },
+  "2911": {
+    "name": "Lambada",
+    "description": "The forbidden dance of 1990 — magenta ruffles, one-hit certainty.",
+    "source": "authored"
+  },
+  "2912": {
+    "name": "Thimbleberry",
+    "description": "The raspberry's softer cousin — magenta-red, crushes at a touch, worth it.",
+    "source": "authored"
+  },
+  "2913": {
+    "name": "Cockscomb",
+    "description": "The crested flower that out-velvets velvet — magenta ruffles on a stem.",
+    "source": "authored"
+  },
+  "2914": {
+    "name": "Rubellite",
+    "description": "The red-magenta tourmaline — rubellite, ruby's more affordable understudy.",
+    "source": "authored"
+  },
+  "2915": {
+    "name": "Hollywood Pink",
+    "description": "Pink with a star on the pavement.",
+    "source": "authored"
+  },
+  "2916": {
+    "name": "South Beach",
+    "description": "Art deco hotels in sunset neon — magenta-pink with an ocean drive.",
+    "source": "authored"
+  },
+  "2917": {
+    "name": "Final Boss",
+    "description": "The health bar with three phases — magenta aura, unskippable cutscene.",
+    "source": "authored"
+  },
+  "2918": {
+    "name": "Silly String",
+    "description": "The can that empties in four seconds — magenta strands, ceiling included.",
+    "source": "authored"
+  },
+  "2919": {
+    "name": "Smoothie",
+    "description": "Berries surrendered to the blender — magenta-pink through a paper straw.",
+    "source": "authored"
+  },
+  "2920": {
+    "name": "Neon Sign",
+    "description": "Bent glass buzzing at midnight — magenta script over the doorway.",
+    "source": "authored"
+  },
+  "2921": {
+    "name": "Nerine",
+    "description": "The Guernsey lily — magenta-pink petals with built-in glitter refraction.",
+    "source": "authored"
+  },
+  "2922": {
+    "name": "Pink Cadillac",
+    "description": "The car Elvis bought his mother — magenta-pink chrome and a bench seat.",
+    "source": "authored"
+  },
+  "2923": {
+    "name": "Pop Rocks",
+    "description": "The candy that argues back — magenta crackle on the tongue.",
+    "source": "authored"
+  },
+  "2924": {
+    "name": "Sailor Moon",
+    "description": "Fighting evil by moonlight — magenta bows, tiara physics.",
+    "source": "authored"
+  },
+  "2925": {
+    "name": "Leg Warmers",
+    "description": "The 1983 aerobics uniform — magenta acrylic, ankle to knee.",
+    "source": "authored"
+  },
+  "2926": {
+    "name": "Slap Bracelet",
+    "description": "The banned playground accessory — magenta snap on a wrist.",
+    "source": "authored"
+  },
+  "2927": {
+    "name": "Riot Grrrl",
+    "description": "Zines, amps and no permission asked — magenta-pink at full distortion.",
+    "source": "authored"
+  },
+  "2928": {
+    "name": "Pressed Flower",
+    "description": "The bloom kept flat between dictionary pages — magenta faded to memory.",
+    "source": "authored"
+  },
+  "2929": {
+    "name": "Echinacea",
+    "description": "The coneflower of every immune-boosting tea — magenta petals swept back from the cone.",
+    "source": "authored"
   },
   "2930": {
     "name": "Cabaret",
-    "description": "A form of theatrical entertainment featuring music, song, dance, recitation, or drama. The performance venue might be a pub, casino, hotel, restaurant, or nightclub with a stage for performances. The audience, often dining or drinking, does not typically dance but usually sits at tables.",
-    "source": "wikipedia"
+    "description": "A small stage, a smaller table, and a magenta spotlight doing most of the lifting.",
+    "source": "authored"
+  },
+  "2931": {
+    "name": "Anemone",
+    "description": "The windflower — magenta petals that drop at the first strong opinion.",
+    "source": "authored"
+  },
+  "2932": {
+    "name": "Bottle Rocket",
+    "description": "The gas-station firework with the plastic stick — magenta trail, four-second career.",
+    "source": "authored"
+  },
+  "2933": {
+    "name": "Candy Burst",
+    "description": "Candy at detonation.",
+    "source": "authored"
+  },
+  "2934": {
+    "name": "Carnival Prize",
+    "description": "The magenta plush nobody needed and everybody wanted — three hoops earned it.",
+    "source": "authored"
+  },
+  "2935": {
+    "name": "Jawbreaker",
+    "description": "The candy that outlasts jaws — magenta layer somewhere in year two.",
+    "source": "authored"
+  },
+  "2936": {
+    "name": "Lei",
+    "description": "Orchids strung at the jet bridge — magenta welcome, wear it all day.",
+    "source": "authored"
+  },
+  "2937": {
+    "name": "Bubblegum Crisis",
+    "description": "The 1987 cyberpunk anime with the power armour and the band — magenta future.",
+    "source": "authored"
+  },
+  "2938": {
+    "name": "Hubba Hubba",
+    "description": "The wolf whistle in print — magenta-pink, decade unspecified.",
+    "source": "authored"
+  },
+  "2939": {
+    "name": "Cistus",
+    "description": "The rock rose — magenta tissue-paper flowers, each lasting exactly one day.",
+    "source": "authored"
+  },
+  "2940": {
+    "name": "Sweet Tooth",
+    "description": "The dental chart tells the story — magenta-pink, no regrets.",
+    "source": "authored"
+  },
+  "2941": {
+    "name": "Party Ring",
+    "description": "The British biscuit with the hole and the hard icing — magenta ones first.",
+    "source": "authored"
+  },
+  "2942": {
+    "name": "Roller Disco",
+    "description": "Eight wheels, one mirror ball — magenta lights on the rink floor.",
+    "source": "authored"
+  },
+  "2943": {
+    "name": "Jellybean",
+    "description": "The bag's magenta-pink gamble — could be raspberry, could be regret.",
+    "source": "authored"
+  },
+  "2944": {
+    "name": "Technolust",
+    "description": "Desire with a firmware update — magenta at full refresh rate.",
+    "source": "authored"
+  },
+  "2945": {
+    "name": "Daguerreotype",
+    "description": "The mirror with a memory — 1839's silvered plate, here tinged magenta-mauve.",
+    "source": "authored"
+  },
+  "2946": {
+    "name": "Sherbet Fizz",
+    "description": "Sherbet meeting saliva — magenta-pink fizz, spoon optional.",
+    "source": "authored"
+  },
+  "2947": {
+    "name": "Candy Aura",
+    "description": "Candy's visible magnetic field — magenta-pink at arm's length.",
+    "source": "authored"
+  },
+  "2948": {
+    "name": "Strawberry Milkshake",
+    "description": "Two straws, one glass, jukebox change — magenta-pink under whipped cream.",
+    "source": "authored"
+  },
+  "2949": {
+    "name": "Fairy Dust",
+    "description": "What glitter wants to be — magenta-pink, settles on everything, never leaves.",
+    "source": "authored"
+  },
+  "2950": {
+    "name": "Oxheart",
+    "description": "The tomato shaped like its name — magenta-red, one slice covers the sandwich.",
+    "source": "authored"
+  },
+  "2951": {
+    "name": "Cassis",
+    "description": "Blackcurrant liqueur — magenta-dark, one spoon flavours the whole glass.",
+    "source": "authored"
+  },
+  "2952": {
+    "name": "Berried Alive",
+    "description": "Entombed in fruit, still kicking — magenta-dark with a metal grin.",
+    "source": "authored"
+  },
+  "2953": {
+    "name": "Morello",
+    "description": "The sour cherry of proper jam and clafoutis — magenta-dark, pit included.",
+    "source": "authored"
+  },
+  "2954": {
+    "name": "Blackberry Wine",
+    "description": "Hedgerow fruit fermented past innocence — magenta-dark in a dusty bottle.",
+    "source": "authored"
+  },
+  "2955": {
+    "name": "Jamun",
+    "description": "The Indian summer fruit that dyes tongues purple — jamun, magenta-black proof.",
+    "source": "authored"
+  },
+  "2956": {
+    "name": "Mulled Berry",
+    "description": "Berries in the spice bath — clove, star anise, magenta steam.",
+    "source": "authored"
+  },
+  "2957": {
+    "name": "Boudoir",
+    "description": "The room between dressed and not — magenta-rose, lamplight through silk.",
+    "source": "authored"
+  },
+  "2958": {
+    "name": "Kir",
+    "description": "White wine over cassis — the canon's aperitif, magenta at the bottom.",
+    "source": "authored"
+  },
+  "2959": {
+    "name": "Bold Raspberry",
+    "description": "Raspberry set in bold type.",
+    "source": "authored"
+  },
+  "2960": {
+    "name": "Berry Velvet",
+    "description": "Berries in crushed pile.",
+    "source": "authored"
+  },
+  "2961": {
+    "name": "Dewberry",
+    "description": "The blackberry that crawls instead of climbs — magenta-dark, ankle-height harvest.",
+    "source": "authored"
+  },
+  "2962": {
+    "name": "Zinfandel",
+    "description": "The grape with two passports — magenta-red in California, Primitivo in Puglia.",
+    "source": "authored"
+  },
+  "2963": {
+    "name": "Morbid Princess",
+    "description": "The crown worn with eyeliner — magenta-dark, tiara at half mast.",
+    "source": "authored"
+  },
+  "2964": {
+    "name": "Beaujolais",
+    "description": "The wine drunk weeks after harvest — magenta-red, banana notes, no cellar.",
+    "source": "authored"
+  },
+  "2965": {
+    "name": "Smoky Rose",
+    "description": "Rose through the woodsmoke.",
+    "source": "authored"
+  },
+  "2966": {
+    "name": "Raspberry Jam",
+    "description": "The seeds are the argument, the magenta is the answer — toast's finest hour.",
+    "source": "authored"
+  },
+  "2967": {
+    "name": "Botticelli",
+    "description": "The painter of Venus on the shell — this magenta-rose from the drapery.",
+    "source": "authored"
+  },
+  "2968": {
+    "name": "Agua de Jamaica",
+    "description": "Hibiscus agua fresca — magenta-red over ice, sour side of sweet.",
+    "source": "authored"
+  },
+  "2969": {
+    "name": "Cranachan",
+    "description": "Scotland's dessert — raspberries, cream, whisky and toasted oats, magenta-rose folds.",
+    "source": "authored"
+  },
+  "2970": {
+    "name": "Dusty Raspberry",
+    "description": "Raspberry gone soft with wear.",
+    "source": "authored"
+  },
+  "2971": {
+    "name": "Paso Doble",
+    "description": "The bullfighter's two-step — magenta cape, orchestral stomp.",
+    "source": "authored"
+  },
+  "2972": {
+    "name": "Faded Mulberry",
+    "description": "Mulberry gone soft with years.",
+    "source": "authored"
+  },
+  "2973": {
+    "name": "Rumba",
+    "description": "The Cuban sway that walks in place — magenta-rose at hip height.",
+    "source": "authored"
+  },
+  "2974": {
+    "name": "Griotte",
+    "description": "The morello by its French name — griotte, magenta-dark in kirsch.",
+    "source": "authored"
+  },
+  "2975": {
+    "name": "Jazzberry Surge",
+    "description": "Jazzberry in the surge tank.",
+    "source": "authored"
+  },
+  "2976": {
+    "name": "Slow Dance",
+    "description": "Arms up, tempo halved, lights magenta-rose — the last song logic.",
+    "source": "authored"
+  },
+  "2977": {
+    "name": "Mourning Dove",
+    "description": "The dove's soft grey — here blushed magenta-mauve at the throat.",
+    "source": "authored"
+  },
+  "2978": {
+    "name": "Vivid Jazzberry",
+    "description": "Jazzberry at full brass.",
+    "source": "authored"
   },
   "2979": {
     "name": "Festival",
-    "description": "A festival is an event celebrated by a community and centred on one or more characteristic aspects of its religion, traditions or cultures. It is often observed as an indigenous or national holiday, a religious celebration, or a cultural fair (mela).",
-    "source": "wikipedia"
+    "description": "Bunting, stages and a weekend pass — magenta-rose wristband proof.",
+    "source": "authored"
+  },
+  "2980": {
+    "name": "Secret Admirer",
+    "description": "The note with no signature — magenta-rose envelope, careful handwriting.",
+    "source": "authored"
+  },
+  "2981": {
+    "name": "Cancan",
+    "description": "Skirts to the ceiling, kicks to the band — magenta-rose ruffles at Montmartre.",
+    "source": "authored"
   },
   "2982": {
     "name": "Carnival",
-    "description": "A festive season at the close of the Christian pre-Lenten period, consisting of Quinquagesima or Shrove Sunday, Shrove Monday, and Shrove Tuesday or Mardi Gras.",
-    "source": "wikipedia"
+    "description": "Sequins, brass and a city that stopped pretending — magenta-rose at street level.",
+    "source": "authored"
+  },
+  "2983": {
+    "name": "Rosy Cerise",
+    "description": "Cerise through rose-tinted glass.",
+    "source": "authored"
+  },
+  "2984": {
+    "name": "Impossible Cerise",
+    "description": "Cerise past what screens promise — the magenta the gamut clips.",
+    "source": "authored"
+  },
+  "2985": {
+    "name": "Zinnia",
+    "description": "The cutting-garden workhorse — magenta-rose pompoms until first frost.",
+    "source": "authored"
+  },
+  "2986": {
+    "name": "Rosy Mauve",
+    "description": "Mauve leaning into the rose light.",
+    "source": "authored"
+  },
+  "2987": {
+    "name": "Lawn Flamingo",
+    "description": "The pink sentinel of a million front gardens — one leg, no apologies.",
+    "source": "authored"
+  },
+  "2988": {
+    "name": "Beyond Pink",
+    "description": "Pink past the last named stop.",
+    "source": "authored"
+  },
+  "2989": {
+    "name": "Flamboyance",
+    "description": "The collective noun for flamingos — flamboyance, pink and plural.",
+    "source": "authored"
+  },
+  "2990": {
+    "name": "Sweet Sixteen",
+    "description": "The birthday with the guest list politics — pink balloons, disposable cameras.",
+    "source": "authored"
+  },
+  "2991": {
+    "name": "Hula Hoop",
+    "description": "The circle that stays up as long as you do — pink plastic, hip physics.",
+    "source": "authored"
+  },
+  "2992": {
+    "name": "Guava Nectar",
+    "description": "Guava pressed to nectar — pink cloud in a juice glass.",
+    "source": "authored"
+  },
+  "2993": {
+    "name": "Darling Pink",
+    "description": "Pink with a term of endearment.",
+    "source": "authored"
+  },
+  "2994": {
+    "name": "Spoonbill",
+    "description": "The wading bird that out-pinks flamingos — spoonbill, cutlery included.",
+    "source": "authored"
+  },
+  "2995": {
+    "name": "Candy Comet",
+    "description": "Candy with re-entry velocity — pink trail across the freezer aisle.",
+    "source": "authored"
+  },
+  "2996": {
+    "name": "Rosy Glow",
+    "description": "The compliment lighting gives for free — pink at golden hour.",
+    "source": "authored"
+  },
+  "2997": {
+    "name": "Salt Lamp",
+    "description": "The Himalayan glow of every wellness windowsill — pink rock, warm bulb.",
+    "source": "authored"
+  },
+  "2998": {
+    "name": "Soft Pink",
+    "description": "Pink with the edges felted.",
+    "source": "authored"
+  },
+  "2999": {
+    "name": "Nosegay",
+    "description": "The small bouquet carried at nose height — pink posy, Victorian firmware.",
+    "source": "authored"
   },
   "3003": {
     "name": "Umbra",
