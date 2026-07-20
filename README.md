@@ -107,6 +107,10 @@ Names live in `data/names/batch-*.json` (keyed by stable point id) with `data/na
 npx serve .   # then open /docs/
 ```
 
+## Contributing
+
+PRs are welcome for one thing only: **better, human-invented names for existing colors**. The dataset itself does not grow — positions and ids are fixed forever. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Support
 
 If you find this project useful, please consider [buying me a coffee](https://ko-fi.com/colorparrot). It keeps my caffeine levels high enough to distinguish between `#fafafa` and `#fbfbfb`.
