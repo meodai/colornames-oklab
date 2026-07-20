@@ -440,7 +440,9 @@ const buildRow = (r) => {
 };
 const CHUNK = 250;
 let built = 0;
-const idle = window.requestIdleCallback || ((fn) => setTimeout(fn, 16));
+const idle = typeof requestIdleCallback === 'function'
+  ? (fn) => requestIdleCallback(fn)
+  : (fn) => setTimeout(fn, 16);
 const buildChunk = () => {
   const frag = document.createDocumentFragment();
   const end = Math.min(built + CHUNK, nameRows.length);
