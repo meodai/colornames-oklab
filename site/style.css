@@ -11,6 +11,12 @@
     font-style: italic;
     font-display: swap;
   }
+  @font-face {
+    font-family: 'Valley Sans';
+    src: url('./fonts/ValleySans-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+  }
   :root {
     color-scheme: light dark;
     --bg: #0b0b0e; --panel: #16161c; --line: #2e2e38;
@@ -53,7 +59,7 @@
     display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;
     padding: .9rem 1.1rem; pointer-events: none;
   }
-  #hero h1 { font-size: 1.05rem; font-weight: 650; letter-spacing: .02em; }
+  #hero h1 { font: 400 1.05rem/1.4 'Valley Sans', system-ui, sans-serif; letter-spacing: .02em; }
   #hero h1 small { color: var(--muted); font-weight: 400; }
   .filters { display: flex; gap: .4rem; pointer-events: auto; flex-wrap: wrap; }
   .filters button {
@@ -96,7 +102,7 @@
   /* ---------- content ---------- */
   main { max-width: 760px; margin: 0 auto; padding: 4.5rem 1.25rem 2rem; }
   main section + section { margin-top: 3.5rem; }
-  h2 { font-size: 1.3rem; font-weight: 650; margin-bottom: .9rem; letter-spacing: .01em; }
+  h2 { font: 400 1.3rem/1.35 'Valley Sans', system-ui, sans-serif; margin-bottom: .9rem; letter-spacing: .01em; }
   p { color: var(--body-ink); margin-bottom: .85rem; }
   p strong { color: var(--ink); }
   .lede { font-size: 1.12rem; color: var(--ink); }
