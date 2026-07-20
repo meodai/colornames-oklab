@@ -12249,65 +12249,755 @@
     "description": "The sea god in his green mood — trident visibility low.",
     "source": "authored"
   },
+  "3450": {
+    "name": "Celadon Porcelain",
+    "description": "Song-dynasty glaze fired for jade — grey-green, crackle optional.",
+    "source": "authored"
+  },
+  "3451": {
+    "name": "Equanimity",
+    "description": "Composure with a certificate — grey-green, pulse steady.",
+    "source": "authored"
+  },
+  "3452": {
+    "name": "Airborne",
+    "description": "Wheels up, seatbelt sign on — pale blue-green at cruising climb.",
+    "source": "authored"
+  },
+  "3453": {
+    "name": "Norway",
+    "description": "Fjords, spruce and civilised queueing — blue-green at 61° north.",
+    "source": "authored"
+  },
+  "3454": {
+    "name": "Garden Goddess",
+    "description": "The border's presiding deity — green-teal, secateurs as sceptre.",
+    "source": "authored"
+  },
+  "3455": {
+    "name": "Crystal Gem",
+    "description": "Facet-cut and windowsill-charged — pale teal, believers only.",
+    "source": "authored"
+  },
+  "3456": {
+    "name": "Shore",
+    "description": "Where the map goes from paper to wet — blue-green boundary.",
+    "source": "authored"
+  },
+  "3457": {
+    "name": "Tantalising Teal",
+    "description": "Teal batting its eyelashes.",
+    "source": "authored"
+  },
   "3458": {
     "name": "Nature",
-    "description": "The physical world or universe. In this general sense nature refers to the laws, elements and phenomena of the physical world, including life.",
-    "source": "wikipedia"
+    "description": "The documentary's establishing shot — green-teal, narrated calm.",
+    "source": "authored"
+  },
+  "3459": {
+    "name": "Zoodles",
+    "description": "Courgette pretending to be spaghetti — pale green ribbons, carb diplomacy.",
+    "source": "authored"
+  },
+  "3460": {
+    "name": "Tadorna Teal",
+    "description": "The shelduck's Latin genus lending teal its pedigree — pond aristocracy.",
+    "source": "authored"
+  },
+  "3461": {
+    "name": "Ambrosia",
+    "description": "The gods' house pour — teal-green nectar, immortality per serving.",
+    "source": "authored"
+  },
+  "3462": {
+    "name": "Seedling",
+    "description": "Two leaves and unearned confidence — pale green, week one.",
+    "source": "authored"
+  },
+  "3463": {
+    "name": "Shimmering Blue",
+    "description": "Blue with light on its feet — teal glints in the chop.",
+    "source": "authored"
+  },
+  "3464": {
+    "name": "Permafrost",
+    "description": "Ground frozen since the mammoths — blue-grey, thawing clause.",
+    "source": "authored"
+  },
+  "3465": {
+    "name": "Aggressive Aqua",
+    "description": "Aqua that took the lane without signalling.",
+    "source": "authored"
+  },
+  "3466": {
+    "name": "Antiguan",
+    "description": "The island of 365 beaches — aqua, one per day arithmetic.",
+    "source": "authored"
+  },
+  "3467": {
+    "name": "Cabbage",
+    "description": "The head that feeds winters — pale green-blue leaves, tight budget.",
+    "source": "authored"
+  },
+  "3468": {
+    "name": "Ice Ice Baby",
+    "description": "Stop, collaborate and listen — aqua with a 1990 bassline lien.",
+    "source": "authored"
+  },
+  "3469": {
+    "name": "Master Sword Blue",
+    "description": "The blade that seals the darkness — pale blue, pedestal issued.",
+    "source": "authored"
+  },
+  "3470": {
+    "name": "Vibrant Mint",
+    "description": "Mint with the gain up.",
+    "source": "authored"
+  },
+  "3471": {
+    "name": "Beach Glass",
+    "description": "Bottle shards the sea apologised for — pale aqua, edges forgiven.",
+    "source": "authored"
+  },
+  "3472": {
+    "name": "Breezy",
+    "description": "Wind at conversation strength — pale aqua, hat advisory only.",
+    "source": "authored"
+  },
+  "3473": {
+    "name": "Granita",
+    "description": "Ice scraped to order — pale aqua, Sicilian espresso rights.",
+    "source": "authored"
+  },
+  "3474": {
+    "name": "Spa",
+    "description": "Cucumber water and towel origami — pale aqua, whale sounds pending.",
+    "source": "authored"
+  },
+  "3475": {
+    "name": "Enoki",
+    "description": "The pale needle-thin mushrooms sold in a huddle — hotpot bound.",
+    "source": "authored"
   },
   "3476": {
     "name": "Ice",
-    "description": "Water that is frozen into a solid state, typically forming at or below temperatures of 0 °C, 32 °F, or 273.15 K. It occurs naturally on Earth, on other planets, in Oort cloud objects, and as interstellar ice.",
-    "source": "wikipedia"
+    "description": "Water holding still — pale blue, slip clause.",
+    "source": "authored"
+  },
+  "3477": {
+    "name": "Sinister",
+    "description": "The left-hand path in pale grey-teal — organ chord implied.",
+    "source": "authored"
+  },
+  "3478": {
+    "name": "Underworld",
+    "description": "The basement kingdom — grey-teal, coin for the ferryman.",
+    "source": "authored"
+  },
+  "3479": {
+    "name": "Marshland",
+    "description": "The ground that negotiates — green-grey, boots forfeit.",
+    "source": "authored"
+  },
+  "3480": {
+    "name": "Stargazing",
+    "description": "Neck back, city lights off — grey-blue field, satellites cheating.",
+    "source": "authored"
+  },
+  "3481": {
+    "name": "Armadillo",
+    "description": "The mammal in plate armour — grey-blue bands, rolls to save.",
+    "source": "authored"
+  },
+  "3482": {
+    "name": "Mosque",
+    "description": "Tiled domes and courtyard fountains — grey-teal geometry at prayer.",
+    "source": "authored"
+  },
+  "3483": {
+    "name": "Pacific",
+    "description": "The ocean that takes a third of the map — blue-teal, point Nemo included.",
+    "source": "authored"
+  },
+  "3484": {
+    "name": "Ionian",
+    "description": "The sea between Greece's heel and toe — teal-blue, ferry lattice.",
+    "source": "authored"
+  },
+  "3485": {
+    "name": "Prismarine",
+    "description": "Minecraft's ocean-monument stone — teal, guardian patrolled.",
+    "source": "authored"
+  },
+  "3486": {
+    "name": "Wizards Orb",
+    "description": "The wizard's forecast in glass — teal swirl, cryptic subscription.",
+    "source": "authored"
+  },
+  "3487": {
+    "name": "Submerged",
+    "description": "Sound goes round, light goes teal — three metres down.",
+    "source": "authored"
+  },
+  "3488": {
+    "name": "Ecological",
+    "description": "Green-teal with a footprint audit.",
+    "source": "authored"
+  },
+  "3489": {
+    "name": "Geyser",
+    "description": "The hot spring with a schedule — teal pool, steam deadline.",
+    "source": "authored"
+  },
+  "3490": {
+    "name": "Rockpool",
+    "description": "The tide's terrarium — teal shallows, anemone landlords.",
+    "source": "authored"
+  },
+  "3491": {
+    "name": "Backyard",
+    "description": "The green-teal patch behind the house — sprinkler diplomacy.",
+    "source": "authored"
+  },
+  "3492": {
+    "name": "Jewel Weed",
+    "description": "The balsam that snaps seeds at a touch — teal-green, jewelled stems.",
+    "source": "authored"
+  },
+  "3493": {
+    "name": "Mistletoe",
+    "description": "The parasite with the kissing franchise — green-teal, doorway rights.",
+    "source": "authored"
+  },
+  "3494": {
+    "name": "Paradise Island",
+    "description": "The island of every screensaver — teal water, one hammock.",
+    "source": "authored"
+  },
+  "3495": {
+    "name": "Ambrosial Oceanside",
+    "description": "The coast at dessert sweetness — teal, gods catered.",
+    "source": "authored"
+  },
+  "3496": {
+    "name": "Hamsa",
+    "description": "The open palm against the evil eye — teal amulet, five fingers.",
+    "source": "authored"
+  },
+  "3497": {
+    "name": "Beau Monde",
+    "description": "The beautiful world by French billing — teal, guest list enforced.",
+    "source": "authored"
+  },
+  "3498": {
+    "name": "Sereni Teal",
+    "description": "Teal with serenity spliced into the spelling.",
+    "source": "authored"
+  },
+  "3499": {
+    "name": "Mintnight",
+    "description": "Mint at the midnight shift — teal-dark portmanteau.",
+    "source": "authored"
+  },
+  "3500": {
+    "name": "Waterspout",
+    "description": "The tornado that went sailing — teal column, marine advisory.",
+    "source": "authored"
+  },
+  "3501": {
+    "name": "Cockatoo",
+    "description": "The parrot with the crest and the volume — pale teal here, opinions loud.",
+    "source": "authored"
+  },
+  "3502": {
+    "name": "Gargoyle",
+    "description": "The gutter's stone employee — grey-teal, rain routed through grimace.",
+    "source": "authored"
+  },
+  "3503": {
+    "name": "Bevelled Glass",
+    "description": "Glass with the edge ground to prisms — pale teal at the bevel.",
+    "source": "authored"
+  },
+  "3504": {
+    "name": "Summer of ’82",
+    "description": "The summer the mixtape remembers — teal, rewound twice.",
+    "source": "authored"
+  },
+  "3505": {
+    "name": "Tropical Freeze",
+    "description": "The tropics on ice — teal, Donkey Kong barrel-rolled.",
+    "source": "authored"
+  },
+  "3506": {
+    "name": "Y2K",
+    "description": "The bug that spared us, the aesthetic that didn't — teal chrome.",
+    "source": "authored"
+  },
+  "3507": {
+    "name": "Lightsaber Blue",
+    "description": "The elegant weapon in blue — hum included, civilised age sold separately.",
+    "source": "authored"
+  },
+  "3508": {
+    "name": "Brain Freeze",
+    "description": "The slushie's revenge — teal, ten seconds of regret.",
+    "source": "authored"
+  },
+  "3509": {
+    "name": "Hammam Blue",
+    "description": "Steam, marble and a scrub with authority — teal tiles, Ottoman spec.",
+    "source": "authored"
   },
   "3510": {
     "name": "Opal",
-    "description": "A hydrated amorphous form of silica (SiO2·nH2O); its water content may range from 3% to 21% by weight, but is usually between 6% and 10%. Due to the amorphous (chemical) physical structure, it is classified as a mineraloid, unlike crystalline forms of silica, which are considered minerals.",
-    "source": "wikipedia"
+    "description": "The stone that plays every colour — this one caught teal.",
+    "source": "authored"
+  },
+  "3511": {
+    "name": "Polar Plunge",
+    "description": "January first, all in — teal water, towels screaming.",
+    "source": "authored"
+  },
+  "3512": {
+    "name": "Looney Blue",
+    "description": "That's all folks — teal rings, anvil physics.",
+    "source": "authored"
+  },
+  "3513": {
+    "name": "Poseidon Jr.",
+    "description": "The trident in training wheels — teal, armbands on.",
+    "source": "authored"
+  },
+  "3514": {
+    "name": "Bath Water",
+    "description": "Teal gone lukewarm and personal — candles filed for overtime.",
+    "source": "authored"
+  },
+  "3515": {
+    "name": "Hey Blue!",
+    "description": "The umpire's least favourite greeting — teal, ejection pending.",
+    "source": "authored"
+  },
+  "3516": {
+    "name": "Ice Temple",
+    "description": "The dungeon where the water froze mid-puzzle — pale teal, block-pushing.",
+    "source": "authored"
   },
   "3517": {
     "name": "Frostbite",
-    "description": "An injury to skin or other living tissue that is allowed to freeze, especially affecting the fingers, toes, nose, ears, cheeks and chin.",
-    "source": "wikipedia"
+    "description": "The cold that keeps the fingers — blue-white warning stage.",
+    "source": "authored"
+  },
+  "3518": {
+    "name": "Cinder",
+    "description": "The ember's grey retirement — blue-grey ash over orange memory.",
+    "source": "authored"
   },
   "3519": {
     "name": "Carbon",
-    "description": "A chemical element; it has symbol C and atomic number 6. It is nonmetallic and tetravalent—meaning that its atoms are able to form up to four covalent bonds due to its valence shell exhibiting 4 electrons. It belongs to group 14 of the periodic table. Carbon makes up about 0.025 percent of Earth's crust.",
-    "source": "wikipedia"
+    "description": "Element six, wearing everything — grey-black, pencil to diamond.",
+    "source": "authored"
+  },
+  "3520": {
+    "name": "Nocturne",
+    "description": "Chopin's night pieces — blue-black, left hand like rain.",
+    "source": "authored"
   },
   "3521": {
     "name": "Lacrosse",
-    "description": "A contact team sport played with a lacrosse stick and a lacrosse ball. It is the oldest organized sport in North America, with its origins with the indigenous people of North America as early as the 12th century.",
-    "source": "wikipedia"
+    "description": "The fastest game on two feet — grey-blue, Haudenosaunee origin.",
+    "source": "authored"
+  },
+  "3522": {
+    "name": "Iridescent",
+    "description": "The colour that won't commit — grey-blue until you move.",
+    "source": "authored"
   },
   "3523": {
     "name": "Shipyard",
-    "description": "A shipyard, also called a dockyard or boatyard, is a place where ships are built and repaired. These can be yachts, military vessels, cruise liners or other cargo or passenger ships.",
-    "source": "wikipedia"
+    "description": "Cranes, sparks and hull ribs — grey-blue, launch day pending.",
+    "source": "authored"
   },
   "3524": {
     "name": "Ming",
-    "description": "The Ming dynasty, officially the Great Ming, was an imperial dynasty of China that ruled from 1368 to 1644, following the collapse of the Mongol-led Yuan dynasty. The Ming was the last imperial dynasty of China ruled by the Han people, the majority ethnic group in China.",
-    "source": "wikipedia"
+    "description": "The dynasty of the blue-white vase — grey-teal, kiln pedigree.",
+    "source": "authored"
+  },
+  "3525": {
+    "name": "Rogue Waters",
+    "description": "The sea off its charts — grey-teal, insurance claims pending.",
+    "source": "authored"
   },
   "3526": {
     "name": "Panorama",
-    "description": "A panorama is any wide-angle view or representation of a physical space, whether in painting, drawing, photography, film, seismic images, or 3D modeling. The word was coined in the 18th century by the English painter Robert Barker to describe his panoramic paintings of Edinburgh and London.",
-    "source": "wikipedia"
+    "description": "The view that needs a neck swivel — grey-blue at every degree.",
+    "source": "authored"
   },
   "3527": {
     "name": "Catfish",
-    "description": "A diverse group of ray-finned fish of the order Siluriformes. Catfish are named for their prominent barbels, which resemble a cat's whiskers, though not all catfish have prominent barbels. All Siluriformes lack scales, instead possessing either smooth skin or armour-plated bodies.",
-    "source": "wikipedia"
+    "description": "The whiskered bottom-feeder — grey-blue, mud sommelier.",
+    "source": "authored"
+  },
+  "3528": {
+    "name": "Paradiso",
+    "description": "Paradise by its Italian name — teal-blue, Dante's last stop.",
+    "source": "authored"
+  },
+  "3529": {
+    "name": "Arctic",
+    "description": "The circle where the sun works summers only — blue-white latitude.",
+    "source": "authored"
+  },
+  "3530": {
+    "name": "Thundercloud",
+    "description": "The cloud with the payload — grey-blue, count the seconds.",
+    "source": "authored"
+  },
+  "3531": {
+    "name": "Yucca",
+    "description": "The desert's bayonet plant — grey-green spikes, one moth marriage.",
+    "source": "authored"
+  },
+  "3532": {
+    "name": "Tranquili Teal",
+    "description": "Teal with tranquillity in the ledger.",
+    "source": "authored"
+  },
+  "3533": {
+    "name": "Atlas Cedar",
+    "description": "The blue-grey cedar of Moroccan slopes — needle frost, park pedigree.",
+    "source": "authored"
+  },
+  "3534": {
+    "name": "Grauzone",
+    "description": "The grey zone by its German name — Zürich 1980, synth included.",
+    "source": "authored"
+  },
+  "3535": {
+    "name": "Swim-Up Bar",
+    "description": "The pool's wet economy — teal water, drinks at elbow depth.",
+    "source": "authored"
+  },
+  "3536": {
+    "name": "Castaway",
+    "description": "One island, one volleyball — teal horizon, beard progress.",
+    "source": "authored"
+  },
+  "3537": {
+    "name": "Statuary",
+    "description": "Marble folk in the hedge line — grey-teal, pigeon tenancy.",
+    "source": "authored"
+  },
+  "3538": {
+    "name": "Cocktail Umbrella",
+    "description": "The drink's tiny roof — teal paper, rain unlikely.",
+    "source": "authored"
+  },
+  "3539": {
+    "name": "Summit",
+    "description": "The last hundred metres of up — grey-blue, air thin, photo mandatory.",
+    "source": "authored"
+  },
+  "3540": {
+    "name": "Cuttlefish",
+    "description": "The colour-shifting mollusc — grey-teal at rest, anything at will.",
+    "source": "authored"
+  },
+  "3541": {
+    "name": "Slip 'n Slide",
+    "description": "The garden hose's finest hour — teal plastic, grass casualties.",
+    "source": "authored"
+  },
+  "3542": {
+    "name": "Wavelet",
+    "description": "The wave's footnote — teal, ankle depth.",
+    "source": "authored"
+  },
+  "3543": {
+    "name": "Cyantific",
+    "description": "Cyan with peer review.",
+    "source": "authored"
+  },
+  "3544": {
+    "name": "Dolphin",
+    "description": "The grey-blue grin off the bow — clicks, leaps, better press than sharks.",
+    "source": "authored"
+  },
+  "3545": {
+    "name": "Water Nymph",
+    "description": "The pool's resident spirit — teal, reeds parted politely.",
+    "source": "authored"
+  },
+  "3546": {
+    "name": "Aquatic",
+    "description": "Life with gills as the default — teal, land optional.",
+    "source": "authored"
+  },
+  "3547": {
+    "name": "Cold Blue",
+    "description": "Blue with the thermostat honest.",
+    "source": "authored"
+  },
+  "3548": {
+    "name": "Sparky Blue",
+    "description": "Blue with a static handshake.",
+    "source": "authored"
+  },
+  "3549": {
+    "name": "Crystal",
+    "description": "Quartz grown slow and clear — pale blue-white facets.",
+    "source": "authored"
+  },
+  "3550": {
+    "name": "Water",
+    "description": "Two hydrogens, one oxygen, all of it — pale blue at depth.",
+    "source": "authored"
+  },
+  "3551": {
+    "name": "Caviar",
+    "description": "The eggs priced by the gram — grey-black pearls, mother-of-pearl spoon.",
+    "source": "authored"
+  },
+  "3552": {
+    "name": "Vulcan",
+    "description": "The forge god's address — grey-black, logic optional, prosper.",
+    "source": "authored"
   },
   "3553": {
     "name": "Leviathan",
-    "description": "A giant sea serpent noted in theology and mythology. It is referenced in the Hebrew Bible, as a metaphor for a powerful enemy, notably Babylon. It is referred to in Psalms, the Book of Job, the Book of Isaiah, and the Book of Enoch.",
-    "source": "wikipedia"
+    "description": "The sea monster of the book of Job — grey-blue, scale unhelpful.",
+    "source": "authored"
+  },
+  "3554": {
+    "name": "Isolation",
+    "description": "The door that stays shut — grey-blue, own company.",
+    "source": "authored"
+  },
+  "3555": {
+    "name": "Stargazer",
+    "description": "The lily that faces up and the tourist that looks up — grey-blue either way.",
+    "source": "authored"
+  },
+  "3556": {
+    "name": "Atlantis",
+    "description": "The city that missed the memo about staying afloat — teal-blue, Plato's yarn.",
+    "source": "authored"
+  },
+  "3557": {
+    "name": "Stellar",
+    "description": "Of the stars by adjective — grey-blue, magnitude bragging.",
+    "source": "authored"
+  },
+  "3558": {
+    "name": "Aqua Obscura",
+    "description": "Aqua behind the curtain — teal-dark, camera obscura rules.",
+    "source": "authored"
+  },
+  "3559": {
+    "name": "Astral",
+    "description": "The plane above the physical — grey-blue, projection pending.",
+    "source": "authored"
+  },
+  "3560": {
+    "name": "Calypso",
+    "description": "The nymph who kept Odysseus seven years — teal, harbour rights.",
+    "source": "authored"
+  },
+  "3561": {
+    "name": "Hydro",
+    "description": "Water as a prefix — teal, pressure rated.",
+    "source": "authored"
+  },
+  "3562": {
+    "name": "Bermuda",
+    "description": "The triangle with the press agent — teal shallows, shorts legislation.",
+    "source": "authored"
+  },
+  "3563": {
+    "name": "Cruising",
+    "description": "Deck shoes and no fixed itinerary — teal, buffet horizon.",
+    "source": "authored"
+  },
+  "3564": {
+    "name": "Whale Shark",
+    "description": "The biggest fish, feeding on the smallest things — grey-blue, spotted.",
+    "source": "authored"
+  },
+  "3565": {
+    "name": "Horizon",
+    "description": "The line the eye never reaches — teal-blue at sea level.",
+    "source": "authored"
+  },
+  "3566": {
+    "name": "Treasure Map Waters",
+    "description": "X marks the teal — soundings in fathoms, kraken marginalia.",
+    "source": "authored"
+  },
+  "3567": {
+    "name": "Canadian Tuxedo",
+    "description": "Denim on denim, formally — blue wash, Alberta certified.",
+    "source": "authored"
+  },
+  "3568": {
+    "name": "Stonewash",
+    "description": "Denim tumbled with pumice — pale blue, pre-faded honesty.",
+    "source": "authored"
+  },
+  "3569": {
+    "name": "Lake Lucerne",
+    "description": "The lake with the chapel bridge — blue, Pilatus watching.",
+    "source": "authored"
+  },
+  "3570": {
+    "name": "Neon Goby",
+    "description": "The inch-long cleaner in electric blue stripe — reef car wash.",
+    "source": "authored"
+  },
+  "3571": {
+    "name": "Grisaille",
+    "description": "Painting in greys on purpose — blue-grey, cathedral practice.",
+    "source": "authored"
+  },
+  "3572": {
+    "name": "Wandering River",
+    "description": "The river that took the scenic route — blue-grey oxbows.",
+    "source": "authored"
+  },
+  "3573": {
+    "name": "Acapulco Dive",
+    "description": "The cliff plunge for the postcard — blue, La Quebrada timing.",
+    "source": "authored"
+  },
+  "3574": {
+    "name": "Blue Eye Samurai",
+    "description": "The animated revenge in Edo snow — blue-grey steel, mixed-race blade.",
+    "source": "authored"
+  },
+  "3575": {
+    "name": "Milky Waves",
+    "description": "Waves stirred to opal — pale blue-white crests.",
+    "source": "authored"
+  },
+  "3576": {
+    "name": "Ether",
+    "description": "The fifth element and the anaesthetic — pale blue, both float.",
+    "source": "authored"
+  },
+  "3577": {
+    "name": "Hello Summer",
+    "description": "The out-of-office in colour form — blue, sand in the keyboard.",
+    "source": "authored"
+  },
+  "3578": {
+    "name": "Glitter Lake",
+    "description": "The lake doing its own marketing — blue, sequin surface.",
+    "source": "authored"
+  },
+  "3579": {
+    "name": "Wave",
+    "description": "The ocean's repeating argument — blue, seven-second meter.",
+    "source": "authored"
+  },
+  "3580": {
+    "name": "Infinity",
+    "description": "The pool edge that lies about ending — blue meeting sky on purpose.",
+    "source": "authored"
+  },
+  "3581": {
+    "name": "Anthracite",
+    "description": "Coal's hardest grade — grey-black, burns clean, suits named after it.",
+    "source": "authored"
+  },
+  "3582": {
+    "name": "Madonna",
+    "description": "The material girl in her blue period — vogue, reinvention clause.",
+    "source": "authored"
+  },
+  "3583": {
+    "name": "Inkblot",
+    "description": "Ink's accident, psychology's questionnaire — blue-black symmetry.",
+    "source": "authored"
   },
   "3584": {
     "name": "Nor'easter",
-    "description": "A nor'easter is a large-scale extratropical cyclone in the western North Atlantic Ocean. The name derives from the direction of the winds that blow from the northeast. Typically, such storms originate as a low-pressure area that forms within 100 miles (160 km) of the shore between North Carolina and Massachusetts.",
-    "source": "wikipedia"
+    "description": "The storm that swings up the coast — grey-blue, snowfall ledger.",
+    "source": "authored"
+  },
+  "3585": {
+    "name": "Seafarer",
+    "description": "Salt in the beard, blue in the ledger — horizon employed.",
+    "source": "authored"
+  },
+  "3586": {
+    "name": "Beau Vert",
+    "description": "Handsome green by French billing — blue-green, compliments accepted.",
+    "source": "authored"
+  },
+  "3587": {
+    "name": "Deep Lagoon",
+    "description": "The lagoon past snorkel depth — teal-dark, reef shelf drop.",
+    "source": "authored"
+  },
+  "3588": {
+    "name": "Wakame Green",
+    "description": "The seaweed in the miso — green-teal ribbons, rehydrated.",
+    "source": "authored"
+  },
+  "3589": {
+    "name": "Windsurfing",
+    "description": "Sail, board and shoulder ache — blue chop, gybe pending.",
+    "source": "authored"
+  },
+  "3590": {
+    "name": "Beach View",
+    "description": "The room that costs extra — blue window, curtain physics.",
+    "source": "authored"
+  },
+  "3591": {
+    "name": "Queen Blue",
+    "description": "The muted royal blue with the throne posture — velvet certainty.",
+    "source": "authored"
+  },
+  "3592": {
+    "name": "Naval",
+    "description": "Blue with a fleet behind it.",
+    "source": "authored"
+  },
+  "3593": {
+    "name": "Plumbeous",
+    "description": "Lead-coloured by Latin licence — grey-blue, ornithology's word.",
+    "source": "authored"
+  },
+  "3594": {
+    "name": "Zenith",
+    "description": "The sky's exact overhead — blue at 90 degrees.",
+    "source": "authored"
+  },
+  "3595": {
+    "name": "Bleu Ciel",
+    "description": "Sky blue by French billing — cloudless by grammar.",
+    "source": "authored"
+  },
+  "3596": {
+    "name": "Blue Triumph",
+    "description": "Blue on the podium — anthem cued.",
+    "source": "authored"
+  },
+  "3597": {
+    "name": "Montreux Blue",
+    "description": "The lakeside festival town — blue water, Freddie's statue watching.",
+    "source": "authored"
+  },
+  "3598": {
+    "name": "Armour",
+    "description": "Plate steel with a blue temper — dents itemised.",
+    "source": "authored"
+  },
+  "3599": {
+    "name": "Blue Burst",
+    "description": "Blue at detonation, shrapnel still airborne.",
+    "source": "authored"
   },
   "3618": {
     "name": "Dragonfly",

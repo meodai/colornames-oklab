@@ -9799,6 +9799,606 @@
     "name": "Neptune Green",
     "description": "The sea god in his green mood — trident visibility low."
   },
+  "3450": {
+    "name": "Celadon Porcelain",
+    "description": "Song-dynasty glaze fired for jade — grey-green, crackle optional."
+  },
+  "3451": {
+    "name": "Equanimity",
+    "description": "Composure with a certificate — grey-green, pulse steady."
+  },
+  "3452": {
+    "name": "Airborne",
+    "description": "Wheels up, seatbelt sign on — pale blue-green at cruising climb."
+  },
+  "3453": {
+    "name": "Norway",
+    "description": "Fjords, spruce and civilised queueing — blue-green at 61° north."
+  },
+  "3454": {
+    "name": "Garden Goddess",
+    "description": "The border's presiding deity — green-teal, secateurs as sceptre."
+  },
+  "3455": {
+    "name": "Crystal Gem",
+    "description": "Facet-cut and windowsill-charged — pale teal, believers only."
+  },
+  "3456": {
+    "name": "Shore",
+    "description": "Where the map goes from paper to wet — blue-green boundary."
+  },
+  "3457": {
+    "name": "Tantalising Teal",
+    "description": "Teal batting its eyelashes."
+  },
+  "3458": {
+    "name": "Nature",
+    "description": "The documentary's establishing shot — green-teal, narrated calm."
+  },
+  "3459": {
+    "name": "Zoodles",
+    "description": "Courgette pretending to be spaghetti — pale green ribbons, carb diplomacy."
+  },
+  "3460": {
+    "name": "Tadorna Teal",
+    "description": "The shelduck's Latin genus lending teal its pedigree — pond aristocracy."
+  },
+  "3461": {
+    "name": "Ambrosia",
+    "description": "The gods' house pour — teal-green nectar, immortality per serving."
+  },
+  "3462": {
+    "name": "Seedling",
+    "description": "Two leaves and unearned confidence — pale green, week one."
+  },
+  "3463": {
+    "name": "Shimmering Blue",
+    "description": "Blue with light on its feet — teal glints in the chop."
+  },
+  "3464": {
+    "name": "Permafrost",
+    "description": "Ground frozen since the mammoths — blue-grey, thawing clause."
+  },
+  "3465": {
+    "name": "Aggressive Aqua",
+    "description": "Aqua that took the lane without signalling."
+  },
+  "3466": {
+    "name": "Antiguan",
+    "description": "The island of 365 beaches — aqua, one per day arithmetic."
+  },
+  "3467": {
+    "name": "Cabbage",
+    "description": "The head that feeds winters — pale green-blue leaves, tight budget."
+  },
+  "3468": {
+    "name": "Ice Ice Baby",
+    "description": "Stop, collaborate and listen — aqua with a 1990 bassline lien."
+  },
+  "3469": {
+    "name": "Master Sword Blue",
+    "description": "The blade that seals the darkness — pale blue, pedestal issued."
+  },
+  "3470": {
+    "name": "Vibrant Mint",
+    "description": "Mint with the gain up."
+  },
+  "3471": {
+    "name": "Beach Glass",
+    "description": "Bottle shards the sea apologised for — pale aqua, edges forgiven."
+  },
+  "3472": {
+    "name": "Breezy",
+    "description": "Wind at conversation strength — pale aqua, hat advisory only."
+  },
+  "3473": {
+    "name": "Granita",
+    "description": "Ice scraped to order — pale aqua, Sicilian espresso rights."
+  },
+  "3474": {
+    "name": "Spa",
+    "description": "Cucumber water and towel origami — pale aqua, whale sounds pending."
+  },
+  "3475": {
+    "name": "Enoki",
+    "description": "The pale needle-thin mushrooms sold in a huddle — hotpot bound."
+  },
+  "3476": {
+    "name": "Ice",
+    "description": "Water holding still — pale blue, slip clause."
+  },
+  "3477": {
+    "name": "Sinister",
+    "description": "The left-hand path in pale grey-teal — organ chord implied."
+  },
+  "3478": {
+    "name": "Underworld",
+    "description": "The basement kingdom — grey-teal, coin for the ferryman."
+  },
+  "3479": {
+    "name": "Marshland",
+    "description": "The ground that negotiates — green-grey, boots forfeit."
+  },
+  "3480": {
+    "name": "Stargazing",
+    "description": "Neck back, city lights off — grey-blue field, satellites cheating."
+  },
+  "3481": {
+    "name": "Armadillo",
+    "description": "The mammal in plate armour — grey-blue bands, rolls to save."
+  },
+  "3482": {
+    "name": "Mosque",
+    "description": "Tiled domes and courtyard fountains — grey-teal geometry at prayer."
+  },
+  "3483": {
+    "name": "Pacific",
+    "description": "The ocean that takes a third of the map — blue-teal, point Nemo included."
+  },
+  "3484": {
+    "name": "Ionian",
+    "description": "The sea between Greece's heel and toe — teal-blue, ferry lattice."
+  },
+  "3485": {
+    "name": "Prismarine",
+    "description": "Minecraft's ocean-monument stone — teal, guardian patrolled."
+  },
+  "3486": {
+    "name": "Wizards Orb",
+    "description": "The wizard's forecast in glass — teal swirl, cryptic subscription."
+  },
+  "3487": {
+    "name": "Submerged",
+    "description": "Sound goes round, light goes teal — three metres down."
+  },
+  "3488": {
+    "name": "Ecological",
+    "description": "Green-teal with a footprint audit."
+  },
+  "3489": {
+    "name": "Geyser",
+    "description": "The hot spring with a schedule — teal pool, steam deadline."
+  },
+  "3490": {
+    "name": "Rockpool",
+    "description": "The tide's terrarium — teal shallows, anemone landlords."
+  },
+  "3491": {
+    "name": "Backyard",
+    "description": "The green-teal patch behind the house — sprinkler diplomacy."
+  },
+  "3492": {
+    "name": "Jewel Weed",
+    "description": "The balsam that snaps seeds at a touch — teal-green, jewelled stems."
+  },
+  "3493": {
+    "name": "Mistletoe",
+    "description": "The parasite with the kissing franchise — green-teal, doorway rights."
+  },
+  "3494": {
+    "name": "Paradise Island",
+    "description": "The island of every screensaver — teal water, one hammock."
+  },
+  "3495": {
+    "name": "Ambrosial Oceanside",
+    "description": "The coast at dessert sweetness — teal, gods catered."
+  },
+  "3496": {
+    "name": "Hamsa",
+    "description": "The open palm against the evil eye — teal amulet, five fingers."
+  },
+  "3497": {
+    "name": "Beau Monde",
+    "description": "The beautiful world by French billing — teal, guest list enforced."
+  },
+  "3498": {
+    "name": "Sereni Teal",
+    "description": "Teal with serenity spliced into the spelling."
+  },
+  "3499": {
+    "name": "Mintnight",
+    "description": "Mint at the midnight shift — teal-dark portmanteau."
+  },
+  "3500": {
+    "name": "Waterspout",
+    "description": "The tornado that went sailing — teal column, marine advisory."
+  },
+  "3501": {
+    "name": "Cockatoo",
+    "description": "The parrot with the crest and the volume — pale teal here, opinions loud."
+  },
+  "3502": {
+    "name": "Gargoyle",
+    "description": "The gutter's stone employee — grey-teal, rain routed through grimace."
+  },
+  "3503": {
+    "name": "Bevelled Glass",
+    "description": "Glass with the edge ground to prisms — pale teal at the bevel."
+  },
+  "3504": {
+    "name": "Summer of ’82",
+    "description": "The summer the mixtape remembers — teal, rewound twice."
+  },
+  "3505": {
+    "name": "Tropical Freeze",
+    "description": "The tropics on ice — teal, Donkey Kong barrel-rolled."
+  },
+  "3506": {
+    "name": "Y2K",
+    "description": "The bug that spared us, the aesthetic that didn't — teal chrome."
+  },
+  "3507": {
+    "name": "Lightsaber Blue",
+    "description": "The elegant weapon in blue — hum included, civilised age sold separately."
+  },
+  "3508": {
+    "name": "Brain Freeze",
+    "description": "The slushie's revenge — teal, ten seconds of regret."
+  },
+  "3509": {
+    "name": "Hammam Blue",
+    "description": "Steam, marble and a scrub with authority — teal tiles, Ottoman spec."
+  },
+  "3510": {
+    "name": "Opal",
+    "description": "The stone that plays every colour — this one caught teal."
+  },
+  "3511": {
+    "name": "Polar Plunge",
+    "description": "January first, all in — teal water, towels screaming."
+  },
+  "3512": {
+    "name": "Looney Blue",
+    "description": "That's all folks — teal rings, anvil physics."
+  },
+  "3513": {
+    "name": "Poseidon Jr.",
+    "description": "The trident in training wheels — teal, armbands on."
+  },
+  "3514": {
+    "name": "Bath Water",
+    "description": "Teal gone lukewarm and personal — candles filed for overtime."
+  },
+  "3515": {
+    "name": "Hey Blue!",
+    "description": "The umpire's least favourite greeting — teal, ejection pending."
+  },
+  "3516": {
+    "name": "Ice Temple",
+    "description": "The dungeon where the water froze mid-puzzle — pale teal, block-pushing."
+  },
+  "3517": {
+    "name": "Frostbite",
+    "description": "The cold that keeps the fingers — blue-white warning stage."
+  },
+  "3518": {
+    "name": "Cinder",
+    "description": "The ember's grey retirement — blue-grey ash over orange memory."
+  },
+  "3519": {
+    "name": "Carbon",
+    "description": "Element six, wearing everything — grey-black, pencil to diamond."
+  },
+  "3520": {
+    "name": "Nocturne",
+    "description": "Chopin's night pieces — blue-black, left hand like rain."
+  },
+  "3521": {
+    "name": "Lacrosse",
+    "description": "The fastest game on two feet — grey-blue, Haudenosaunee origin."
+  },
+  "3522": {
+    "name": "Iridescent",
+    "description": "The colour that won't commit — grey-blue until you move."
+  },
+  "3523": {
+    "name": "Shipyard",
+    "description": "Cranes, sparks and hull ribs — grey-blue, launch day pending."
+  },
+  "3524": {
+    "name": "Ming",
+    "description": "The dynasty of the blue-white vase — grey-teal, kiln pedigree."
+  },
+  "3525": {
+    "name": "Rogue Waters",
+    "description": "The sea off its charts — grey-teal, insurance claims pending."
+  },
+  "3526": {
+    "name": "Panorama",
+    "description": "The view that needs a neck swivel — grey-blue at every degree."
+  },
+  "3527": {
+    "name": "Catfish",
+    "description": "The whiskered bottom-feeder — grey-blue, mud sommelier."
+  },
+  "3528": {
+    "name": "Paradiso",
+    "description": "Paradise by its Italian name — teal-blue, Dante's last stop."
+  },
+  "3529": {
+    "name": "Arctic",
+    "description": "The circle where the sun works summers only — blue-white latitude."
+  },
+  "3530": {
+    "name": "Thundercloud",
+    "description": "The cloud with the payload — grey-blue, count the seconds."
+  },
+  "3531": {
+    "name": "Yucca",
+    "description": "The desert's bayonet plant — grey-green spikes, one moth marriage."
+  },
+  "3532": {
+    "name": "Tranquili Teal",
+    "description": "Teal with tranquillity in the ledger."
+  },
+  "3533": {
+    "name": "Atlas Cedar",
+    "description": "The blue-grey cedar of Moroccan slopes — needle frost, park pedigree."
+  },
+  "3534": {
+    "name": "Grauzone",
+    "description": "The grey zone by its German name — Zürich 1980, synth included."
+  },
+  "3535": {
+    "name": "Swim-Up Bar",
+    "description": "The pool's wet economy — teal water, drinks at elbow depth."
+  },
+  "3536": {
+    "name": "Castaway",
+    "description": "One island, one volleyball — teal horizon, beard progress."
+  },
+  "3537": {
+    "name": "Statuary",
+    "description": "Marble folk in the hedge line — grey-teal, pigeon tenancy."
+  },
+  "3538": {
+    "name": "Cocktail Umbrella",
+    "description": "The drink's tiny roof — teal paper, rain unlikely."
+  },
+  "3539": {
+    "name": "Summit",
+    "description": "The last hundred metres of up — grey-blue, air thin, photo mandatory."
+  },
+  "3540": {
+    "name": "Cuttlefish",
+    "description": "The colour-shifting mollusc — grey-teal at rest, anything at will."
+  },
+  "3541": {
+    "name": "Slip 'n Slide",
+    "description": "The garden hose's finest hour — teal plastic, grass casualties."
+  },
+  "3542": {
+    "name": "Wavelet",
+    "description": "The wave's footnote — teal, ankle depth."
+  },
+  "3543": {
+    "name": "Cyantific",
+    "description": "Cyan with peer review."
+  },
+  "3544": {
+    "name": "Dolphin",
+    "description": "The grey-blue grin off the bow — clicks, leaps, better press than sharks."
+  },
+  "3545": {
+    "name": "Water Nymph",
+    "description": "The pool's resident spirit — teal, reeds parted politely."
+  },
+  "3546": {
+    "name": "Aquatic",
+    "description": "Life with gills as the default — teal, land optional."
+  },
+  "3547": {
+    "name": "Cold Blue",
+    "description": "Blue with the thermostat honest."
+  },
+  "3548": {
+    "name": "Sparky Blue",
+    "description": "Blue with a static handshake."
+  },
+  "3549": {
+    "name": "Crystal",
+    "description": "Quartz grown slow and clear — pale blue-white facets."
+  },
+  "3550": {
+    "name": "Water",
+    "description": "Two hydrogens, one oxygen, all of it — pale blue at depth."
+  },
+  "3551": {
+    "name": "Caviar",
+    "description": "The eggs priced by the gram — grey-black pearls, mother-of-pearl spoon."
+  },
+  "3552": {
+    "name": "Vulcan",
+    "description": "The forge god's address — grey-black, logic optional, prosper."
+  },
+  "3553": {
+    "name": "Leviathan",
+    "description": "The sea monster of the book of Job — grey-blue, scale unhelpful."
+  },
+  "3554": {
+    "name": "Isolation",
+    "description": "The door that stays shut — grey-blue, own company."
+  },
+  "3555": {
+    "name": "Stargazer",
+    "description": "The lily that faces up and the tourist that looks up — grey-blue either way."
+  },
+  "3556": {
+    "name": "Atlantis",
+    "description": "The city that missed the memo about staying afloat — teal-blue, Plato's yarn."
+  },
+  "3557": {
+    "name": "Stellar",
+    "description": "Of the stars by adjective — grey-blue, magnitude bragging."
+  },
+  "3558": {
+    "name": "Aqua Obscura",
+    "description": "Aqua behind the curtain — teal-dark, camera obscura rules."
+  },
+  "3559": {
+    "name": "Astral",
+    "description": "The plane above the physical — grey-blue, projection pending."
+  },
+  "3560": {
+    "name": "Calypso",
+    "description": "The nymph who kept Odysseus seven years — teal, harbour rights."
+  },
+  "3561": {
+    "name": "Hydro",
+    "description": "Water as a prefix — teal, pressure rated."
+  },
+  "3562": {
+    "name": "Bermuda",
+    "description": "The triangle with the press agent — teal shallows, shorts legislation."
+  },
+  "3563": {
+    "name": "Cruising",
+    "description": "Deck shoes and no fixed itinerary — teal, buffet horizon."
+  },
+  "3564": {
+    "name": "Whale Shark",
+    "description": "The biggest fish, feeding on the smallest things — grey-blue, spotted."
+  },
+  "3565": {
+    "name": "Horizon",
+    "description": "The line the eye never reaches — teal-blue at sea level."
+  },
+  "3566": {
+    "name": "Treasure Map Waters",
+    "description": "X marks the teal — soundings in fathoms, kraken marginalia."
+  },
+  "3567": {
+    "name": "Canadian Tuxedo",
+    "description": "Denim on denim, formally — blue wash, Alberta certified."
+  },
+  "3568": {
+    "name": "Stonewash",
+    "description": "Denim tumbled with pumice — pale blue, pre-faded honesty."
+  },
+  "3569": {
+    "name": "Lake Lucerne",
+    "description": "The lake with the chapel bridge — blue, Pilatus watching."
+  },
+  "3570": {
+    "name": "Neon Goby",
+    "description": "The inch-long cleaner in electric blue stripe — reef car wash."
+  },
+  "3571": {
+    "name": "Grisaille",
+    "description": "Painting in greys on purpose — blue-grey, cathedral practice."
+  },
+  "3572": {
+    "name": "Wandering River",
+    "description": "The river that took the scenic route — blue-grey oxbows."
+  },
+  "3573": {
+    "name": "Acapulco Dive",
+    "description": "The cliff plunge for the postcard — blue, La Quebrada timing."
+  },
+  "3574": {
+    "name": "Blue Eye Samurai",
+    "description": "The animated revenge in Edo snow — blue-grey steel, mixed-race blade."
+  },
+  "3575": {
+    "name": "Milky Waves",
+    "description": "Waves stirred to opal — pale blue-white crests."
+  },
+  "3576": {
+    "name": "Ether",
+    "description": "The fifth element and the anaesthetic — pale blue, both float."
+  },
+  "3577": {
+    "name": "Hello Summer",
+    "description": "The out-of-office in colour form — blue, sand in the keyboard."
+  },
+  "3578": {
+    "name": "Glitter Lake",
+    "description": "The lake doing its own marketing — blue, sequin surface."
+  },
+  "3579": {
+    "name": "Wave",
+    "description": "The ocean's repeating argument — blue, seven-second meter."
+  },
+  "3580": {
+    "name": "Infinity",
+    "description": "The pool edge that lies about ending — blue meeting sky on purpose."
+  },
+  "3581": {
+    "name": "Anthracite",
+    "description": "Coal's hardest grade — grey-black, burns clean, suits named after it."
+  },
+  "3582": {
+    "name": "Madonna",
+    "description": "The material girl in her blue period — vogue, reinvention clause."
+  },
+  "3583": {
+    "name": "Inkblot",
+    "description": "Ink's accident, psychology's questionnaire — blue-black symmetry."
+  },
+  "3584": {
+    "name": "Nor'easter",
+    "description": "The storm that swings up the coast — grey-blue, snowfall ledger."
+  },
+  "3585": {
+    "name": "Seafarer",
+    "description": "Salt in the beard, blue in the ledger — horizon employed."
+  },
+  "3586": {
+    "name": "Beau Vert",
+    "description": "Handsome green by French billing — blue-green, compliments accepted."
+  },
+  "3587": {
+    "name": "Deep Lagoon",
+    "description": "The lagoon past snorkel depth — teal-dark, reef shelf drop."
+  },
+  "3588": {
+    "name": "Wakame Green",
+    "description": "The seaweed in the miso — green-teal ribbons, rehydrated."
+  },
+  "3589": {
+    "name": "Windsurfing",
+    "description": "Sail, board and shoulder ache — blue chop, gybe pending."
+  },
+  "3590": {
+    "name": "Beach View",
+    "description": "The room that costs extra — blue window, curtain physics."
+  },
+  "3591": {
+    "name": "Queen Blue",
+    "description": "The muted royal blue with the throne posture — velvet certainty."
+  },
+  "3592": {
+    "name": "Naval",
+    "description": "Blue with a fleet behind it."
+  },
+  "3593": {
+    "name": "Plumbeous",
+    "description": "Lead-coloured by Latin licence — grey-blue, ornithology's word."
+  },
+  "3594": {
+    "name": "Zenith",
+    "description": "The sky's exact overhead — blue at 90 degrees."
+  },
+  "3595": {
+    "name": "Bleu Ciel",
+    "description": "Sky blue by French billing — cloudless by grammar."
+  },
+  "3596": {
+    "name": "Blue Triumph",
+    "description": "Blue on the podium — anthem cued."
+  },
+  "3597": {
+    "name": "Montreux Blue",
+    "description": "The lakeside festival town — blue water, Freddie's statue watching."
+  },
+  "3598": {
+    "name": "Armour",
+    "description": "Plate steel with a blue temper — dents itemised."
+  },
+  "3599": {
+    "name": "Blue Burst",
+    "description": "Blue at detonation, shrapnel still airborne."
+  },
   "0000": {
     "name": "Black",
     "description": "The complete absorption of visible light — though this one, like every black a screen can show, keeps a whisper of blue in it."
