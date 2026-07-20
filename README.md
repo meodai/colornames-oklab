@@ -28,6 +28,28 @@ import colors from 'colornames-oklab';        // ESM
 const colors = require('colornames-oklab');   // CJS
 ```
 
+## Lookup API
+
+A tiny, dependency-free `closest()` ships with the package. It takes raw OKLab values — convert your colors yourself (e.g. with [culori](https://culorijs.org)) so the package stays at zero dependencies:
+
+```js
+import { closest } from 'colornames-oklab';
+
+// one color → the nearest named color (+ its OKLab distance)
+closest([0.577, -0.126, 0.055]);
+// { name: 'Emerald', tier: 'srgb', hex: '#089156', oklab: [...], distance: 0.001 }
+
+// many colors → one match each (names may repeat)
+closest([[0.7, 0.1, 0.05], [0.3, -0.1, 0]]);
+
+// many colors, every name used at most once — like the color.pizza
+// noduplicates mode: each query (in input order) takes the nearest
+// name not already claimed by an earlier one
+closest(palette, { unique: true });
+```
+
+Distance is Euclidean in OKLab — a solid perceptual metric. Results are copies; mutate them freely.
+
 ## Methodology
 
 ### 1. Blue-noise sampling in OKLab
@@ -71,6 +93,7 @@ Everything is scripted and seeded (`scripts/`):
 | `sample-more.mjs` | progressive extension (new points vs. all existing) |
 | `make-worksheet.mjs` | compact per-point worksheet used during naming |
 | `merge-names.mjs` | merges name batches + `fixes.json` overrides, validates uniqueness |
+| `test.mjs` / `test-api.mjs` | data guarantees + lookup API tests (`npm test`) |
 | `audit-basics.mjs` | checks the basic-name guarantees |
 | `build-viz.mjs` | builds the 3D viewer |
 

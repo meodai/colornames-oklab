@@ -180,14 +180,12 @@ colors.length; <span class="c">// 4444</span>
 colors.find(c =&gt; c.name === 'Emerald');
 <span class="c">// { name: 'Emerald', tier: 'srgb', hex: '#089156', oklab: [0.577, -0.1257, 0.0551] }</span></code></pre>
 
-    <p>Name the nearest color to any OKLab point (Euclidean distance in OKLab is a good perceptual metric):</p>
-    <pre><code>const nearest = ([l, a, b]) =&gt;
-  colors.reduce((best, c) =&gt;
-    (d = (c.oklab[0] - l) ** 2 + (c.oklab[1] - a) ** 2 + (c.oklab[2] - b) ** 2) &lt; best.d
-      ? { c, d } : best, { d: Infinity }).c;
-let d;
+    <p>A tiny dependency-free lookup ships with the package — pass raw OKLab values (convert your colors yourself), get the nearest named color. With <code>unique</code>, every name is used at most once, like color.pizza's <code>noduplicates</code>:</p>
+    <pre><code>import { closest } from 'colornames-oklab';
 
-nearest([0.7, 0.1, 0.1]).name; <span class="c">// → a warm coral</span></code></pre>
+closest([0.7, 0.1, 0.1]).name;            <span class="c">// → a warm coral</span>
+closest([[0.7, 0.1, 0.1], [0.3, 0, 0]]);  <span class="c">// one match per query</span>
+closest(palette, { unique: true });       <span class="c">// no name twice</span></code></pre>
 
     <p>For CSS, spell the exact color as <code>oklab()</code> — every evergreen browser renders it and gamut-maps to whatever the display can show. The hex is the pre-clamped sRGB fallback:</p>
     <pre><code>el.style.background = 'oklab(' + c.oklab.join(' ') + ')'; <span class="c">// exact, browser gamut-maps</span>
