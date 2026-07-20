@@ -1798,5 +1798,605 @@
   "0449": {
     "name": "Phthalo Green",
     "description": "The staining modern pigment so intense a fingertip of it tints a whole wash."
+  },
+  "0450": {
+    "name": "Juniper",
+    "description": "The berry that makes gin gin — dusty blue on a spiky evergreen."
+  },
+  "0451": {
+    "name": "British Racing Green",
+    "description": "The national motorsport colour Britain adopted after racing in Ireland — Bentley's and every MG's favourite dark green."
+  },
+  "0452": {
+    "name": "Forest Green",
+    "description": "The canopy from underneath — the standard dark green of maps and waxed jackets."
+  },
+  "0453": {
+    "name": "Evergreen",
+    "description": "The trees that skip autumn entirely; also anything that never goes out of date."
+  },
+  "0454": {
+    "name": "Old Growth",
+    "description": "Forest that has never met a saw — moss on moss, centuries deep."
+  },
+  "0455": {
+    "name": "Dark Moss",
+    "description": "Moss in the crevice the sun never reaches."
+  },
+  "0456": {
+    "name": "Deep Malachite",
+    "description": "The banded copper mineral at its darkest ring."
+  },
+  "0457": {
+    "name": "Rosemary",
+    "description": "The remembrance herb — needles of dusty green that survive on neglect."
+  },
+  "0458": {
+    "name": "Ivy",
+    "description": "The climber that outlives the wall — evergreen, tenacious, slightly smug."
+  },
+  "0459": {
+    "name": "Pine Green",
+    "description": "The needle green of conifers, standard issue for forests and bottle labels."
+  },
+  "0460": {
+    "name": "Chlorophyll",
+    "description": "The molecule that eats sunlight — the reason green is Earth's default from orbit."
+  },
+  "0461": {
+    "name": "Hedge",
+    "description": "The suburban property line, trimmed to attention."
+  },
+  "0462": {
+    "name": "Lawn",
+    "description": "Grass under contract — mown, edged, and argued about with neighbours."
+  },
+  "0463": {
+    "name": "Mossy Ruins",
+    "description": "Stonework losing an argument with moss, beautifully."
+  },
+  "0464": {
+    "name": "Kelly Green",
+    "description": "The bright Irish-American green of parades and jerseys — named after the surname, not a person in particular."
+  },
+  "0465": {
+    "name": "Smaragdine",
+    "description": "An archaic word for emerald-green — the 1935 spelling-bee word that made headlines."
+  },
+  "0466": {
+    "name": "Verdure",
+    "description": "The old word for lush growing greenness itself."
+  },
+  "0467": {
+    "name": "Turf",
+    "description": "Grass you can buy in rolls; territory you defend without paperwork."
+  },
+  "0468": {
+    "name": "Malachite",
+    "description": "The swirling banded copper carbonate — Russian tsars panelled entire rooms in it."
+  },
+  "0469": {
+    "name": "Grass",
+    "description": "The plain green underfoot — the most stepped-on colour in the world."
+  },
+  "0470": {
+    "name": "Wimbledon",
+    "description": "Centre Court in week one, before the baselines wear to dust."
+  },
+  "0471": {
+    "name": "Meadow",
+    "description": "Unmown grass with flowers in it — a lawn that got away."
+  },
+  "0472": {
+    "name": "Clover",
+    "description": "Three leaves for luck's baseline, four for the jackpot."
+  },
+  "0473": {
+    "name": "Shamrock",
+    "description": "The three-leafed sprig St Patrick allegedly taught with — Ireland in lapel form."
+  },
+  "0474": {
+    "name": "Pestering Pesto",
+    "description": "Basil sauce that gets on everything — persistently green."
+  },
+  "0475": {
+    "name": "Marimo",
+    "description": "The velvet algae balls of Lake Akan, kept as slow-motion pets in jars."
+  },
+  "0476": {
+    "name": "Greenlight",
+    "description": "Permission as a colour — the project is go."
+  },
+  "0477": {
+    "name": "Romaine",
+    "description": "The Caesar-salad lettuce, crisp-ribbed and upright."
+  },
+  "0478": {
+    "name": "Dioptase",
+    "description": "The emerald-green copper mineral that fooled prospectors hunting actual emeralds."
+  },
+  "0479": {
+    "name": "Watercress",
+    "description": "The peppery stream-grown green of proper sandwiches."
+  },
+  "0480": {
+    "name": "Mangetout",
+    "description": "French for 'eat everything' — the pea pod that skips shelling."
+  },
+  "0481": {
+    "name": "Parakeet",
+    "description": "Small parrot, maximum green — the escaped-pet flocks of every warm city."
+  },
+  "0482": {
+    "name": "Green",
+    "description": "The colour human eyes distinguish best — we evolved in it."
+  },
+  "0483": {
+    "name": "Vine Snake",
+    "description": "A snake impersonating a vine so well that the vine should sue."
+  },
+  "0484": {
+    "name": "Tree Python",
+    "description": "The emerald tree python, coiled over a branch like a green question mark."
+  },
+  "0485": {
+    "name": "Sprout",
+    "description": "The seed's opening move."
+  },
+  "0486": {
+    "name": "Tadpole",
+    "description": "A frog in progress — pond-green with a deadline."
+  },
+  "0487": {
+    "name": "Electric Green",
+    "description": "Green with the mains connected."
+  },
+  "0488": {
+    "name": "Nopal",
+    "description": "The prickly-pear paddle, grilled and served — cactus as vegetable."
+  },
+  "0489": {
+    "name": "Putting Green",
+    "description": "The most pampered grass in sport, mown to millimetres."
+  },
+  "0490": {
+    "name": "Alien Green",
+    "description": "The regulation colour of flying-saucer occupants since pulp covers began."
+  },
+  "0491": {
+    "name": "Aurora Green",
+    "description": "The oxygen-line green of the northern lights — the aurora's most common colour."
+  },
+  "0492": {
+    "name": "Quetzal",
+    "description": "The resplendent Mesoamerican bird whose tail feathers were currency — too iridescent for one hex."
+  },
+  "0493": {
+    "name": "Light Moss",
+    "description": "Moss in the one sunny spot."
+  },
+  "0494": {
+    "name": "Leprechaun",
+    "description": "The gold-hoarding cobbler of Irish folklore, dressed head to buckle in this green."
+  },
+  "0495": {
+    "name": "Fern Green",
+    "description": "The mid-green of a frond at full unfurl."
+  },
+  "0496": {
+    "name": "Battletoad",
+    "description": "The bruiser amphibians of the notoriously difficult 1991 game — speeder-bike level green."
+  },
+  "0497": {
+    "name": "Slime",
+    "description": "The ectoplasmic goo of games and cartoons — viscous, green, oddly beloved."
+  },
+  "0498": {
+    "name": "Radioactive Green",
+    "description": "How movies think radiation looks; actual radiation is invisible, which tested poorly."
+  },
+  "0499": {
+    "name": "Neon Green",
+    "description": "Actual neon glows red-orange — this green borrowed the name and kept the wattage."
+  },
+  "0500": {
+    "name": "Grass Stain",
+    "description": "The knee of every childhood trouser — chlorophyll's signature."
+  },
+  "0501": {
+    "name": "Meadow Mist",
+    "description": "The field at dawn, wearing weather."
+  },
+  "0502": {
+    "name": "Menthol",
+    "description": "The cooling molecule from mint — green that tastes cold."
+  },
+  "0503": {
+    "name": "Leaf Bud",
+    "description": "The week the twig decides on green."
+  },
+  "0504": {
+    "name": "Wheatgrass",
+    "description": "The juice-bar shot of concentrated lawn."
+  },
+  "0505": {
+    "name": "Spring Green",
+    "description": "The season's official colour — a web-standard green between green and cyan."
+  },
+  "0506": {
+    "name": "Gumdrop Green",
+    "description": "The sugared dome nobody picks first from the box — lime flavoured, allegedly."
+  },
+  "0507": {
+    "name": "Splat",
+    "description": "The cartoon sound effect, rendered in slime green."
+  },
+  "0508": {
+    "name": "Out of Left Field",
+    "description": "Baseball's deep grass, where the unexpected comes from."
+  },
+  "0509": {
+    "name": "Butterhead",
+    "description": "The soft lettuce with the flattering name — pale loose leaves, butter-tender."
+  },
+  "0510": {
+    "name": "Budgie Green",
+    "description": "The classic wild budgerigar colourway before breeders discovered blue."
+  },
+  "0511": {
+    "name": "Jolly Green",
+    "description": "The giant of tinned-vegetable fame, ho-ho-ho included."
+  },
+  "0512": {
+    "name": "Impossible Green",
+    "description": "A green beyond sRGB's reach — you need a wide-gamut display to see what it actually is."
+  },
+  "0513": {
+    "name": "Gamut Green",
+    "description": "Named for the boundary it lives on — the edge of what your screen can show."
+  },
+  "0514": {
+    "name": "Frosted Fir",
+    "description": "The tree lot in December, pre-dusted."
+  },
+  "0515": {
+    "name": "Lime Green",
+    "description": "The citrus green of every flavour promising refreshment."
+  },
+  "0516": {
+    "name": "Pastel Green",
+    "description": "Green in its Easter outfit."
+  },
+  "0517": {
+    "name": "Northern Lights",
+    "description": "The aurora borealis in its dominant oxygen green, curtaining a polar sky."
+  },
+  "0518": {
+    "name": "Mantis",
+    "description": "The praying predator that is 90% camouflage, 10% patience."
+  },
+  "0519": {
+    "name": "Aphid",
+    "description": "The pale green greenfly that farms your roses before ladybirds farm it."
+  },
+  "0520": {
+    "name": "Laser Pointer",
+    "description": "The 532-nanometre green dot — brighter to human eyes than red, irresistible to cats."
+  },
+  "0521": {
+    "name": "Nuclear Green",
+    "description": "Pop culture's glow-in-the-dark reactor green — see also: every ooze barrel since 1984."
+  },
+  "0522": {
+    "name": "Mojito",
+    "description": "Muddled mint, lime, rum and ice — Havana's greenest export."
+  },
+  "0523": {
+    "name": "Light Green",
+    "description": "Green with milk and sugar."
+  },
+  "0524": {
+    "name": "Lightning Bug",
+    "description": "The American firefly — same cold green light, friendlier name."
+  },
+  "0525": {
+    "name": "Green Screen",
+    "description": "Chroma-key green, chosen because human skin contains none of it — the colour of everything replaceable."
+  },
+  "0526": {
+    "name": "Dart Frog",
+    "description": "Tiny, brilliant, and toxic in proportion to its colour confidence."
+  },
+  "0527": {
+    "name": "Waiting Room",
+    "description": "Institutional pale mint — chosen decades ago to be calming, achieving beige's cousin."
+  },
+  "0528": {
+    "name": "Cucumber",
+    "description": "Cool by reputation and by measurement — the salad's pale green."
+  },
+  "0529": {
+    "name": "Creamy Mint",
+    "description": "Mint choc chip minus the chips."
+  },
+  "0530": {
+    "name": "Morning Dew",
+    "description": "The lawn's overnight jewellery, gone by nine."
+  },
+  "0531": {
+    "name": "Will-o'-Wisp",
+    "description": "The ghost-light of marshes that led travellers astray — probably swamp gas, definitely this pale green."
+  },
+  "0532": {
+    "name": "Void Green",
+    "description": "Green at the edge of black — the last green before nothing."
+  },
+  "0533": {
+    "name": "Dark Pine",
+    "description": "The plantation interior at noon, which is to say dusk."
+  },
+  "0534": {
+    "name": "Hooker's Green",
+    "description": "Named for botanical illustrator William Hooker, who mixed it for leaves — schoolchildren discover the name annually."
+  },
+  "0535": {
+    "name": "Bottle Green",
+    "description": "Victorian glass-bottle green — dark, dignified, school-uniform approved."
+  },
+  "0536": {
+    "name": "Understory",
+    "description": "The forest layer that lives on leftover light."
+  },
+  "0537": {
+    "name": "Brunswick Green",
+    "description": "The deep green of German coach paint and British railway engines."
+  },
+  "0538": {
+    "name": "Hemlock",
+    "description": "The shade-loving conifer — and, unrelated botanically, the poison Socrates drank."
+  },
+  "0539": {
+    "name": "Deep Pond",
+    "description": "Where the bottom stops being visible and starts being imagined."
+  },
+  "0540": {
+    "name": "Sacramento Green",
+    "description": "The dark state-capital green of California's flag field and vintage Cadillacs."
+  },
+  "0541": {
+    "name": "Dark Ivy",
+    "description": "Ivy on the north wall, in its winter coat."
+  },
+  "0542": {
+    "name": "Cadmium Green",
+    "description": "Cadmium yellow blended with viridian — the painter's shortcut to sunlit leaves."
+  },
+  "0543": {
+    "name": "Moor-Monster",
+    "description": "Whatever makes that sound out on the bog after dark — presumed green."
+  },
+  "0544": {
+    "name": "Amazon",
+    "description": "The river-and-rainforest green visible from space — the planet's largest single statement in this colour."
+  },
+  "0545": {
+    "name": "Ficus Elastica",
+    "description": "The rubber plant — glossy deep leaves that tolerate your living room's worst corner."
+  },
+  "0546": {
+    "name": "Viridian",
+    "description": "The blue-leaning chromium green on every painter's palette since the 1840s."
+  },
+  "0547": {
+    "name": "Rainforest",
+    "description": "Canopy on canopy — green with 100% humidity."
+  },
+  "0548": {
+    "name": "Uvarovite",
+    "description": "The rarest garnet — permanently emerald-green thanks to chromium, usually too small to cut."
+  },
+  "0549": {
+    "name": "Emerald Rain",
+    "description": "A jewel-green downpour — the forest replenishing its own colour."
+  },
+  "0550": {
+    "name": "Croupier",
+    "description": "The card-table baize from the dealer's side — place your bets."
+  },
+  "0551": {
+    "name": "Billiard Green",
+    "description": "Regulation table baize — wool cloth in the exact green of misspent evenings."
+  },
+  "0552": {
+    "name": "Deep Jungle",
+    "description": "Layers past where the tourists turn back."
+  },
+  "0553": {
+    "name": "Elephant Ear",
+    "description": "The giant taro leaf — big enough to umbrella under, green enough to prove it."
+  },
+  "0554": {
+    "name": "Emerald City",
+    "description": "Oz's capital, green by decree — and by the tinted glasses everyone was made to wear."
+  },
+  "0555": {
+    "name": "Beryl",
+    "description": "The mineral family that contains emerald and aquamarine — this is its green heartland."
+  },
+  "0556": {
+    "name": "Myrtle",
+    "description": "The evergreen shrub of Venus and wedding bouquets — a deep classical green."
+  },
+  "0557": {
+    "name": "Pounamu",
+    "description": "New Zealand greenstone — treasured jade carved and passed down in Māori tradition."
+  },
+  "0558": {
+    "name": "Serpentine",
+    "description": "The snake-skin green mineral that polishes like scales."
+  },
+  "0559": {
+    "name": "Irish Green",
+    "description": "The forty shades condensed to one — flag-stripe green."
+  },
+  "0560": {
+    "name": "Casino Green",
+    "description": "The felt where probability quietly wins."
+  },
+  "0561": {
+    "name": "Later Gator",
+    "description": "The swamp farewell — see you in a while, crocodile."
+  },
+  "0562": {
+    "name": "Monster Monstera",
+    "description": "The Swiss-cheese plant grown past its trellis and its welcome."
+  },
+  "0563": {
+    "name": "Lucky Green",
+    "description": "The green you wear to the casino against all statistical advice."
+  },
+  "0564": {
+    "name": "Signal Green",
+    "description": "The go-light green of railway and traffic signals — standardised permission."
+  },
+  "0565": {
+    "name": "Emerald",
+    "description": "Beryl with chromium — the gem whose flaws are called a garden and forgiven."
+  },
+  "0566": {
+    "name": "Beanpole",
+    "description": "The garden cane wearing runner beans by August."
+  },
+  "0567": {
+    "name": "Chrome Green",
+    "description": "The industrial chromium-oxide green of machinery and money printing."
+  },
+  "0568": {
+    "name": "Green Revolution",
+    "description": "The mid-century agricultural transformation that doubled harvests — wheat-field green at scale."
+  },
+  "0569": {
+    "name": "Peacock Green",
+    "description": "The green flash in the eyespot of a peacock's train."
+  },
+  "0570": {
+    "name": "Malachite Green",
+    "description": "The banded mineral's colour as a dye — also, controversially, an aquarium fungicide."
+  },
+  "0571": {
+    "name": "Kashmir",
+    "description": "The valley's terraced green between the Himalayas — the colour behind all that wool."
+  },
+  "0572": {
+    "name": "Meadow Green",
+    "description": "Grazing-height green, buttercups implied."
+  },
+  "0573": {
+    "name": "Shamrock Green",
+    "description": "The brighter, flag-adjacent cousin of the sprig itself."
+  },
+  "0574": {
+    "name": "Fennel Fiasco",
+    "description": "When the aniseed herb takes over the entire allotment — a feathery green coup."
+  },
+  "0575": {
+    "name": "Prairie",
+    "description": "Grassland to the horizon in every direction, green going on forever."
+  },
+  "0576": {
+    "name": "Kryptonite",
+    "description": "The glowing green mineral that humbles Superman — weakness as a colour."
+  },
+  "0577": {
+    "name": "Jungle",
+    "description": "Green with a machete requirement."
+  },
+  "0578": {
+    "name": "Jade",
+    "description": "The stone of emperors and heirlooms — nephrite and jadeite sharing one revered green."
+  },
+  "0579": {
+    "name": "Cicada",
+    "description": "The green-bodied summer noisemaker that spends seventeen years rehearsing underground."
+  },
+  "0580": {
+    "name": "Veronese Green",
+    "description": "Named for the Venetian painter whose canvases run on this green — see his Wedding at Cana."
+  },
+  "0581": {
+    "name": "Tobago",
+    "description": "The quieter half of Trinidad and Tobago — rainforest ridge meeting reef green."
+  },
+  "0582": {
+    "name": "Secret Garden",
+    "description": "Behind the locked door in the ivy — green kept private."
+  },
+  "0583": {
+    "name": "Intoxicate",
+    "description": "The green of the drink you should have refused."
+  },
+  "0584": {
+    "name": "Bok Choy",
+    "description": "The spoon-shaped Chinese cabbage — white stems, green promises."
+  },
+  "0585": {
+    "name": "Jadeite",
+    "description": "The rarer, glassier jade — imperial green at auction-house prices."
+  },
+  "0586": {
+    "name": "Verdelite",
+    "description": "Green tourmaline by its trade name — the 'little green one'."
+  },
+  "0587": {
+    "name": "Maximum Green",
+    "description": "The most green a green can green."
+  },
+  "0588": {
+    "name": "Catnip",
+    "description": "The grey-green herb that turns dignified cats into liquid chaos."
+  },
+  "0589": {
+    "name": "Biolume Green",
+    "description": "The glow of living light — plankton, fungi and fish that make their own."
+  },
+  "0590": {
+    "name": "Turtle Warrior",
+    "description": "A shelled fighter in ninja green — cowabunga adjacent."
+  },
+  "0591": {
+    "name": "Frog Pond",
+    "description": "Duckweed-skinned water with eyes just above the surface."
+  },
+  "0592": {
+    "name": "Alienated",
+    "description": "Green with existential distance — the UFO left without it."
+  },
+  "0593": {
+    "name": "Spirogyra",
+    "description": "The spiral-chloroplast algae of biology class — pond scum with a beautiful secret under the microscope."
+  },
+  "0594": {
+    "name": "Magical Malachite",
+    "description": "The banded green stone with folklore duties: protection, mostly."
+  },
+  "0595": {
+    "name": "Verde",
+    "description": "Green in Spanish and Italian — the colour, passport-free."
+  },
+  "0596": {
+    "name": "Matcha Foam",
+    "description": "The whisked crown of properly made matcha — jade froth."
+  },
+  "0597": {
+    "name": "Bermudagrass",
+    "description": "The warm-climate turf of golf courses and lawns that survive August."
+  },
+  "0598": {
+    "name": "Tsavorite",
+    "description": "The vivid green garnet found near Tsavo in 1967 — younger and cleaner-looking than emerald, say its fans."
+  },
+  "0599": {
+    "name": "Luciferin",
+    "description": "The light-bearing molecule behind every firefly flash and glowing wave."
   }
 }
