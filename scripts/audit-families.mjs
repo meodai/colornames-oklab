@@ -29,7 +29,7 @@ const ALLOWED = new Set([
 
 const url = (p) => new URL(p, import.meta.url);
 const list = JSON.parse(readFileSync(url('../colornames-oklab.json'), 'utf8'));
-const baselinePath = url('../data/names/family-baseline.json');
+const baselinePath = url('../data/family-baseline.json');
 const baseline = existsSync(baselinePath) ? JSON.parse(readFileSync(baselinePath, 'utf8')) : {};
 
 const STOPWORDS = new Set(['of', 'the', 'and', 'a', 'an', 'in', 'on', 'at', 'to', 'for', 'by', 'with', 'from', 'de']);

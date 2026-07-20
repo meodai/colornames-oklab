@@ -24,7 +24,7 @@ for (const p of points) {
   if (seen.has(norm)) errors.push(`duplicate: "${name}" (${key}) vs "${seen.get(norm)[0]}" (${seen.get(norm)[1]})`);
   else seen.set(norm, [name, key]);
 }
-const extraKeys = Object.keys(names).filter((k) => +k >= points.length);
+const extraKeys = Object.keys(names).filter((k) => !/^\d{4}$/.test(k) || +k >= points.length);
 if (extraKeys.length) errors.push(`extra keys: ${extraKeys.join(', ')}`);
 
 if (errors.length) {
