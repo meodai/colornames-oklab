@@ -6,7 +6,10 @@ const dataDir = new URL('../data/', import.meta.url);
 const points = JSON.parse(readFileSync(new URL('points.json', dataDir), 'utf8'));
 
 const names = {};
-for (const f of readdirSync(new URL('names/', dataDir)).sort()) {
+// fixes.json is the override layer and must win over every other file,
+// regardless of where it lands in filename sort order
+const files = readdirSync(new URL('names/', dataDir)).sort();
+for (const f of [...files.filter((f) => f !== 'fixes.json'), 'fixes.json']) {
   Object.assign(names, JSON.parse(readFileSync(new URL(`names/${f}`, dataDir), 'utf8')));
 }
 
