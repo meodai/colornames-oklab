@@ -2998,5 +2998,605 @@
   "0618": {
     "name": "Envy’s Love",
     "description": "Green with envy, but fond about it."
+  },
+  "0750": {
+    "name": "El Nido",
+    "description": "Palawan's lagoon town — limestone cliffs around water this exact colour."
+  },
+  "0751": {
+    "name": "Wave Pool",
+    "description": "The machine that schedules surf every fifteen minutes."
+  },
+  "0752": {
+    "name": "Lido Deck",
+    "description": "The cruise ship's pool level — towel wars begin at dawn."
+  },
+  "0753": {
+    "name": "Tulum",
+    "description": "Mayan ruins on a cliff over Caribbean glass — this is the water's side of the postcard."
+  },
+  "0754": {
+    "name": "Barrier Reef",
+    "description": "The living structure visible from orbit — coral cities in shallow turquoise."
+  },
+  "0755": {
+    "name": "Aquarium",
+    "description": "The blue-green glow in a dark room, humming quietly."
+  },
+  "0756": {
+    "name": "Glitch",
+    "description": "The frame the GPU regrets — cyan artefacts included."
+  },
+  "0757": {
+    "name": "Turquoise",
+    "description": "The sacred sky-stone of Persia and the American Southwest — one of the few colours named after a gem."
+  },
+  "0758": {
+    "name": "Maldives",
+    "description": "A thousand coral islands averaging two metres of altitude — turquoise with a sea-level deadline."
+  },
+  "0759": {
+    "name": "Frozen Bubble",
+    "description": "A soap bubble freezing in real time — ice crystals blooming across a sphere."
+  },
+  "0760": {
+    "name": "Waterslide",
+    "description": "Chlorinated turquoise at speed, elbows in."
+  },
+  "0761": {
+    "name": "Bergy Bit",
+    "description": "The official term for an iceberg fragment smaller than a house — glacial blue-green, adrift."
+  },
+  "0762": {
+    "name": "Larimar",
+    "description": "The Caribbean-blue pectolite found only in one Dominican mountain."
+  },
+  "0763": {
+    "name": "Oscilloscope",
+    "description": "The phosphor trace sweeping across a lab screen — signal green-cyan."
+  },
+  "0764": {
+    "name": "Kiddie Pool",
+    "description": "Inflatable turquoise, ankle-deep, dignity optional."
+  },
+  "0765": {
+    "name": "Shoal",
+    "description": "Where the water suddenly pales over sand — and the fish that school there."
+  },
+  "0766": {
+    "name": "Plunge Pool",
+    "description": "The cold one next to the sauna — entered with a gasp."
+  },
+  "0767": {
+    "name": "Aloe Water",
+    "description": "The spa-fridge drink with the floating cubes of succulent."
+  },
+  "0768": {
+    "name": "Air Conditioning",
+    "description": "The pale cyan hum of a well-cooled room in August."
+  },
+  "0769": {
+    "name": "Hello Winter",
+    "description": "The first morning your breath shows — pale ice-mint greeting."
+  },
+  "0770": {
+    "name": "Celeste",
+    "description": "The pale sky-blue of Bianchi bicycles — Italy's most romantic paint colour."
+  },
+  "0771": {
+    "name": "Abyss",
+    "description": "The ocean's sunless floor-zone — a black with drowned teal in it."
+  },
+  "0772": {
+    "name": "Dark Petrol",
+    "description": "Petrol's iridescent blue-green, at midnight."
+  },
+  "0773": {
+    "name": "Benthic Teal",
+    "description": "From the benthos — the seafloor community that never sees daylight."
+  },
+  "0774": {
+    "name": "Oil Slick",
+    "description": "The rainbow film on dark water — beautiful exactly where it shouldn't be."
+  },
+  "0775": {
+    "name": "Kraken",
+    "description": "The ship-taking cephalopod of Norse legend — the dark under the dark."
+  },
+  "0776": {
+    "name": "Petrol",
+    "description": "What the British call gasoline and designers call this blue-green."
+  },
+  "0777": {
+    "name": "Nautilus",
+    "description": "The chambered mollusc running the ocean's oldest submarine design."
+  },
+  "0778": {
+    "name": "Tidal Teal",
+    "description": "The channel where the tide does its heavy lifting."
+  },
+  "0779": {
+    "name": "Wharf",
+    "description": "Barnacled timber and dark water between hulls."
+  },
+  "0780": {
+    "name": "Steel Teal",
+    "description": "Teal with an industrial finish."
+  },
+  "0781": {
+    "name": "Porthole",
+    "description": "The brass-ringed circle of sea a cabin gets."
+  },
+  "0782": {
+    "name": "Tealight",
+    "description": "The small candle — and, read again, the pun this teal was waiting for."
+  },
+  "0783": {
+    "name": "Petrol Blue",
+    "description": "The blue end of petrol's spill-spectrum."
+  },
+  "0784": {
+    "name": "Sonar",
+    "description": "A ping into the dark and the teal patience while it returns."
+  },
+  "0785": {
+    "name": "Cormorant",
+    "description": "The diving bird drying its wings like dark laundry on a rock."
+  },
+  "0786": {
+    "name": "Spark Plug",
+    "description": "The blue-white snap of ignition, caught mid-arc."
+  },
+  "0787": {
+    "name": "Deep Aqua",
+    "description": "Aqua past the drop-off."
+  },
+  "0788": {
+    "name": "Deep Pacific",
+    "description": "The largest thing on Earth, in its deepest register."
+  },
+  "0789": {
+    "name": "Jewel Beetle",
+    "description": "The buprestid whose metallic teal wing-cases became actual Victorian jewellery."
+  },
+  "0790": {
+    "name": "Oasis",
+    "description": "Improbable water in a sand-coloured argument."
+  },
+  "0791": {
+    "name": "Zellige",
+    "description": "Moroccan glazed tilework — hand-cut mosaic in exactly this teal."
+  },
+  "0792": {
+    "name": "Periscope",
+    "description": "The submarine's upward glance — grey-teal at eye level with the waves."
+  },
+  "0793": {
+    "name": "Lagoon",
+    "description": "The calm water a reef keeps for itself."
+  },
+  "0794": {
+    "name": "Baltic",
+    "description": "The brackish northern sea — cold teal between nine countries."
+  },
+  "0795": {
+    "name": "Luminous Lagoon",
+    "description": "Jamaica's glowing bay, where the water lights up when disturbed."
+  },
+  "0796": {
+    "name": "Copper Dome",
+    "description": "The cathedral roof a century into its green-teal patina."
+  },
+  "0797": {
+    "name": "Pacific Blue",
+    "description": "The crayon named after the calmest-sounding ocean."
+  },
+  "0798": {
+    "name": "Dusty Aqua",
+    "description": "Aqua found at the back of the cupboard."
+  },
+  "0799": {
+    "name": "Iznik",
+    "description": "Ottoman ceramic tiles from Iznik — white grounds, tulips, and this turquoise."
+  },
+  "0800": {
+    "name": "Lazy River",
+    "description": "The theme park's slowest ride — drift, rotate, repeat."
+  },
+  "0801": {
+    "name": "Blue Hawaiian",
+    "description": "The curaçao cocktail with the umbrella — tiki-bar turquoise."
+  },
+  "0802": {
+    "name": "Glowing Cyan",
+    "description": "Cyan with its own power supply."
+  },
+  "0803": {
+    "name": "Fibre Optic",
+    "description": "Light in a glass thread — the cyan glow of data moving."
+  },
+  "0804": {
+    "name": "Treasured Teal",
+    "description": "Teal kept in the good cupboard."
+  },
+  "0805": {
+    "name": "Glass Cleaner",
+    "description": "The spray-bottle blue that squeaks."
+  },
+  "0806": {
+    "name": "Robin's Egg Blue",
+    "description": "The American robin's famously turquoise eggs — biliverdin does the colouring."
+  },
+  "0807": {
+    "name": "Misty Aqua",
+    "description": "Aqua behind a shower door."
+  },
+  "0808": {
+    "name": "Light Show",
+    "description": "Lasers sweeping a festival fog bank."
+  },
+  "0809": {
+    "name": "Neon Blue",
+    "description": "The electric blue of signage that actually uses argon, not neon — the gas is orange."
+  },
+  "0810": {
+    "name": "Glacial Cyan",
+    "description": "Compressed-ice cyan from a crevasse wall."
+  },
+  "0811": {
+    "name": "Water Park",
+    "description": "A dozen intersecting turquoise tubes and one long queue."
+  },
+  "0812": {
+    "name": "Splash",
+    "description": "The 1984 mermaid film and the sound — both this blue."
+  },
+  "0813": {
+    "name": "Airglow",
+    "description": "The atmosphere's faint permanent luminescence — the night sky is never fully dark."
+  },
+  "0814": {
+    "name": "Electric Ice",
+    "description": "Ice with the current on — glacial cyan overclocked."
+  },
+  "0815": {
+    "name": "Pale Turquoise",
+    "description": "The X11 pastel of the gem-stone blue — turquoise in its morning robe."
+  },
+  "0816": {
+    "name": "Splashdown",
+    "description": "A capsule returning to ocean — parachutes, frogmen, cyan spray."
+  },
+  "0817": {
+    "name": "Aqua Fresca",
+    "description": "Agua fresca by way of aqua — fruit water over ice, pun over everything."
+  },
+  "0818": {
+    "name": "Cyan Splash",
+    "description": "The printer's C in CMYK, thrown with enthusiasm."
+  },
+  "0819": {
+    "name": "Arctic Ice",
+    "description": "Pack ice from above — white-cyan to the horizon."
+  },
+  "0820": {
+    "name": "Deep Trench",
+    "description": "Ocean floor that folds under itself — pressure measured in atmospheres, light in memories."
+  },
+  "0821": {
+    "name": "Deep Six",
+    "description": "Nautical slang for burial at sea — six fathoms down, dark ocean closing over."
+  },
+  "0822": {
+    "name": "Dark Ocean",
+    "description": "The sea after the sun clocks out."
+  },
+  "0823": {
+    "name": "Deep Marine",
+    "description": "Below the photic zone, where blue is a rumour."
+  },
+  "0824": {
+    "name": "Nordic Blue",
+    "description": "Fjord-adjacent blue-grey, sensibly dressed."
+  },
+  "0825": {
+    "name": "Skagerrak",
+    "description": "The strait between Denmark and Norway — cold, busy, and this dark teal-blue."
+  },
+  "0826": {
+    "name": "Low Pressure",
+    "description": "The barometric dip that brings the weather — isobars tightening, sea darkening."
+  },
+  "0827": {
+    "name": "Deep Sea Blue",
+    "description": "The blue that remains when red, orange and yellow have been filtered out by fathoms."
+  },
+  "0828": {
+    "name": "Ocean",
+    "description": "Most of the planet, summarised."
+  },
+  "0829": {
+    "name": "Deep Cerulean",
+    "description": "Cerulean with ballast."
+  },
+  "0830": {
+    "name": "Marine Blue",
+    "description": "Navy's working blue — rope-calloused and tide-tested."
+  },
+  "0831": {
+    "name": "Harbour Blue",
+    "description": "The water inside the breakwater — calmer, deeper, spoken for."
+  },
+  "0832": {
+    "name": "Blue Grotto",
+    "description": "Capri's sea cave, where sunlight enters underwater and the whole chamber glows blue."
+  },
+  "0833": {
+    "name": "Sea Blue",
+    "description": "The sea's default setting."
+  },
+  "0834": {
+    "name": "Diving Bell",
+    "description": "The upside-down air pocket lowered into the deep — early submarining, held breath included."
+  },
+  "0835": {
+    "name": "Blue Lagoon",
+    "description": "The film, the cocktail, and Iceland's geothermal spa — all trading on this blue."
+  },
+  "0836": {
+    "name": "Bondi Blue",
+    "description": "The 1998 iMac's translucent turquoise — the colour that made computers friendly, named for the Sydney beach."
+  },
+  "0837": {
+    "name": "Aegean",
+    "description": "The island-scattered sea between Greece and Anatolia — ferries, myths, this blue."
+  },
+  "0838": {
+    "name": "Deep End",
+    "description": "Where the pool floor drops away and swimming becomes real."
+  },
+  "0839": {
+    "name": "Rainy Day",
+    "description": "Grey-blue weather you save money for."
+  },
+  "0840": {
+    "name": "Blue Curacao",
+    "description": "The Caribbean orange liqueur dyed an unapologetic tropical blue."
+  },
+  "0841": {
+    "name": "Bornite",
+    "description": "Peacock ore — the copper mineral that tarnishes into iridescent blues and purples."
+  },
+  "0842": {
+    "name": "Lakeside",
+    "description": "The jetty view: still water, one canoe, loons pending."
+  },
+  "0843": {
+    "name": "Spinner Dolphin",
+    "description": "The acrobat of the pelagic blue, rotating mid-leap for reasons scientists still argue about."
+  },
+  "0844": {
+    "name": "Barometer",
+    "description": "The dial that reads the sky's intentions — falling towards storm blue."
+  },
+  "0845": {
+    "name": "Pearl Diver",
+    "description": "Free-diving into blue-green depth on one breath, knife and basket."
+  },
+  "0846": {
+    "name": "Faded Cerulean",
+    "description": "Cerulean left in the sun it used to describe."
+  },
+  "0847": {
+    "name": "Blue Moon",
+    "description": "The second full moon in a month — rare enough to schedule idioms by."
+  },
+  "0848": {
+    "name": "Stratosphere",
+    "description": "The calm layer above the weather, where the sky's blue starts thinning toward space."
+  },
+  "0849": {
+    "name": "Peacock Blue",
+    "description": "The neck-feather blue between the eyespots — structural colour showing off."
+  },
+  "0850": {
+    "name": "Salt Spray",
+    "description": "The mist a breaking wave throws at the lighthouse."
+  },
+  "0851": {
+    "name": "Cyanotype",
+    "description": "The 1842 photographic blueprint process — ferric chemistry, Prussian blue results, sun as developer."
+  },
+  "0852": {
+    "name": "Jet Stream",
+    "description": "The high-altitude wind river that decides whose weekend gets rained on."
+  },
+  "0853": {
+    "name": "Cerulean",
+    "description": "From the Latin caeruleus, sky-blue — the poets' azure and the paint tube both."
+  },
+  "0854": {
+    "name": "Scuba Blue",
+    "description": "The blue of thirty feet down, regulator bubbling."
+  },
+  "0855": {
+    "name": "Aquarius",
+    "description": "The water-bearer of the zodiac — an air sign, confusingly, pouring this blue."
+  },
+  "0856": {
+    "name": "Cerulean Blue",
+    "description": "The pigment PB35 — cobalt stannate, prized since the 1860s for skies that never muddy."
+  },
+  "0857": {
+    "name": "Viking",
+    "description": "Longship blue — the North Sea as a commute."
+  },
+  "0858": {
+    "name": "Hue Knew?",
+    "description": "The colour-pun interrobang — turns out the hue knew all along."
+  },
+  "0859": {
+    "name": "High Dive",
+    "description": "The ten-metre platform view of very blue, very hard water."
+  },
+  "0860": {
+    "name": "Glassmith",
+    "description": "The furnace artisan turning breath into blue-tinted glass."
+  },
+  "0861": {
+    "name": "Megaman",
+    "description": "The Blue Bomber of 8-bit fame — this is his exact armour cyan."
+  },
+  "0862": {
+    "name": "Skywriter",
+    "description": "The plane spelling messages in vapour against blue."
+  },
+  "0863": {
+    "name": "Thor’s Thunder",
+    "description": "The hammer-summoned storm — Mjölnir's cyan crack across the sky."
+  },
+  "0864": {
+    "name": "Sky Blue",
+    "description": "Rayleigh scattering's greatest hit — short wavelengths bouncing everywhere, canonised as a crayon."
+  },
+  "0865": {
+    "name": "Ghost Whisperer",
+    "description": "Pale spectral blue for conversations with the recently translucent."
+  },
+  "0866": {
+    "name": "Void Blue",
+    "description": "Blue at the edge of none."
+  },
+  "0867": {
+    "name": "Mineshaft",
+    "description": "The lift-cage dark below the headframe — blue-black with depth certification."
+  },
+  "0868": {
+    "name": "Cellar Door",
+    "description": "Linguists' favourite candidate for the most beautiful phrase in English — here, a dusk-blue one, slightly ajar."
+  },
+  "0869": {
+    "name": "Prussian Blue",
+    "description": "The first modern synthetic pigment (Berlin, 1704) — an accident with bad potash that changed art, blueprints and Hokusai."
+  },
+  "0870": {
+    "name": "Nordic Noir",
+    "description": "The crime-drama genre's palette: dark water, darker knitwear."
+  },
+  "0871": {
+    "name": "Bathyal Blue",
+    "description": "The bathyal zone — the continental slope's twilight, one floor above the abyss."
+  },
+  "0872": {
+    "name": "Deep Water",
+    "description": "Where you can no longer stand — literally and idiomatically."
+  },
+  "0873": {
+    "name": "Last Ferry",
+    "description": "The evening crossing, harbour lights receding into blue-grey."
+  },
+  "0874": {
+    "name": "Mourning Blue",
+    "description": "Victorian half-mourning allowed sombre blues after black — grief, loosening its collar."
+  },
+  "0875": {
+    "name": "Deep Azure",
+    "description": "Azure with the lights off."
+  },
+  "0876": {
+    "name": "Electric Navy",
+    "description": "Navy with a live wire in it."
+  },
+  "0877": {
+    "name": "Blue-Collar",
+    "description": "Workwear blue — the denim-and-chambray shift that named a workforce."
+  },
+  "0878": {
+    "name": "Blue Velvet",
+    "description": "The Lynch film and the Bobby Vinton song — plush midnight-adjacent blue."
+  },
+  "0879": {
+    "name": "Blue Slate",
+    "description": "Slate quarried with a blue cast."
+  },
+  "0880": {
+    "name": "Atlantic",
+    "description": "The cold pond between continents."
+  },
+  "0881": {
+    "name": "Hydra",
+    "description": "The many-headed serpent of Lerna — cut one head, get two invoices."
+  },
+  "0882": {
+    "name": "Isobar",
+    "description": "The weather map's pressure contours — tight circles mean hold onto your hat."
+  },
+  "0883": {
+    "name": "Steel Blue",
+    "description": "The X11 blue of tempered steel — strong, slightly grey, structurally sound."
+  },
+  "0884": {
+    "name": "Celestial Blue",
+    "description": "The heavens' official blue, per hymnals and paint charts."
+  },
+  "0885": {
+    "name": "Azurite",
+    "description": "The deep blue copper mineral Renaissance painters ground when ultramarine was over budget."
+  },
+  "0886": {
+    "name": "Mykonos",
+    "description": "Cycladic blue on white — the shutters, the domes, the ferry timetable."
+  },
+  "0887": {
+    "name": "Santorini",
+    "description": "The caldera-edge villages where every roof argues blue with the sea below."
+  },
+  "0888": {
+    "name": "Mediterranean",
+    "description": "The sea of antiquity — wine-dark to Homer, resort-blue to everyone since."
+  },
+  "0889": {
+    "name": "Faded Denim",
+    "description": "Jeans at their best: broken in, sun-washed, telling on you."
+  },
+  "0890": {
+    "name": "Neptune",
+    "description": "The solar system's windiest planet — methane-blue and 2,000 km/h storms."
+  },
+  "0891": {
+    "name": "Bunsen Flame",
+    "description": "The lab burner with the air-hole open — the hot, clean blue cone."
+  },
+  "0892": {
+    "name": "Ahoy! Blue",
+    "description": "The hail between ships — nautical blue with an exclamation mark."
+  },
+  "0893": {
+    "name": "Harbour Light",
+    "description": "The green-white-red grammar of a port at night, averaged to blue."
+  },
+  "0894": {
+    "name": "Blue Jay",
+    "description": "The loud corvid in structural blue — its feathers contain no blue pigment at all."
+  },
+  "0895": {
+    "name": "Way Beyond the Blue",
+    "description": "The spiritual's destination — past the sky, keep going."
+  },
+  "0896": {
+    "name": "Munsell Blue",
+    "description": "The B hue anchor of the Munsell system — colour science's reference blue."
+  },
+  "0897": {
+    "name": "Benitoite",
+    "description": "California's official state gem — sapphire-blue crystals from one mine in San Benito County."
+  },
+  "0898": {
+    "name": "Swimmer",
+    "description": "Lane-rope blue at a steady thirty laps."
+  },
+  "0899": {
+    "name": "Swimming Pool",
+    "description": "The specific turquoise-blue of painted concrete underwater — chlorine's favourite colour."
   }
 }
