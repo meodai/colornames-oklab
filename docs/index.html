@@ -4,8 +4,8 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>colornames-oklab: 4444 names in OKLab</title>
-<meta name="description" content="4444 color names spread evenly in OKLab, tiered by gamut. Made with AI: most names and all descriptions by Claude Fable 5." />
-  <script type="module" crossorigin src="./assets/index-DV2q6geP.js"></script>
+<meta name="description" content="4444 color names spread evenly in OKLab, tiered by gamut. Made with AI: about 30% of names and all descriptions by Claude Fable 5." />
+  <script type="module" crossorigin src="./assets/index-DZnsLROz.js"></script>
   <link rel="stylesheet" crossorigin href="./assets/index-BGxB4xLf.css">
 </head>
 <body>
@@ -13,7 +13,7 @@
 <div id="hero">
   <div id="app"></div>
   <header>
-    <h1>colornames-oklab <small>4444 names, blue-noise sampled in OKLab · 371 kB (93 kB gzipped)</small></h1>
+    <h1>colornames-oklab <small>4444 names, blue-noise sampled in OKLab · 372 kB (93 kB gzipped)</small></h1>
     <div class="filters" id="filters"></div>
     <nav class="hero-links">
       <a href="https://github.com/meodai/colornames-oklab">GitHub</a>
@@ -30,7 +30,7 @@
   <section id="about">
     <h2>What is this?</h2>
     <p class="lede">4444 color names spread evenly over the OKLab color space, out to the edge of the Rec2020 gamut. Every point above is one named color.</p>
-    <p class="ai-note"><strong>Made with AI.</strong> Roughly 3000 of the names and all of the short descriptions were written by <a href="https://www.anthropic.com/news/claude-fable-5-mythos-5">Claude Fable 5</a>, a language model by Anthropic. The other ~1400 names are human-made, mostly from the curated <em>bestOf</em> list of <a href="https://github.com/meodai/color-names">color-names</a>, matched to the nearest free points. I wrote the sampling, set the rules the names had to follow, and reviewed the output, sending back what didn't fit. Scripts check the hard constraints. Expect the odd name or description that misses.</p>
+    <p class="ai-note"><strong>Made with AI.</strong> About 1300 of the names (roughly 30%) and all of the short descriptions were written by <a href="https://www.anthropic.com/news/claude-fable-5-mythos-5">Claude Fable 5</a>, a language model by Anthropic. The other ~3150 names are human-made. Most come from <a href="https://github.com/meodai/color-names">color-names</a>: some the model picked for a point, the rest were matched from its curated <em>bestOf</em> list. A few dozen are my own suggestions. I wrote the sampling, set the rules the names had to follow, and reviewed the output, replacing names that didn't fit their color. Scripts check the hard constraints, and <code>scripts/audit-provenance.mjs</code> counts which names are invented. Expect the odd name or description that misses.</p>
     <p>The project grew out of <a href="https://github.com/meodai/color-names">color-names</a>, my crowd-sourced list of 30&thinsp;000+ color names. Plotted in a perceptual color space, that list bunches up where people have always looked (reds, skin tones, popular sRGB pastels) and leaves large parts of the gamut nearly empty. This list starts from the other end: pick evenly spaced colors first, then name them.</p>
     <p>The points are placed with best-candidate (blue-noise) sampling in OKLab, so neighbors are roughly the same perceptual distance apart everywhere. Sampling is seeded and grows in stable passes, so existing ids and names stay put when the list gets longer.</p>
     <p>Each point gets the smallest standard gamut that contains it, and the names get less common the further out the tier is:</p>
@@ -101,7 +101,7 @@ el.style.background = c.hex;                               <span class="c">// sR
 
 <footer>
   <span>MIT · <a href="https://github.com/meodai">meodai</a></span>
-  <span>names: <a href="https://www.anthropic.com/news/claude-fable-5-mythos-5">Claude Fable 5</a> (AI) &amp; <a href="https://github.com/meodai/color-names">color-names</a> · descriptions: Claude Fable 5 (AI)</span>
+  <span>names: <a href="https://github.com/meodai/color-names">color-names</a> &amp; <a href="https://www.anthropic.com/news/claude-fable-5-mythos-5">Claude Fable 5</a> (AI) · descriptions: Claude Fable 5 (AI)</span>
   <span><a href="https://github.com/meodai/colornames-oklab">source &amp; methodology</a></span>
 </footer>
 
