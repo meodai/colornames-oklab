@@ -1,7 +1,7 @@
 {
   "name": "colornames-oklab",
   "version": "0.6.0",
-  "description": "4444 color names blue-noise sampled over the Rec2020 gamut in OKLab, evenly spread perceptually and tiered by gamut (sRGB / Display P3 / Rec2020). Made with AI: most names and all descriptions were written by Claude Fable 5, the rest are human-made, mostly from color-names.",
+  "description": "4444 color names blue-noise sampled over the Rec2020 gamut in OKLab, evenly spread perceptually and tiered by gamut (sRGB / Display P3 / Rec2020). Made with AI: about 30% of the names and all descriptions were written by Claude Fable 5, the rest of the names are human-made, mostly from color-names.",
   "license": "MIT",
   "author": "meodai",
   "main": "index.cjs",
@@ -49,8 +49,9 @@
     "fetch:descriptions": "node scripts/fetch-descriptions.mjs"
   },
   "devDependencies": {
+    "color-name-list": "^14.80.0",
     "culori": "^4.0.2",
-    "vite": "^7.0.0",
-    "three": "^0.164.1"
+    "three": "^0.164.1",
+    "vite": "^7.0.0"
   }
 }

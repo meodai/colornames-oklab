@@ -2,7 +2,7 @@
 
 **4444 color names spread evenly over the OKLab color space, out to the edge of the Rec2020 gamut.**
 
-> **Made with AI.** Roughly 3000 of the names and all of the descriptions were written by [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5), a language model by Anthropic. The other ~1400 names are human-made, mostly from the curated *bestOf* list of [color-names](https://github.com/meodai/color-names). I wrote the sampling, set the rules the names had to follow, and reviewed the output, sending back what didn't fit. Scripts check the hard constraints. Expect the odd name or description that misses.
+> **Made with AI.** About 1300 of the names (roughly 30%) and all of the descriptions were written by [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5), a language model by Anthropic. The other ~3150 names are human-made. Most come from [color-names](https://github.com/meodai/color-names): some the model picked for a point, the rest were matched from its curated *bestOf* list. A few dozen are my own suggestions. I wrote the sampling, set the rules the names had to follow, and reviewed the output, replacing names that didn't fit their color. Scripts check the hard constraints, and `scripts/audit-provenance.mjs` counts which names are invented. Expect the odd name or description that misses.
 
 This project grew out of [color-names](https://github.com/meodai/color-names), my crowd-sourced list of 30 000+ color names. Plotted in a perceptual color space, that list bunches up where people have always looked (reds, skin tones, popular sRGB pastels) and leaves large parts of the gamut nearly empty. This list starts from the other end: pick evenly spaced colors first, then name them. Every region of the gamut gets names, including the wide-gamut colors most screens are only starting to show.
 
@@ -86,7 +86,7 @@ These shares follow the volume of each gamut in OKLab. The Rec2020-only shell tu
 
 ### 3. Naming
 
-For the first three passes (3000 points), Claude Fable 5 named one point at a time, in hue order, with the point's OKLCH coordinates and tier in front of it and [color-names](https://github.com/meodai/color-names) as a reference for tone. The fourth and fifth passes didn't use the model: they took the best unused names from the color-names *bestOf* subset (via [color.pizza](https://color.pizza)) and matched them to the new points by OKLab distance. Later fixes (`data/names/fixes.json`) replaced 78 names, nearly all from the first three passes.
+For the first three passes (3000 points), Claude Fable 5 named one point at a time, in hue order, with the point's OKLCH coordinates and tier in front of it and [color-names](https://github.com/meodai/color-names) as a reference for tone. The fourth and fifth passes didn't use the model: they took the best unused names from the color-names *bestOf* subset (via [color.pizza](https://color.pizza)) and matched them to the new points by OKLab distance. Later fixes in `data/names/fixes.json` replaced about 270 names that didn't fit their color, from both sides. The latest round used only human names from color-names. `node scripts/audit-provenance.mjs` reports the current split.
 
 Names get less common the further out the tier is:
 
@@ -117,6 +117,7 @@ Everything is scripted and seeded (`scripts/`):
 | `audit-descriptions.mjs` | checks that descriptions still match their names |
 | `fetch-descriptions.mjs` | seeds missing descriptions from Wikipedia summaries (none of the current ones come from there) |
 | `build-descriptions.mjs` | builds the published `descriptions.json` |
+| `audit-provenance.mjs` | counts invented vs. human names against color-names |
 
 Names live in `data/names/names.json`, keyed by stable point id, with `data/names/fixes.json` applied last as an override layer.
 
@@ -143,4 +144,4 @@ If you find this project useful, please consider [buying me a coffee](https://ko
 
 [MIT](LICENSE)
 
-Names by [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) (AI) and [color-names](https://github.com/meodai/color-names). Descriptions by Claude Fable 5 (AI).
+Names from [color-names](https://github.com/meodai/color-names) and [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) (AI, about 30%). Descriptions by Claude Fable 5 (AI).
