@@ -286,6 +286,10 @@ p strong {
   color: var(--ink);
   margin-top: 2em;
 }
+.ai-note {
+  padding-left: 0.9em;
+  border-left: 3px solid currentColor;
+}
 code {
   font:
     0.86em ui-monospace,

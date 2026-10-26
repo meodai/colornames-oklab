@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>colornames-oklab — %COUNT% names in OKLab</title>
-<meta name="description" content="%COUNT% color names blue-noise sampled over the Rec2020 gamut in OKLab, tiered by gamut, named by Claude Fable 5." />
+<title>colornames-oklab: %COUNT% names in OKLab</title>
+<meta name="description" content="%COUNT% color names spread evenly in OKLab, tiered by gamut. Made with AI: most names and all descriptions by Claude Fable 5." />
 </head>
 <body>
 
@@ -27,24 +27,25 @@
 <main>
   <section id="about">
     <h2>What is this?</h2>
-    <p class="lede">%COUNT% color names, evenly spread over the OKLab color space, covering the full Rec2020 gamut — every point above is one named color.</p>
-    <p>This project grew out of <a href="https://github.com/meodai/color-names">color-names</a>, my crowd-sourced collection of 30&thinsp;000+ color names. Plotted in perceptual color space, that list clusters heavily where humans historically looked — reds, skin tones, popular sRGB pastels — while whole regions of the gamut sit almost empty. colornames-oklab is the experiment in the other direction: <strong>what does a color name list look like when it's equally distributed?</strong></p>
-    <p>Here the <em>positions</em> come first. Points are placed with <strong>best-candidate (blue-noise) sampling in OKLab</strong>, so they are perceptually evenly spaced: dense nowhere, sparse nowhere, no two names awkwardly close together. Sampling is seeded and grown in stable passes, so ids and names never change as the list is extended.</p>
-    <p>Each point is classified by the smallest standard gamut that contains it, and the <strong>commonness of its name tracks its tier</strong>:</p>
+    <p class="lede">%COUNT% color names spread evenly over the OKLab color space, out to the edge of the Rec2020 gamut. Every point above is one named color.</p>
+    <p class="ai-note"><strong>Made with AI.</strong> Roughly 3000 of the names and all of the short descriptions were written by <a href="https://www.anthropic.com/news/claude-fable-5-mythos-5">Claude Fable 5</a>, a language model by Anthropic. The other ~1400 names are human-made, mostly from the curated <em>bestOf</em> list of <a href="https://github.com/meodai/color-names">color-names</a>, matched to the nearest free points. I wrote the sampling, set the rules the names had to follow, and reviewed the output, sending back what didn't fit. Scripts check the hard constraints. Expect the odd name or description that misses.</p>
+    <p>The project grew out of <a href="https://github.com/meodai/color-names">color-names</a>, my crowd-sourced list of 30&thinsp;000+ color names. Plotted in a perceptual color space, that list bunches up where people have always looked (reds, skin tones, popular sRGB pastels) and leaves large parts of the gamut nearly empty. This list starts from the other end: pick evenly spaced colors first, then name them.</p>
+    <p>The points are placed with best-candidate (blue-noise) sampling in OKLab, so neighbors are roughly the same perceptual distance apart everywhere. Sampling is seeded and grows in stable passes, so existing ids and names stay put when the list gets longer.</p>
+    <p>Each point gets the smallest standard gamut that contains it, and the names get less common the further out the tier is:</p>
     <table>
-      <tr><th>tier</th><th>count</th><th>meaning</th><th>naming register</th></tr>
-      <tr><td><span class="tierdot" style="background:#7bd88f"></span><code>srgb</code></td><td>%TIER_SRGB%</td><td>displayable everywhere</td><td>the everyday canon — Moss, Denim, Butter, Charcoal</td></tr>
-      <tr><td><span class="tierdot" style="background:#5ac8fa"></span><code>p3</code></td><td>%TIER_P3%</td><td>needs a Display&nbsp;P3 screen</td><td>vivid &amp; recognizable — Electric Blue, Neon Carrot</td></tr>
-      <tr><td><span class="tierdot" style="background:#e58fff"></span><code>rec2020</code></td><td>%TIER_REC2020%</td><td>beyond P3, the outer shell</td><td>rare pigments &amp; superlatives — Smaragdine, Zaffre, Impossible Green</td></tr>
+      <tr><th>tier</th><th>count</th><th>meaning</th><th>example names</th></tr>
+      <tr><td><span class="tierdot" style="background:#7bd88f"></span><code>srgb</code></td><td>%TIER_SRGB%</td><td>shows on any screen</td><td>Moss, Denim, Butter, Charcoal</td></tr>
+      <tr><td><span class="tierdot" style="background:#5ac8fa"></span><code>p3</code></td><td>%TIER_P3%</td><td>needs a Display&nbsp;P3 screen</td><td>Electric Blue, Neon Carrot</td></tr>
+      <tr><td><span class="tierdot" style="background:#e58fff"></span><code>rec2020</code></td><td>%TIER_REC2020%</td><td>outside P3, the outer shell</td><td>Smaragdine, Zaffre, Impossible Green</td></tr>
     </table>
-    <p>The naming was done with <a href="https://www.anthropic.com/news/claude-fable-5-mythos-5"><strong>Claude Fable 5</strong></a> (Anthropic), point-by-point with each color's OKLCH coordinates and gamut tier in view, using the existing color-names list as inspiration for tone and style. Every name is unique, and ~80 obvious names (Red, Blue, Navy, Pink, White, …) are audited to sit on <code>srgb</code>-tier points near their reference colors — nobody needs a P3 monitor to see “Pink”.</p>
+    <p>The model named one point at a time, with its OKLCH coordinates and tier in front of it and color-names as a reference for tone. The later passes skipped the model and pulled names from color-names directly. Every name is unique. About 80 basic names (Red, Blue, Navy, Pink, White, …) are checked to sit on <code>srgb</code> points close to the colors people expect, so you don't need a wide-gamut display to see Pink.</p>
     <div id="favorites"></div>
   </section>
 
   <section id="install">
     <h2>Install</h2>
     <pre><code>npm install colornames-oklab</code></pre>
-    <p>The package ships one JSON file plus ESM and CJS entry points — no dependencies.</p>
+    <p>The package ships one JSON file plus ESM and CJS entry points, with no dependencies.</p>
   </section>
 
   <section id="usage">
@@ -59,21 +60,21 @@ colors.length; <span class="c">// %COUNT%</span>
 colors.find(c =&gt; c.name === 'Emerald');
 <span class="c">// { name: 'Emerald', tier: 'srgb', hex: '#089156', oklab: [0.577, -0.1257, 0.0551] }</span></code></pre>
 
-    <p>A tiny dependency-free lookup ships with the package — pass raw OKLab values (convert your colors yourself), get the nearest named color. With <code>unique</code>, every name is used at most once, like color.pizza's <code>noduplicates</code>:</p>
+    <p>A tiny dependency-free lookup ships with the package. Pass raw OKLab values (converting your colors is up to you) and get the nearest named color back. With <code>unique</code>, every name is used at most once, like color.pizza's <code>noduplicates</code>:</p>
     <pre><code>import { closest } from 'colornames-oklab';
 
 closest([0.7, 0.1, 0.1]).name;            <span class="c">// → a warm coral</span>
 closest([[0.7, 0.1, 0.1], [0.3, 0, 0]]);  <span class="c">// one match per query</span>
 closest(palette, { unique: true });       <span class="c">// no name twice</span></code></pre>
 
-    <p>For CSS, spell the exact color as <code>oklab()</code> — every evergreen browser renders it and gamut-maps to whatever the display can show. The hex is the pre-clamped sRGB fallback:</p>
+    <p>For CSS, spell the exact color as <code>oklab()</code>. Every current browser renders it and gamut-maps to whatever the display can show. The hex is the pre-clamped sRGB fallback:</p>
     <pre><code>el.style.background = 'oklab(' + c.oklab.join(' ') + ')'; <span class="c">// exact, browser gamut-maps</span>
 el.style.background = c.hex;                               <span class="c">// sRGB fallback (OKLCH-clamped)</span></code></pre>
 
     <table>
       <tr><th>field</th><th>what it is</th></tr>
-      <tr><td><code>name</code></td><td>unique colour name</td></tr>
-      <tr><td><code>tier</code></td><td><code>srgb</code> · <code>p3</code> · <code>rec2020</code> — smallest gamut containing the colour</td></tr>
+      <tr><td><code>name</code></td><td>unique color name</td></tr>
+      <tr><td><code>tier</code></td><td><code>srgb</code> · <code>p3</code> · <code>rec2020</code>, the smallest gamut containing the color</td></tr>
       <tr><td><code>hex</code></td><td>sRGB fallback, chroma-clamped in OKLCH (hue &amp; lightness preserved)</td></tr>
       <tr><td><code>oklab</code></td><td>exact sampled <code>[L, a, b]</code>; OKLCH is <code>hypot(a,b)</code> / <code>atan2(b,a)</code> away</td></tr>
     </table>
@@ -89,7 +90,7 @@ el.style.background = c.hex;                               <span class="c">// sR
 
   <section id="all-names">
     <h2>All %COUNT% names</h2>
-    <p>The full list, alphabetical (locale-aware — accents sort where you'd expect). Type to filter.</p>
+    <p>The full list, alphabetical (locale-aware, so accented names sort where you'd expect them). Type to filter.</p>
     <input id="nameFilter" type="search" placeholder="Filter names…" autocomplete="off" spellcheck="false" />
     <p id="nameCount"></p>
     <div id="namelist"></div>
@@ -98,7 +99,7 @@ el.style.background = c.hex;                               <span class="c">// sR
 
 <footer>
   <span>MIT · <a href="https://github.com/meodai">meodai</a></span>
-  <span>names by <a href="https://www.anthropic.com/news/claude-fable-5-mythos-5">Claude Fable 5</a> / <a href="https://github.com/meodai/color-names">color-name-list</a></span>
+  <span>names: <a href="https://www.anthropic.com/news/claude-fable-5-mythos-5">Claude Fable 5</a> (AI) &amp; <a href="https://github.com/meodai/color-names">color-names</a> · descriptions: Claude Fable 5 (AI)</span>
   <span><a href="https://github.com/meodai/colornames-oklab">source &amp; methodology</a></span>
 </footer>
 
